@@ -1,0 +1,23 @@
+Content-Type: multipart/mixed; boundary="===============1442384529237062058=="
+MIME-Version: 1.0
+Received: from mx5.mail.com (mx5.mail.com [11.51.43.137])
+	by mx.company.com with ESMTP id 2v67c9ip8BJ8h9QU
+Authentication-Results: company.com; dkim=pass header.d=corp.com;
+ spf=pass smtp.mailfrom=corp.com; dmarc=pass action=none header.from=corp.com
+From: Kenneth Peterson <kenneth.peterson@corp.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 13:52:25 -0000
+Message-ID: <JeuBjWn0XDCcyXre0wV3ZVCr@corp.com>
+
+--===============1442384529237062058==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkNvbmdyYXR1bGF0aW9ucyBvbiB5b3VyIHJlY2VudCBhY2hpZXZlbWVudCEK
+V2UgaGF2ZSByZWNlaXZlZCB0aGUgc2hpcG1lbnQgb2YgbmV3IG9mZmljZSBzdXBwbGllcy4KV2Ug
+YXJlIGltcGxlbWVudGluZyBhIG5ldyBjdXN0b21lciByZWxhdGlvbnNoaXAgbWFuYWdlbWVudCBz
+eXN0ZW0uCi0tIApCZXN0IHJlZ2FyZHMsCktlbm5ldGggUGV0ZXJzb24=
+
+--===============1442384529237062058==--

@@ -1,0 +1,36 @@
+Content-Type: multipart/mixed; boundary="===============7803309621767298388=="
+MIME-Version: 1.0
+Received: from mx4.services.io (mx4.services.io [126.125.227.37])
+	by mx.company.com with ESMTP id ym9LuX25Zq1L34S6
+Received: from mx4.build.co (mx4.build.co [111.192.14.14])
+	by mx.company.com with ESMTP id oNmS5VVpnhixkTEv
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Margaret Rivera <margaret.rivera@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 25 Sep 2024 06:11:44 -0000
+Message-ID: <8Ao0JMC9hxkCnJD7dLnREOJs@mail.com>
+
+--===============7803309621767298388==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCk91ciBjbGllbnRzIGhhdmUgcHJvdmlkZWQgcG9zaXRpdmUgZmVlZGJhY2sg
+b24gdGhlIGRlbGl2ZXJhYmxlcy4KV2UgaGF2ZSByZWNlaXZlZCB0aGUgc2hpcG1lbnQgb2YgbmV3
+IG9mZmljZSBzdXBwbGllcy4KV2UgYXJlIGV4Y2l0ZWQgdG8gYW5ub3VuY2UgdGhlIGxhdW5jaCBv
+ZiBvdXIgbmV3IHByb2R1Y3QgbGluZS4KUGxlYXNlIGZpbmQgdGhlIGF0dGFjaGVkIHJlcG9ydCBm
+b3IgeW91ciByZXZpZXcuCllvdXIgbGVhZGVyc2hpcCBpbiB0aGUgcHJvamVjdCBpcyBjb21tZW5k
+YWJsZS4KWW91ciBkZXBhcnRtZW50IGhhcyBleGNlZWRlZCBpdHMgcGVyZm9ybWFuY2UgdGFyZ2V0
+cy4KUGxlYXNlIGNvbXBsZXRlIHRoZSBtYW5kYXRvcnkgdHJhaW5pbmcgbW9kdWxlcy4KUGxlYXNl
+IG9ic2VydmUgdGhlIG5ldyBzYW5pdGF0aW9uIHByb3RvY29scy4KV2UgZW5jb3VyYWdlIHlvdSB0
+byBwYXJ0aWNpcGF0ZSBpbiB0aGUgdXBjb21pbmcgc3VydmV5LgpXZSBoYXZlIHVwZGF0ZWQgb3Vy
+IHByaXZhY3kgcG9saWN5LgpUaGUgbmV4dCB0cmFpbmluZyB3b3Jrc2hvcCBpcyBzY2hlZHVsZWQg
+Zm9yIG5leHQgbW9udGguCk91ciBzdXN0YWluYWJpbGl0eSByZXBvcnQgaGFzIGJlZW4gcHVibGlz
+aGVkOyBwbGVhc2UgcmVhZCBpdC4KSSB3b3VsZCBsaWtlIHRvIHNjaGVkdWxlIGEgbWVldGluZyB0
+byBkaXNjdXNzIHRoZSBwcm9qZWN0IHVwZGF0ZXMuCldlIGFyZSBjb25kdWN0aW5nIGEgc3VydmV5
+IG9uIHJlbW90ZSB3b3JrIHByZWZlcmVuY2VzLgpXZSBhcmUgaG9zdGluZyBhIGNoYXJpdHkgZXZl
+bnQgbmV4dCB3ZWVrLgotLSAKQmVzdCByZWdhcmRzLApNYXJnYXJldCBSaXZlcmE=
+
+--===============7803309621767298388==--

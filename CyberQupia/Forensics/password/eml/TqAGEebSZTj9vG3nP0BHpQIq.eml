@@ -1,0 +1,26 @@
+Content-Type: multipart/mixed; boundary="===============5098663050527542664=="
+MIME-Version: 1.0
+Received: from mx2.business.net (mx2.business.net [8.242.91.90])
+	by mx.company.com with ESMTP id 3DI0elMVpZfG4a9t
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Linda White <linda.white@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 02:01:18 -0000
+Message-ID: <TqAGEebSZTj9vG3nP0BHpQIq@gmail.com>
+
+--===============5098663050527542664==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCk5ldyBwYXJraW5nIHJlZ3VsYXRpb25zIHdpbGwgYmUgaW4gZWZmZWN0IGZy
+b20gTW9uZGF5LgpXZSBhcmUgaG9zdGluZyBhIGNoYXJpdHkgZXZlbnQgbmV4dCB3ZWVrLgpMb29r
+aW5nIGZvcndhcmQgdG8gb3VyIGNvbGxhYm9yYXRpb24gb24gdGhpcyBpbml0aWF0aXZlLgpXZSBo
+YXZlIGludHJvZHVjZWQgYSBuZXcgYmVuZWZpdHMgcGFja2FnZSBmb3IgZW1wbG95ZWVzLgpQbGVh
+c2Ugb2JzZXJ2ZSBzaWxlbmNlIGluIGRlc2lnbmF0ZWQgcXVpZXQgem9uZXMuCi0tIApCZXN0IHJl
+Z2FyZHMsCkxpbmRhIFdoaXRl
+
+--===============5098663050527542664==--

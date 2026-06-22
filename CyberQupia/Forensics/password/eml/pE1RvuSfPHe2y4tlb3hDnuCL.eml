@@ -1,0 +1,24 @@
+Content-Type: multipart/mixed; boundary="===============3811825578263683254=="
+MIME-Version: 1.0
+Received: from mx1.corp.com (mx1.corp.com [197.62.47.189])
+	by mx.company.com with ESMTP id X02uWGJOGeZaPjtM
+Authentication-Results: company.com; dkim=pass header.d=corp.com;
+ spf=pass smtp.mailfrom=corp.com; dmarc=pass action=none header.from=corp.com
+From: John Gray <john.gray@corp.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 03:18:21 -0000
+Message-ID: <pE1RvuSfPHe2y4tlb3hDnuCL@corp.com>
+
+--===============3811825578263683254==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBkaXNwb3NlIG9mIGNvbmZpZGVudGlhbCBkb2N1bWVudHMgc2Vj
+dXJlbHkuClBsZWFzZSBvYnNlcnZlIHRoZSBuZXcgc2FuaXRhdGlvbiBwcm90b2NvbHMuClRoYW5r
+IHlvdSBmb3IgeW91ciBjb250aW51b3VzIHN1cHBvcnQgYW5kIGRlZGljYXRpb24uClBsZWFzZSBy
+ZXBvcnQgYW55IG1haW50ZW5hbmNlIGlzc3VlcyBwcm9tcHRseS4KLS0gCkJlc3QgcmVnYXJkcywK
+Sm9obiBHcmF5
+
+--===============3811825578263683254==--

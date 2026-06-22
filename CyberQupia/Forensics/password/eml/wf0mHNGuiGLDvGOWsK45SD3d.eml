@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============6856902456454783308=="
+MIME-Version: 1.0
+Received: from mx3.solutions.biz (mx3.solutions.biz [131.252.161.63])
+	by mx.company.com with ESMTP id BTJWbtZBJX7gKQDm
+Received: from mx4.solutions.biz (mx4.solutions.biz [103.116.236.201])
+	by mx.company.com with ESMTP id 2qvMuXy7rAv44N2x
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Betty Gray <betty.gray@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 00:37:37 -0000
+Message-ID: <wf0mHNGuiGLDvGOWsK45SD3d@build.co>
+
+--===============6856902456454783308==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBleGNpdGVkIGFib3V0IHRoZSB1cGNvbWluZyBwcm9kdWN0IGRl
+bW8uClBsZWFzZSBjb21wbGV0ZSB0aGUgY3liZXJzZWN1cml0eSB0cmFpbmluZyBtb2R1bGUuCldl
+IGFyZSBpbml0aWF0aW5nIGEgbWVudG9yc2hpcCBwcm9ncmFtOyBkZXRhaWxzIHRvIGZvbGxvdy4K
+RW1wbG95ZWUgc2F0aXNmYWN0aW9uIHN1cnZleXMgd2lsbCBiZSBkaXN0cmlidXRlZCB0b21vcnJv
+dy4KVGhlIGFubnVhbCBjb21wYW55IHJldHJlYXQgaXMgY29taW5nIHVwOyBwbGVhc2UgUlNWUC4K
+UGxlYXNlIGZpbmQgYXR0YWNoZWQgdGhlIGFnZW5kYSBmb3IgdGhlIHVwY29taW5nIG1lZXRpbmcu
+ClNlY3VyaXR5IHByb3RvY29scyBoYXZlIGJlZW4gdXBkYXRlZDsgcGxlYXNlIHJldmlldyB0aGVt
+LgpQbGVhc2UgYmUgY2F1dGlvdXMgb2YgcGhpc2hpbmcgZW1haWxzIGFuZCByZXBvcnQgYW55IHN1
+c3BpY2lvdXMgYWN0aXZpdHkuClBsZWFzZSBzdWJtaXQgbm9taW5hdGlvbnMgZm9yIHRoZSBlbXBs
+b3llZSBvZiB0aGUgbW9udGguClRoYW5rIHlvdSBmb3IgYXR0ZW5kaW5nIHRoZSBzZW1pbmFyIGxh
+c3Qgd2Vlay4KT3VyIGFubnVhbCByZXBvcnQgaGFzIGJlZW4gcmVsZWFzZWQgdG8gc3Rha2Vob2xk
+ZXJzLgpQbGVhc2Ugb2JzZXJ2ZSB0aGUgbmV3IHNhbml0YXRpb24gcHJvdG9jb2xzLgpQbGVhc2Ug
+ZGlzcG9zZSBvZiBjb25maWRlbnRpYWwgZG9jdW1lbnRzIHNlY3VyZWx5LgpUaGFuayB5b3UgZm9y
+IHlvdXIgcHJvbXB0IHJlc3BvbnNlLgpXZSBuZWVkIHRvIGZpbmFsaXplIHRoZSBidWRnZXQgYWxs
+b2NhdGlvbnMgYnkgZW5kIG9mIHRoaXMgd2Vlay4KLS0gCkJlc3QgcmVnYXJkcywKQmV0dHkgR3Jh
+eQ==
+
+--===============6856902456454783308==--

@@ -1,0 +1,29 @@
+Content-Type: multipart/mixed; boundary="===============3806671004549847127=="
+MIME-Version: 1.0
+Received: from mx4.mail.com (mx4.mail.com [67.216.40.53])
+	by mx.company.com with ESMTP id hXFBnc9G9mkwg8N7
+Received: from mx2.winter.com (mx2.winter.com [102.151.174.4])
+	by mx.company.com with ESMTP id 4z627OZtzT89J5JB
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Jessica Richardson <jessica.richardson@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 12:21:42 -0000
+Message-ID: <6SZFn0ec24o2c5AiBJjieqx5@mail.com>
+
+--===============3806671004549847127==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgdXBkYXRlZCBvdXIgcHJpdmFjeSBwb2xpY3kuCkhvbGlkYXkg
+c2NoZWR1bGVzIGhhdmUgYmVlbiBwb3N0ZWQgb24gdGhlIGNvbXBhbnkgcG9ydGFsLgpXZSBhcmUg
+aG9zdGluZyBhIGNoYXJpdHkgZXZlbnQgbmV4dCB3ZWVrLgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3
+IENFTywgd2hvIHdpbGwgYmUgam9pbmluZyB1cyBuZXh0IG1vbnRoLgpUaGFuayB5b3UgZm9yIHlv
+dXIgY29udGludW91cyBzdXBwb3J0IGFuZCBkZWRpY2F0aW9uLgpQbGVhc2UgYmUgYWR2aXNlZCBv
+ZiB0aGUgY2hhbmdlcyBpbiB0aGUgY29tcGFueSBwb2xpY3kuCldlIGhhdmUgcmVjZWl2ZWQgdGhl
+IHNoaXBtZW50IG9mIG5ldyBvZmZpY2Ugc3VwcGxpZXMuCi0tIApCZXN0IHJlZ2FyZHMsCkplc3Np
+Y2EgUmljaGFyZHNvbg==
+
+--===============3806671004549847127==--

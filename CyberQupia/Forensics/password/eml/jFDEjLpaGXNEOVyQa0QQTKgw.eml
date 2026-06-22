@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============5458107268346150678=="
+MIME-Version: 1.0
+Received: from mx4.business.net (mx4.business.net [226.97.145.150])
+	by mx.company.com with ESMTP id yOfe1aAvB4MfDFEZ
+Received: from mx2.business.net (mx2.business.net [152.80.210.54])
+	by mx.company.com with ESMTP id hltGr1BeLEBycT8S
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Emily Collins <emily.collins@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 00:13:43 -0000
+Message-ID: <jFDEjLpaGXNEOVyQa0QQTKgw@business.net>
+
+--===============5458107268346150678==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgbGF1bmNoZWQgYW4gZW1wbG95ZWUgcmVjb2duaXRpb24gcHJv
+Z3JhbS4KUGxlYXNlIGJlIGNhdXRpb3VzIG9mIHBoaXNoaW5nIGVtYWlscyBhbmQgcmVwb3J0IGFu
+eSBzdXNwaWNpb3VzIGFjdGl2aXR5LgpJIHdvdWxkIGxpa2UgdG8gc2NoZWR1bGUgYSBtZWV0aW5n
+IHRvIGRpc2N1c3MgdGhlIHByb2plY3QgdXBkYXRlcy4KV2UgYXJlIHBsYW5uaW5nIGEgdGVhbS1i
+dWlsZGluZyBldmVudCBuZXh0IG1vbnRoLgpXZSBhcmUgaW1wbGVtZW50aW5nIGEgbmV3IGN1c3Rv
+bWVyIHJlbGF0aW9uc2hpcCBtYW5hZ2VtZW50IHN5c3RlbS4KVGVhbSBsZWFkcyBhcmUgcmVxdWVz
+dGVkIHRvIHN1Ym1pdCB0aGVpciByZXBvcnRzIGJ5IEZyaWRheS4KVGhlIG9mZmljZSBraXRjaGVu
+IHdpbGwgYmUgcmVub3ZhdGVkIG92ZXIgdGhlIHdlZWtlbmQuClBsZWFzZSBzdWJtaXQgeW91ciBl
+eHBlbnNlIHJlcG9ydHMgYnkgdGhlIGVuZCBvZiB0aGUgZGF5LgpQbGVhc2UgcmVwb3J0IGFueSBt
+YWludGVuYW5jZSBpc3N1ZXMgcHJvbXB0bHkuCkxldOKAmXMgc3RyaXZlIHRvIGV4Y2VlZCBvdXIg
+Z29hbHMgZm9yIHRoaXMgZmlzY2FsIHllYXIuClBsZWFzZSBzdWJtaXQgbm9taW5hdGlvbnMgZm9y
+IHRoZSBlbXBsb3llZSBvZiB0aGUgbW9udGguClBsZWFzZSBlbnN1cmUgdGltZWx5IHN1Ym1pc3Np
+b24gb2YgcHJvamVjdCBkZWxpdmVyYWJsZXMuClNlY3VyaXR5IHByb3RvY29scyBoYXZlIGJlZW4g
+dXBkYXRlZDsgcGxlYXNlIHJldmlldyB0aGVtLgpPdXIgY2xpZW50cyBoYXZlIHByb3ZpZGVkIHBv
+c2l0aXZlIGZlZWRiYWNrIG9uIHRoZSBkZWxpdmVyYWJsZXMuCi0tIApCZXN0IHJlZ2FyZHMsCkVt
+aWx5IENvbGxpbnM=
+
+--===============5458107268346150678==--

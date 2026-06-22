@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============0337247946925556355=="
+MIME-Version: 1.0
+Received: from mx4.build.co (mx4.build.co [151.228.28.235])
+	by mx.company.com with ESMTP id Bm6hc8HVQx39Pigd
+Received: from mx2.business.net (mx2.business.net [232.161.3.224])
+	by mx.company.com with ESMTP id nqlp2kGUmbPUZJJc
+Received: from mx5.gmail.com (mx5.gmail.com [127.86.250.44])
+	by mx.company.com with ESMTP id 7QwPublYNFEEzIJl
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: Elizabeth Torres <elizabeth.torres@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sun, 22 Sep 2024 02:00:33 -0000
+Message-ID: <25wXCXKlYiMzF8AIhsnPyQZA@solutions.biz>
+
+--===============0337247946925556355==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBvYnNlcnZlIHNpbGVuY2UgaW4gZGVzaWduYXRlZCBxdWlldCB6
+b25lcy4KVGhlIG9mZmljZSBraXRjaGVuIHdpbGwgYmUgcmVub3ZhdGVkIG92ZXIgdGhlIHdlZWtl
+bmQuCkVtcGxveWVlIHNhdGlzZmFjdGlvbiBzdXJ2ZXlzIHdpbGwgYmUgZGlzdHJpYnV0ZWQgdG9t
+b3Jyb3cuCkxldCdzIHNjaGVkdWxlIGEgb25lLW9uLW9uZSBtZWV0aW5nIHRvIGRpc2N1c3MgeW91
+ciBwcm9ncmVzcy4KUGxlYXNlIGNvbXBsZXRlIHRoZSBtYW5kYXRvcnkgdHJhaW5pbmcgbW9kdWxl
+cy4KV2UgbmVlZCB0byBmaW5hbGl6ZSB0aGUgYnVkZ2V0IGFsbG9jYXRpb25zIGJ5IGVuZCBvZiB0
+aGlzIHdlZWsuClBsZWFzZSBwcm92aWRlIHlvdXIgYXZhaWxhYmlsaXR5IGZvciB0aGUgbmV4dCB0
+d28gd2Vla3MuClByb2plY3QgZGVhZGxpbmVzIGhhdmUgYmVlbiBhZGp1c3RlZCBkdWUgdG8gdW5m
+b3Jlc2VlbiBjaXJjdW1zdGFuY2VzLgpZb3VyIGRlcGFydG1lbnQgaGFzIGV4Y2VlZGVkIGl0cyBw
+ZXJmb3JtYW5jZSB0YXJnZXRzLgpXZSBhcmUgY29uZHVjdGluZyBhIHN1cnZleSBvbiByZW1vdGUg
+d29yayBwcmVmZXJlbmNlcy4KUmVtaW5kZXI6IFRoZSBxdWFydGVybHkgbWVldGluZyBpcyBzY2hl
+ZHVsZWQgZm9yIG5leHQgV2VkbmVzZGF5LgpUaGUgY29tcGFueSBuZXdzbGV0dGVyIGhhcyBiZWVu
+IHB1Ymxpc2hlZC4KUGxlYXNlIHJldmlldyB0aGUgYXR0YWNoZWQgY2xpZW50IGZlZWRiYWNrLgpJ
+IHdvdWxkIGxpa2UgdG8gc2NoZWR1bGUgYSBtZWV0aW5nIHRvIGRpc2N1c3MgdGhlIHByb2plY3Qg
+dXBkYXRlcy4KTmV3IHBhcmtpbmcgcmVndWxhdGlvbnMgd2lsbCBiZSBpbiBlZmZlY3QgZnJvbSBN
+b25kYXkuClBsZWFzZSBzdWJtaXQgeW91ciBleHBlbnNlIHJlcG9ydHMgYnkgdGhlIGVuZCBvZiB0
+aGUgZGF5LgotLSAKQmVzdCByZWdhcmRzLApFbGl6YWJldGggVG9ycmVz
+
+--===============0337247946925556355==--

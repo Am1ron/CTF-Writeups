@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============0459733644315311564=="
+MIME-Version: 1.0
+Received: from mx3.mail.com (mx3.mail.com [111.38.162.106])
+	by mx.company.com with ESMTP id kY8N39tSMgpbAvWt
+Received: from mx5.enterprise.org (mx5.enterprise.org [253.214.177.140])
+	by mx.company.com with ESMTP id k3p7y1rGhP8Bx6qI
+Received: from mx5.winter.com (mx5.winter.com [92.255.30.140])
+	by mx.company.com with ESMTP id TSZZDi5fEDzYPQMc
+Authentication-Results: company.com; dkim=pass header.d=corp.com;
+ spf=pass smtp.mailfrom=corp.com; dmarc=pass action=none header.from=corp.com
+From: Mark Scott <mark.scott@corp.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 01:23:03 -0000
+Message-ID: <tloNEbmziqEIGVVslcntUFYP@corp.com>
+
+--===============0459733644315311564==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBleGNpdGVkIHRvIGFubm91bmNlIHRoZSBsYXVuY2ggb2Ygb3Vy
+IG5ldyBwcm9kdWN0IGxpbmUuClRoYW5rIHlvdSBmb3IgeW91ciBwcm9tcHQgcmVzcG9uc2UuCkkg
+YXBwcmVjaWF0ZSB5b3VyIHByb21wdCBhdHRlbnRpb24gdG8gdGhpcyBtYXR0ZXIuCldlIGFyZSB1
+cGdyYWRpbmcgb3VyIGhhcmR3YXJlIGluZnJhc3RydWN0dXJlLgpQbGVhc2UgcmVwb3J0IGFueSBt
+YWludGVuYW5jZSBpc3N1ZXMgcHJvbXB0bHkuClRoZSBjb21wYW55IG5ld3NsZXR0ZXIgaGFzIGJl
+ZW4gcHVibGlzaGVkLgpQbGVhc2UgYXNzaXN0IGluIG9uYm9hcmRpbmcgdGhlIG5ldyBoaXJlcy4K
+U2VjdXJpdHkgcHJvdG9jb2xzIGhhdmUgYmVlbiB1cGRhdGVkOyBwbGVhc2UgcmV2aWV3IHRoZW0u
+ClBsZWFzZSBmaW5kIGF0dGFjaGVkIHRoZSBhZ2VuZGEgZm9yIHRoZSB1cGNvbWluZyBtZWV0aW5n
+LgpQbGVhc2UgYmUgYWR2aXNlZCBvZiB0aGUgY2hhbmdlcyBpbiB0aGUgY29tcGFueSBwb2xpY3ku
+ClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgaW50ZXJucyBqb2luaW5nIHRoZSB0ZWFtLgpXZSBhcmUg
+bGF1bmNoaW5nIGEgbmV3IGludGVybmFsIGNvbW11bmljYXRpb24gcGxhdGZvcm0uCldlIHdpbGwg
+YmUgbWlncmF0aW5nIHRvIGEgbmV3IGVtYWlsIHN5c3RlbS4KVGhlIElUIGRlcGFydG1lbnQgd2ls
+bCBwZXJmb3JtIHN5c3RlbSBtYWludGVuYW5jZSB0aGlzIHdlZWtlbmQuClRoZSBib2FyZCBtZWV0
+aW5nIG1pbnV0ZXMgaGF2ZSBiZWVuIHVwbG9hZGVkIHRvIHRoZSBzaGFyZWQgZHJpdmUuCldlIGFy
+ZSByZXZpc2luZyBvdXIgc3RyYXRlZ2ljIG9iamVjdGl2ZXMuCi0tIApCZXN0IHJlZ2FyZHMsCk1h
+cmsgU2NvdHQ=
+
+--===============0459733644315311564==--

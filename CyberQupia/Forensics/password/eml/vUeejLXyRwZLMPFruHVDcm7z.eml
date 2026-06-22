@@ -1,0 +1,26 @@
+Content-Type: multipart/mixed; boundary="===============6460470739597991367=="
+MIME-Version: 1.0
+Received: from mx5.winter.com (mx5.winter.com [251.134.26.4])
+	by mx.company.com with ESMTP id ur1R2OITZKCwPVgg
+Received: from mx5.services.io (mx5.services.io [33.228.52.83])
+	by mx.company.com with ESMTP id KM80JRvp6WTmwPy1
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Andrew Thomas <andrew.thomas@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 23:40:13 -0000
+Message-ID: <vUeejLXyRwZLMPFruHVDcm7z@services.io>
+
+--===============6460470739597991367==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBib2FyZCBtZWV0aW5nIG1pbnV0ZXMgaGF2ZSBiZWVuIHVwbG9hZGVk
+IHRvIHRoZSBzaGFyZWQgZHJpdmUuClRoYW5rIHlvdSBmb3IgeW91ciBwcm9tcHQgcmVzcG9uc2Uu
+ClBsZWFzZSBzdWJtaXQgbm9taW5hdGlvbnMgZm9yIHRoZSBlbXBsb3llZSBvZiB0aGUgbW9udGgu
+Ci0tIApCZXN0IHJlZ2FyZHMsCkFuZHJldyBUaG9tYXM=
+
+--===============6460470739597991367==--

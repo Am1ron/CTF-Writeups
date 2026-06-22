@@ -1,0 +1,34 @@
+Content-Type: multipart/mixed; boundary="===============4847770515124366773=="
+MIME-Version: 1.0
+Received: from mx2.winter.com (mx2.winter.com [129.150.60.143])
+	by mx.company.com with ESMTP id 1X7zmuPUMEau1HKU
+Received: from mx1.solutions.biz (mx1.solutions.biz [253.82.12.141])
+	by mx.company.com with ESMTP id F9wSjVCM2ZEz0row
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Helen Miller <helen.miller@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 22:28:20 -0000
+Message-ID: <IYKNkwU7gsBZEle8A8YqdeXn@services.io>
+
+--===============4847770515124366773==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBwcm91ZCBvZiB0aGUgdGVhbSdzIGlubm92YXRpb24gYW5kIGNy
+ZWF0aXZpdHkuCldlIGhhdmUgcmVjZWl2ZWQgdGhlIHNoaXBtZW50IG9mIG5ldyBvZmZpY2Ugc3Vw
+cGxpZXMuClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgaW50ZXJucyBqb2luaW5nIHRoZSB0ZWFtLgpQ
+bGVhc2UgZmFtaWxpYXJpemUgeW91cnNlbGYgd2l0aCB0aGUgdXBkYXRlZCBndWlkZWxpbmVzLgpU
+aGUgb2ZmaWNlIHdpbGwgYmUgY2xvc2VkIG5leHQgRnJpZGF5IGZvciBhIHB1YmxpYyBob2xpZGF5
+LgpQbGVhc2UgdXBkYXRlIHlvdXIgY29udGFjdCBpbmZvcm1hdGlvbiBpbiB0aGUgZGlyZWN0b3J5
+LgpPdXIgc29jaWFsIG1lZGlhIHByZXNlbmNlIGlzIGdyb3dpbmc7IHBsZWFzZSBmb2xsb3cgdXMu
+CllvdXIgZmVlZGJhY2sgb24gdGhlIHJlY2VudCBjaGFuZ2VzIGlzIGhpZ2hseSBhcHByZWNpYXRl
+ZC4KQ2xpZW50IHByZXNlbnRhdGlvbnMgYXJlIHNjaGVkdWxlZCBmb3IgbmV4dCBUaHVyc2RheS4K
+VGhlIGNhZmV0ZXJpYSBtZW51IGhhcyBiZWVuIHVwZGF0ZWQgd2l0aCBoZWFsdGhpZXIgb3B0aW9u
+cy4KT3VyIGNsaWVudHMgaGF2ZSBwcm92aWRlZCBwb3NpdGl2ZSBmZWVkYmFjayBvbiB0aGUgZGVs
+aXZlcmFibGVzLgotLSAKQmVzdCByZWdhcmRzLApIZWxlbiBNaWxsZXI=
+
+--===============4847770515124366773==--

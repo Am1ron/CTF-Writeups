@@ -1,0 +1,30 @@
+Content-Type: multipart/mixed; boundary="===============8092198397859986705=="
+MIME-Version: 1.0
+Received: from mx3.yahoo.com (mx3.yahoo.com [17.239.195.43])
+	by mx.company.com with ESMTP id GLgKA9ru6l1Qu7Kd
+Received: from mx4.yahoo.com (mx4.yahoo.com [136.1.109.174])
+	by mx.company.com with ESMTP id X3TaVpwjKlCgmqcG
+Received: from mx3.enterprise.org (mx3.enterprise.org [66.241.37.69])
+	by mx.company.com with ESMTP id OFP8gf18TjBwWTUb
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Sandra Cook <sandra.cook@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 12:12:50 -0000
+Message-ID: <CKLdZ3yz8RfgtjJrFGfIwTdd@services.io>
+
+--===============8092198397859986705==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoYW5rIHlvdSBmb3IgeW91ciBwcm9tcHQgcmVzcG9uc2UuCldlIGFyZSBp
+bml0aWF0aW5nIGEgbWVudG9yc2hpcCBwcm9ncmFtOyBkZXRhaWxzIHRvIGZvbGxvdy4KUGxlYXNl
+IHJldmlldyB0aGUgYXR0YWNoZWQgcGVyZm9ybWFuY2UgbWV0cmljcy4KRW1wbG95ZWUgc2F0aXNm
+YWN0aW9uIHN1cnZleXMgd2lsbCBiZSBkaXN0cmlidXRlZCB0b21vcnJvdy4KUGxlYXNlIG9ic2Vy
+dmUgdGhlIG5ldyBzYW5pdGF0aW9uIHByb3RvY29scy4KLS0gCkJlc3QgcmVnYXJkcywKU2FuZHJh
+IENvb2s=
+
+--===============8092198397859986705==--

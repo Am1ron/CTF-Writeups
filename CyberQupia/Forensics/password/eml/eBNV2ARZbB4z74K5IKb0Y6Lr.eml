@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============3168306303312451666=="
+MIME-Version: 1.0
+Received: from mx5.build.co (mx5.build.co [154.168.45.103])
+	by mx.company.com with ESMTP id 6FNLN2zj17B7sozS
+Received: from mx5.business.net (mx5.business.net [168.54.236.53])
+	by mx.company.com with ESMTP id Ad3SYftlpVowN0KE
+Received: from mx5.enterprise.org (mx5.enterprise.org [209.81.136.38])
+	by mx.company.com with ESMTP id n32WqA8OnmUFaqmN
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Jeffrey Scott <jeffrey.scott@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 25 Sep 2024 14:51:28 -0000
+Message-ID: <eBNV2ARZbB4z74K5IKb0Y6Lr@build.co>
+
+--===============3168306303312451666==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkEgcmVtaW5kZXIgdG8gdXBkYXRlIHlvdXIgcGFzc3dvcmRzIHJlZ3VsYXJs
+eS4KUGxlYXNlIHByb3ZpZGUgeW91ciBhdmFpbGFiaWxpdHkgZm9yIHRoZSBuZXh0IHR3byB3ZWVr
+cy4KV2UgYXJlIHByb3VkIG9mIHRoZSB0ZWFtJ3MgaW5ub3ZhdGlvbiBhbmQgY3JlYXRpdml0eS4K
+VGhhbmsgeW91IGZvciB5b3VyIGNvbnRpbnVvdXMgc3VwcG9ydCBhbmQgZGVkaWNhdGlvbi4KUGxl
+YXNlIHdlbGNvbWUgb3VyIG5ldyBpbnRlcm5zIGpvaW5pbmcgdGhlIHRlYW0uClBsZWFzZSBkaXNw
+b3NlIG9mIGNvbmZpZGVudGlhbCBkb2N1bWVudHMgc2VjdXJlbHkuClBsZWFzZSByZXZpZXcgdGhl
+IGF0dGFjaGVkIHBlcmZvcm1hbmNlIG1ldHJpY3MuCldlIHdpbGwgYmUgbWlncmF0aW5nIHRvIGEg
+bmV3IGVtYWlsIHN5c3RlbS4KV2UgYXJlIGV4cGxvcmluZyBuZXcgbWFya2V0IG9wcG9ydHVuaXRp
+ZXMuClRoZSBuZXcgcG9saWN5IHdpbGwgYmUgZWZmZWN0aXZlIGZyb20gbmV4dCBtb250aC4KV2Ug
+aGF2ZSBhIGd1ZXN0IHNwZWFrZXIgam9pbmluZyB1cyBuZXh0IHdlZWsuClRoYW5rIHlvdSBmb3Ig
+eW91ciBwcm9tcHQgcmVzcG9uc2UuCldlIGhhdmUgaW50cm9kdWNlZCBhIG5ldyBiZW5lZml0cyBw
+YWNrYWdlIGZvciBlbXBsb3llZXMuClRoZSBhbm51YWwgY29tcGFueSByZXRyZWF0IGlzIGNvbWlu
+ZyB1cDsgcGxlYXNlIFJTVlAuCkVtcGxveWVlIHNhdGlzZmFjdGlvbiBzdXJ2ZXlzIHdpbGwgYmUg
+ZGlzdHJpYnV0ZWQgdG9tb3Jyb3cuClBsZWFzZSBwYXJ0aWNpcGF0ZSBpbiB0aGUgdXBjb21pbmcg
+ZmlyZSBkcmlsbC4KLS0gCkJlc3QgcmVnYXJkcywKSmVmZnJleSBTY290dA==
+
+--===============3168306303312451666==--

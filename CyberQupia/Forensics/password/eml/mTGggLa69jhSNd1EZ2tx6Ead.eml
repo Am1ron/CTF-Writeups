@@ -1,0 +1,36 @@
+Content-Type: multipart/mixed; boundary="===============8806307069979191300=="
+MIME-Version: 1.0
+Received: from mx3.solutions.biz (mx3.solutions.biz [229.112.56.56])
+	by mx.company.com with ESMTP id Q0xBNhPd3LEJz0Um
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Robert Thomas <robert.thomas@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 10:00:40 -0000
+Message-ID: <mTGggLa69jhSNd1EZ2tx6Ead@mail.com>
+
+--===============8806307069979191300==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBvZmZpY2Ugd2lsbCBiZSBjbG9zZWQgbmV4dCBGcmlkYXkgZm9yIGEg
+cHVibGljIGhvbGlkYXkuClBsZWFzZSBwYXJ0aWNpcGF0ZSBpbiB0aGUgdXBjb21pbmcgZmlyZSBk
+cmlsbC4KV2UgaGF2ZSB1cGRhdGVkIHRoZSBoZWFsdGggaW5zdXJhbmNlIHBsYW5zLgpXZSBoYXZl
+IGEgZ3Vlc3Qgc3BlYWtlciBqb2luaW5nIHVzIG5leHQgd2Vlay4KWW91ciBleHBlcnRpc2UgaXMg
+cmVxdWVzdGVkIG9uIHRoZSB1cGNvbWluZyBwcm9qZWN0LgpIb2xpZGF5IHNjaGVkdWxlcyBoYXZl
+IGJlZW4gcG9zdGVkIG9uIHRoZSBjb21wYW55IHBvcnRhbC4KVGhhbmsgeW91IGZvciB5b3VyIHBh
+dGllbmNlIGR1cmluZyB0aGUgc3lzdGVtIGRvd250aW1lLgpQbGVhc2UgZW5zdXJlIGFsbCB0aGUg
+Y29tcGxpYW5jZSByZXF1aXJlbWVudHMgYXJlIG1ldC4KUmVtaW5kZXI6IFRoZSBxdWFydGVybHkg
+bWVldGluZyBpcyBzY2hlZHVsZWQgZm9yIG5leHQgV2VkbmVzZGF5LgpUaGUgY2FmZXRlcmlhIG1l
+bnUgaGFzIGJlZW4gdXBkYXRlZCB3aXRoIGhlYWx0aGllciBvcHRpb25zLgpQbGVhc2Ugc2VuZCB5
+b3VyIGZlZWRiYWNrIG9uIHRoZSBwcm9wb3NlZCBjaGFuZ2VzLgpXZSBhcmUgZXhjaXRlZCBhYm91
+dCB0aGUgdXBjb21pbmcgcHJvZHVjdCBkZW1vLgpMZXTigJlzIHN0cml2ZSB0byBleGNlZWQgb3Vy
+IGdvYWxzIGZvciB0aGlzIGZpc2NhbCB5ZWFyLgpQbGVhc2UgYXNzaXN0IGluIG9uYm9hcmRpbmcg
+dGhlIG5ldyBoaXJlcy4KUGxlYXNlIGJlIGFkdmlzZWQgb2YgdGhlIGNoYW5nZXMgaW4gdGhlIGNv
+bXBhbnkgcG9saWN5LgpQbGVhc2UgdXBkYXRlIHlvdXIgY29udGFjdCBpbmZvcm1hdGlvbiBpbiB0
+aGUgZGlyZWN0b3J5LgpZb3VyIGFjdGlvbiBpcyByZXF1aXJlZCBvbiB0aGUgcGVuZGluZyB0YXNr
+cy4KLS0gCkJlc3QgcmVnYXJkcywKUm9iZXJ0IFRob21hcw==
+
+--===============8806307069979191300==--

@@ -1,0 +1,26 @@
+Content-Type: multipart/mixed; boundary="===============8314893081020558605=="
+MIME-Version: 1.0
+Received: from mx1.corp.com (mx1.corp.com [142.185.167.80])
+	by mx.company.com with ESMTP id 72nnTQQ5Lib4eLD4
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Steven Peterson <steven.peterson@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 14:14:54 -0000
+Message-ID: <Mkz3e869R0OQSnsy0dVPGzsS@business.net>
+
+--===============8314893081020558605==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgaW50cm9kdWNlZCBhIG5ldyBiZW5lZml0cyBwYWNrYWdlIGZv
+ciBlbXBsb3llZXMuCkxvb2tpbmcgZm9yd2FyZCB0byBvdXIgY29sbGFib3JhdGlvbiBvbiB0aGlz
+IGluaXRpYXRpdmUuClBsZWFzZSB0YWtlIG5vdGUgb2YgdGhlIG5ldyBvZmZpY2UgaG91cnMuCkNs
+aWVudCBwcmVzZW50YXRpb25zIGFyZSBzY2hlZHVsZWQgZm9yIG5leHQgVGh1cnNkYXkuCkxldOKA
+mXMgY29vcmRpbmF0ZSB0byBlbnN1cmUgYSBzbW9vdGggdHJhbnNpdGlvbi4KV2UgaGF2ZSB1cGRh
+dGVkIG91ciBwcml2YWN5IHBvbGljeS4KLS0gCkJlc3QgcmVnYXJkcywKU3RldmVuIFBldGVyc29u
+
+--===============8314893081020558605==--

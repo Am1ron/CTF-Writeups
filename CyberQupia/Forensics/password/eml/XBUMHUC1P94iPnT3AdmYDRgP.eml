@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="===============7841609617817725889=="
+MIME-Version: 1.0
+Received: from mx2.enterprise.org (mx2.enterprise.org [23.248.39.91])
+	by mx.company.com with ESMTP id FUcWMmKUzpWsuISg
+Received: from mx5.build.co (mx5.build.co [91.53.73.245])
+	by mx.company.com with ESMTP id nMyQ0D6kiQNp0qFl
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Melissa Adams <melissa.adams@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 16:54:35 -0000
+Message-ID: <XBUMHUC1P94iPnT3AdmYDRgP@gmail.com>
+
+--===============7841609617817725889==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBmaW5kIGF0dGFjaGVkIHRoZSBhZ2VuZGEgZm9yIHRoZSB1cGNv
+bWluZyBtZWV0aW5nLgpQbGVhc2UgcmV2aWV3IHRoZSBhdHRhY2hlZCBjbGllbnQgZmVlZGJhY2su
+ClBsZWFzZSBmaW5kIHRoZSBhdHRhY2hlZCByZXBvcnQgZm9yIHlvdXIgcmV2aWV3LgpUaGVyZSB3
+aWxsIGJlIGFuIG9mZmljZSBjbGVhbnVwIGRheSB0aGlzIEZyaWRheS4KTmV3IHBhcmtpbmcgcmVn
+dWxhdGlvbnMgd2lsbCBiZSBpbiBlZmZlY3QgZnJvbSBNb25kYXkuCi0tIApCZXN0IHJlZ2FyZHMs
+Ck1lbGlzc2EgQWRhbXM=
+
+--===============7841609617817725889==--

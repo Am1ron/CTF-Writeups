@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============6971716397667812790=="
+MIME-Version: 1.0
+Received: from mx1.mail.com (mx1.mail.com [87.30.220.82])
+	by mx.company.com with ESMTP id MTu40VqvAimsPoif
+Received: from mx3.business.net (mx3.business.net [130.133.50.67])
+	by mx.company.com with ESMTP id dzSm9k5uhJX5NbFs
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Melissa Rivera <melissa.rivera@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 17:51:03 -0000
+Message-ID: <hWC4w8XRd3iegq0xPQft2vyj@build.co>
+
+--===============6971716397667812790==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBjb21wYW55IG5ld3NsZXR0ZXIgaGFzIGJlZW4gcHVibGlzaGVkLgpU
+aGFuayB5b3UgZm9yIHlvdXIgY29udGludW91cyBzdXBwb3J0IGFuZCBkZWRpY2F0aW9uLgpUaGFu
+ayB5b3UgZm9yIHlvdXIgcHJvbXB0IHJlc3BvbnNlLgpXZSBoYXZlIGludHJvZHVjZWQgYSBuZXcg
+YmVuZWZpdHMgcGFja2FnZSBmb3IgZW1wbG95ZWVzLgpQbGVhc2Ugb2JzZXJ2ZSB0aGUgbmV3IHNh
+bml0YXRpb24gcHJvdG9jb2xzLgpZb3VyIGNvbnRyaWJ1dGlvbiBoYXMgYmVlbiBpbnN0cnVtZW50
+YWwgaW4gdGhpcyBwcm9qZWN04oCZcyBzdWNjZXNzLgpZb3VyIGxlYWRlcnNoaXAgaW4gdGhlIHBy
+b2plY3QgaXMgY29tbWVuZGFibGUuClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgQ0VPLCB3aG8gd2ls
+bCBiZSBqb2luaW5nIHVzIG5leHQgbW9udGguCllvdXIgZXhwZXJ0aXNlIGlzIHJlcXVlc3RlZCBv
+biB0aGUgdXBjb21pbmcgcHJvamVjdC4KVGhlIGFubnVhbCBjb21wYW55IHJldHJlYXQgaXMgY29t
+aW5nIHVwOyBwbGVhc2UgUlNWUC4KQ2xpZW50IHByZXNlbnRhdGlvbnMgYXJlIHNjaGVkdWxlZCBm
+b3IgbmV4dCBUaHVyc2RheS4KV2UgYXJlIGV4Y2l0ZWQgdG8gYW5ub3VuY2UgdGhlIGxhdW5jaCBv
+ZiBvdXIgbmV3IHByb2R1Y3QgbGluZS4KWW91ciBkZXBhcnRtZW50IGhhcyBleGNlZWRlZCBpdHMg
+cGVyZm9ybWFuY2UgdGFyZ2V0cy4KSSBhcHByZWNpYXRlIHlvdXIgcHJvbXB0IGF0dGVudGlvbiB0
+byB0aGlzIG1hdHRlci4KV2UgaGF2ZSB1cGRhdGVkIG91ciBwcml2YWN5IHBvbGljeS4KV2UgaGF2
+ZSBhY2hpZXZlZCBvdXIgcXVhcnRlcmx5IHRhcmdldHMgc3VjY2Vzc2Z1bGx5LgpQbGVhc2Ugb2Jz
+ZXJ2ZSBzaWxlbmNlIGluIGRlc2lnbmF0ZWQgcXVpZXQgem9uZXMuCi0tIApCZXN0IHJlZ2FyZHMs
+Ck1lbGlzc2EgUml2ZXJh
+
+--===============6971716397667812790==--

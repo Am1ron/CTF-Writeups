@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============7545456065365040059=="
+MIME-Version: 1.0
+Received: from mx4.yahoo.com (mx4.yahoo.com [213.217.152.221])
+	by mx.company.com with ESMTP id qHFU28GELCx0Rgbw
+Authentication-Results: company.com; dkim=pass header.d=corp.com;
+ spf=pass smtp.mailfrom=corp.com; dmarc=pass action=none header.from=corp.com
+From: Gary Stewart <gary.stewart@corp.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 00:09:28 -0000
+Message-ID: <5G49DXlEhcgtCxjAd8puAVmY@corp.com>
+
+--===============7545456065365040059==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoYW5rIHlvdSBmb3IgeW91ciBwYXRpZW5jZSBkdXJpbmcgdGhlIHN5c3Rl
+bSBkb3dudGltZS4KUGxlYXNlIGJlIGNhdXRpb3VzIG9mIHBoaXNoaW5nIGVtYWlscyBhbmQgcmVw
+b3J0IGFueSBzdXNwaWNpb3VzIGFjdGl2aXR5LgpJIGFwcHJlY2lhdGUgeW91ciBwcm9tcHQgYXR0
+ZW50aW9uIHRvIHRoaXMgbWF0dGVyLgpQbGVhc2UgY29tcGxldGUgdGhlIG1hbmRhdG9yeSB0cmFp
+bmluZyBtb2R1bGVzLgpPdXIgY2xpZW50cyBoYXZlIHByb3ZpZGVkIHBvc2l0aXZlIGZlZWRiYWNr
+IG9uIHRoZSBkZWxpdmVyYWJsZXMuCldlIG5lZWQgdG8gZmluYWxpemUgdGhlIGJ1ZGdldCBhbGxv
+Y2F0aW9ucyBieSBlbmQgb2YgdGhpcyB3ZWVrLgpZb3VyIGFjdGlvbiBpcyByZXF1aXJlZCBvbiB0
+aGUgcGVuZGluZyB0YXNrcy4KV2UgaGF2ZSB1cGRhdGVkIHRoZSBoZWFsdGggaW5zdXJhbmNlIHBs
+YW5zLgpQbGVhc2UgZW5zdXJlIHRpbWVseSBzdWJtaXNzaW9uIG9mIHByb2plY3QgZGVsaXZlcmFi
+bGVzLgpSZW1pbmRlcjogVGhlIHF1YXJ0ZXJseSBtZWV0aW5nIGlzIHNjaGVkdWxlZCBmb3IgbmV4
+dCBXZWRuZXNkYXkuClBsZWFzZSBhZGhlcmUgdG8gdGhlIG5ldyBkcmVzcyBjb2RlIHBvbGljeS4K
+V2UgYXJlIGluaXRpYXRpbmcgYSBtZW50b3JzaGlwIHByb2dyYW07IGRldGFpbHMgdG8gZm9sbG93
+LgpPdXIgYW5udWFsIHJlcG9ydCBoYXMgYmVlbiByZWxlYXNlZCB0byBzdGFrZWhvbGRlcnMuClBs
+ZWFzZSBqb2luIG1lIGluIHdlbGNvbWluZyB0aGUgbmV3IG1lbWJlcnMgdG8gb3VyIHRlYW0uClRo
+ZSBJVCBkZXBhcnRtZW50IHdpbGwgcGVyZm9ybSBzeXN0ZW0gbWFpbnRlbmFuY2UgdGhpcyB3ZWVr
+ZW5kLgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IENFTywgd2hvIHdpbGwgYmUgam9pbmluZyB1cyBu
+ZXh0IG1vbnRoLgpQbGVhc2UgYXZvaWQgc2NoZWR1bGluZyBtZWV0aW5ncyBkdXJpbmcgbHVuY2gg
+aG91cnMuCkEgcmVtaW5kZXIgdG8gdXBkYXRlIHlvdXIgcGFzc3dvcmRzIHJlZ3VsYXJseS4KUGxl
+YXNlIGRpc3Bvc2Ugb2YgY29uZmlkZW50aWFsIGRvY3VtZW50cyBzZWN1cmVseS4KLS0gCkJlc3Qg
+cmVnYXJkcywKR2FyeSBTdGV3YXJ0
+
+--===============7545456065365040059==--

@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============8204567991395152178=="
+MIME-Version: 1.0
+Received: from mx4.solutions.biz (mx4.solutions.biz [187.225.101.107])
+	by mx.company.com with ESMTP id 4FzqIMcrenXEyXsB
+Received: from mx5.build.co (mx5.build.co [94.96.84.64])
+	by mx.company.com with ESMTP id qG9O6XLDH7hoI1bK
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Emily White <emily.white@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 19:42:05 -0000
+Message-ID: <8t9bEXIIJx0uuKNfLWErFIIl@services.io>
+
+--===============8204567991395152178==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSByZWZyYWluIGZyb20gdXNpbmcgcGVyc29uYWwgZGV2aWNlcyBm
+b3Igd29yayBlbWFpbHMuCldlIGFyZSBleHBsb3JpbmcgbmV3IG1hcmtldCBvcHBvcnR1bml0aWVz
+LgpXZSBoYXZlIGFjaGlldmVkIG91ciBxdWFydGVybHkgdGFyZ2V0cyBzdWNjZXNzZnVsbHkuClRo
+ZSBvZmZpY2Ugd2lsbCBiZSBjbG9zZWQgbmV4dCBGcmlkYXkgZm9yIGEgcHVibGljIGhvbGlkYXku
+ClBsZWFzZSBzdWJtaXQgeW91ciBsZWF2ZSByZXF1ZXN0cyBpbiBhZHZhbmNlLgpQbGVhc2UgZW5z
+dXJlIHRpbWVseSBzdWJtaXNzaW9uIG9mIHByb2plY3QgZGVsaXZlcmFibGVzLgpUaGUgb2ZmaWNl
+IGtpdGNoZW4gd2lsbCBiZSByZW5vdmF0ZWQgb3ZlciB0aGUgd2Vla2VuZC4KV2UgaGF2ZSB1cGRh
+dGVkIHRoZSBoZWFsdGggaW5zdXJhbmNlIHBsYW5zLgpQbGVhc2UgY29tcGxldGUgdGhlIGN5YmVy
+c2VjdXJpdHkgdHJhaW5pbmcgbW9kdWxlLgpQbGVhc2UgYmUgYWR2aXNlZCBvZiB0aGUgY2hhbmdl
+cyBpbiB0aGUgY29tcGFueSBwb2xpY3kuCkkgYXBwcmVjaWF0ZSB5b3VyIHByb21wdCBhdHRlbnRp
+b24gdG8gdGhpcyBtYXR0ZXIuClRoZSBuZXh0IHRyYWluaW5nIHdvcmtzaG9wIGlzIHNjaGVkdWxl
+ZCBmb3IgbmV4dCBtb250aC4KUGxlYXNlIGNvbXBsZXRlIHRoZSBtYW5kYXRvcnkgdHJhaW5pbmcg
+bW9kdWxlcy4KUGxlYXNlIGZhbWlsaWFyaXplIHlvdXJzZWxmIHdpdGggdGhlIHVwZGF0ZWQgZ3Vp
+ZGVsaW5lcy4KV2UgdmFsdWUgeW91ciBpbnB1dCBpbiBpbXByb3Zpbmcgb3VyIHNlcnZpY2VzLgpZ
+b3VyIGRlcGFydG1lbnQgaGFzIGV4Y2VlZGVkIGl0cyBwZXJmb3JtYW5jZSB0YXJnZXRzLgpDb25n
+cmF0dWxhdGlvbnMgb24geW91ciByZWNlbnQgYWNoaWV2ZW1lbnQhCi0tIApCZXN0IHJlZ2FyZHMs
+CkVtaWx5IFdoaXRl
+
+--===============8204567991395152178==--

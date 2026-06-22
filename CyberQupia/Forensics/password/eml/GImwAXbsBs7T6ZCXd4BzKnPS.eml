@@ -1,0 +1,34 @@
+Content-Type: multipart/mixed; boundary="===============5385435656817781422=="
+MIME-Version: 1.0
+Received: from mx3.yahoo.com (mx3.yahoo.com [138.253.252.255])
+	by mx.company.com with ESMTP id pBMGt9l7qm0BsFel
+Received: from mx4.winter.com (mx4.winter.com [179.75.110.216])
+	by mx.company.com with ESMTP id SXZRnw6X7dt9Wfhl
+Received: from mx5.mail.com (mx5.mail.com [73.161.248.188])
+	by mx.company.com with ESMTP id YyWUBslOYu4QfvdE
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Ryan Davis <ryan.davis@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 25 Sep 2024 11:39:02 -0000
+Message-ID: <GImwAXbsBs7T6ZCXd4BzKnPS@winter.com>
+
+--===============5385435656817781422==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBzZW5kIHlvdXIgZmVlZGJhY2sgb24gdGhlIHByb3Bvc2VkIGNo
+YW5nZXMuClRoZSBjYWZldGVyaWEgbWVudSBoYXMgYmVlbiB1cGRhdGVkIHdpdGggaGVhbHRoaWVy
+IG9wdGlvbnMuClBsZWFzZSBmaW5kIGF0dGFjaGVkIHRoZSBhZ2VuZGEgZm9yIHRoZSB1cGNvbWlu
+ZyBtZWV0aW5nLgpQbGVhc2UgYWRoZXJlIHRvIHRoZSBuZXcgZHJlc3MgY29kZSBwb2xpY3kuClBs
+ZWFzZSBjb21wbGV0ZSB0aGUgY3liZXJzZWN1cml0eSB0cmFpbmluZyBtb2R1bGUuClBsZWFzZSBk
+aXNwb3NlIG9mIGNvbmZpZGVudGlhbCBkb2N1bWVudHMgc2VjdXJlbHkuClRoZXJlIHdpbGwgYmUg
+YW4gb2ZmaWNlIGNsZWFudXAgZGF5IHRoaXMgRnJpZGF5LgpQcm9qZWN0IGRlYWRsaW5lcyBoYXZl
+IGJlZW4gYWRqdXN0ZWQgZHVlIHRvIHVuZm9yZXNlZW4gY2lyY3Vtc3RhbmNlcy4KVGhlIGFubnVh
+bCBjb21wYW55IHJldHJlYXQgaXMgY29taW5nIHVwOyBwbGVhc2UgUlNWUC4KLS0gCkJlc3QgcmVn
+YXJkcywKUnlhbiBEYXZpcw==
+
+--===============5385435656817781422==--

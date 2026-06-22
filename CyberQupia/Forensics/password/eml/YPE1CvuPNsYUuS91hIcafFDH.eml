@@ -1,0 +1,32 @@
+Content-Type: multipart/mixed; boundary="===============2557359862313587831=="
+MIME-Version: 1.0
+Received: from mx1.solutions.biz (mx1.solutions.biz [49.23.220.173])
+	by mx.company.com with ESMTP id zAhrB9EfNk5HBsn7
+Received: from mx2.build.co (mx2.build.co [22.113.113.57])
+	by mx.company.com with ESMTP id d2ZYz3sVhzGPC6fw
+Received: from mx5.services.io (mx5.services.io [199.248.103.197])
+	by mx.company.com with ESMTP id 9zjR5Df0qTUvAEwn
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Ashley Gray <ashley.gray@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 21:26:21 -0000
+Message-ID: <YPE1CvuPNsYUuS91hIcafFDH@gmail.com>
+
+--===============2557359862313587831==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBvZmZpY2Uga2l0Y2hlbiB3aWxsIGJlIHJlbm92YXRlZCBvdmVyIHRo
+ZSB3ZWVrZW5kLgpQbGVhc2UgYXNzaXN0IGluIG9uYm9hcmRpbmcgdGhlIG5ldyBoaXJlcy4KV2Ug
+YXJlIHByb3VkIG9mIHRoZSB0ZWFtJ3MgaW5ub3ZhdGlvbiBhbmQgY3JlYXRpdml0eS4KV2UgaGF2
+ZSB1cGRhdGVkIG91ciBwcml2YWN5IHBvbGljeS4KUGxlYXNlIGZhbWlsaWFyaXplIHlvdXJzZWxm
+IHdpdGggdGhlIHVwZGF0ZWQgZ3VpZGVsaW5lcy4KUGxlYXNlIHN1Ym1pdCBub21pbmF0aW9ucyBm
+b3IgdGhlIGVtcGxveWVlIG9mIHRoZSBtb250aC4KUGxlYXNlIHN1Ym1pdCB5b3VyIGxlYXZlIHJl
+cXVlc3RzIGluIGFkdmFuY2UuCldlIGhhdmUgdXBkYXRlZCB0aGUgaGVhbHRoIGluc3VyYW5jZSBw
+bGFucy4KLS0gCkJlc3QgcmVnYXJkcywKQXNobGV5IEdyYXk=
+
+--===============2557359862313587831==--

@@ -1,0 +1,30 @@
+Content-Type: multipart/mixed; boundary="===============0705357667773400724=="
+MIME-Version: 1.0
+Received: from mx5.winter.com (mx5.winter.com [165.216.63.249])
+	by mx.company.com with ESMTP id fvkDnLrTLTZ88jg5
+Received: from mx1.business.net (mx1.business.net [172.245.65.127])
+	by mx.company.com with ESMTP id r4LENVjdTmuXMbdT
+Received: from mx3.services.io (mx3.services.io [168.253.68.110])
+	by mx.company.com with ESMTP id 64Y2qv2TtGnZorF3
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: Timothy Adams <timothy.adams@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 02:55:02 -0000
+Message-ID: <9Uz7AA4eYXambBbbvro7y1bQ@solutions.biz>
+
+--===============0705357667773400724==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBlbnN1cmUgdGltZWx5IHN1Ym1pc3Npb24gb2YgcHJvamVjdCBk
+ZWxpdmVyYWJsZXMuClJlbWluZGVyOiBUaGUgcXVhcnRlcmx5IG1lZXRpbmcgaXMgc2NoZWR1bGVk
+IGZvciBuZXh0IFdlZG5lc2RheS4KVGhlIElUIGRlcGFydG1lbnQgd2lsbCBwZXJmb3JtIHN5c3Rl
+bSBtYWludGVuYW5jZSB0aGlzIHdlZWtlbmQuClBsZWFzZSBhc3Npc3QgaW4gb25ib2FyZGluZyB0
+aGUgbmV3IGhpcmVzLgpXZSBhcmUgZXhjaXRlZCBhYm91dCB0aGUgdXBjb21pbmcgcHJvZHVjdCBk
+ZW1vLgotLSAKQmVzdCByZWdhcmRzLApUaW1vdGh5IEFkYW1z
+
+--===============0705357667773400724==--

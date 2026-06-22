@@ -1,0 +1,30 @@
+Content-Type: multipart/mixed; boundary="===============5703181193906317585=="
+MIME-Version: 1.0
+Received: from mx4.services.io (mx4.services.io [140.32.76.166])
+	by mx.company.com with ESMTP id f6qxkxlHKqYIGiUG
+Received: from mx2.enterprise.org (mx2.enterprise.org [238.239.126.184])
+	by mx.company.com with ESMTP id 0JFod5MlVLYZv79H
+Received: from mx3.services.io (mx3.services.io [129.192.32.94])
+	by mx.company.com with ESMTP id QPOU1SjA1JryRMfN
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Donna Lee <donna.lee@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 26 Sep 2024 04:09:25 -0000
+Message-ID: <fV00Tc9nMp9llJHEBoUpuWdI@business.net>
+
+--===============5703181193906317585==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBpbXBsZW1lbnRpbmcgYSBuZXcgY3VzdG9tZXIgcmVsYXRpb25z
+aGlwIG1hbmFnZW1lbnQgc3lzdGVtLgpQbGVhc2UgYXR0ZW5kIHRoZSBkaXZlcnNpdHkgYW5kIGlu
+Y2x1c2lvbiB3b3Jrc2hvcC4KTG9va2luZyBmb3J3YXJkIHRvIG91ciBjb2xsYWJvcmF0aW9uIG9u
+IHRoaXMgaW5pdGlhdGl2ZS4KUmVtaW5kZXI6IFRoZSBxdWFydGVybHkgbWVldGluZyBpcyBzY2hl
+ZHVsZWQgZm9yIG5leHQgV2VkbmVzZGF5LgpUaGFuayB5b3UgZm9yIHlvdXIgaGFyZCB3b3JrIG9u
+IHRoZSByZWNlbnQgcHJvamVjdC4KLS0gCkJlc3QgcmVnYXJkcywKRG9ubmEgTGVl
+
+--===============5703181193906317585==--

@@ -1,0 +1,24 @@
+Content-Type: multipart/mixed; boundary="===============3921110539511021061=="
+MIME-Version: 1.0
+Received: from mx3.services.io (mx3.services.io [232.236.111.116])
+	by mx.company.com with ESMTP id KFzxGam5UuPoRtjD
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Michael Clark <michael.clark@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 04:22:36 -0000
+Message-ID: <WL6knd558Pm1RRxvSF6r56i2@mail.com>
+
+--===============3921110539511021061==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClByb2plY3QgZGVhZGxpbmVzIGhhdmUgYmVlbiBhZGp1c3RlZCBkdWUgdG8g
+dW5mb3Jlc2VlbiBjaXJjdW1zdGFuY2VzLgpPdXIgYW5udWFsIHJlcG9ydCBoYXMgYmVlbiByZWxl
+YXNlZCB0byBzdGFrZWhvbGRlcnMuCkNvbmdyYXR1bGF0aW9ucyBvbiB5b3VyIHJlY2VudCBhY2hp
+ZXZlbWVudCEKUGxlYXNlIGZpbmQgdGhlIGF0dGFjaGVkIHJlcG9ydCBmb3IgeW91ciByZXZpZXcu
+Ci0tIApCZXN0IHJlZ2FyZHMsCk1pY2hhZWwgQ2xhcms=
+
+--===============3921110539511021061==--

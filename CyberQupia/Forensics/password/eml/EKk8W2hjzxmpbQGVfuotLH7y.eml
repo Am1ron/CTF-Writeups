@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="===============4648248949895569639=="
+MIME-Version: 1.0
+Received: from mx3.enterprise.org (mx3.enterprise.org [9.221.60.227])
+	by mx.company.com with ESMTP id DnqiSWV81cygr37B
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Kimberly Moore <kimberly.moore@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 26 Sep 2024 12:40:54 -0000
+Message-ID: <EKk8W2hjzxmpbQGVfuotLH7y@build.co>
+
+--===============4648248949895569639==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSByZXZpc2luZyBvdXIgc3RyYXRlZ2ljIG9iamVjdGl2ZXMuCldl
+IGhhdmUgaW50cm9kdWNlZCBhIG5ldyBiZW5lZml0cyBwYWNrYWdlIGZvciBlbXBsb3llZXMuCktp
+bmRseSB1cGRhdGUgdGhlIGRvY3VtZW50YXRpb24gd2l0aCB0aGUgbGF0ZXN0IGluZm9ybWF0aW9u
+LgpQbGVhc2UgZmluZCB0aGUgYXR0YWNoZWQgcmVwb3J0IGZvciB5b3VyIHJldmlldy4KVGVhbSBs
+ZWFkcyBhcmUgcmVxdWVzdGVkIHRvIHN1Ym1pdCB0aGVpciByZXBvcnRzIGJ5IEZyaWRheS4KV2Ug
+aGF2ZSB1cGRhdGVkIHRoZSBoZWFsdGggaW5zdXJhbmNlIHBsYW5zLgpXZSBlbmNvdXJhZ2UgeW91
+IHRvIHBhcnRpY2lwYXRlIGluIHRoZSB1cGNvbWluZyBzdXJ2ZXkuClRoZSBjb21wYW55IG5ld3Ns
+ZXR0ZXIgaGFzIGJlZW4gcHVibGlzaGVkLgpXZSBhcmUgaW50cm9kdWNpbmcgZmxleGlibGUgd29y
+a2luZyBob3Vycy4KLS0gCkJlc3QgcmVnYXJkcywKS2ltYmVybHkgTW9vcmU=
+
+--===============4648248949895569639==--

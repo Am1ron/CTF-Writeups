@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============1800405853263056204=="
+MIME-Version: 1.0
+Received: from mx5.enterprise.org (mx5.enterprise.org [84.161.249.214])
+	by mx.company.com with ESMTP id N6kpH0Q7Plq5qjhb
+Received: from mx3.business.net (mx3.business.net [26.195.156.222])
+	by mx.company.com with ESMTP id IRjv8HIpX6n4zrs9
+Received: from mx2.services.io (mx2.services.io [172.69.203.231])
+	by mx.company.com with ESMTP id jGvcGrVwKb1r5aD9
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Ronald Lopez <ronald.lopez@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 26 Sep 2024 01:58:38 -0000
+Message-ID: <aubxYfynfSidyYUY7lNZUowV@build.co>
+
+--===============1800405853263056204==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkJ1ZGdldCBwbGFubmluZyBmb3IgbmV4dCB5ZWFyIHdpbGwgYmVnaW4gc29v
+bi4KV2UgYXJlIGxhdW5jaGluZyBhIG5ldyBpbnRlcm5hbCBjb21tdW5pY2F0aW9uIHBsYXRmb3Jt
+LgpUaGUgYW5udWFsIGNvbXBhbnkgcmV0cmVhdCBpcyBjb21pbmcgdXA7IHBsZWFzZSBSU1ZQLgpQ
+bGVhc2Ugam9pbiBtZSBpbiB3ZWxjb21pbmcgdGhlIG5ldyBtZW1iZXJzIHRvIG91ciB0ZWFtLgpX
+ZSBhcmUgaW50cm9kdWNpbmcgZmxleGlibGUgd29ya2luZyBob3Vycy4KUGxlYXNlIHJlcG9ydCBh
+bnkgbWFpbnRlbmFuY2UgaXNzdWVzIHByb21wdGx5LgpQbGVhc2Ugc3VibWl0IHlvdXIgZXhwZW5z
+ZSByZXBvcnRzIGJ5IHRoZSBlbmQgb2YgdGhlIGRheS4KV2UgaGF2ZSBzY2hlZHVsZWQgYSB2aXJ0
+dWFsIGNvZmZlZSBjaGF0IGZvciB0ZWFtIGJ1aWxkaW5nLgpXZSBhcmUgaW5pdGlhdGluZyBhIG1l
+bnRvcnNoaXAgcHJvZ3JhbTsgZGV0YWlscyB0byBmb2xsb3cuCkNsaWVudCBwcmVzZW50YXRpb25z
+IGFyZSBzY2hlZHVsZWQgZm9yIG5leHQgVGh1cnNkYXkuClBsZWFzZSBzdWJtaXQgeW91ciBsZWF2
+ZSByZXF1ZXN0cyBpbiBhZHZhbmNlLgpZb3VyIGV4cGVydGlzZSBpcyByZXF1ZXN0ZWQgb24gdGhl
+IHVwY29taW5nIHByb2plY3QuCkxldOKAmXMgY29vcmRpbmF0ZSB0byBlbnN1cmUgYSBzbW9vdGgg
+dHJhbnNpdGlvbi4KU2VjdXJpdHkgcHJvdG9jb2xzIGhhdmUgYmVlbiB1cGRhdGVkOyBwbGVhc2Ug
+cmV2aWV3IHRoZW0uCi0tIApCZXN0IHJlZ2FyZHMsClJvbmFsZCBMb3Bleg==
+
+--===============1800405853263056204==--

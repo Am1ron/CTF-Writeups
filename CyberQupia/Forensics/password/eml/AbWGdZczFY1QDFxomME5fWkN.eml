@@ -1,0 +1,25 @@
+Content-Type: multipart/mixed; boundary="===============5214197763708021136=="
+MIME-Version: 1.0
+Received: from mx5.services.io (mx5.services.io [77.231.68.110])
+	by mx.company.com with ESMTP id s1rg3wRdYGQjhFnZ
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Cynthia Stewart <cynthia.stewart@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 01:04:13 -0000
+Message-ID: <AbWGdZczFY1QDFxomME5fWkN@winter.com>
+
+--===============5214197763708021136==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBmaW5kIGF0dGFjaGVkIHRoZSBhZ2VuZGEgZm9yIHRoZSB1cGNv
+bWluZyBtZWV0aW5nLgpUaGFuayB5b3UgZm9yIGF0dGVuZGluZyB0aGUgc2VtaW5hciBsYXN0IHdl
+ZWsuCkFsbCBzdGFmZiBhcmUgaW52aXRlZCB0byB0aGUgdG93biBoYWxsIG1lZXRpbmcuCllvdXIg
+YWN0aW9uIGlzIHJlcXVpcmVkIG9uIHRoZSBwZW5kaW5nIHRhc2tzLgotLSAKQmVzdCByZWdhcmRz
+LApDeW50aGlhIFN0ZXdhcnQ=
+
+--===============5214197763708021136==--

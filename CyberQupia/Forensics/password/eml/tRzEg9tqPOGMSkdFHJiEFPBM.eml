@@ -1,0 +1,24 @@
+Content-Type: multipart/mixed; boundary="===============7884752139253622179=="
+MIME-Version: 1.0
+Received: from mx5.mail.com (mx5.mail.com [31.123.4.10])
+	by mx.company.com with ESMTP id f3rYeQ2xt8GBtgWo
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Timothy Brooks <timothy.brooks@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 18:48:20 -0000
+Message-ID: <tRzEg9tqPOGMSkdFHJiEFPBM@business.net>
+
+--===============7884752139253622179==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBwcm92aWRlIHlvdXIgYXZhaWxhYmlsaXR5IGZvciB0aGUgbmV4
+dCB0d28gd2Vla3MuClNlY3VyaXR5IHByb3RvY29scyBoYXZlIGJlZW4gdXBkYXRlZDsgcGxlYXNl
+IHJldmlldyB0aGVtLgpQbGVhc2UgcGFydGljaXBhdGUgaW4gdGhlIHVwY29taW5nIGZpcmUgZHJp
+bGwuCi0tIApCZXN0IHJlZ2FyZHMsClRpbW90aHkgQnJvb2tz
+
+--===============7884752139253622179==--

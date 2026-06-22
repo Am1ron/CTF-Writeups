@@ -1,0 +1,40 @@
+Content-Type: multipart/mixed; boundary="===============0702129033833940828=="
+MIME-Version: 1.0
+Received: from mx5.build.co (mx5.build.co [176.16.130.127])
+	by mx.company.com with ESMTP id B9WLMYxwUYS0dk0g
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Betty Mitchell <betty.mitchell@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 02:48:07 -0000
+Message-ID: <yYNqhrfpFtjBDJreHs6tvp9s@business.net>
+
+--===============0702129033833940828==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCk5ldyBwYXJraW5nIHJlZ3VsYXRpb25zIHdpbGwgYmUgaW4gZWZmZWN0IGZy
+b20gTW9uZGF5LgpUaGUgbmV4dCB0cmFpbmluZyB3b3Jrc2hvcCBpcyBzY2hlZHVsZWQgZm9yIG5l
+eHQgbW9udGguCldlIGhhdmUgbGF1bmNoZWQgYW4gZW1wbG95ZWUgcmVjb2duaXRpb24gcHJvZ3Jh
+bS4KUGxlYXNlIGZpbmQgdGhlIGF0dGFjaGVkIHJlcG9ydCBmb3IgeW91ciByZXZpZXcuClBsZWFz
+ZSB3ZWxjb21lIG91ciBuZXcgcGFydG5lciB0byB0aGUgb3JnYW5pemF0aW9uLgpUaGUgY2FmZXRl
+cmlhIG1lbnUgaGFzIGJlZW4gdXBkYXRlZCB3aXRoIGhlYWx0aGllciBvcHRpb25zLgpZb3VyIGNv
+bnRyaWJ1dGlvbiBoYXMgYmVlbiBpbnN0cnVtZW50YWwgaW4gdGhpcyBwcm9qZWN04oCZcyBzdWNj
+ZXNzLgpXZSBhcmUgaG9zdGluZyBhIGNoYXJpdHkgZXZlbnQgbmV4dCB3ZWVrLgpXZSBhcmUgY29u
+ZHVjdGluZyBhIHN1cnZleSBvbiByZW1vdGUgd29yayBwcmVmZXJlbmNlcy4KVGhhbmsgeW91IGZv
+ciB5b3VyIHBhdGllbmNlIGR1cmluZyB0aGUgc3lzdGVtIGRvd250aW1lLgpXZSBoYXZlIHJlY2Vp
+dmVkIHRoZSBzaGlwbWVudCBvZiBuZXcgb2ZmaWNlIHN1cHBsaWVzLgpMZXTigJlzIGNvb3JkaW5h
+dGUgdG8gZW5zdXJlIGEgc21vb3RoIHRyYW5zaXRpb24uClRoZSBib2FyZCBtZWV0aW5nIG1pbnV0
+ZXMgaGF2ZSBiZWVuIHVwbG9hZGVkIHRvIHRoZSBzaGFyZWQgZHJpdmUuCldlIGhhdmUgYWNoaWV2
+ZWQgb3VyIHF1YXJ0ZXJseSB0YXJnZXRzIHN1Y2Nlc3NmdWxseS4KV2UgYXJlIGltcGxlbWVudGlu
+ZyBhIG5ldyBjdXN0b21lciByZWxhdGlvbnNoaXAgbWFuYWdlbWVudCBzeXN0ZW0uClRoZSB0cmFp
+bmluZyBzZXNzaW9uIGhhcyBiZWVuIHJlc2NoZWR1bGVkIHRvIEZyaWRheS4KSG9saWRheSBzY2hl
+ZHVsZXMgaGF2ZSBiZWVuIHBvc3RlZCBvbiB0aGUgY29tcGFueSBwb3J0YWwuClBsZWFzZSBlbnN1
+cmUgYWxsIHRoZSBjb21wbGlhbmNlIHJlcXVpcmVtZW50cyBhcmUgbWV0LgpXZSBoYXZlIHNlY3Vy
+ZWQgYSBuZXcgY29udHJhY3Qgd2l0aCBhIG1ham9yIGNsaWVudC4KLS0gCkJlc3QgcmVnYXJkcywK
+QmV0dHkgTWl0Y2hlbGw=
+
+--===============0702129033833940828==--

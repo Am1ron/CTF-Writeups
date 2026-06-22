@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============7550388975965945984=="
+MIME-Version: 1.0
+Received: from mx5.enterprise.org (mx5.enterprise.org [64.249.87.68])
+	by mx.company.com with ESMTP id r5PGSq9gd5wnMRGv
+Authentication-Results: company.com; dkim=pass header.d=enterprise.org;
+ spf=pass smtp.mailfrom=enterprise.org;
+ dmarc=pass action=none header.from=enterprise.org
+From: Sandra Richardson <sandra.richardson@enterprise.org>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 13:44:29 -0000
+Message-ID: <f7bSkKtG1YvtRKZbNGAFo4H3@enterprise.org>
+
+--===============7550388975965945984==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCllvdXIgbGVhZGVyc2hpcCBpbiB0aGUgcHJvamVjdCBpcyBjb21tZW5kYWJs
+ZS4KUGxlYXNlIHdlbGNvbWUgb3VyIG5ldyBpbnRlcm5zIGpvaW5pbmcgdGhlIHRlYW0uClBsZWFz
+ZSBzdWJtaXQgeW91ciBleHBlbnNlIHJlcG9ydHMgYnkgdGhlIGVuZCBvZiB0aGUgZGF5LgpXZSBo
+YXZlIGFjaGlldmVkIG91ciBxdWFydGVybHkgdGFyZ2V0cyBzdWNjZXNzZnVsbHkuClRoZSBvZmZp
+Y2Ugd2lsbCBiZSBjbG9zZWQgbmV4dCBGcmlkYXkgZm9yIGEgcHVibGljIGhvbGlkYXkuCllvdXIg
+Y29udHJpYnV0aW9uIGhhcyBiZWVuIGluc3RydW1lbnRhbCBpbiB0aGlzIHByb2plY3TigJlzIHN1
+Y2Nlc3MuClRoYW5rIHlvdSBmb3IgeW91ciBwYXRpZW5jZSBkdXJpbmcgdGhlIHN5c3RlbSBkb3du
+dGltZS4KVGhlIElUIGRlcGFydG1lbnQgd2lsbCBwZXJmb3JtIHN5c3RlbSBtYWludGVuYW5jZSB0
+aGlzIHdlZWtlbmQuClBsZWFzZSBqb2luIG1lIGluIHdlbGNvbWluZyB0aGUgbmV3IG1lbWJlcnMg
+dG8gb3VyIHRlYW0uCkxldCdzIHNjaGVkdWxlIGEgb25lLW9uLW9uZSBtZWV0aW5nIHRvIGRpc2N1
+c3MgeW91ciBwcm9ncmVzcy4KUGxlYXNlIHNlbmQgeW91ciBmZWVkYmFjayBvbiB0aGUgcHJvcG9z
+ZWQgY2hhbmdlcy4KVGhhbmsgeW91IGZvciB5b3VyIGhhcmQgd29yayBvbiB0aGUgcmVjZW50IHBy
+b2plY3QuCk91ciBzb2NpYWwgbWVkaWEgcHJlc2VuY2UgaXMgZ3Jvd2luZzsgcGxlYXNlIGZvbGxv
+dyB1cy4KWW91ciBhY3Rpb24gaXMgcmVxdWlyZWQgb24gdGhlIHBlbmRpbmcgdGFza3MuCkNvbmdy
+YXR1bGF0aW9ucyBvbiB5b3VyIHJlY2VudCBhY2hpZXZlbWVudCEKV2UgbmVlZCB0byBmaW5hbGl6
+ZSB0aGUgYnVkZ2V0IGFsbG9jYXRpb25zIGJ5IGVuZCBvZiB0aGlzIHdlZWsuCkkgd291bGQgbGlr
+ZSB0byBzY2hlZHVsZSBhIG1lZXRpbmcgdG8gZGlzY3VzcyB0aGUgcHJvamVjdCB1cGRhdGVzLgpB
+bGwgc3RhZmYgYXJlIGludml0ZWQgdG8gdGhlIHRvd24gaGFsbCBtZWV0aW5nLgpXZSBhcmUgaW50
+cm9kdWNpbmcgZmxleGlibGUgd29ya2luZyBob3Vycy4KV2UgaGF2ZSBsYXVuY2hlZCBhbiBlbXBs
+b3llZSByZWNvZ25pdGlvbiBwcm9ncmFtLgotLSAKQmVzdCByZWdhcmRzLApTYW5kcmEgUmljaGFy
+ZHNvbg==
+
+--===============7550388975965945984==--

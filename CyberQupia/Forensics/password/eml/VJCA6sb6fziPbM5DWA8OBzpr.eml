@@ -1,0 +1,36 @@
+Content-Type: multipart/mixed; boundary="===============3466600124926277787=="
+MIME-Version: 1.0
+Received: from mx3.enterprise.org (mx3.enterprise.org [96.118.92.247])
+	by mx.company.com with ESMTP id xDVuV3T6G3DpEMIS
+Authentication-Results: company.com; dkim=pass header.d=corp.com;
+ spf=pass smtp.mailfrom=corp.com; dmarc=pass action=none header.from=corp.com
+From: Joseph Gonzalez <joseph.gonzalez@corp.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 26 Sep 2024 00:10:49 -0000
+Message-ID: <VJCA6sb6fziPbM5DWA8OBzpr@corp.com>
+
+--===============3466600124926277787==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkhlYWx0aCBhbmQgc2FmZXR5IGluc3BlY3Rpb25zIGFyZSBzY2hlZHVsZWQg
+Zm9yIG5leHQgd2Vlay4KV2UgaGF2ZSBpbnRyb2R1Y2VkIGEgbmV3IGJlbmVmaXRzIHBhY2thZ2Ug
+Zm9yIGVtcGxveWVlcy4KVGVhbSBsZWFkcyBhcmUgcmVxdWVzdGVkIHRvIHN1Ym1pdCB0aGVpciBy
+ZXBvcnRzIGJ5IEZyaWRheS4KUGxlYXNlIHByb3ZpZGUgeW91ciBhdmFpbGFiaWxpdHkgZm9yIHRo
+ZSBuZXh0IHR3byB3ZWVrcy4KV2UgaGF2ZSB1cGRhdGVkIG91ciBwcml2YWN5IHBvbGljeS4KWW91
+ciBleHBlcnRpc2UgaXMgcmVxdWVzdGVkIG9uIHRoZSB1cGNvbWluZyBwcm9qZWN0LgpQbGVhc2Ug
+ZW5zdXJlIHRpbWVseSBzdWJtaXNzaW9uIG9mIHByb2plY3QgZGVsaXZlcmFibGVzLgpQbGVhc2Ug
+dGFrZSBub3RlIG9mIHRoZSBuZXcgb2ZmaWNlIGhvdXJzLgpMZXTigJlzIHN0cml2ZSB0byBleGNl
+ZWQgb3VyIGdvYWxzIGZvciB0aGlzIGZpc2NhbCB5ZWFyLgpQbGVhc2UgY29tcGxldGUgdGhlIGN5
+YmVyc2VjdXJpdHkgdHJhaW5pbmcgbW9kdWxlLgpMb29raW5nIGZvcndhcmQgdG8gb3VyIGNvbGxh
+Ym9yYXRpb24gb24gdGhpcyBpbml0aWF0aXZlLgpUaGUgbmV3IHBvbGljeSB3aWxsIGJlIGVmZmVj
+dGl2ZSBmcm9tIG5leHQgbW9udGguCldlIGhhdmUgdXBkYXRlZCB0aGUgaGVhbHRoIGluc3VyYW5j
+ZSBwbGFucy4KV2UgaGF2ZSByZWNlaXZlZCB0aGUgc2hpcG1lbnQgb2YgbmV3IG9mZmljZSBzdXBw
+bGllcy4KUGxlYXNlIGJlIGNhdXRpb3VzIG9mIHBoaXNoaW5nIGVtYWlscyBhbmQgcmVwb3J0IGFu
+eSBzdXNwaWNpb3VzIGFjdGl2aXR5LgpLaW5kbHkgdXBkYXRlIHRoZSBkb2N1bWVudGF0aW9uIHdp
+dGggdGhlIGxhdGVzdCBpbmZvcm1hdGlvbi4KVGhlIHRyYWluaW5nIHNlc3Npb24gaGFzIGJlZW4g
+cmVzY2hlZHVsZWQgdG8gRnJpZGF5LgotLSAKQmVzdCByZWdhcmRzLApKb3NlcGggR29uemFsZXo=
+
+--===============3466600124926277787==--

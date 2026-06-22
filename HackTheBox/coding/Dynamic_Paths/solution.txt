@@ -1,0 +1,176 @@
+>>> from pwn import *
+... 
+... # Connect to the challenge
+... r = remote('154.57.164.73', 31005)
+... 
+... def solve():
+...     try:
+...         # 1. Clear the entire introductory text block
+...         # We wait for the specific marker that indicates the first test \
+is starting
+...         print("[*] Waiting for challenge to start...")
+...         r.recvuntil(b'Test 1/100')
+...         r.recvline() # Clear the rest of the "Test 1/100" line
+... 
+...         for i in range(100):
+...             # 2. Read dimensions (e.g., "4 3")
+...             line = r.recvline().decode().strip()
+...             while not line: # Skip any stray empty lines
+...                 line = r.recvline().decode().strip()
+...             
+...             rows, cols = map(int, line.split())
+...             
+...             # 3. Read the grid values (e.g., "2 5 1 9 2 3...")
+...             data_line = r.recvline().decode().strip()
+...             nums = list(map(int, data_line.split()))
+...             
+...             # 4. Convert flat list to 2D grid
+...             grid = [nums[k * cols:(k + 1) * cols] for k in range(rows)]
+...             
+...             # 5. Dynamic Programming to find Minimum Path Sum
+...             dp = [[0] * cols for _ in range(rows)]
+...             dp[0][0] = grid[0][0]
+...             
+...             # Fill first row
+...             for j in range(1, cols):
+...                 dp[0][j] = dp[0][j-1] + grid[0][j]
+...             # Fill first column
+...             for row_idx in range(1, rows):
+...                 dp[row_idx][0] = dp[row_idx-1][0] + grid[row_idx][0]
+...                 
+...             # Fill the rest of the table
+...             for row_idx in range(1, rows):
+...                 for col_idx in range(1, cols):
+...                     dp[row_idx][col_idx] = grid[row_idx][col_idx] + min(
+...                         dp[row_idx-1][col_idx], 
+...                         dp[row_idx][col_idx-1]
+...                     )
+...             
+...             # 6. Send the bottom-right value
+...             result = dp[-1][-1]
+...             r.sendline(str(result).encode())
+...             print(f"[+] Level {i + 1}/100 solved: {result}")
+...             
+...             # 7. Prepare for the next header (except for the last level)
+...             if i < 99:
+...                 r.recvuntil(b'Test')
+...                 r.recvline() # Clear the "X / 100" part
+... 
+...         # 8. Get the flag!
+...         print("[*] All levels cleared. Fetching flag...")
+...         r.interactive() 
+... 
+...     except Exception as e:
+...         print(f"[!] Error occurred: {e}")
+...         r.close()
+... 
+... if __name__ == "__main__":
+...     solve()
+...     
+[+] Opening connection to 154.57.164.73 on port 31005: Done
+[*] Waiting for challenge to start...
+[+] Level 1/100 solved: 35
+[+] Level 2/100 solved: 29
+[+] Level 3/100 solved: 12
+[+] Level 4/100 solved: 33
+[+] Level 5/100 solved: 21
+[+] Level 6/100 solved: 18
+[+] Level 7/100 solved: 21
+[+] Level 8/100 solved: 15
+[+] Level 9/100 solved: 28
+[+] Level 10/100 solved: 33
+[+] Level 11/100 solved: 38
+[+] Level 12/100 solved: 21
+[+] Level 13/100 solved: 12
+[+] Level 14/100 solved: 23
+[+] Level 15/100 solved: 33
+[+] Level 16/100 solved: 23
+[+] Level 17/100 solved: 31
+[+] Level 18/100 solved: 23
+[+] Level 19/100 solved: 24
+[+] Level 20/100 solved: 20
+[+] Level 21/100 solved: 22
+[+] Level 22/100 solved: 145
+[+] Level 23/100 solved: 91
+[+] Level 24/100 solved: 113
+[+] Level 25/100 solved: 126
+[+] Level 26/100 solved: 140
+[+] Level 27/100 solved: 110
+[+] Level 28/100 solved: 140
+[+] Level 29/100 solved: 106
+[+] Level 30/100 solved: 78
+[+] Level 31/100 solved: 53
+[+] Level 32/100 solved: 183
+[+] Level 33/100 solved: 143
+[+] Level 34/100 solved: 122
+[+] Level 35/100 solved: 148
+[+] Level 36/100 solved: 108
+[+] Level 37/100 solved: 123
+[+] Level 38/100 solved: 142
+[+] Level 39/100 solved: 180
+[+] Level 40/100 solved: 123
+[+] Level 41/100 solved: 82
+[+] Level 42/100 solved: 516
+[+] Level 43/100 solved: 456
+[+] Level 44/100 solved: 270
+[+] Level 45/100 solved: 312
+[+] Level 46/100 solved: 382
+[+] Level 47/100 solved: 324
+[+] Level 48/100 solved: 446
+[+] Level 49/100 solved: 208
+[+] Level 50/100 solved: 230
+[+] Level 51/100 solved: 254
+[+] Level 52/100 solved: 274
+[+] Level 53/100 solved: 297
+[+] Level 54/100 solved: 354
+[+] Level 55/100 solved: 186
+[+] Level 56/100 solved: 169
+[+] Level 57/100 solved: 305
+[+] Level 58/100 solved: 493
+[+] Level 59/100 solved: 404
+[+] Level 60/100 solved: 345
+[+] Level 61/100 solved: 450
+[+] Level 62/100 solved: 789
+[+] Level 63/100 solved: 437
+[+] Level 64/100 solved: 1034
+[+] Level 65/100 solved: 849
+[+] Level 66/100 solved: 661
+[+] Level 67/100 solved: 846
+[+] Level 68/100 solved: 421
+[+] Level 69/100 solved: 545
+[+] Level 70/100 solved: 284
+[+] Level 71/100 solved: 872
+[+] Level 72/100 solved: 610
+[+] Level 73/100 solved: 924
+[+] Level 74/100 solved: 372
+[+] Level 75/100 solved: 664
+[+] Level 76/100 solved: 791
+[+] Level 77/100 solved: 312
+[+] Level 78/100 solved: 667
+[+] Level 79/100 solved: 1026
+[+] Level 80/100 solved: 790
+[+] Level 81/100 solved: 583
+[+] Level 82/100 solved: 2640
+[+] Level 83/100 solved: 1217
+[+] Level 84/100 solved: 1478
+[+] Level 85/100 solved: 473
+[+] Level 86/100 solved: 1203
+[+] Level 87/100 solved: 1103
+[+] Level 88/100 solved: 1454
+[+] Level 89/100 solved: 1057
+[+] Level 90/100 solved: 2190
+[+] Level 91/100 solved: 1626
+[+] Level 92/100 solved: 2127
+[+] Level 93/100 solved: 1107
+[+] Level 94/100 solved: 1998
+[+] Level 95/100 solved: 200
+[+] Level 96/100 solved: 372
+[+] Level 97/100 solved: 876
+[+] Level 98/100 solved: 574
+[+] Level 99/100 solved: 386
+[+] Level 100/100 solved: 1506
+[*] All levels cleared. Fetching flag...
+[*] Switching to interactive mode
+> You managed to traverse the maze of the underground and escape the behemoth. Here is your reward: HTB{b3h3M07H_5h0uld_H4v3_57ud13D_dYM4m1C_pr09r4mm1n9_70_C47ch_y0u_c7d1ed8311570c01c06881811cb7b255}
+[*] Got EOF while reading in interactive
+$ 

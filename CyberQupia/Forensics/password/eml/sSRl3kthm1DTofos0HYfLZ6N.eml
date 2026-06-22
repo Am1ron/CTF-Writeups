@@ -1,0 +1,31 @@
+Content-Type: multipart/mixed; boundary="===============8069655272782011226=="
+MIME-Version: 1.0
+Received: from mx5.winter.com (mx5.winter.com [204.116.125.202])
+	by mx.company.com with ESMTP id hOG4VYicLVlUpNdB
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Elizabeth Cox <elizabeth.cox@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 06:40:31 -0000
+Message-ID: <sSRl3kthm1DTofos0HYfLZ6N@business.net>
+
+--===============8069655272782011226==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkxldCdzIHNjaGVkdWxlIGEgb25lLW9uLW9uZSBtZWV0aW5nIHRvIGRpc2N1
+c3MgeW91ciBwcm9ncmVzcy4KVGhlIGNhZmV0ZXJpYSBtZW51IGhhcyBiZWVuIHVwZGF0ZWQgd2l0
+aCBoZWFsdGhpZXIgb3B0aW9ucy4KT3VyIHNvY2lhbCBtZWRpYSBwcmVzZW5jZSBpcyBncm93aW5n
+OyBwbGVhc2UgZm9sbG93IHVzLgpUaGUgYW5udWFsIGNvbXBhbnkgcmV0cmVhdCBpcyBjb21pbmcg
+dXA7IHBsZWFzZSBSU1ZQLgpUaGUgdHJhaW5pbmcgc2Vzc2lvbiBoYXMgYmVlbiByZXNjaGVkdWxl
+ZCB0byBGcmlkYXkuClRlYW0gbGVhZHMgYXJlIHJlcXVlc3RlZCB0byBzdWJtaXQgdGhlaXIgcmVw
+b3J0cyBieSBGcmlkYXkuClBsZWFzZSBkaXNwb3NlIG9mIGNvbmZpZGVudGlhbCBkb2N1bWVudHMg
+c2VjdXJlbHkuCkhlYWx0aCBhbmQgc2FmZXR5IGluc3BlY3Rpb25zIGFyZSBzY2hlZHVsZWQgZm9y
+IG5leHQgd2Vlay4KTGV04oCZcyBzdHJpdmUgdG8gZXhjZWVkIG91ciBnb2FscyBmb3IgdGhpcyBm
+aXNjYWwgeWVhci4KV2UgYXJlIGhvc3RpbmcgYSBjaGFyaXR5IGV2ZW50IG5leHQgd2Vlay4KLS0g
+CkJlc3QgcmVnYXJkcywKRWxpemFiZXRoIENveA==
+
+--===============8069655272782011226==--

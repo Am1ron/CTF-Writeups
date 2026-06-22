@@ -1,0 +1,29 @@
+Content-Type: multipart/mixed; boundary="===============3145302130806952127=="
+MIME-Version: 1.0
+Received: from mx1.services.io (mx1.services.io [197.215.77.71])
+	by mx.company.com with ESMTP id OcUmLTYOP5TZtJ6C
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Deborah Ward <deborah.ward@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 23:34:17 -0000
+Message-ID: <qIwC1JQas4vKWhNdeel14Iug@mail.com>
+
+--===============3145302130806952127==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBvYnNlcnZlIHNpbGVuY2UgaW4gZGVzaWduYXRlZCBxdWlldCB6
+b25lcy4KUGxlYXNlIGVuc3VyZSBhbGwgdGhlIGNvbXBsaWFuY2UgcmVxdWlyZW1lbnRzIGFyZSBt
+ZXQuCllvdXIgZXhwZXJ0aXNlIGlzIHJlcXVlc3RlZCBvbiB0aGUgdXBjb21pbmcgcHJvamVjdC4K
+V2UgYXJlIGhvc3RpbmcgYSBjaGFyaXR5IGV2ZW50IG5leHQgd2Vlay4KRW1wbG95ZWUgc2F0aXNm
+YWN0aW9uIHN1cnZleXMgd2lsbCBiZSBkaXN0cmlidXRlZCB0b21vcnJvdy4KSG9saWRheSBzY2hl
+ZHVsZXMgaGF2ZSBiZWVuIHBvc3RlZCBvbiB0aGUgY29tcGFueSBwb3J0YWwuCldlIGFyZSBwcm91
+ZCBvZiB0aGUgdGVhbSdzIGlubm92YXRpb24gYW5kIGNyZWF0aXZpdHkuCldlIGhhdmUgc2NoZWR1
+bGVkIGEgdmlydHVhbCBjb2ZmZWUgY2hhdCBmb3IgdGVhbSBidWlsZGluZy4KV2UgYXJlIGV4Y2l0
+ZWQgdG8gYW5ub3VuY2UgdGhlIGxhdW5jaCBvZiBvdXIgbmV3IHByb2R1Y3QgbGluZS4KLS0gCkJl
+c3QgcmVnYXJkcywKRGVib3JhaCBXYXJk
+
+--===============3145302130806952127==--

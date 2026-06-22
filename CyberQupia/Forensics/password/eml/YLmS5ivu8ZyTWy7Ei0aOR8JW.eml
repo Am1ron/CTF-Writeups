@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============6937857998314239724=="
+MIME-Version: 1.0
+Received: from mx5.build.co (mx5.build.co [81.69.9.119])
+	by mx.company.com with ESMTP id 571MrbY79Wf9CD1V
+Received: from mx4.winter.com (mx4.winter.com [243.224.67.144])
+	by mx.company.com with ESMTP id MwcjjnXdD50xfCFP
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Charles Ramirez <charles.ramirez@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sun, 22 Sep 2024 11:14:37 -0000
+Message-ID: <YLmS5ivu8ZyTWy7Ei0aOR8JW@gmail.com>
+
+--===============6937857998314239724==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgdXBkYXRlZCB0aGUgaGVhbHRoIGluc3VyYW5jZSBwbGFucy4K
+TG9va2luZyBmb3J3YXJkIHRvIG91ciBjb2xsYWJvcmF0aW9uIG9uIHRoaXMgaW5pdGlhdGl2ZS4K
+WW91ciBjb250cmlidXRpb24gaGFzIGJlZW4gaW5zdHJ1bWVudGFsIGluIHRoaXMgcHJvamVjdOKA
+mXMgc3VjY2Vzcy4KUGxlYXNlIGJlIGFkdmlzZWQgb2YgdGhlIGNoYW5nZXMgaW4gdGhlIGNvbXBh
+bnkgcG9saWN5LgpZb3VyIGxlYWRlcnNoaXAgaW4gdGhlIHByb2plY3QgaXMgY29tbWVuZGFibGUu
+ClRlYW0gbGVhZHMgYXJlIHJlcXVlc3RlZCB0byBzdWJtaXQgdGhlaXIgcmVwb3J0cyBieSBGcmlk
+YXkuCkVtcGxveWVlIHNhdGlzZmFjdGlvbiBzdXJ2ZXlzIHdpbGwgYmUgZGlzdHJpYnV0ZWQgdG9t
+b3Jyb3cuCldlIGFyZSBpbnRyb2R1Y2luZyBmbGV4aWJsZSB3b3JraW5nIGhvdXJzLgpUaGUgb2Zm
+aWNlIHdpbGwgYmUgY2xvc2VkIG5leHQgRnJpZGF5IGZvciBhIHB1YmxpYyBob2xpZGF5LgpIb2xp
+ZGF5IHNjaGVkdWxlcyBoYXZlIGJlZW4gcG9zdGVkIG9uIHRoZSBjb21wYW55IHBvcnRhbC4KVGhl
+IGNhZmV0ZXJpYSBtZW51IGhhcyBiZWVuIHVwZGF0ZWQgd2l0aCBoZWFsdGhpZXIgb3B0aW9ucy4K
+UGxlYXNlIGF0dGVuZCB0aGUgZGl2ZXJzaXR5IGFuZCBpbmNsdXNpb24gd29ya3Nob3AuCkkgd291
+bGQgbGlrZSB0byBzY2hlZHVsZSBhIG1lZXRpbmcgdG8gZGlzY3VzcyB0aGUgcHJvamVjdCB1cGRh
+dGVzLgpUaGFuayB5b3UgZm9yIGF0dGVuZGluZyB0aGUgc2VtaW5hciBsYXN0IHdlZWsuClRoYW5r
+IHlvdSBmb3IgeW91ciBwYXRpZW5jZSBkdXJpbmcgdGhlIHN5c3RlbSBkb3dudGltZS4KVGhlIElU
+IGRlcGFydG1lbnQgd2lsbCBwZXJmb3JtIHN5c3RlbSBtYWludGVuYW5jZSB0aGlzIHdlZWtlbmQu
+ClBsZWFzZSBiZSBjYXV0aW91cyBvZiBwaGlzaGluZyBlbWFpbHMgYW5kIHJlcG9ydCBhbnkgc3Vz
+cGljaW91cyBhY3Rpdml0eS4KUGxlYXNlIGpvaW4gbWUgaW4gd2VsY29taW5nIHRoZSBuZXcgbWVt
+YmVycyB0byBvdXIgdGVhbS4KLS0gCkJlc3QgcmVnYXJkcywKQ2hhcmxlcyBSYW1pcmV6
+
+--===============6937857998314239724==--

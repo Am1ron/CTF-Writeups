@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============4348919100550756388=="
+MIME-Version: 1.0
+Received: from mx1.build.co (mx1.build.co [90.151.150.108])
+	by mx.company.com with ESMTP id VMAULRIYcY3ZT3Iw
+Received: from mx5.winter.com (mx5.winter.com [133.141.250.239])
+	by mx.company.com with ESMTP id YTrhYZCuwFUnlVjg
+Received: from mx1.services.io (mx1.services.io [1.12.79.76])
+	by mx.company.com with ESMTP id I4QV4WP6h5kUIBoB
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: Mark Bell <mark.bell@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 06:58:05 -0000
+Message-ID: <e2TKI1M42cWGoVXplwWtF3Tc@solutions.biz>
+
+--===============4348919100550756388==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBkaXNwb3NlIG9mIGNvbmZpZGVudGlhbCBkb2N1bWVudHMgc2Vj
+dXJlbHkuCldlIGFyZSBjb25kdWN0aW5nIHN5c3RlbSBhdWRpdHMgdGhpcyBxdWFydGVyLgpQbGVh
+c2Ugc3VibWl0IG5vbWluYXRpb25zIGZvciB0aGUgZW1wbG95ZWUgb2YgdGhlIG1vbnRoLgpQbGVh
+c2Ugam9pbiBtZSBpbiB3ZWxjb21pbmcgdGhlIG5ldyBtZW1iZXJzIHRvIG91ciB0ZWFtLgpMZXTi
+gJlzIGNvb3JkaW5hdGUgdG8gZW5zdXJlIGEgc21vb3RoIHRyYW5zaXRpb24uClRoYW5rIHlvdSBm
+b3IgYXR0ZW5kaW5nIHRoZSBzZW1pbmFyIGxhc3Qgd2Vlay4KV2UgbmVlZCB0byBmaW5hbGl6ZSB0
+aGUgYnVkZ2V0IGFsbG9jYXRpb25zIGJ5IGVuZCBvZiB0aGlzIHdlZWsuCk91ciBhbm51YWwgcmVw
+b3J0IGhhcyBiZWVuIHJlbGVhc2VkIHRvIHN0YWtlaG9sZGVycy4KUGxlYXNlIGpvaW4gdGhlIHdl
+YmluYXIgb24gaW5kdXN0cnkgdHJlbmRzIHRvbW9ycm93LgpXZSBhcmUgaW50cm9kdWNpbmcgZmxl
+eGlibGUgd29ya2luZyBob3Vycy4KVGhhbmsgeW91IGZvciB5b3VyIHByb21wdCByZXNwb25zZS4K
+V2UgdmFsdWUgeW91ciBpbnB1dCBpbiBpbXByb3Zpbmcgb3VyIHNlcnZpY2VzLgpUaGUgcGVyZm9y
+bWFuY2UgcmV2aWV3IG1lZXRpbmdzIHdpbGwgY29tbWVuY2UgbmV4dCBNb25kYXkuClRoZSBsYXRl
+c3Qgc29mdHdhcmUgdXBkYXRlcyBoYXZlIGJlZW4gaW5zdGFsbGVkLgpQbGVhc2UgcmV2aWV3IHRo
+ZSBhdHRhY2hlZCBjbGllbnQgZmVlZGJhY2suCi0tIApCZXN0IHJlZ2FyZHMsCk1hcmsgQmVsbA==
+
+--===============4348919100550756388==--

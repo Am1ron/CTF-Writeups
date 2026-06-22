@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="===============5302045224060051479=="
+MIME-Version: 1.0
+Received: from mx3.yahoo.com (mx3.yahoo.com [250.107.236.239])
+	by mx.company.com with ESMTP id 1uH6oJG4x7uq1FEv
+Received: from mx4.business.net (mx4.business.net [53.156.121.201])
+	by mx.company.com with ESMTP id I6IMrV3FL7lclgvz
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Jessica Brooks <jessica.brooks@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 19:07:43 -0000
+Message-ID: <Z0mf1ajoAwTkuj9x3xwgwDCY@winter.com>
+
+--===============5302045224060051479==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkNsaWVudCBwcmVzZW50YXRpb25zIGFyZSBzY2hlZHVsZWQgZm9yIG5leHQg
+VGh1cnNkYXkuCllvdXIgZmVlZGJhY2sgb24gdGhlIHJlY2VudCBjaGFuZ2VzIGlzIGhpZ2hseSBh
+cHByZWNpYXRlZC4KUGxlYXNlIGNvbXBsZXRlIHRoZSBtYW5kYXRvcnkgdHJhaW5pbmcgbW9kdWxl
+cy4KS2luZGx5IHVwZGF0ZSB0aGUgZG9jdW1lbnRhdGlvbiB3aXRoIHRoZSBsYXRlc3QgaW5mb3Jt
+YXRpb24uCkxldCdzIHNjaGVkdWxlIGEgb25lLW9uLW9uZSBtZWV0aW5nIHRvIGRpc2N1c3MgeW91
+ciBwcm9ncmVzcy4KLS0gCkJlc3QgcmVnYXJkcywKSmVzc2ljYSBCcm9va3M=
+
+--===============5302045224060051479==--

@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============6307840647636203636=="
+MIME-Version: 1.0
+Received: from mx2.business.net (mx2.business.net [238.33.250.16])
+	by mx.company.com with ESMTP id hslVZhRXn0XFAC5H
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Ronald Watson <ronald.watson@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 16:34:04 -0000
+Message-ID: <c1vVcdUFDljLdJgmyRxmhyeD@services.io>
+
+--===============6307840647636203636==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBmaW5kIGF0dGFjaGVkIHRoZSBhZ2VuZGEgZm9yIHRoZSB1cGNv
+bWluZyBtZWV0aW5nLgpUaGUgY2FmZXRlcmlhIG1lbnUgaGFzIGJlZW4gdXBkYXRlZCB3aXRoIGhl
+YWx0aGllciBvcHRpb25zLgpXZSBoYXZlIHVwZGF0ZWQgb3VyIHByaXZhY3kgcG9saWN5LgpUaGUg
+cGVyZm9ybWFuY2UgcmV2aWV3IG1lZXRpbmdzIHdpbGwgY29tbWVuY2UgbmV4dCBNb25kYXkuCldl
+IG5lZWQgdG8gZmluYWxpemUgdGhlIGJ1ZGdldCBhbGxvY2F0aW9ucyBieSBlbmQgb2YgdGhpcyB3
+ZWVrLgpQbGVhc2UgZW5zdXJlIHRpbWVseSBzdWJtaXNzaW9uIG9mIHByb2plY3QgZGVsaXZlcmFi
+bGVzLgpDb25ncmF0dWxhdGlvbnMgb24geW91ciByZWNlbnQgYWNoaWV2ZW1lbnQhClBsZWFzZSBz
+dWJtaXQgeW91ciBsZWF2ZSByZXF1ZXN0cyBpbiBhZHZhbmNlLgpSZW1pbmRlcjogVGhlIHF1YXJ0
+ZXJseSBtZWV0aW5nIGlzIHNjaGVkdWxlZCBmb3IgbmV4dCBXZWRuZXNkYXkuClRoYW5rIHlvdSBm
+b3IgYXR0ZW5kaW5nIHRoZSBzZW1pbmFyIGxhc3Qgd2Vlay4KWW91ciBmZWVkYmFjayBvbiB0aGUg
+cmVjZW50IGNoYW5nZXMgaXMgaGlnaGx5IGFwcHJlY2lhdGVkLgpQbGVhc2Ugd2VsY29tZSBvdXIg
+bmV3IHBhcnRuZXIgdG8gdGhlIG9yZ2FuaXphdGlvbi4KWW91ciBleHBlcnRpc2UgaXMgcmVxdWVz
+dGVkIG9uIHRoZSB1cGNvbWluZyBwcm9qZWN0LgpQbGVhc2Ugc2VuZCB5b3VyIGZlZWRiYWNrIG9u
+IHRoZSBwcm9wb3NlZCBjaGFuZ2VzLgpXZSBhcmUgaG9zdGluZyBhIGNoYXJpdHkgZXZlbnQgbmV4
+dCB3ZWVrLgpXZSBoYXZlIHNlY3VyZWQgYSBuZXcgY29udHJhY3Qgd2l0aCBhIG1ham9yIGNsaWVu
+dC4KUGxlYXNlIGpvaW4gbWUgaW4gd2VsY29taW5nIHRoZSBuZXcgbWVtYmVycyB0byBvdXIgdGVh
+bS4KLS0gCkJlc3QgcmVnYXJkcywKUm9uYWxkIFdhdHNvbg==
+
+--===============6307840647636203636==--

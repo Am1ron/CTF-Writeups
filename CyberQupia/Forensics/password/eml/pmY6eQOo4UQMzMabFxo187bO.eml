@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============4107474861169947511=="
+MIME-Version: 1.0
+Received: from mx4.winter.com (mx4.winter.com [79.185.49.158])
+	by mx.company.com with ESMTP id 7KyVXREits4dy3f3
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: Timothy Taylor <timothy.taylor@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 19:45:30 -0000
+Message-ID: <pmY6eQOo4UQMzMabFxo187bO@solutions.biz>
+
+--===============4107474861169947511==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkkgYXBwcmVjaWF0ZSB5b3VyIHByb21wdCBhdHRlbnRpb24gdG8gdGhpcyBt
+YXR0ZXIuCldlIHdpbGwgYmUgbWlncmF0aW5nIHRvIGEgbmV3IGVtYWlsIHN5c3RlbS4KV2UgaGF2
+ZSBsYXVuY2hlZCBhbiBlbXBsb3llZSByZWNvZ25pdGlvbiBwcm9ncmFtLgpXZSBhcHByZWNpYXRl
+IHlvdXIgY29tbWl0bWVudCB0byBxdWFsaXR5IGFuZCBleGNlbGxlbmNlLgpUaGUgbmV3IHBvbGlj
+eSB3aWxsIGJlIGVmZmVjdGl2ZSBmcm9tIG5leHQgbW9udGguClRoYW5rIHlvdSBmb3IgYXR0ZW5k
+aW5nIHRoZSBzZW1pbmFyIGxhc3Qgd2Vlay4KLS0gCkJlc3QgcmVnYXJkcywKVGltb3RoeSBUYXls
+b3I=
+
+--===============4107474861169947511==--

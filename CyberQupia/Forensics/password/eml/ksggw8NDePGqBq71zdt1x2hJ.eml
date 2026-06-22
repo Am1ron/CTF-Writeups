@@ -1,0 +1,40 @@
+Content-Type: multipart/mixed; boundary="===============1442446954325095989=="
+MIME-Version: 1.0
+Received: from mx4.enterprise.org (mx4.enterprise.org [171.105.21.108])
+	by mx.company.com with ESMTP id JyRcNxQkfhc7sLxQ
+Received: from mx3.yahoo.com (mx3.yahoo.com [42.14.204.71])
+	by mx.company.com with ESMTP id FF11xkNs6S6vUkyY
+Received: from mx2.corp.com (mx2.corp.com [212.235.115.35])
+	by mx.company.com with ESMTP id ZKcJXdE9oqRvV17g
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Mark Scott <mark.scott@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 16 Sep 2024 16:07:51 -0000
+Message-ID: <ksggw8NDePGqBq71zdt1x2hJ@yahoo.com>
+
+--===============1442446954325095989==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIG5lZWQgdG8gZmluYWxpemUgdGhlIGJ1ZGdldCBhbGxvY2F0aW9ucyBi
+eSBlbmQgb2YgdGhpcyB3ZWVrLgpQbGVhc2UgcmVmcmFpbiBmcm9tIHVzaW5nIHBlcnNvbmFsIGRl
+dmljZXMgZm9yIHdvcmsgZW1haWxzLgpXZSBoYXZlIGEgZ3Vlc3Qgc3BlYWtlciBqb2luaW5nIHVz
+IG5leHQgd2Vlay4KUGxlYXNlIGVuc3VyZSB0aW1lbHkgc3VibWlzc2lvbiBvZiBwcm9qZWN0IGRl
+bGl2ZXJhYmxlcy4KUGxlYXNlIGpvaW4gbWUgaW4gd2VsY29taW5nIHRoZSBuZXcgbWVtYmVycyB0
+byBvdXIgdGVhbS4KUGxlYXNlIHN1Ym1pdCB5b3VyIGV4cGVuc2UgcmVwb3J0cyBieSB0aGUgZW5k
+IG9mIHRoZSBkYXkuCldlIGFyZSBleGNpdGVkIGFib3V0IHRoZSB1cGNvbWluZyBwcm9kdWN0IGRl
+bW8uCkxldCdzIHNjaGVkdWxlIGEgb25lLW9uLW9uZSBtZWV0aW5nIHRvIGRpc2N1c3MgeW91ciBw
+cm9ncmVzcy4KWW91ciBleHBlcnRpc2UgaXMgcmVxdWVzdGVkIG9uIHRoZSB1cGNvbWluZyBwcm9q
+ZWN0LgpJIGFwcHJlY2lhdGUgeW91ciBwcm9tcHQgYXR0ZW50aW9uIHRvIHRoaXMgbWF0dGVyLgpQ
+bGVhc2Ugd2VsY29tZSBvdXIgbmV3IGludGVybnMgam9pbmluZyB0aGUgdGVhbS4KUGxlYXNlIHRh
+a2Ugbm90ZSBvZiB0aGUgbmV3IG9mZmljZSBob3Vycy4KV2UgYXJlIGV4cGFuZGluZyBvdXIgb3Bl
+cmF0aW9ucyB0byBuZXcgcmVnaW9ucy4KUGxlYXNlIHdlbGNvbWUgb3VyIG5ldyBDRU8sIHdobyB3
+aWxsIGJlIGpvaW5pbmcgdXMgbmV4dCBtb250aC4KS2luZGx5IHVwZGF0ZSB0aGUgZG9jdW1lbnRh
+dGlvbiB3aXRoIHRoZSBsYXRlc3QgaW5mb3JtYXRpb24uCkxldCBtZSBrbm93IGlmIHlvdSBoYXZl
+IGFueSBxdWVzdGlvbnMgb3IgY29uY2VybnMuCi0tIApCZXN0IHJlZ2FyZHMsCk1hcmsgU2NvdHQ=
+
+--===============1442446954325095989==--

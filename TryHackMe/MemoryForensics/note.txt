@@ -1,0 +1,6 @@
+vol -f <file.vmem> windows.info - to identify and analyze OS
+vol -f <file.vmem> windows.pslist - to look at what programs were running.
+vol -f <file>.vmem windows.psscan - to see hidden process
+vol -f <file.vmem> windows.hashdump - a quick way to get a password hash
+vol -f Snapshot19_1609159453792.vmem windows.cmdline - to see command line
+vol -f Snapshot19_1609159453792.vmem windows.memmap --pid 1920 --dump - to get damp only cmd.exe

@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============3591808481541290838=="
+MIME-Version: 1.0
+Received: from mx3.solutions.biz (mx3.solutions.biz [151.75.88.193])
+	by mx.company.com with ESMTP id ZxFxhzkZDgBqzrCu
+Received: from mx5.gmail.com (mx5.gmail.com [241.245.49.2])
+	by mx.company.com with ESMTP id CrsFB9uvtxxvKB9c
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Elizabeth Baker <elizabeth.baker@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sun, 22 Sep 2024 02:26:28 -0000
+Message-ID: <XBkFhWX19uArYG1uE4bwxl0M@yahoo.com>
+
+--===============3591808481541290838==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkxldOKAmXMgY29vcmRpbmF0ZSB0byBlbnN1cmUgYSBzbW9vdGggdHJhbnNp
+dGlvbi4KWW91ciBkZXBhcnRtZW50IGhhcyBleGNlZWRlZCBpdHMgcGVyZm9ybWFuY2UgdGFyZ2V0
+cy4KV2UgaGF2ZSB1cGRhdGVkIG91ciBwcml2YWN5IHBvbGljeS4KQWxsIHN0YWZmIGFyZSBpbnZp
+dGVkIHRvIHRoZSB0b3duIGhhbGwgbWVldGluZy4KVGhlIHRyYWluaW5nIHNlc3Npb24gaGFzIGJl
+ZW4gcmVzY2hlZHVsZWQgdG8gRnJpZGF5LgpZb3VyIGxlYWRlcnNoaXAgaW4gdGhlIHByb2plY3Qg
+aXMgY29tbWVuZGFibGUuCllvdXIgY29udHJpYnV0aW9uIGhhcyBiZWVuIGluc3RydW1lbnRhbCBp
+biB0aGlzIHByb2plY3TigJlzIHN1Y2Nlc3MuClBsZWFzZSByZXBvcnQgYW55IG1haW50ZW5hbmNl
+IGlzc3VlcyBwcm9tcHRseS4KUGxlYXNlIGNvbXBsZXRlIHRoZSBjeWJlcnNlY3VyaXR5IHRyYWlu
+aW5nIG1vZHVsZS4KUGxlYXNlIGF2b2lkIHNjaGVkdWxpbmcgbWVldGluZ3MgZHVyaW5nIGx1bmNo
+IGhvdXJzLgpUaGUgY2FmZXRlcmlhIG1lbnUgaGFzIGJlZW4gdXBkYXRlZCB3aXRoIGhlYWx0aGll
+ciBvcHRpb25zLgpXZSBhcHByZWNpYXRlIHlvdXIgY29tbWl0bWVudCB0byBxdWFsaXR5IGFuZCBl
+eGNlbGxlbmNlLgpUaGUgY29tcGFueSBuZXdzbGV0dGVyIGhhcyBiZWVuIHB1Ymxpc2hlZC4KVGhl
+IGxhdGVzdCBzb2Z0d2FyZSB1cGRhdGVzIGhhdmUgYmVlbiBpbnN0YWxsZWQuClRoZXJlIHdpbGwg
+YmUgYW4gb2ZmaWNlIGNsZWFudXAgZGF5IHRoaXMgRnJpZGF5LgpQbGVhc2UgYXR0ZW5kIHRoZSBk
+aXZlcnNpdHkgYW5kIGluY2x1c2lvbiB3b3Jrc2hvcC4KUGxlYXNlIGFzc2lzdCBpbiBvbmJvYXJk
+aW5nIHRoZSBuZXcgaGlyZXMuCi0tIApCZXN0IHJlZ2FyZHMsCkVsaXphYmV0aCBCYWtlcg==
+
+--===============3591808481541290838==--

@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============2308911711066816532=="
+MIME-Version: 1.0
+Received: from mx2.enterprise.org (mx2.enterprise.org [137.53.126.116])
+	by mx.company.com with ESMTP id wIIjhcsXJDT6BbG6
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Kimberly Gray <kimberly.gray@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 07:25:22 -0000
+Message-ID: <4J8i2Ogowtj0632KsBzzt5nb@mail.com>
+
+--===============2308911711066816532==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoYW5rIHlvdSBmb3IgeW91ciBwcm9tcHQgcmVzcG9uc2UuCllvdXIgYWN0
+aW9uIGlzIHJlcXVpcmVkIG9uIHRoZSBwZW5kaW5nIHRhc2tzLgpXZSBoYXZlIHJlY2VpdmVkIHRo
+ZSBzaGlwbWVudCBvZiBuZXcgb2ZmaWNlIHN1cHBsaWVzLgpXZSBhcmUgY29uZHVjdGluZyBhIHN1
+cnZleSBvbiByZW1vdGUgd29yayBwcmVmZXJlbmNlcy4KTmV3IHBhcmtpbmcgcmVndWxhdGlvbnMg
+d2lsbCBiZSBpbiBlZmZlY3QgZnJvbSBNb25kYXkuCldlIGFyZSBleGNpdGVkIGFib3V0IHRoZSB1
+cGNvbWluZyBwcm9kdWN0IGRlbW8uClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgaW50ZXJucyBqb2lu
+aW5nIHRoZSB0ZWFtLgpUaGFuayB5b3UgZm9yIHlvdXIgY29udGludW91cyBzdXBwb3J0IGFuZCBk
+ZWRpY2F0aW9uLgotLSAKQmVzdCByZWdhcmRzLApLaW1iZXJseSBHcmF5
+
+--===============2308911711066816532==--

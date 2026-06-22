@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="===============6831076085293334337=="
+MIME-Version: 1.0
+Received: from mx2.yahoo.com (mx2.yahoo.com [52.46.57.14])
+	by mx.company.com with ESMTP id N1ZYTRS9gtauNLp4
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Ryan Green <ryan.green@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 19:18:28 -0000
+Message-ID: <BIrWy7UcFsL6Bf70iiNavUMX@yahoo.com>
+
+--===============6831076085293334337==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBib2FyZCBtZWV0aW5nIG1pbnV0ZXMgaGF2ZSBiZWVuIHVwbG9hZGVk
+IHRvIHRoZSBzaGFyZWQgZHJpdmUuClBsZWFzZSByZWZyYWluIGZyb20gdXNpbmcgcGVyc29uYWwg
+ZGV2aWNlcyBmb3Igd29yayBlbWFpbHMuClBsZWFzZSBqb2luIG1lIGluIHdlbGNvbWluZyB0aGUg
+bmV3IG1lbWJlcnMgdG8gb3VyIHRlYW0uClByb2plY3QgZGVhZGxpbmVzIGhhdmUgYmVlbiBhZGp1
+c3RlZCBkdWUgdG8gdW5mb3Jlc2VlbiBjaXJjdW1zdGFuY2VzLgpLaW5kbHkgdXBkYXRlIHRoZSBk
+b2N1bWVudGF0aW9uIHdpdGggdGhlIGxhdGVzdCBpbmZvcm1hdGlvbi4KUGxlYXNlIHJldmlldyB0
+aGUgYXR0YWNoZWQgY2xpZW50IGZlZWRiYWNrLgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IHBhcnRu
+ZXIgdG8gdGhlIG9yZ2FuaXphdGlvbi4KLS0gCkJlc3QgcmVnYXJkcywKUnlhbiBHcmVlbg==
+
+--===============6831076085293334337==--

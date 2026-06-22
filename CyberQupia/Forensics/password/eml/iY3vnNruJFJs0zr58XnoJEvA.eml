@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============5446334801324668080=="
+MIME-Version: 1.0
+Received: from mx4.services.io (mx4.services.io [143.135.132.215])
+	by mx.company.com with ESMTP id zgxC75D8L5o2KzMl
+Received: from mx2.gmail.com (mx2.gmail.com [55.173.215.210])
+	by mx.company.com with ESMTP id AjkcAllrwEa7OAcM
+Received: from mx2.mail.com (mx2.mail.com [31.165.1.169])
+	by mx.company.com with ESMTP id 28qqiLm3i7Q6ZRZa
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Christopher Phillips <christopher.phillips@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 03:26:03 -0000
+Message-ID: <iY3vnNruJFJs0zr58XnoJEvA@winter.com>
+
+--===============5446334801324668080==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBib2FyZCBtZWV0aW5nIG1pbnV0ZXMgaGF2ZSBiZWVuIHVwbG9hZGVk
+IHRvIHRoZSBzaGFyZWQgZHJpdmUuCldlIGFwcHJlY2lhdGUgeW91ciBjb21taXRtZW50IHRvIHF1
+YWxpdHkgYW5kIGV4Y2VsbGVuY2UuClBsZWFzZSBjb21wbGV0ZSB0aGUgbWFuZGF0b3J5IHRyYWlu
+aW5nIG1vZHVsZXMuClByb2plY3QgZGVhZGxpbmVzIGhhdmUgYmVlbiBhZGp1c3RlZCBkdWUgdG8g
+dW5mb3Jlc2VlbiBjaXJjdW1zdGFuY2VzLgpSZW1pbmRlcjogVGhlIHF1YXJ0ZXJseSBtZWV0aW5n
+IGlzIHNjaGVkdWxlZCBmb3IgbmV4dCBXZWRuZXNkYXkuClBsZWFzZSBmYW1pbGlhcml6ZSB5b3Vy
+c2VsZiB3aXRoIHRoZSB1cGRhdGVkIGd1aWRlbGluZXMuCkNvbmdyYXR1bGF0aW9ucyBvbiB5b3Vy
+IHJlY2VudCBhY2hpZXZlbWVudCEKS2luZGx5IHVwZGF0ZSB0aGUgZG9jdW1lbnRhdGlvbiB3aXRo
+IHRoZSBsYXRlc3QgaW5mb3JtYXRpb24uCldlIGFyZSBpbml0aWF0aW5nIGEgbWVudG9yc2hpcCBw
+cm9ncmFtOyBkZXRhaWxzIHRvIGZvbGxvdy4KUGxlYXNlIHN1Ym1pdCBub21pbmF0aW9ucyBmb3Ig
+dGhlIGVtcGxveWVlIG9mIHRoZSBtb250aC4KUGxlYXNlIHN1Ym1pdCB5b3VyIGV4cGVuc2UgcmVw
+b3J0cyBieSB0aGUgZW5kIG9mIHRoZSBkYXkuClBsZWFzZSBlbnN1cmUgYWxsIHRoZSBjb21wbGlh
+bmNlIHJlcXVpcmVtZW50cyBhcmUgbWV0LgpIZWFsdGggYW5kIHNhZmV0eSBpbnNwZWN0aW9ucyBh
+cmUgc2NoZWR1bGVkIGZvciBuZXh0IHdlZWsuCi0tIApCZXN0IHJlZ2FyZHMsCkNocmlzdG9waGVy
+IFBoaWxsaXBz
+
+--===============5446334801324668080==--

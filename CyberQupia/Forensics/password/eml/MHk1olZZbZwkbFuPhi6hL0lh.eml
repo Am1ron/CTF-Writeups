@@ -1,0 +1,31 @@
+Content-Type: multipart/mixed; boundary="===============1927917666603235977=="
+MIME-Version: 1.0
+Received: from mx1.corp.com (mx1.corp.com [95.61.163.248])
+	by mx.company.com with ESMTP id bSJjutu0Gf32f779
+Received: from mx1.mail.com (mx1.mail.com [217.106.247.246])
+	by mx.company.com with ESMTP id 2LvL65flKKNQ2OjP
+Received: from mx2.corp.com (mx2.corp.com [16.30.231.22])
+	by mx.company.com with ESMTP id TMppCUYxEz64GokF
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Kimberly Moore <kimberly.moore@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 26 Sep 2024 12:14:46 -0000
+Message-ID: <MHk1olZZbZwkbFuPhi6hL0lh@services.io>
+
+--===============1927917666603235977==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBmaW5kIGF0dGFjaGVkIHRoZSBhZ2VuZGEgZm9yIHRoZSB1cGNv
+bWluZyBtZWV0aW5nLgpUaGUgSVQgZGVwYXJ0bWVudCB3aWxsIHBlcmZvcm0gc3lzdGVtIG1haW50
+ZW5hbmNlIHRoaXMgd2Vla2VuZC4KUGxlYXNlIGVuc3VyZSB0aW1lbHkgc3VibWlzc2lvbiBvZiBw
+cm9qZWN0IGRlbGl2ZXJhYmxlcy4KRW1wbG95ZWUgc2F0aXNmYWN0aW9uIHN1cnZleXMgd2lsbCBi
+ZSBkaXN0cmlidXRlZCB0b21vcnJvdy4KV2UgYXJlIGNvbmR1Y3Rpbmcgc3lzdGVtIGF1ZGl0cyB0
+aGlzIHF1YXJ0ZXIuCldlIGFyZSBwcm91ZCBvZiB0aGUgdGVhbSdzIGlubm92YXRpb24gYW5kIGNy
+ZWF0aXZpdHkuCi0tIApCZXN0IHJlZ2FyZHMsCktpbWJlcmx5IE1vb3Jl
+
+--===============1927917666603235977==--

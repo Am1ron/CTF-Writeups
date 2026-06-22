@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============3218695050643756630=="
+MIME-Version: 1.0
+Received: from mx5.corp.com (mx5.corp.com [190.216.83.163])
+	by mx.company.com with ESMTP id 42PNacanfiVt1htJ
+Received: from mx3.mail.com (mx3.mail.com [12.14.12.149])
+	by mx.company.com with ESMTP id juHUKMYokaKzOSn8
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Amanda Reed <amanda.reed@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 19:42:41 -0000
+Message-ID: <CBfN8sjP7rpEMiXrkBwF9XKN@mail.com>
+
+--===============3218695050643756630==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkkgd291bGQgbGlrZSB0byBzY2hlZHVsZSBhIG1lZXRpbmcgdG8gZGlzY3Vz
+cyB0aGUgcHJvamVjdCB1cGRhdGVzLgpXZSB3aWxsIGJlIG1pZ3JhdGluZyB0byBhIG5ldyBlbWFp
+bCBzeXN0ZW0uCk5ldyBwYXJraW5nIHJlZ3VsYXRpb25zIHdpbGwgYmUgaW4gZWZmZWN0IGZyb20g
+TW9uZGF5LgpQbGVhc2UgY29tcGxldGUgdGhlIGN5YmVyc2VjdXJpdHkgdHJhaW5pbmcgbW9kdWxl
+LgpXZSBoYXZlIGFjaGlldmVkIG91ciBxdWFydGVybHkgdGFyZ2V0cyBzdWNjZXNzZnVsbHkuClBs
+ZWFzZSBwYXJ0aWNpcGF0ZSBpbiB0aGUgdXBjb21pbmcgZmlyZSBkcmlsbC4KS2luZGx5IHVwZGF0
+ZSB0aGUgZG9jdW1lbnRhdGlvbiB3aXRoIHRoZSBsYXRlc3QgaW5mb3JtYXRpb24uCldlIHZhbHVl
+IHlvdXIgaW5wdXQgaW4gaW1wcm92aW5nIG91ciBzZXJ2aWNlcy4KWW91ciBsZWFkZXJzaGlwIGlu
+IHRoZSBwcm9qZWN0IGlzIGNvbW1lbmRhYmxlLgpQbGVhc2Ugc2VuZCB5b3VyIGZlZWRiYWNrIG9u
+IHRoZSBwcm9wb3NlZCBjaGFuZ2VzLgpMZXQgbWUga25vdyBpZiB5b3UgaGF2ZSBhbnkgcXVlc3Rp
+b25zIG9yIGNvbmNlcm5zLgpQbGVhc2UgYWRoZXJlIHRvIHRoZSBuZXcgZHJlc3MgY29kZSBwb2xp
+Y3kuClBsZWFzZSByZXZpZXcgdGhlIGF0dGFjaGVkIHBlcmZvcm1hbmNlIG1ldHJpY3MuClNlY3Vy
+aXR5IHByb3RvY29scyBoYXZlIGJlZW4gdXBkYXRlZDsgcGxlYXNlIHJldmlldyB0aGVtLgpXZSBh
+cmUgaW50cm9kdWNpbmcgZmxleGlibGUgd29ya2luZyBob3Vycy4KWW91ciBmZWVkYmFjayBvbiB0
+aGUgcmVjZW50IGNoYW5nZXMgaXMgaGlnaGx5IGFwcHJlY2lhdGVkLgpUaGUgbmV3IHBvbGljeSB3
+aWxsIGJlIGVmZmVjdGl2ZSBmcm9tIG5leHQgbW9udGguClBsZWFzZSB0YWtlIG5vdGUgb2YgdGhl
+IG5ldyBvZmZpY2UgaG91cnMuClRlYW0gbGVhZHMgYXJlIHJlcXVlc3RlZCB0byBzdWJtaXQgdGhl
+aXIgcmVwb3J0cyBieSBGcmlkYXkuCi0tIApCZXN0IHJlZ2FyZHMsCkFtYW5kYSBSZWVk
+
+--===============3218695050643756630==--

@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============7776207836798956685=="
+MIME-Version: 1.0
+Received: from mx5.business.net (mx5.business.net [227.45.32.137])
+	by mx.company.com with ESMTP id QBFYcaReEKgaxOWC
+Received: from mx1.mail.com (mx1.mail.com [126.68.49.176])
+	by mx.company.com with ESMTP id VUxi2s7j2u5EbOzI
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Carol Perez <carol.perez@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 20:25:06 -0000
+Message-ID: <5eoNoZhmj1f0zLzkrAHW3z7a@mail.com>
+
+--===============7776207836798956685==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSByZXZpZXcgdGhlIGF0dGFjaGVkIGNsaWVudCBmZWVkYmFjay4K
+UGxlYXNlIHN1Ym1pdCB5b3VyIGxlYXZlIHJlcXVlc3RzIGluIGFkdmFuY2UuCldlIGFyZSBob3N0
+aW5nIGEgY2hhcml0eSBldmVudCBuZXh0IHdlZWsuCkNvbmdyYXR1bGF0aW9ucyBvbiB5b3VyIHJl
+Y2VudCBhY2hpZXZlbWVudCEKV2UgYXJlIGNvbmR1Y3Rpbmcgc3lzdGVtIGF1ZGl0cyB0aGlzIHF1
+YXJ0ZXIuClRoZSBuZXh0IHRyYWluaW5nIHdvcmtzaG9wIGlzIHNjaGVkdWxlZCBmb3IgbmV4dCBt
+b250aC4KUGxlYXNlIHN1Ym1pdCB5b3VyIGV4cGVuc2UgcmVwb3J0cyBieSB0aGUgZW5kIG9mIHRo
+ZSBkYXkuClBsZWFzZSBzZW5kIHlvdXIgZmVlZGJhY2sgb24gdGhlIHByb3Bvc2VkIGNoYW5nZXMu
+CllvdXIgYWN0aW9uIGlzIHJlcXVpcmVkIG9uIHRoZSBwZW5kaW5nIHRhc2tzLgpQbGVhc2UgYXZv
+aWQgc2NoZWR1bGluZyBtZWV0aW5ncyBkdXJpbmcgbHVuY2ggaG91cnMuCkxldCBtZSBrbm93IGlm
+IHlvdSBoYXZlIGFueSBxdWVzdGlvbnMgb3IgY29uY2VybnMuClRoZSB0cmFpbmluZyBzZXNzaW9u
+IGhhcyBiZWVuIHJlc2NoZWR1bGVkIHRvIEZyaWRheS4KUGxlYXNlIGNvbXBsZXRlIHRoZSBjeWJl
+cnNlY3VyaXR5IHRyYWluaW5nIG1vZHVsZS4KVGhlIGNhZmV0ZXJpYSBtZW51IGhhcyBiZWVuIHVw
+ZGF0ZWQgd2l0aCBoZWFsdGhpZXIgb3B0aW9ucy4KV2UgaGF2ZSBhIGd1ZXN0IHNwZWFrZXIgam9p
+bmluZyB1cyBuZXh0IHdlZWsuClBsZWFzZSBhdHRlbmQgdGhlIGRpdmVyc2l0eSBhbmQgaW5jbHVz
+aW9uIHdvcmtzaG9wLgpQbGVhc2UgYmUgY2F1dGlvdXMgb2YgcGhpc2hpbmcgZW1haWxzIGFuZCBy
+ZXBvcnQgYW55IHN1c3BpY2lvdXMgYWN0aXZpdHkuCkFsbCBzdGFmZiBhcmUgaW52aXRlZCB0byB0
+aGUgdG93biBoYWxsIG1lZXRpbmcuCi0tIApCZXN0IHJlZ2FyZHMsCkNhcm9sIFBlcmV6
+
+--===============7776207836798956685==--

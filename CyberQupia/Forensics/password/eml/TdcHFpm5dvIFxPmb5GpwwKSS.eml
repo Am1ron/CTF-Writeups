@@ -1,0 +1,34 @@
+Content-Type: multipart/mixed; boundary="===============5171396604038169313=="
+MIME-Version: 1.0
+Received: from mx5.corp.com (mx5.corp.com [13.160.29.52])
+	by mx.company.com with ESMTP id WGwj6fTGVgUu0bHA
+Received: from mx3.winter.com (mx3.winter.com [66.171.87.55])
+	by mx.company.com with ESMTP id v03zAICgJlbipIH2
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Sandra Cooper <sandra.cooper@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 06:56:56 -0000
+Message-ID: <TdcHFpm5dvIFxPmb5GpwwKSS@build.co>
+
+--===============5171396604038169313==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBwcm91ZCBvZiB0aGUgdGVhbSdzIGlubm92YXRpb24gYW5kIGNy
+ZWF0aXZpdHkuCkNvbmdyYXR1bGF0aW9ucyBvbiB5b3VyIHJlY2VudCBhY2hpZXZlbWVudCEKUGxl
+YXNlIGNvbXBsZXRlIHRoZSBtYW5kYXRvcnkgdHJhaW5pbmcgbW9kdWxlcy4KV2UgdmFsdWUgeW91
+ciBpbnB1dCBpbiBpbXByb3Zpbmcgb3VyIHNlcnZpY2VzLgpMZXTigJlzIHN0cml2ZSB0byBleGNl
+ZWQgb3VyIGdvYWxzIGZvciB0aGlzIGZpc2NhbCB5ZWFyLgpUaGUgbGF0ZXN0IHNvZnR3YXJlIHVw
+ZGF0ZXMgaGF2ZSBiZWVuIGluc3RhbGxlZC4KSSB3b3VsZCBsaWtlIHRvIHNjaGVkdWxlIGEgbWVl
+dGluZyB0byBkaXNjdXNzIHRoZSBwcm9qZWN0IHVwZGF0ZXMuClRoYW5rIHlvdSBmb3IgeW91ciBj
+b250aW51b3VzIHN1cHBvcnQgYW5kIGRlZGljYXRpb24uCldlIGhhdmUgc2VjdXJlZCBhIG5ldyBj
+b250cmFjdCB3aXRoIGEgbWFqb3IgY2xpZW50LgpUaGUgYW5udWFsIGNvbXBhbnkgcmV0cmVhdCBp
+cyBjb21pbmcgdXA7IHBsZWFzZSBSU1ZQLgpXZSBhcmUgY29uZHVjdGluZyBhIHN1cnZleSBvbiBy
+ZW1vdGUgd29yayBwcmVmZXJlbmNlcy4KTGV04oCZcyBjb29yZGluYXRlIHRvIGVuc3VyZSBhIHNt
+b290aCB0cmFuc2l0aW9uLgpQbGVhc2Ugb2JzZXJ2ZSBzaWxlbmNlIGluIGRlc2lnbmF0ZWQgcXVp
+ZXQgem9uZXMuCi0tIApCZXN0IHJlZ2FyZHMsClNhbmRyYSBDb29wZXI=
+
+--===============5171396604038169313==--

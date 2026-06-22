@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============1019727283159758451=="
+MIME-Version: 1.0
+Received: from mx3.services.io (mx3.services.io [63.175.179.120])
+	by mx.company.com with ESMTP id gK91z1t5JP0e5uL4
+Received: from mx1.gmail.com (mx1.gmail.com [16.202.113.193])
+	by mx.company.com with ESMTP id GbCzV8hnmDE1BnvP
+Authentication-Results: company.com; dkim=pass header.d=enterprise.org;
+ spf=pass smtp.mailfrom=enterprise.org;
+ dmarc=pass action=none header.from=enterprise.org
+From: Daniel Garcia <daniel.garcia@enterprise.org>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 03:02:12 -0000
+Message-ID: <W7CZr2zxGN2SMxlRvKPLLK0Z@enterprise.org>
+
+--===============1019727283159758451==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCllvdXIgZGVwYXJ0bWVudCBoYXMgZXhjZWVkZWQgaXRzIHBlcmZvcm1hbmNl
+IHRhcmdldHMuCldlIGFyZSBleHBsb3JpbmcgbmV3IG1hcmtldCBvcHBvcnR1bml0aWVzLgpUaGFu
+ayB5b3UgZm9yIGF0dGVuZGluZyB0aGUgc2VtaW5hciBsYXN0IHdlZWsuClRoZSB0cmFpbmluZyBz
+ZXNzaW9uIGhhcyBiZWVuIHJlc2NoZWR1bGVkIHRvIEZyaWRheS4KUGxlYXNlIHdlbGNvbWUgb3Vy
+IG5ldyBwYXJ0bmVyIHRvIHRoZSBvcmdhbml6YXRpb24uCkNsaWVudCBwcmVzZW50YXRpb25zIGFy
+ZSBzY2hlZHVsZWQgZm9yIG5leHQgVGh1cnNkYXkuClNlY3VyaXR5IHByb3RvY29scyBoYXZlIGJl
+ZW4gdXBkYXRlZDsgcGxlYXNlIHJldmlldyB0aGVtLgpXZSB2YWx1ZSB5b3VyIGlucHV0IGluIGlt
+cHJvdmluZyBvdXIgc2VydmljZXMuClBsZWFzZSBhdHRlbmQgdGhlIGRpdmVyc2l0eSBhbmQgaW5j
+bHVzaW9uIHdvcmtzaG9wLgpMZXTigJlzIHN0cml2ZSB0byBleGNlZWQgb3VyIGdvYWxzIGZvciB0
+aGlzIGZpc2NhbCB5ZWFyLgpQbGVhc2UgZW5zdXJlIGFsbCB0aGUgY29tcGxpYW5jZSByZXF1aXJl
+bWVudHMgYXJlIG1ldC4KSGVhbHRoIGFuZCBzYWZldHkgaW5zcGVjdGlvbnMgYXJlIHNjaGVkdWxl
+ZCBmb3IgbmV4dCB3ZWVrLgpUaGFuayB5b3UgZm9yIHlvdXIgcGF0aWVuY2UgZHVyaW5nIHRoZSBz
+eXN0ZW0gZG93bnRpbWUuClBsZWFzZSBmaW5kIGF0dGFjaGVkIHRoZSBhZ2VuZGEgZm9yIHRoZSB1
+cGNvbWluZyBtZWV0aW5nLgpCdWRnZXQgcGxhbm5pbmcgZm9yIG5leHQgeWVhciB3aWxsIGJlZ2lu
+IHNvb24uCi0tIApCZXN0IHJlZ2FyZHMsCkRhbmllbCBHYXJjaWE=
+
+--===============1019727283159758451==--

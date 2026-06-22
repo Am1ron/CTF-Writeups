@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============6009091509443867832=="
+MIME-Version: 1.0
+Received: from mx5.corp.com (mx5.corp.com [57.159.52.199])
+	by mx.company.com with ESMTP id V2A4PDcz2CTNtd4p
+Received: from mx2.services.io (mx2.services.io [201.144.59.47])
+	by mx.company.com with ESMTP id ApkrGwZN1s45S3JB
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Joshua James <joshua.james@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sun, 22 Sep 2024 11:39:56 -0000
+Message-ID: <uoSM7oSbeV6dMSSJAifLu9y6@winter.com>
+
+--===============6009091509443867832==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBuZXcgcG9saWN5IHdpbGwgYmUgZWZmZWN0aXZlIGZyb20gbmV4dCBt
+b250aC4KVGhlIG9mZmljZSB3aWxsIGJlIGNsb3NlZCBuZXh0IEZyaWRheSBmb3IgYSBwdWJsaWMg
+aG9saWRheS4KVGVhbSBsZWFkcyBhcmUgcmVxdWVzdGVkIHRvIHN1Ym1pdCB0aGVpciByZXBvcnRz
+IGJ5IEZyaWRheS4KVGhlIGJvYXJkIG1lZXRpbmcgbWludXRlcyBoYXZlIGJlZW4gdXBsb2FkZWQg
+dG8gdGhlIHNoYXJlZCBkcml2ZS4KV2UgYXJlIGV4Y2l0ZWQgdG8gYW5ub3VuY2UgdGhlIGxhdW5j
+aCBvZiBvdXIgbmV3IHByb2R1Y3QgbGluZS4KUGxlYXNlIHBhcnRpY2lwYXRlIGluIHRoZSB1cGNv
+bWluZyBmaXJlIGRyaWxsLgpIb2xpZGF5IHNjaGVkdWxlcyBoYXZlIGJlZW4gcG9zdGVkIG9uIHRo
+ZSBjb21wYW55IHBvcnRhbC4KUGxlYXNlIHdlbGNvbWUgb3VyIG5ldyBDRU8sIHdobyB3aWxsIGJl
+IGpvaW5pbmcgdXMgbmV4dCBtb250aC4KT3VyIGNsaWVudHMgaGF2ZSBwcm92aWRlZCBwb3NpdGl2
+ZSBmZWVkYmFjayBvbiB0aGUgZGVsaXZlcmFibGVzLgpDbGllbnQgcHJlc2VudGF0aW9ucyBhcmUg
+c2NoZWR1bGVkIGZvciBuZXh0IFRodXJzZGF5LgpUaGFuayB5b3UgZm9yIHlvdXIgcGF0aWVuY2Ug
+ZHVyaW5nIHRoZSBzeXN0ZW0gZG93bnRpbWUuClBsZWFzZSBlbnN1cmUgYWxsIHRoZSBjb21wbGlh
+bmNlIHJlcXVpcmVtZW50cyBhcmUgbWV0LgpFbXBsb3llZSBzYXRpc2ZhY3Rpb24gc3VydmV5cyB3
+aWxsIGJlIGRpc3RyaWJ1dGVkIHRvbW9ycm93LgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IGludGVy
+bnMgam9pbmluZyB0aGUgdGVhbS4KV2UgYXJlIHJldmlzaW5nIG91ciBzdHJhdGVnaWMgb2JqZWN0
+aXZlcy4KVGhhbmsgeW91IGZvciB5b3VyIGNvbnRpbnVvdXMgc3VwcG9ydCBhbmQgZGVkaWNhdGlv
+bi4KLS0gCkJlc3QgcmVnYXJkcywKSm9zaHVhIEphbWVz
+
+--===============6009091509443867832==--

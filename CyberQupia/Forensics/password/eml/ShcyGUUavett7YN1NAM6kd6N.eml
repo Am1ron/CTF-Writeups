@@ -1,0 +1,29 @@
+Content-Type: multipart/mixed; boundary="===============6780217470896926403=="
+MIME-Version: 1.0
+Received: from mx3.yahoo.com (mx3.yahoo.com [139.46.180.161])
+	by mx.company.com with ESMTP id LeIk5jDu0NEKahO5
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Paul James <paul.james@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 16 Sep 2024 22:37:36 -0000
+Message-ID: <ShcyGUUavett7YN1NAM6kd6N@business.net>
+
+--===============6780217470896926403==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIG5lZWQgdG8gZmluYWxpemUgdGhlIGJ1ZGdldCBhbGxvY2F0aW9ucyBi
+eSBlbmQgb2YgdGhpcyB3ZWVrLgpDbGllbnQgcHJlc2VudGF0aW9ucyBhcmUgc2NoZWR1bGVkIGZv
+ciBuZXh0IFRodXJzZGF5LgpUaGFuayB5b3UgZm9yIHlvdXIgaGFyZCB3b3JrIG9uIHRoZSByZWNl
+bnQgcHJvamVjdC4KVGhlcmUgd2lsbCBiZSBhbiBvZmZpY2UgY2xlYW51cCBkYXkgdGhpcyBGcmlk
+YXkuClRoZSBjYWZldGVyaWEgbWVudSBoYXMgYmVlbiB1cGRhdGVkIHdpdGggaGVhbHRoaWVyIG9w
+dGlvbnMuClRoZSBib2FyZCBtZWV0aW5nIG1pbnV0ZXMgaGF2ZSBiZWVuIHVwbG9hZGVkIHRvIHRo
+ZSBzaGFyZWQgZHJpdmUuCkxldOKAmXMgc3RyaXZlIHRvIGV4Y2VlZCBvdXIgZ29hbHMgZm9yIHRo
+aXMgZmlzY2FsIHllYXIuCk5ldyBwYXJraW5nIHJlZ3VsYXRpb25zIHdpbGwgYmUgaW4gZWZmZWN0
+IGZyb20gTW9uZGF5LgotLSAKQmVzdCByZWdhcmRzLApQYXVsIEphbWVz
+
+--===============6780217470896926403==--

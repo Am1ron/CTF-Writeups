@@ -1,0 +1,33 @@
+Content-Type: multipart/mixed; boundary="===============1034698033240380059=="
+MIME-Version: 1.0
+Received: from mx4.winter.com (mx4.winter.com [78.235.251.250])
+	by mx.company.com with ESMTP id iQZiBRuLD7qseWq5
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Anthony Rodriguez <anthony.rodriguez@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 04:04:23 -0000
+Message-ID: <yskuV0UweZpV7A3CHx6VHmC0@yahoo.com>
+
+--===============1034698033240380059==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoYW5rIHlvdSBmb3IgeW91ciBjb250aW51b3VzIHN1cHBvcnQgYW5kIGRl
+ZGljYXRpb24uClBsZWFzZSByZXBvcnQgYW55IG1haW50ZW5hbmNlIGlzc3VlcyBwcm9tcHRseS4K
+V2UgaGF2ZSB1cGRhdGVkIHRoZSBoZWFsdGggaW5zdXJhbmNlIHBsYW5zLgpQbGVhc2Ugam9pbiB0
+aGUgd2ViaW5hciBvbiBpbmR1c3RyeSB0cmVuZHMgdG9tb3Jyb3cuCldlIGFyZSBpbnRyb2R1Y2lu
+ZyBmbGV4aWJsZSB3b3JraW5nIGhvdXJzLgpMZXQgbWUga25vdyBpZiB5b3UgaGF2ZSBhbnkgcXVl
+c3Rpb25zIG9yIGNvbmNlcm5zLgpQbGVhc2UgZW5zdXJlIHRpbWVseSBzdWJtaXNzaW9uIG9mIHBy
+b2plY3QgZGVsaXZlcmFibGVzLgpXZSBoYXZlIHNlY3VyZWQgYSBuZXcgY29udHJhY3Qgd2l0aCBh
+IG1ham9yIGNsaWVudC4KUmVtaW5kZXI6IFRoZSBxdWFydGVybHkgbWVldGluZyBpcyBzY2hlZHVs
+ZWQgZm9yIG5leHQgV2VkbmVzZGF5LgpXZSBhcmUgaW1wbGVtZW50aW5nIGEgbmV3IGN1c3RvbWVy
+IHJlbGF0aW9uc2hpcCBtYW5hZ2VtZW50IHN5c3RlbS4KUGxlYXNlIG9ic2VydmUgdGhlIG5ldyBz
+YW5pdGF0aW9uIHByb3RvY29scy4KUGxlYXNlIG9ic2VydmUgc2lsZW5jZSBpbiBkZXNpZ25hdGVk
+IHF1aWV0IHpvbmVzLgpQbGVhc2UgcmV2aWV3IHRoZSBhdHRhY2hlZCBjbGllbnQgZmVlZGJhY2su
+Ci0tIApCZXN0IHJlZ2FyZHMsCkFudGhvbnkgUm9kcmlndWV6
+
+--===============1034698033240380059==--

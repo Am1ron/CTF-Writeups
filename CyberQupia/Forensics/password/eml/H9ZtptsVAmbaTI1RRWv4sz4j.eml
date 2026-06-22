@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============1935577721348103120=="
+MIME-Version: 1.0
+Received: from mx1.services.io (mx1.services.io [79.247.48.98])
+	by mx.company.com with ESMTP id ITkUUZuKieZH2oID
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Timothy Morris <timothy.morris@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 19:00:37 -0000
+Message-ID: <H9ZtptsVAmbaTI1RRWv4sz4j@business.net>
+
+--===============1935577721348103120==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgc2NoZWR1bGVkIGEgdmlydHVhbCBjb2ZmZWUgY2hhdCBmb3Ig
+dGVhbSBidWlsZGluZy4KRW1wbG95ZWUgc2F0aXNmYWN0aW9uIHN1cnZleXMgd2lsbCBiZSBkaXN0
+cmlidXRlZCB0b21vcnJvdy4KUmVtaW5kZXI6IFRoZSBxdWFydGVybHkgbWVldGluZyBpcyBzY2hl
+ZHVsZWQgZm9yIG5leHQgV2VkbmVzZGF5LgpXZSBhcmUgcGxhbm5pbmcgYSB0ZWFtLWJ1aWxkaW5n
+IGV2ZW50IG5leHQgbW9udGguClRoZSBib2FyZCBtZWV0aW5nIG1pbnV0ZXMgaGF2ZSBiZWVuIHVw
+bG9hZGVkIHRvIHRoZSBzaGFyZWQgZHJpdmUuClByb2plY3QgZGVhZGxpbmVzIGhhdmUgYmVlbiBh
+ZGp1c3RlZCBkdWUgdG8gdW5mb3Jlc2VlbiBjaXJjdW1zdGFuY2VzLgpQbGVhc2Ugb2JzZXJ2ZSBz
+aWxlbmNlIGluIGRlc2lnbmF0ZWQgcXVpZXQgem9uZXMuCkxldCBtZSBrbm93IGlmIHlvdSBoYXZl
+IGFueSBxdWVzdGlvbnMgb3IgY29uY2VybnMuClBsZWFzZSBjb21wbGV0ZSB0aGUgY3liZXJzZWN1
+cml0eSB0cmFpbmluZyBtb2R1bGUuClBsZWFzZSBlbnN1cmUgdGltZWx5IHN1Ym1pc3Npb24gb2Yg
+cHJvamVjdCBkZWxpdmVyYWJsZXMuClBsZWFzZSByZXZpZXcgdGhlIGF0dGFjaGVkIGNsaWVudCBm
+ZWVkYmFjay4KT3VyIHN1c3RhaW5hYmlsaXR5IHJlcG9ydCBoYXMgYmVlbiBwdWJsaXNoZWQ7IHBs
+ZWFzZSByZWFkIGl0LgpUaGFuayB5b3UgZm9yIHlvdXIgcGF0aWVuY2UgZHVyaW5nIHRoZSBzeXN0
+ZW0gZG93bnRpbWUuCktpbmRseSB1cGRhdGUgdGhlIGRvY3VtZW50YXRpb24gd2l0aCB0aGUgbGF0
+ZXN0IGluZm9ybWF0aW9uLgpUaGUgdHJhaW5pbmcgc2Vzc2lvbiBoYXMgYmVlbiByZXNjaGVkdWxl
+ZCB0byBGcmlkYXkuClRoZSBwZXJmb3JtYW5jZSByZXZpZXcgbWVldGluZ3Mgd2lsbCBjb21tZW5j
+ZSBuZXh0IE1vbmRheS4KUGxlYXNlIHNlbmQgeW91ciBmZWVkYmFjayBvbiB0aGUgcHJvcG9zZWQg
+Y2hhbmdlcy4KT3VyIGNsaWVudHMgaGF2ZSBwcm92aWRlZCBwb3NpdGl2ZSBmZWVkYmFjayBvbiB0
+aGUgZGVsaXZlcmFibGVzLgpZb3VyIGxlYWRlcnNoaXAgaW4gdGhlIHByb2plY3QgaXMgY29tbWVu
+ZGFibGUuCldlIGFyZSByZXZpc2luZyBvdXIgc3RyYXRlZ2ljIG9iamVjdGl2ZXMuCi0tIApCZXN0
+IHJlZ2FyZHMsClRpbW90aHkgTW9ycmlz
+
+--===============1935577721348103120==--

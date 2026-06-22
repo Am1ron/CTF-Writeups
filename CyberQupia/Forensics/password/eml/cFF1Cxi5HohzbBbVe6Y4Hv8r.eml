@@ -1,0 +1,40 @@
+Content-Type: multipart/mixed; boundary="===============1952211154022184854=="
+MIME-Version: 1.0
+Received: from mx2.business.net (mx2.business.net [8.129.103.112])
+	by mx.company.com with ESMTP id q5V76gZOC8amMwkC
+Received: from mx2.business.net (mx2.business.net [116.108.21.51])
+	by mx.company.com with ESMTP id OUqw9nTezYhhM3UE
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Cynthia Rivera <cynthia.rivera@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 23:55:01 -0000
+Message-ID: <cFF1Cxi5HohzbBbVe6Y4Hv8r@business.net>
+
+--===============1952211154022184854==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBleGNpdGVkIHRvIGFubm91bmNlIHRoZSBsYXVuY2ggb2Ygb3Vy
+IG5ldyBwcm9kdWN0IGxpbmUuClRoZSBwZXJmb3JtYW5jZSByZXZpZXcgbWVldGluZ3Mgd2lsbCBj
+b21tZW5jZSBuZXh0IE1vbmRheS4KUGxlYXNlIGVuc3VyZSBhbGwgdGhlIGNvbXBsaWFuY2UgcmVx
+dWlyZW1lbnRzIGFyZSBtZXQuCkkgYXBwcmVjaWF0ZSB5b3VyIHByb21wdCBhdHRlbnRpb24gdG8g
+dGhpcyBtYXR0ZXIuClByb2plY3QgZGVhZGxpbmVzIGhhdmUgYmVlbiBhZGp1c3RlZCBkdWUgdG8g
+dW5mb3Jlc2VlbiBjaXJjdW1zdGFuY2VzLgpUaGFuayB5b3UgZm9yIHlvdXIgcGF0aWVuY2UgZHVy
+aW5nIHRoZSBzeXN0ZW0gZG93bnRpbWUuClRoZSB0cmFpbmluZyBzZXNzaW9uIGhhcyBiZWVuIHJl
+c2NoZWR1bGVkIHRvIEZyaWRheS4KV2UgYXJlIHJldmlzaW5nIG91ciBzdHJhdGVnaWMgb2JqZWN0
+aXZlcy4KSGVhbHRoIGFuZCBzYWZldHkgaW5zcGVjdGlvbnMgYXJlIHNjaGVkdWxlZCBmb3IgbmV4
+dCB3ZWVrLgpXZSBoYXZlIGEgZ3Vlc3Qgc3BlYWtlciBqb2luaW5nIHVzIG5leHQgd2Vlay4KQWxs
+IHN0YWZmIGFyZSBpbnZpdGVkIHRvIHRoZSB0b3duIGhhbGwgbWVldGluZy4KUGxlYXNlIHJlcG9y
+dCBhbnkgbWFpbnRlbmFuY2UgaXNzdWVzIHByb21wdGx5LgpPdXIgc3VzdGFpbmFiaWxpdHkgcmVw
+b3J0IGhhcyBiZWVuIHB1Ymxpc2hlZDsgcGxlYXNlIHJlYWQgaXQuCldlIGFyZSBleHBsb3Jpbmcg
+bmV3IG1hcmtldCBvcHBvcnR1bml0aWVzLgpXZSBhcmUgZXhwYW5kaW5nIG91ciBvcGVyYXRpb25z
+IHRvIG5ldyByZWdpb25zLgpQbGVhc2UgYXZvaWQgc2NoZWR1bGluZyBtZWV0aW5ncyBkdXJpbmcg
+bHVuY2ggaG91cnMuCldlIGhhdmUgaW50cm9kdWNlZCBhIG5ldyBiZW5lZml0cyBwYWNrYWdlIGZv
+ciBlbXBsb3llZXMuClBsZWFzZSBqb2luIHRoZSB3ZWJpbmFyIG9uIGluZHVzdHJ5IHRyZW5kcyB0
+b21vcnJvdy4KLS0gCkJlc3QgcmVnYXJkcywKQ3ludGhpYSBSaXZlcmE=
+
+--===============1952211154022184854==--

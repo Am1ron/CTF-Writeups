@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============2146160607587778683=="
+MIME-Version: 1.0
+Received: from mx3.build.co (mx3.build.co [77.113.222.138])
+	by mx.company.com with ESMTP id Ll6z1tMqDZyAHvsZ
+Received: from mx5.winter.com (mx5.winter.com [20.204.230.139])
+	by mx.company.com with ESMTP id AJzv0qZY4FKxeqri
+Received: from mx3.enterprise.org (mx3.enterprise.org [142.20.107.28])
+	by mx.company.com with ESMTP id 1L4CetAKH49VizHQ
+Authentication-Results: company.com; dkim=pass header.d=corp.com;
+ spf=pass smtp.mailfrom=corp.com; dmarc=pass action=none header.from=corp.com
+From: Melissa Martinez <melissa.martinez@corp.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sun, 22 Sep 2024 06:16:46 -0000
+Message-ID: <OMEN3zYSbKmlPRPtS2erAWzk@corp.com>
+
+--===============2146160607587778683==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgaW50cm9kdWNlZCBhIG5ldyBiZW5lZml0cyBwYWNrYWdlIGZv
+ciBlbXBsb3llZXMuClBsZWFzZSBvYnNlcnZlIHNpbGVuY2UgaW4gZGVzaWduYXRlZCBxdWlldCB6
+b25lcy4KVGhhbmsgeW91IGZvciB5b3VyIGNvbnRpbnVvdXMgc3VwcG9ydCBhbmQgZGVkaWNhdGlv
+bi4KVGhhbmsgeW91IGZvciB5b3VyIHByb21wdCByZXNwb25zZS4KVGhlIGxhdGVzdCBzb2Z0d2Fy
+ZSB1cGRhdGVzIGhhdmUgYmVlbiBpbnN0YWxsZWQuCk91ciBjbGllbnRzIGhhdmUgcHJvdmlkZWQg
+cG9zaXRpdmUgZmVlZGJhY2sgb24gdGhlIGRlbGl2ZXJhYmxlcy4KV2UgbmVlZCB0byBmaW5hbGl6
+ZSB0aGUgYnVkZ2V0IGFsbG9jYXRpb25zIGJ5IGVuZCBvZiB0aGlzIHdlZWsuClRoZSBvZmZpY2Ug
+a2l0Y2hlbiB3aWxsIGJlIHJlbm92YXRlZCBvdmVyIHRoZSB3ZWVrZW5kLgpZb3VyIGFjdGlvbiBp
+cyByZXF1aXJlZCBvbiB0aGUgcGVuZGluZyB0YXNrcy4KV2UgYXJlIGV4Y2l0ZWQgYWJvdXQgdGhl
+IHVwY29taW5nIHByb2R1Y3QgZGVtby4KV2UgYXJlIGhvc3RpbmcgYSBjaGFyaXR5IGV2ZW50IG5l
+eHQgd2Vlay4KWW91ciBmZWVkYmFjayBvbiB0aGUgcmVjZW50IGNoYW5nZXMgaXMgaGlnaGx5IGFw
+cHJlY2lhdGVkLgpQbGVhc2Ugc3VibWl0IHlvdXIgZXhwZW5zZSByZXBvcnRzIGJ5IHRoZSBlbmQg
+b2YgdGhlIGRheS4KUGxlYXNlIGFkaGVyZSB0byB0aGUgbmV3IGRyZXNzIGNvZGUgcG9saWN5LgpU
+aGUgb2ZmaWNlIHdpbGwgYmUgY2xvc2VkIG5leHQgRnJpZGF5IGZvciBhIHB1YmxpYyBob2xpZGF5
+LgpUaGFuayB5b3UgZm9yIHlvdXIgcGF0aWVuY2UgZHVyaW5nIHRoZSBzeXN0ZW0gZG93bnRpbWUu
+Ci0tIApCZXN0IHJlZ2FyZHMsCk1lbGlzc2EgTWFydGluZXo=
+
+--===============2146160607587778683==--

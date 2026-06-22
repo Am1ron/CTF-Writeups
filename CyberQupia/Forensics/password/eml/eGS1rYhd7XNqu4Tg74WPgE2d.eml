@@ -1,0 +1,30 @@
+Content-Type: multipart/mixed; boundary="===============2901229845340658266=="
+MIME-Version: 1.0
+Received: from mx1.winter.com (mx1.winter.com [92.57.53.16])
+	by mx.company.com with ESMTP id ouS8KxF9jXmThlYN
+Received: from mx3.business.net (mx3.business.net [39.197.28.216])
+	by mx.company.com with ESMTP id oS1tqcEN8JexaymN
+Received: from mx4.build.co (mx4.build.co [244.134.64.114])
+	by mx.company.com with ESMTP id zWwCC1s41vZbCfNg
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Sandra Reed <sandra.reed@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 06:22:45 -0000
+Message-ID: <eGS1rYhd7XNqu4Tg74WPgE2d@yahoo.com>
+
+--===============2901229845340658266==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBpbml0aWF0aW5nIGEgbWVudG9yc2hpcCBwcm9ncmFtOyBkZXRh
+aWxzIHRvIGZvbGxvdy4KQ2xpZW50IHByZXNlbnRhdGlvbnMgYXJlIHNjaGVkdWxlZCBmb3IgbmV4
+dCBUaHVyc2RheS4KUGxlYXNlIG9ic2VydmUgc2lsZW5jZSBpbiBkZXNpZ25hdGVkIHF1aWV0IHpv
+bmVzLgpQbGVhc2Ugam9pbiBtZSBpbiB3ZWxjb21pbmcgdGhlIG5ldyBtZW1iZXJzIHRvIG91ciB0
+ZWFtLgpUaGUgYW5udWFsIGNvbXBhbnkgcmV0cmVhdCBpcyBjb21pbmcgdXA7IHBsZWFzZSBSU1ZQ
+LgotLSAKQmVzdCByZWdhcmRzLApTYW5kcmEgUmVlZA==
+
+--===============2901229845340658266==--

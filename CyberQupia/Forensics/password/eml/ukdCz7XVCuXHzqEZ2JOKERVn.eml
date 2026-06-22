@@ -1,0 +1,32 @@
+Content-Type: multipart/mixed; boundary="===============5686726958143942775=="
+MIME-Version: 1.0
+Received: from mx3.services.io (mx3.services.io [64.122.163.168])
+	by mx.company.com with ESMTP id 4Ow5NPlJxEjLduMV
+Received: from mx5.solutions.biz (mx5.solutions.biz [50.37.254.251])
+	by mx.company.com with ESMTP id phXf47I3II0tO6tZ
+Received: from mx4.build.co (mx4.build.co [45.200.33.255])
+	by mx.company.com with ESMTP id dTWsXoMhghGlpar4
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Donna Reed <donna.reed@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 06:09:54 -0000
+Message-ID: <ukdCz7XVCuXHzqEZ2JOKERVn@services.io>
+
+--===============5686726958143942775==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoYW5rIHlvdSBmb3IgeW91ciBoYXJkIHdvcmsgb24gdGhlIHJlY2VudCBw
+cm9qZWN0LgpQbGVhc2UgcHJvdmlkZSB5b3VyIGF2YWlsYWJpbGl0eSBmb3IgdGhlIG5leHQgdHdv
+IHdlZWtzLgpXZSBoYXZlIGxhdW5jaGVkIGFuIGVtcGxveWVlIHJlY29nbml0aW9uIHByb2dyYW0u
+ClRoZSBvZmZpY2Ugd2lsbCBiZSBjbG9zZWQgbmV4dCBGcmlkYXkgZm9yIGEgcHVibGljIGhvbGlk
+YXkuClRlYW0gbGVhZHMgYXJlIHJlcXVlc3RlZCB0byBzdWJtaXQgdGhlaXIgcmVwb3J0cyBieSBG
+cmlkYXkuClRoZSBhbm51YWwgY29tcGFueSByZXRyZWF0IGlzIGNvbWluZyB1cDsgcGxlYXNlIFJT
+VlAuCldlIGFyZSBleHBhbmRpbmcgb3VyIG9wZXJhdGlvbnMgdG8gbmV3IHJlZ2lvbnMuCi0tIApC
+ZXN0IHJlZ2FyZHMsCkRvbm5hIFJlZWQ=
+
+--===============5686726958143942775==--

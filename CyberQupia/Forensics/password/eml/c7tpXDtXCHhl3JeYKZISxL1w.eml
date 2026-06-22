@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============6599356667641275585=="
+MIME-Version: 1.0
+Received: from mx4.services.io (mx4.services.io [159.100.243.202])
+	by mx.company.com with ESMTP id kBxD1axPDezxAmOQ
+Received: from mx2.build.co (mx2.build.co [48.149.140.198])
+	by mx.company.com with ESMTP id RSr4ChtDOMYBdubH
+Received: from mx5.solutions.biz (mx5.solutions.biz [168.158.226.4])
+	by mx.company.com with ESMTP id 3nGe1RmFVp07yhmd
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: John Peterson <john.peterson@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 05:30:24 -0000
+Message-ID: <c7tpXDtXCHhl3JeYKZISxL1w@mail.com>
+
+--===============6599356667641275585==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgcGFydG5lciB0byB0aGUgb3JnYW5p
+emF0aW9uLgpUaGFuayB5b3UgZm9yIHlvdXIgaGFyZCB3b3JrIG9uIHRoZSByZWNlbnQgcHJvamVj
+dC4KV2UgYXJlIGluaXRpYXRpbmcgYSBtZW50b3JzaGlwIHByb2dyYW07IGRldGFpbHMgdG8gZm9s
+bG93LgpXZSBoYXZlIGxhdW5jaGVkIGFuIGVtcGxveWVlIHJlY29nbml0aW9uIHByb2dyYW0uCldl
+IGFyZSBleGNpdGVkIHRvIGFubm91bmNlIHRoZSBsYXVuY2ggb2Ygb3VyIG5ldyBwcm9kdWN0IGxp
+bmUuCldlIHdpbGwgYmUgbWlncmF0aW5nIHRvIGEgbmV3IGVtYWlsIHN5c3RlbS4KUGxlYXNlIGNv
+bXBsZXRlIHRoZSBtYW5kYXRvcnkgdHJhaW5pbmcgbW9kdWxlcy4KQWxsIHN0YWZmIGFyZSBpbnZp
+dGVkIHRvIHRoZSB0b3duIGhhbGwgbWVldGluZy4KUGxlYXNlIGpvaW4gdGhlIHdlYmluYXIgb24g
+aW5kdXN0cnkgdHJlbmRzIHRvbW9ycm93LgpFbXBsb3llZSBzYXRpc2ZhY3Rpb24gc3VydmV5cyB3
+aWxsIGJlIGRpc3RyaWJ1dGVkIHRvbW9ycm93LgpMZXTigJlzIGNvb3JkaW5hdGUgdG8gZW5zdXJl
+IGEgc21vb3RoIHRyYW5zaXRpb24uCldlIGFwcHJlY2lhdGUgeW91ciBjb21taXRtZW50IHRvIHF1
+YWxpdHkgYW5kIGV4Y2VsbGVuY2UuClBsZWFzZSBkaXNwb3NlIG9mIGNvbmZpZGVudGlhbCBkb2N1
+bWVudHMgc2VjdXJlbHkuClRoYW5rIHlvdSBmb3IgeW91ciBjb250aW51b3VzIHN1cHBvcnQgYW5k
+IGRlZGljYXRpb24uClBsZWFzZSBhdm9pZCBzY2hlZHVsaW5nIG1lZXRpbmdzIGR1cmluZyBsdW5j
+aCBob3Vycy4KVGVhbSBsZWFkcyBhcmUgcmVxdWVzdGVkIHRvIHN1Ym1pdCB0aGVpciByZXBvcnRz
+IGJ5IEZyaWRheS4KV2UgYXJlIGV4cGxvcmluZyBuZXcgbWFya2V0IG9wcG9ydHVuaXRpZXMuClRo
+YW5rIHlvdSBmb3IgeW91ciBwYXRpZW5jZSBkdXJpbmcgdGhlIHN5c3RlbSBkb3dudGltZS4KLS0g
+CkJlc3QgcmVnYXJkcywKSm9obiBQZXRlcnNvbg==
+
+--===============6599356667641275585==--

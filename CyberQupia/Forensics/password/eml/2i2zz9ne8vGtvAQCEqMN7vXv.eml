@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============6760415447616338482=="
+MIME-Version: 1.0
+Received: from mx4.gmail.com (mx4.gmail.com [220.168.14.31])
+	by mx.company.com with ESMTP id AbSlLQg8U3kJMaLZ
+Received: from mx4.mail.com (mx4.mail.com [224.214.145.48])
+	by mx.company.com with ESMTP id GJDQmtHLrnerTlX6
+Received: from mx1.gmail.com (mx1.gmail.com [212.253.84.142])
+	by mx.company.com with ESMTP id WBIutvrxS0qIMLGR
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Steven Anderson <steven.anderson@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 18:52:27 -0000
+Message-ID: <2i2zz9ne8vGtvAQCEqMN7vXv@services.io>
+
+--===============6760415447616338482==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSB1cGdyYWRpbmcgb3VyIGhhcmR3YXJlIGluZnJhc3RydWN0dXJl
+LgpXZSBoYXZlIHVwZGF0ZWQgb3VyIHByaXZhY3kgcG9saWN5LgpZb3VyIGRlcGFydG1lbnQgaGFz
+IGV4Y2VlZGVkIGl0cyBwZXJmb3JtYW5jZSB0YXJnZXRzLgpQbGVhc2UgZmFtaWxpYXJpemUgeW91
+cnNlbGYgd2l0aCB0aGUgdXBkYXRlZCBndWlkZWxpbmVzLgpXZSBhcmUgaG9zdGluZyBhIGNoYXJp
+dHkgZXZlbnQgbmV4dCB3ZWVrLgpQbGVhc2Ugc2VuZCB5b3VyIGZlZWRiYWNrIG9uIHRoZSBwcm9w
+b3NlZCBjaGFuZ2VzLgpXZSBhcmUgY29uZHVjdGluZyBhIHN1cnZleSBvbiByZW1vdGUgd29yayBw
+cmVmZXJlbmNlcy4KV2UgbmVlZCB0byBmaW5hbGl6ZSB0aGUgYnVkZ2V0IGFsbG9jYXRpb25zIGJ5
+IGVuZCBvZiB0aGlzIHdlZWsuCldlIGhhdmUgYWNoaWV2ZWQgb3VyIHF1YXJ0ZXJseSB0YXJnZXRz
+IHN1Y2Nlc3NmdWxseS4KUGxlYXNlIHBhcnRpY2lwYXRlIGluIHRoZSB1cGNvbWluZyBmaXJlIGRy
+aWxsLgpXZSBoYXZlIHNjaGVkdWxlZCBhIHZpcnR1YWwgY29mZmVlIGNoYXQgZm9yIHRlYW0gYnVp
+bGRpbmcuCkkgYXBwcmVjaWF0ZSB5b3VyIHByb21wdCBhdHRlbnRpb24gdG8gdGhpcyBtYXR0ZXIu
+CldlIGFyZSBjb25kdWN0aW5nIHN5c3RlbSBhdWRpdHMgdGhpcyBxdWFydGVyLgpQbGVhc2UgYmUg
+YWR2aXNlZCBvZiB0aGUgY2hhbmdlcyBpbiB0aGUgY29tcGFueSBwb2xpY3kuCllvdXIgYWN0aW9u
+IGlzIHJlcXVpcmVkIG9uIHRoZSBwZW5kaW5nIHRhc2tzLgotLSAKQmVzdCByZWdhcmRzLApTdGV2
+ZW4gQW5kZXJzb24=
+
+--===============6760415447616338482==--

@@ -1,0 +1,30 @@
+Content-Type: multipart/mixed; boundary="===============7393993206407774137=="
+MIME-Version: 1.0
+Received: from mx4.build.co (mx4.build.co [88.93.114.184])
+	by mx.company.com with ESMTP id KkmluxjfZ5maoYD4
+Received: from mx4.solutions.biz (mx4.solutions.biz [132.252.162.129])
+	by mx.company.com with ESMTP id 7JwZjkDQxdtwPiON
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Anthony Martin <anthony.martin@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 25 Sep 2024 19:20:20 -0000
+Message-ID: <63PrKWR9xCKXqexjW6PzufAB@winter.com>
+
+--===============7393993206407774137==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSByZXZpZXcgdGhlIGF0dGFjaGVkIHBlcmZvcm1hbmNlIG1ldHJp
+Y3MuClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgcGFydG5lciB0byB0aGUgb3JnYW5pemF0aW9uLgpU
+aGUgdHJhaW5pbmcgc2Vzc2lvbiBoYXMgYmVlbiByZXNjaGVkdWxlZCB0byBGcmlkYXkuCkNsaWVu
+dCBwcmVzZW50YXRpb25zIGFyZSBzY2hlZHVsZWQgZm9yIG5leHQgVGh1cnNkYXkuCldlIHdpbGwg
+YmUgbWlncmF0aW5nIHRvIGEgbmV3IGVtYWlsIHN5c3RlbS4KVGVhbSBsZWFkcyBhcmUgcmVxdWVz
+dGVkIHRvIHN1Ym1pdCB0aGVpciByZXBvcnRzIGJ5IEZyaWRheS4KUGxlYXNlIHJlZnJhaW4gZnJv
+bSB1c2luZyBwZXJzb25hbCBkZXZpY2VzIGZvciB3b3JrIGVtYWlscy4KLS0gCkJlc3QgcmVnYXJk
+cywKQW50aG9ueSBNYXJ0aW4=
+
+--===============7393993206407774137==--

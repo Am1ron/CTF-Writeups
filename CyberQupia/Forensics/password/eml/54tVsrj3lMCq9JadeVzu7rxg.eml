@@ -1,0 +1,43 @@
+Content-Type: multipart/mixed; boundary="===============0401117267400820225=="
+MIME-Version: 1.0
+Received: from mx3.corp.com (mx3.corp.com [127.102.42.73])
+	by mx.company.com with ESMTP id kYvqG6tWPndSTZUY
+Received: from mx4.solutions.biz (mx4.solutions.biz [179.76.71.33])
+	by mx.company.com with ESMTP id CGm0DKwcyBVMSaE1
+Received: from mx3.gmail.com (mx3.gmail.com [83.175.185.155])
+	by mx.company.com with ESMTP id BRp7Ngcm9sUKmgvd
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Susan King <susan.king@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 11:19:10 -0000
+Message-ID: <54tVsrj3lMCq9JadeVzu7rxg@build.co>
+
+--===============0401117267400820225==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBvYnNlcnZlIHNpbGVuY2UgaW4gZGVzaWduYXRlZCBxdWlldCB6
+b25lcy4KSG9saWRheSBzY2hlZHVsZXMgaGF2ZSBiZWVuIHBvc3RlZCBvbiB0aGUgY29tcGFueSBw
+b3J0YWwuCldlIGhhdmUgYSBndWVzdCBzcGVha2VyIGpvaW5pbmcgdXMgbmV4dCB3ZWVrLgpZb3Vy
+IGxlYWRlcnNoaXAgaW4gdGhlIHByb2plY3QgaXMgY29tbWVuZGFibGUuClRoZSBvZmZpY2Uga2l0
+Y2hlbiB3aWxsIGJlIHJlbm92YXRlZCBvdmVyIHRoZSB3ZWVrZW5kLgpXZSBhcmUgdXBncmFkaW5n
+IG91ciBoYXJkd2FyZSBpbmZyYXN0cnVjdHVyZS4KWW91ciBkZXBhcnRtZW50IGhhcyBleGNlZWRl
+ZCBpdHMgcGVyZm9ybWFuY2UgdGFyZ2V0cy4KQ29uZ3JhdHVsYXRpb25zIG9uIHlvdXIgcmVjZW50
+IGFjaGlldmVtZW50IQpUaGUgYW5udWFsIGNvbXBhbnkgcmV0cmVhdCBpcyBjb21pbmcgdXA7IHBs
+ZWFzZSBSU1ZQLgpQbGVhc2UgcmVmcmFpbiBmcm9tIHVzaW5nIHBlcnNvbmFsIGRldmljZXMgZm9y
+IHdvcmsgZW1haWxzLgpXZSBhcHByZWNpYXRlIHlvdXIgY29tbWl0bWVudCB0byBxdWFsaXR5IGFu
+ZCBleGNlbGxlbmNlLgpUaGFuayB5b3UgZm9yIHlvdXIgcGF0aWVuY2UgZHVyaW5nIHRoZSBzeXN0
+ZW0gZG93bnRpbWUuCldlIGFyZSBleHBsb3JpbmcgbmV3IG1hcmtldCBvcHBvcnR1bml0aWVzLgpI
+ZWFsdGggYW5kIHNhZmV0eSBpbnNwZWN0aW9ucyBhcmUgc2NoZWR1bGVkIGZvciBuZXh0IHdlZWsu
+ClBsZWFzZSByZXZpZXcgdGhlIGF0dGFjaGVkIGNsaWVudCBmZWVkYmFjay4KVGhlIGJvYXJkIG1l
+ZXRpbmcgbWludXRlcyBoYXZlIGJlZW4gdXBsb2FkZWQgdG8gdGhlIHNoYXJlZCBkcml2ZS4KV2Ug
+YXJlIHJldmlzaW5nIG91ciBzdHJhdGVnaWMgb2JqZWN0aXZlcy4KUGxlYXNlIHdlbGNvbWUgb3Vy
+IG5ldyBpbnRlcm5zIGpvaW5pbmcgdGhlIHRlYW0uClRoZSBvZmZpY2Ugd2lsbCBiZSBjbG9zZWQg
+bmV4dCBGcmlkYXkgZm9yIGEgcHVibGljIGhvbGlkYXkuClRoZSB0cmFpbmluZyBzZXNzaW9uIGhh
+cyBiZWVuIHJlc2NoZWR1bGVkIHRvIEZyaWRheS4KLS0gCkJlc3QgcmVnYXJkcywKU3VzYW4gS2lu
+Zw==
+
+--===============0401117267400820225==--

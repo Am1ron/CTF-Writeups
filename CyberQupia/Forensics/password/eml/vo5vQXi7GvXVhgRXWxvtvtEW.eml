@@ -1,0 +1,31 @@
+Content-Type: multipart/mixed; boundary="===============8734957291519353684=="
+MIME-Version: 1.0
+Received: from mx1.services.io (mx1.services.io [150.11.36.239])
+	by mx.company.com with ESMTP id jGTLr1gioAEMHjTj
+Received: from mx2.enterprise.org (mx2.enterprise.org [222.29.90.79])
+	by mx.company.com with ESMTP id iucMZ9gwWJJHCn9A
+Received: from mx3.build.co (mx3.build.co [249.140.227.53])
+	by mx.company.com with ESMTP id aUZUEsyc0H31E5iI
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Charles Jackson <charles.jackson@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 10:16:36 -0000
+Message-ID: <vo5vQXi7GvXVhgRXWxvtvtEW@gmail.com>
+
+--===============8734957291519353684==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBlbnN1cmUgYWxsIHRoZSBjb21wbGlhbmNlIHJlcXVpcmVtZW50
+cyBhcmUgbWV0LgpXZSBhcmUgZXhjaXRlZCB0byBhbm5vdW5jZSB0aGUgbGF1bmNoIG9mIG91ciBu
+ZXcgcHJvZHVjdCBsaW5lLgpUaGFuayB5b3UgZm9yIHlvdXIgcHJvbXB0IHJlc3BvbnNlLgpQbGVh
+c2UgcmVwb3J0IGFueSBtYWludGVuYW5jZSBpc3N1ZXMgcHJvbXB0bHkuClBsZWFzZSBjb21wbGV0
+ZSB0aGUgY3liZXJzZWN1cml0eSB0cmFpbmluZyBtb2R1bGUuCkVtcGxveWVlIHNhdGlzZmFjdGlv
+biBzdXJ2ZXlzIHdpbGwgYmUgZGlzdHJpYnV0ZWQgdG9tb3Jyb3cuCi0tIApCZXN0IHJlZ2FyZHMs
+CkNoYXJsZXMgSmFja3Nvbg==
+
+--===============8734957291519353684==--

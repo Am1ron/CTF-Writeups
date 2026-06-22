@@ -1,0 +1,40 @@
+Content-Type: multipart/mixed; boundary="===============1065018682966195676=="
+MIME-Version: 1.0
+Received: from mx3.mail.com (mx3.mail.com [94.194.149.192])
+	by mx.company.com with ESMTP id UR51tZ1PrzVIIIz8
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Jacob Jackson <jacob.jackson@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 00:37:02 -0000
+Message-ID: <aLNBdvltN2SfokTob1TKcniE@yahoo.com>
+
+--===============1065018682966195676==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBzdWJtaXQgeW91ciBsZWF2ZSByZXF1ZXN0cyBpbiBhZHZhbmNl
+LgpQbGVhc2UgYmUgYWR2aXNlZCBvZiB0aGUgY2hhbmdlcyBpbiB0aGUgY29tcGFueSBwb2xpY3ku
+CldlIGFyZSByZXZpc2luZyBvdXIgc3RyYXRlZ2ljIG9iamVjdGl2ZXMuCldlIGFyZSBob3N0aW5n
+IGEgY2hhcml0eSBldmVudCBuZXh0IHdlZWsuCkFsbCBzdGFmZiBhcmUgaW52aXRlZCB0byB0aGUg
+dG93biBoYWxsIG1lZXRpbmcuClRoZSBjYWZldGVyaWEgbWVudSBoYXMgYmVlbiB1cGRhdGVkIHdp
+dGggaGVhbHRoaWVyIG9wdGlvbnMuClBsZWFzZSB0YWtlIG5vdGUgb2YgdGhlIG5ldyBvZmZpY2Ug
+aG91cnMuCllvdXIgZXhwZXJ0aXNlIGlzIHJlcXVlc3RlZCBvbiB0aGUgdXBjb21pbmcgcHJvamVj
+dC4KVGVhbSBsZWFkcyBhcmUgcmVxdWVzdGVkIHRvIHN1Ym1pdCB0aGVpciByZXBvcnRzIGJ5IEZy
+aWRheS4KRW1wbG95ZWUgc2F0aXNmYWN0aW9uIHN1cnZleXMgd2lsbCBiZSBkaXN0cmlidXRlZCB0
+b21vcnJvdy4KVGhlIG5ldyBwb2xpY3kgd2lsbCBiZSBlZmZlY3RpdmUgZnJvbSBuZXh0IG1vbnRo
+LgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IENFTywgd2hvIHdpbGwgYmUgam9pbmluZyB1cyBuZXh0
+IG1vbnRoLgpPdXIgY2xpZW50cyBoYXZlIHByb3ZpZGVkIHBvc2l0aXZlIGZlZWRiYWNrIG9uIHRo
+ZSBkZWxpdmVyYWJsZXMuCldlIGhhdmUgc2VjdXJlZCBhIG5ldyBjb250cmFjdCB3aXRoIGEgbWFq
+b3IgY2xpZW50LgpXZSBhcmUgZXhwYW5kaW5nIG91ciBvcGVyYXRpb25zIHRvIG5ldyByZWdpb25z
+LgpPdXIgc29jaWFsIG1lZGlhIHByZXNlbmNlIGlzIGdyb3dpbmc7IHBsZWFzZSBmb2xsb3cgdXMu
+CldlIGFyZSBpbnRyb2R1Y2luZyBmbGV4aWJsZSB3b3JraW5nIGhvdXJzLgpPdXIgc3VzdGFpbmFi
+aWxpdHkgcmVwb3J0IGhhcyBiZWVuIHB1Ymxpc2hlZDsgcGxlYXNlIHJlYWQgaXQuClBsZWFzZSBi
+ZSBjYXV0aW91cyBvZiBwaGlzaGluZyBlbWFpbHMgYW5kIHJlcG9ydCBhbnkgc3VzcGljaW91cyBh
+Y3Rpdml0eS4KVGhlIGFubnVhbCBjb21wYW55IHJldHJlYXQgaXMgY29taW5nIHVwOyBwbGVhc2Ug
+UlNWUC4KLS0gCkJlc3QgcmVnYXJkcywKSmFjb2IgSmFja3Nvbg==
+
+--===============1065018682966195676==--

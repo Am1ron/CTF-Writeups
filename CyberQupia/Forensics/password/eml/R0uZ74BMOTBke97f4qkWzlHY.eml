@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============9162344484191402988=="
+MIME-Version: 1.0
+Received: from mx5.build.co (mx5.build.co [31.147.142.222])
+	by mx.company.com with ESMTP id 5Vu2XHBwNCZLKXmk
+Received: from mx2.enterprise.org (mx2.enterprise.org [142.104.5.179])
+	by mx.company.com with ESMTP id 9NVBaqo6BLCZDwaa
+Received: from mx3.business.net (mx3.business.net [138.186.249.21])
+	by mx.company.com with ESMTP id 7Jwh3hVqkGP57gqD
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Ashley Ward <ashley.ward@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sun, 22 Sep 2024 16:43:49 -0000
+Message-ID: <R0uZ74BMOTBke97f4qkWzlHY@winter.com>
+
+--===============9162344484191402988==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCk91ciBjbGllbnRzIGhhdmUgcHJvdmlkZWQgcG9zaXRpdmUgZmVlZGJhY2sg
+b24gdGhlIGRlbGl2ZXJhYmxlcy4KUGxlYXNlIGRpc3Bvc2Ugb2YgY29uZmlkZW50aWFsIGRvY3Vt
+ZW50cyBzZWN1cmVseS4KV2UgYXJlIGluaXRpYXRpbmcgYSBtZW50b3JzaGlwIHByb2dyYW07IGRl
+dGFpbHMgdG8gZm9sbG93LgpQbGVhc2UgcmVmcmFpbiBmcm9tIHVzaW5nIHBlcnNvbmFsIGRldmlj
+ZXMgZm9yIHdvcmsgZW1haWxzLgpQbGVhc2UgYXNzaXN0IGluIG9uYm9hcmRpbmcgdGhlIG5ldyBo
+aXJlcy4KWW91ciBmZWVkYmFjayBvbiB0aGUgcmVjZW50IGNoYW5nZXMgaXMgaGlnaGx5IGFwcHJl
+Y2lhdGVkLgpLaW5kbHkgdXBkYXRlIHRoZSBkb2N1bWVudGF0aW9uIHdpdGggdGhlIGxhdGVzdCBp
+bmZvcm1hdGlvbi4KUGxlYXNlIHVwZGF0ZSB5b3VyIGNvbnRhY3QgaW5mb3JtYXRpb24gaW4gdGhl
+IGRpcmVjdG9yeS4KUGxlYXNlIG9ic2VydmUgc2lsZW5jZSBpbiBkZXNpZ25hdGVkIHF1aWV0IHpv
+bmVzLgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IGludGVybnMgam9pbmluZyB0aGUgdGVhbS4KVGhl
+IElUIGRlcGFydG1lbnQgd2lsbCBwZXJmb3JtIHN5c3RlbSBtYWludGVuYW5jZSB0aGlzIHdlZWtl
+bmQuClBsZWFzZSBzdWJtaXQgbm9taW5hdGlvbnMgZm9yIHRoZSBlbXBsb3llZSBvZiB0aGUgbW9u
+dGguClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgcGFydG5lciB0byB0aGUgb3JnYW5pemF0aW9uLgot
+LSAKQmVzdCByZWdhcmRzLApBc2hsZXkgV2FyZA==
+
+--===============9162344484191402988==--

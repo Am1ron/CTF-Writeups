@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============2602894801177148597=="
+MIME-Version: 1.0
+Received: from mx2.corp.com (mx2.corp.com [192.110.137.101])
+	by mx.company.com with ESMTP id sz3ohW64aQVnX6hy
+Received: from mx2.yahoo.com (mx2.yahoo.com [230.1.78.139])
+	by mx.company.com with ESMTP id 3TCpGlQv2JRp5ex1
+Authentication-Results: company.com; dkim=pass header.d=corp.com;
+ spf=pass smtp.mailfrom=corp.com; dmarc=pass action=none header.from=corp.com
+From: Cynthia Lopez <cynthia.lopez@corp.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 26 Sep 2024 06:03:43 -0000
+Message-ID: <lX7BMQJTqqKywQNhQYndZmul@corp.com>
+
+--===============2602894801177148597==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCllvdXIgbGVhZGVyc2hpcCBpbiB0aGUgcHJvamVjdCBpcyBjb21tZW5kYWJs
+ZS4KV2UgbmVlZCB0byBmaW5hbGl6ZSB0aGUgYnVkZ2V0IGFsbG9jYXRpb25zIGJ5IGVuZCBvZiB0
+aGlzIHdlZWsuCldlIGFyZSB1cGdyYWRpbmcgb3VyIGhhcmR3YXJlIGluZnJhc3RydWN0dXJlLgpU
+aGVyZSB3aWxsIGJlIGFuIG9mZmljZSBjbGVhbnVwIGRheSB0aGlzIEZyaWRheS4KUGxlYXNlIHN1
+Ym1pdCB5b3VyIGV4cGVuc2UgcmVwb3J0cyBieSB0aGUgZW5kIG9mIHRoZSBkYXkuClBsZWFzZSBh
+dm9pZCBzY2hlZHVsaW5nIG1lZXRpbmdzIGR1cmluZyBsdW5jaCBob3Vycy4KT3VyIHN1c3RhaW5h
+YmlsaXR5IHJlcG9ydCBoYXMgYmVlbiBwdWJsaXNoZWQ7IHBsZWFzZSByZWFkIGl0LgpTZWN1cml0
+eSBwcm90b2NvbHMgaGF2ZSBiZWVuIHVwZGF0ZWQ7IHBsZWFzZSByZXZpZXcgdGhlbS4KQ2xpZW50
+IHByZXNlbnRhdGlvbnMgYXJlIHNjaGVkdWxlZCBmb3IgbmV4dCBUaHVyc2RheS4KV2UgaGF2ZSBp
+bnRyb2R1Y2VkIGEgbmV3IGJlbmVmaXRzIHBhY2thZ2UgZm9yIGVtcGxveWVlcy4KUGxlYXNlIGNv
+bXBsZXRlIHRoZSBtYW5kYXRvcnkgdHJhaW5pbmcgbW9kdWxlcy4KVGhlIElUIGRlcGFydG1lbnQg
+d2lsbCBwZXJmb3JtIHN5c3RlbSBtYWludGVuYW5jZSB0aGlzIHdlZWtlbmQuCk91ciBhbm51YWwg
+cmVwb3J0IGhhcyBiZWVuIHJlbGVhc2VkIHRvIHN0YWtlaG9sZGVycy4KSSB3b3VsZCBsaWtlIHRv
+IHNjaGVkdWxlIGEgbWVldGluZyB0byBkaXNjdXNzIHRoZSBwcm9qZWN0IHVwZGF0ZXMuClBsZWFz
+ZSBhdHRlbmQgdGhlIGRpdmVyc2l0eSBhbmQgaW5jbHVzaW9uIHdvcmtzaG9wLgpXZSBhcmUgY29u
+ZHVjdGluZyBhIHN1cnZleSBvbiByZW1vdGUgd29yayBwcmVmZXJlbmNlcy4KLS0gCkJlc3QgcmVn
+YXJkcywKQ3ludGhpYSBMb3Bleg==
+
+--===============2602894801177148597==--

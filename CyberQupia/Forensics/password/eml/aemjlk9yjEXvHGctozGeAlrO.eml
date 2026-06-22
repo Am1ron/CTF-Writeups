@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============8516271123726179151=="
+MIME-Version: 1.0
+Received: from mx1.solutions.biz (mx1.solutions.biz [179.84.217.56])
+	by mx.company.com with ESMTP id 7NG5RZKICOWmhM01
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: Deborah Anderson <deborah.anderson@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 21:04:31 -0000
+Message-ID: <aemjlk9yjEXvHGctozGeAlrO@solutions.biz>
+
+--===============8516271123726179151==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkhvbGlkYXkgc2NoZWR1bGVzIGhhdmUgYmVlbiBwb3N0ZWQgb24gdGhlIGNv
+bXBhbnkgcG9ydGFsLgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IHBhcnRuZXIgdG8gdGhlIG9yZ2Fu
+aXphdGlvbi4KVGhlIG9mZmljZSB3aWxsIGJlIGNsb3NlZCBuZXh0IEZyaWRheSBmb3IgYSBwdWJs
+aWMgaG9saWRheS4KTGV0J3Mgc2NoZWR1bGUgYSBvbmUtb24tb25lIG1lZXRpbmcgdG8gZGlzY3Vz
+cyB5b3VyIHByb2dyZXNzLgpXZSBhcHByZWNpYXRlIHlvdXIgY29tbWl0bWVudCB0byBxdWFsaXR5
+IGFuZCBleGNlbGxlbmNlLgpDb25ncmF0dWxhdGlvbnMgb24geW91ciByZWNlbnQgYWNoaWV2ZW1l
+bnQhClRoZSBuZXh0IHRyYWluaW5nIHdvcmtzaG9wIGlzIHNjaGVkdWxlZCBmb3IgbmV4dCBtb250
+aC4KT3VyIHN1c3RhaW5hYmlsaXR5IHJlcG9ydCBoYXMgYmVlbiBwdWJsaXNoZWQ7IHBsZWFzZSBy
+ZWFkIGl0LgpQcm9qZWN0IGRlYWRsaW5lcyBoYXZlIGJlZW4gYWRqdXN0ZWQgZHVlIHRvIHVuZm9y
+ZXNlZW4gY2lyY3Vtc3RhbmNlcy4KV2UgaGF2ZSByZWNlaXZlZCB0aGUgc2hpcG1lbnQgb2YgbmV3
+IG9mZmljZSBzdXBwbGllcy4KUGxlYXNlIGNvbXBsZXRlIHRoZSBtYW5kYXRvcnkgdHJhaW5pbmcg
+bW9kdWxlcy4KVGhlIHRyYWluaW5nIHNlc3Npb24gaGFzIGJlZW4gcmVzY2hlZHVsZWQgdG8gRnJp
+ZGF5LgpUaGFuayB5b3UgZm9yIHlvdXIgcHJvbXB0IHJlc3BvbnNlLgpXZSB2YWx1ZSB5b3VyIGlu
+cHV0IGluIGltcHJvdmluZyBvdXIgc2VydmljZXMuClBsZWFzZSBzZW5kIHlvdXIgZmVlZGJhY2sg
+b24gdGhlIHByb3Bvc2VkIGNoYW5nZXMuCk91ciBhbm51YWwgcmVwb3J0IGhhcyBiZWVuIHJlbGVh
+c2VkIHRvIHN0YWtlaG9sZGVycy4KV2UgYXJlIGluaXRpYXRpbmcgYSBtZW50b3JzaGlwIHByb2dy
+YW07IGRldGFpbHMgdG8gZm9sbG93LgpUaGUgb2ZmaWNlIGtpdGNoZW4gd2lsbCBiZSByZW5vdmF0
+ZWQgb3ZlciB0aGUgd2Vla2VuZC4KV2UgYXJlIGhvc3RpbmcgYSBjaGFyaXR5IGV2ZW50IG5leHQg
+d2Vlay4KLS0gCkJlc3QgcmVnYXJkcywKRGVib3JhaCBBbmRlcnNvbg==
+
+--===============8516271123726179151==--

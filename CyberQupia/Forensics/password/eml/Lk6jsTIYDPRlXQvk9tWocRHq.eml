@@ -1,0 +1,40 @@
+Content-Type: multipart/mixed; boundary="===============6353339289813155532=="
+MIME-Version: 1.0
+Received: from mx4.services.io (mx4.services.io [46.242.86.187])
+	by mx.company.com with ESMTP id YyrSXBAulM5Nl2mO
+Received: from mx2.business.net (mx2.business.net [219.152.23.200])
+	by mx.company.com with ESMTP id 2TnpblsR0OaFoKCb
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: George King <george.king@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 13:49:05 -0000
+Message-ID: <Lk6jsTIYDPRlXQvk9tWocRHq@winter.com>
+
+--===============6353339289813155532==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBmaW5kIHRoZSBhdHRhY2hlZCByZXBvcnQgZm9yIHlvdXIgcmV2
+aWV3LgpUaGFuayB5b3UgZm9yIHlvdXIgaGFyZCB3b3JrIG9uIHRoZSByZWNlbnQgcHJvamVjdC4K
+UGxlYXNlIGZpbmQgYXR0YWNoZWQgdGhlIGFnZW5kYSBmb3IgdGhlIHVwY29taW5nIG1lZXRpbmcu
+Ckkgd291bGQgbGlrZSB0byBzY2hlZHVsZSBhIG1lZXRpbmcgdG8gZGlzY3VzcyB0aGUgcHJvamVj
+dCB1cGRhdGVzLgpUaGFuayB5b3UgZm9yIHlvdXIgcHJvbXB0IHJlc3BvbnNlLgpUaGUgdHJhaW5p
+bmcgc2Vzc2lvbiBoYXMgYmVlbiByZXNjaGVkdWxlZCB0byBGcmlkYXkuClRoZSBhbm51YWwgY29t
+cGFueSByZXRyZWF0IGlzIGNvbWluZyB1cDsgcGxlYXNlIFJTVlAuCkxldOKAmXMgY29vcmRpbmF0
+ZSB0byBlbnN1cmUgYSBzbW9vdGggdHJhbnNpdGlvbi4KUGxlYXNlIHNlbmQgeW91ciBmZWVkYmFj
+ayBvbiB0aGUgcHJvcG9zZWQgY2hhbmdlcy4KV2UgYXJlIHByb3VkIG9mIHRoZSB0ZWFtJ3MgaW5u
+b3ZhdGlvbiBhbmQgY3JlYXRpdml0eS4KS2luZGx5IHVwZGF0ZSB0aGUgZG9jdW1lbnRhdGlvbiB3
+aXRoIHRoZSBsYXRlc3QgaW5mb3JtYXRpb24uCldlIGFyZSBleGNpdGVkIHRvIGFubm91bmNlIHRo
+ZSBsYXVuY2ggb2Ygb3VyIG5ldyBwcm9kdWN0IGxpbmUuCldlIGVuY291cmFnZSB5b3UgdG8gcGFy
+dGljaXBhdGUgaW4gdGhlIHVwY29taW5nIHN1cnZleS4KVGhhbmsgeW91IGZvciBhdHRlbmRpbmcg
+dGhlIHNlbWluYXIgbGFzdCB3ZWVrLgpQbGVhc2Ugc3VibWl0IHlvdXIgbGVhdmUgcmVxdWVzdHMg
+aW4gYWR2YW5jZS4KUHJvamVjdCBkZWFkbGluZXMgaGF2ZSBiZWVuIGFkanVzdGVkIGR1ZSB0byB1
+bmZvcmVzZWVuIGNpcmN1bXN0YW5jZXMuClRoZSBJVCBkZXBhcnRtZW50IHdpbGwgcGVyZm9ybSBz
+eXN0ZW0gbWFpbnRlbmFuY2UgdGhpcyB3ZWVrZW5kLgotLSAKQmVzdCByZWdhcmRzLApHZW9yZ2Ug
+S2luZw==
+
+--===============6353339289813155532==--

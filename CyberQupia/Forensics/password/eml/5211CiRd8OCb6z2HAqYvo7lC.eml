@@ -1,0 +1,31 @@
+Content-Type: multipart/mixed; boundary="===============0147893124139318925=="
+MIME-Version: 1.0
+Received: from mx1.winter.com (mx1.winter.com [69.122.244.127])
+	by mx.company.com with ESMTP id 0pso1eE0dx9vpP2D
+Received: from mx1.mail.com (mx1.mail.com [134.33.203.146])
+	by mx.company.com with ESMTP id mt5ZaTj2Y6kwPLAS
+Received: from mx1.solutions.biz (mx1.solutions.biz [141.226.238.51])
+	by mx.company.com with ESMTP id r2rlve2SviyMYVpc
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Sharon Ward <sharon.ward@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 20:30:19 -0000
+Message-ID: <5211CiRd8OCb6z2HAqYvo7lC@gmail.com>
+
+--===============0147893124139318925==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBhdm9pZCBzY2hlZHVsaW5nIG1lZXRpbmdzIGR1cmluZyBsdW5j
+aCBob3Vycy4KVGhhbmsgeW91IGZvciB5b3VyIGNvbnRpbnVvdXMgc3VwcG9ydCBhbmQgZGVkaWNh
+dGlvbi4KUGxlYXNlIHJlcG9ydCBhbnkgbWFpbnRlbmFuY2UgaXNzdWVzIHByb21wdGx5LgpXZSBo
+YXZlIGludHJvZHVjZWQgYSBuZXcgYmVuZWZpdHMgcGFja2FnZSBmb3IgZW1wbG95ZWVzLgpUaGUg
+b2ZmaWNlIGtpdGNoZW4gd2lsbCBiZSByZW5vdmF0ZWQgb3ZlciB0aGUgd2Vla2VuZC4KUGxlYXNl
+IHVwZGF0ZSB5b3VyIGNvbnRhY3QgaW5mb3JtYXRpb24gaW4gdGhlIGRpcmVjdG9yeS4KLS0gCkJl
+c3QgcmVnYXJkcywKU2hhcm9uIFdhcmQ=
+
+--===============0147893124139318925==--

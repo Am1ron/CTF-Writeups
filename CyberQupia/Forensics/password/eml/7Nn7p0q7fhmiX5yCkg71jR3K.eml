@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============1023872371968471685=="
+MIME-Version: 1.0
+Received: from mx1.winter.com (mx1.winter.com [227.168.76.26])
+	by mx.company.com with ESMTP id aAj6eEQqBAKDcxIt
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Jason Perez <jason.perez@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 09:04:58 -0000
+Message-ID: <7Nn7p0q7fhmiX5yCkg71jR3K@gmail.com>
+
+--===============1023872371968471685==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBJVCBkZXBhcnRtZW50IHdpbGwgcGVyZm9ybSBzeXN0ZW0gbWFpbnRl
+bmFuY2UgdGhpcyB3ZWVrZW5kLgpUaGUgbmV4dCB0cmFpbmluZyB3b3Jrc2hvcCBpcyBzY2hlZHVs
+ZWQgZm9yIG5leHQgbW9udGguCldlIGFyZSBob3N0aW5nIGEgY2hhcml0eSBldmVudCBuZXh0IHdl
+ZWsuClRoZSBsYXRlc3Qgc29mdHdhcmUgdXBkYXRlcyBoYXZlIGJlZW4gaW5zdGFsbGVkLgpQbGVh
+c2UgcmVmcmFpbiBmcm9tIHVzaW5nIHBlcnNvbmFsIGRldmljZXMgZm9yIHdvcmsgZW1haWxzLgpQ
+bGVhc2Ugam9pbiBtZSBpbiB3ZWxjb21pbmcgdGhlIG5ldyBtZW1iZXJzIHRvIG91ciB0ZWFtLgpQ
+bGVhc2UgZmluZCBhdHRhY2hlZCB0aGUgYWdlbmRhIGZvciB0aGUgdXBjb21pbmcgbWVldGluZy4K
+VGhlcmUgd2lsbCBiZSBhbiBvZmZpY2UgY2xlYW51cCBkYXkgdGhpcyBGcmlkYXkuClBsZWFzZSBj
+b21wbGV0ZSB0aGUgY3liZXJzZWN1cml0eSB0cmFpbmluZyBtb2R1bGUuClRoYW5rIHlvdSBmb3Ig
+eW91ciBwcm9tcHQgcmVzcG9uc2UuClBsZWFzZSBzdWJtaXQgeW91ciBsZWF2ZSByZXF1ZXN0cyBp
+biBhZHZhbmNlLgpQcm9qZWN0IGRlYWRsaW5lcyBoYXZlIGJlZW4gYWRqdXN0ZWQgZHVlIHRvIHVu
+Zm9yZXNlZW4gY2lyY3Vtc3RhbmNlcy4KT3VyIHN1c3RhaW5hYmlsaXR5IHJlcG9ydCBoYXMgYmVl
+biBwdWJsaXNoZWQ7IHBsZWFzZSByZWFkIGl0LgpXZSBhcmUgaW1wbGVtZW50aW5nIGEgbmV3IGN1
+c3RvbWVyIHJlbGF0aW9uc2hpcCBtYW5hZ2VtZW50IHN5c3RlbS4KV2UgYXBwcmVjaWF0ZSB5b3Vy
+IGNvbW1pdG1lbnQgdG8gcXVhbGl0eSBhbmQgZXhjZWxsZW5jZS4KUGxlYXNlIGVuc3VyZSBhbGwg
+dGhlIGNvbXBsaWFuY2UgcmVxdWlyZW1lbnRzIGFyZSBtZXQuClBsZWFzZSBmYW1pbGlhcml6ZSB5
+b3Vyc2VsZiB3aXRoIHRoZSB1cGRhdGVkIGd1aWRlbGluZXMuClRoZSBvZmZpY2Ugd2lsbCBiZSBj
+bG9zZWQgbmV4dCBGcmlkYXkgZm9yIGEgcHVibGljIGhvbGlkYXkuCi0tIApCZXN0IHJlZ2FyZHMs
+Ckphc29uIFBlcmV6
+
+--===============1023872371968471685==--

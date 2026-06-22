@@ -1,0 +1,36 @@
+Content-Type: multipart/mixed; boundary="===============7495979921554636987=="
+MIME-Version: 1.0
+Received: from mx2.corp.com (mx2.corp.com [199.120.92.85])
+	by mx.company.com with ESMTP id 1s1BJdWlFNfVjPlM
+Received: from mx3.corp.com (mx3.corp.com [44.253.110.231])
+	by mx.company.com with ESMTP id owpYxt0SfWx47vlA
+Received: from mx1.winter.com (mx1.winter.com [193.51.38.170])
+	by mx.company.com with ESMTP id 3ne3Zhx6tMD88BVK
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Amanda Watson <amanda.watson@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 04:09:16 -0000
+Message-ID: <QBoOyujpogtB6thxNLOJ8hHP@yahoo.com>
+
+--===============7495979921554636987==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBvYnNlcnZlIHNpbGVuY2UgaW4gZGVzaWduYXRlZCBxdWlldCB6
+b25lcy4KTGV0IG1lIGtub3cgaWYgeW91IGhhdmUgYW55IHF1ZXN0aW9ucyBvciBjb25jZXJucy4K
+VGhlIElUIGRlcGFydG1lbnQgd2lsbCBwZXJmb3JtIHN5c3RlbSBtYWludGVuYW5jZSB0aGlzIHdl
+ZWtlbmQuCldlIGFwcHJlY2lhdGUgeW91ciBjb21taXRtZW50IHRvIHF1YWxpdHkgYW5kIGV4Y2Vs
+bGVuY2UuClBsZWFzZSByZXBvcnQgYW55IG1haW50ZW5hbmNlIGlzc3VlcyBwcm9tcHRseS4KWW91
+ciBleHBlcnRpc2UgaXMgcmVxdWVzdGVkIG9uIHRoZSB1cGNvbWluZyBwcm9qZWN0LgpQbGVhc2Ug
+ZW5zdXJlIHRpbWVseSBzdWJtaXNzaW9uIG9mIHByb2plY3QgZGVsaXZlcmFibGVzLgpQbGVhc2Ug
+d2VsY29tZSBvdXIgbmV3IGludGVybnMgam9pbmluZyB0aGUgdGVhbS4KV2UgYXJlIHJldmlzaW5n
+IG91ciBzdHJhdGVnaWMgb2JqZWN0aXZlcy4KUGxlYXNlIGNvbXBsZXRlIHRoZSBtYW5kYXRvcnkg
+dHJhaW5pbmcgbW9kdWxlcy4KUGxlYXNlIGJlIGNhdXRpb3VzIG9mIHBoaXNoaW5nIGVtYWlscyBh
+bmQgcmVwb3J0IGFueSBzdXNwaWNpb3VzIGFjdGl2aXR5LgotLSAKQmVzdCByZWdhcmRzLApBbWFu
+ZGEgV2F0c29u
+
+--===============7495979921554636987==--

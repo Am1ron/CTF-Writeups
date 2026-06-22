@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============8403194394742910968=="
+MIME-Version: 1.0
+Received: from mx1.services.io (mx1.services.io [239.138.139.145])
+	by mx.company.com with ESMTP id L6eI7Uoaw5jUePy0
+Received: from mx4.yahoo.com (mx4.yahoo.com [45.20.84.133])
+	by mx.company.com with ESMTP id YsingnJtyrwUFlfd
+Received: from mx4.yahoo.com (mx4.yahoo.com [28.141.232.13])
+	by mx.company.com with ESMTP id eXTwopaagsafj0TS
+Authentication-Results: company.com; dkim=pass header.d=enterprise.org;
+ spf=pass smtp.mailfrom=enterprise.org;
+ dmarc=pass action=none header.from=enterprise.org
+From: Susan Martinez <susan.martinez@enterprise.org>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 12:27:55 -0000
+Message-ID: <hiyeE7WaidepiYAW6qXp3mZ2@enterprise.org>
+
+--===============8403194394742910968==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIHZhbHVlIHlvdXIgaW5wdXQgaW4gaW1wcm92aW5nIG91ciBzZXJ2aWNl
+cy4KV2UgZW5jb3VyYWdlIHlvdSB0byBwYXJ0aWNpcGF0ZSBpbiB0aGUgdXBjb21pbmcgc3VydmV5
+LgpJIGFwcHJlY2lhdGUgeW91ciBwcm9tcHQgYXR0ZW50aW9uIHRvIHRoaXMgbWF0dGVyLgpXZSBo
+YXZlIGFjaGlldmVkIG91ciBxdWFydGVybHkgdGFyZ2V0cyBzdWNjZXNzZnVsbHkuCldlIGFyZSB1
+cGdyYWRpbmcgb3VyIGhhcmR3YXJlIGluZnJhc3RydWN0dXJlLgpUaGUgYm9hcmQgbWVldGluZyBt
+aW51dGVzIGhhdmUgYmVlbiB1cGxvYWRlZCB0byB0aGUgc2hhcmVkIGRyaXZlLgpXZSBhcmUgaG9z
+dGluZyBhIGNoYXJpdHkgZXZlbnQgbmV4dCB3ZWVrLgpQbGVhc2UgdGFrZSBub3RlIG9mIHRoZSBu
+ZXcgb2ZmaWNlIGhvdXJzLgpQbGVhc2UgcHJvdmlkZSB5b3VyIGF2YWlsYWJpbGl0eSBmb3IgdGhl
+IG5leHQgdHdvIHdlZWtzLgpUaGUgSVQgZGVwYXJ0bWVudCB3aWxsIHBlcmZvcm0gc3lzdGVtIG1h
+aW50ZW5hbmNlIHRoaXMgd2Vla2VuZC4KUGxlYXNlIHdlbGNvbWUgb3VyIG5ldyBDRU8sIHdobyB3
+aWxsIGJlIGpvaW5pbmcgdXMgbmV4dCBtb250aC4KV2UgYXJlIHByb3VkIG9mIHRoZSB0ZWFtJ3Mg
+aW5ub3ZhdGlvbiBhbmQgY3JlYXRpdml0eS4KQnVkZ2V0IHBsYW5uaW5nIGZvciBuZXh0IHllYXIg
+d2lsbCBiZWdpbiBzb29uLgotLSAKQmVzdCByZWdhcmRzLApTdXNhbiBNYXJ0aW5leg==
+
+--===============8403194394742910968==--

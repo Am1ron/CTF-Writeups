@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============7602442904551955735=="
+MIME-Version: 1.0
+Received: from mx2.build.co (mx2.build.co [76.241.88.22])
+	by mx.company.com with ESMTP id 8Fvo5FLSY0OebaM9
+Received: from mx4.business.net (mx4.business.net [14.54.29.81])
+	by mx.company.com with ESMTP id 5e4pxDrc1a5soR9W
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Sharon White <sharon.white@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 17:36:03 -0000
+Message-ID: <ReXHCjPvdyCzyBZVR8Rmi5Uo@gmail.com>
+
+--===============7602442904551955735==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBhZGhlcmUgdG8gdGhlIG5ldyBkcmVzcyBjb2RlIHBvbGljeS4K
+QWxsIHN0YWZmIGFyZSBpbnZpdGVkIHRvIHRoZSB0b3duIGhhbGwgbWVldGluZy4KUmVtaW5kZXI6
+IFRoZSBxdWFydGVybHkgbWVldGluZyBpcyBzY2hlZHVsZWQgZm9yIG5leHQgV2VkbmVzZGF5LgpC
+dWRnZXQgcGxhbm5pbmcgZm9yIG5leHQgeWVhciB3aWxsIGJlZ2luIHNvb24uClRoZSBib2FyZCBt
+ZWV0aW5nIG1pbnV0ZXMgaGF2ZSBiZWVuIHVwbG9hZGVkIHRvIHRoZSBzaGFyZWQgZHJpdmUuCkVt
+cGxveWVlIHNhdGlzZmFjdGlvbiBzdXJ2ZXlzIHdpbGwgYmUgZGlzdHJpYnV0ZWQgdG9tb3Jyb3cu
+CldlIGFyZSByZXZpc2luZyBvdXIgc3RyYXRlZ2ljIG9iamVjdGl2ZXMuCllvdXIgZmVlZGJhY2sg
+b24gdGhlIHJlY2VudCBjaGFuZ2VzIGlzIGhpZ2hseSBhcHByZWNpYXRlZC4KVGVhbSBsZWFkcyBh
+cmUgcmVxdWVzdGVkIHRvIHN1Ym1pdCB0aGVpciByZXBvcnRzIGJ5IEZyaWRheS4KT3VyIGFubnVh
+bCByZXBvcnQgaGFzIGJlZW4gcmVsZWFzZWQgdG8gc3Rha2Vob2xkZXJzLgpZb3VyIGV4cGVydGlz
+ZSBpcyByZXF1ZXN0ZWQgb24gdGhlIHVwY29taW5nIHByb2plY3QuClBsZWFzZSBiZSBjYXV0aW91
+cyBvZiBwaGlzaGluZyBlbWFpbHMgYW5kIHJlcG9ydCBhbnkgc3VzcGljaW91cyBhY3Rpdml0eS4K
+UGxlYXNlIGRpc3Bvc2Ugb2YgY29uZmlkZW50aWFsIGRvY3VtZW50cyBzZWN1cmVseS4KUGxlYXNl
+IHVwZGF0ZSB5b3VyIGNvbnRhY3QgaW5mb3JtYXRpb24gaW4gdGhlIGRpcmVjdG9yeS4KUGxlYXNl
+IHBhcnRpY2lwYXRlIGluIHRoZSB1cGNvbWluZyBmaXJlIGRyaWxsLgotLSAKQmVzdCByZWdhcmRz
+LApTaGFyb24gV2hpdGU=
+
+--===============7602442904551955735==--

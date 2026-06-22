@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============1703042837426479674=="
+MIME-Version: 1.0
+Received: from mx4.corp.com (mx4.corp.com [110.181.52.147])
+	by mx.company.com with ESMTP id gZCCMevbIpOEbfl8
+Received: from mx1.enterprise.org (mx1.enterprise.org [12.183.114.101])
+	by mx.company.com with ESMTP id SnAo83AHwXs5OHDp
+Received: from mx2.winter.com (mx2.winter.com [70.108.129.195])
+	by mx.company.com with ESMTP id d0dxUpiGW8p1pkx6
+Authentication-Results: company.com; dkim=pass header.d=enterprise.org;
+ spf=pass smtp.mailfrom=enterprise.org;
+ dmarc=pass action=none header.from=enterprise.org
+From: Edward Harris <edward.harris@enterprise.org>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 04:26:37 -0000
+Message-ID: <5IKYManYpQbQ4QC6mQJG53Ty@enterprise.org>
+
+--===============1703042837426479674==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBsYXRlc3Qgc29mdHdhcmUgdXBkYXRlcyBoYXZlIGJlZW4gaW5zdGFs
+bGVkLgpOZXcgcGFya2luZyByZWd1bGF0aW9ucyB3aWxsIGJlIGluIGVmZmVjdCBmcm9tIE1vbmRh
+eS4KQSByZW1pbmRlciB0byB1cGRhdGUgeW91ciBwYXNzd29yZHMgcmVndWxhcmx5LgpUaGVyZSB3
+aWxsIGJlIGFuIG9mZmljZSBjbGVhbnVwIGRheSB0aGlzIEZyaWRheS4KT3VyIGNsaWVudHMgaGF2
+ZSBwcm92aWRlZCBwb3NpdGl2ZSBmZWVkYmFjayBvbiB0aGUgZGVsaXZlcmFibGVzLgpXZSBhcHBy
+ZWNpYXRlIHlvdXIgY29tbWl0bWVudCB0byBxdWFsaXR5IGFuZCBleGNlbGxlbmNlLgpPdXIgc3Vz
+dGFpbmFiaWxpdHkgcmVwb3J0IGhhcyBiZWVuIHB1Ymxpc2hlZDsgcGxlYXNlIHJlYWQgaXQuCkkg
+d291bGQgbGlrZSB0byBzY2hlZHVsZSBhIG1lZXRpbmcgdG8gZGlzY3VzcyB0aGUgcHJvamVjdCB1
+cGRhdGVzLgpXZSBoYXZlIGludHJvZHVjZWQgYSBuZXcgYmVuZWZpdHMgcGFja2FnZSBmb3IgZW1w
+bG95ZWVzLgpQbGVhc2Ugam9pbiB0aGUgd2ViaW5hciBvbiBpbmR1c3RyeSB0cmVuZHMgdG9tb3Jy
+b3cuCldlIHZhbHVlIHlvdXIgaW5wdXQgaW4gaW1wcm92aW5nIG91ciBzZXJ2aWNlcy4KTG9va2lu
+ZyBmb3J3YXJkIHRvIG91ciBjb2xsYWJvcmF0aW9uIG9uIHRoaXMgaW5pdGlhdGl2ZS4KTGV0J3Mg
+c2NoZWR1bGUgYSBvbmUtb24tb25lIG1lZXRpbmcgdG8gZGlzY3VzcyB5b3VyIHByb2dyZXNzLgot
+LSAKQmVzdCByZWdhcmRzLApFZHdhcmQgSGFycmlz
+
+--===============1703042837426479674==--

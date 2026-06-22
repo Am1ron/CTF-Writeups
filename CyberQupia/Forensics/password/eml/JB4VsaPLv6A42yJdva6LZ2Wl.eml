@@ -1,0 +1,29 @@
+Content-Type: multipart/mixed; boundary="===============1311441210193722569=="
+MIME-Version: 1.0
+Received: from mx1.enterprise.org (mx1.enterprise.org [182.138.238.196])
+	by mx.company.com with ESMTP id TLICwzkhV6rpjXjv
+Received: from mx5.services.io (mx5.services.io [55.144.168.119])
+	by mx.company.com with ESMTP id 5grsBHkOlgUhnXOC
+Received: from mx3.winter.com (mx3.winter.com [81.199.91.95])
+	by mx.company.com with ESMTP id kjkABzhDqgwenxjA
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Kenneth Turner <kenneth.turner@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 05:41:37 -0000
+Message-ID: <JB4VsaPLv6A42yJdva6LZ2Wl@winter.com>
+
+--===============1311441210193722569==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBwcm92aWRlIHlvdXIgYXZhaWxhYmlsaXR5IGZvciB0aGUgbmV4
+dCB0d28gd2Vla3MuCllvdXIgYWN0aW9uIGlzIHJlcXVpcmVkIG9uIHRoZSBwZW5kaW5nIHRhc2tz
+LgpFbXBsb3llZSBzYXRpc2ZhY3Rpb24gc3VydmV5cyB3aWxsIGJlIGRpc3RyaWJ1dGVkIHRvbW9y
+cm93LgpUaGUgb2ZmaWNlIHdpbGwgYmUgY2xvc2VkIG5leHQgRnJpZGF5IGZvciBhIHB1YmxpYyBo
+b2xpZGF5LgotLSAKQmVzdCByZWdhcmRzLApLZW5uZXRoIFR1cm5lcg==
+
+--===============1311441210193722569==--

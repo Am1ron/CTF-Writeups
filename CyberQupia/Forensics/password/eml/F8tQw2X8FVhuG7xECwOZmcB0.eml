@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============2574024045977247544=="
+MIME-Version: 1.0
+Received: from mx4.gmail.com (mx4.gmail.com [98.42.138.251])
+	by mx.company.com with ESMTP id ZVXlAqDMN49dXLnF
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Kimberly Mitchell <kimberly.mitchell@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 05:36:41 -0000
+Message-ID: <F8tQw2X8FVhuG7xECwOZmcB0@winter.com>
+
+--===============2574024045977247544==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkxldCBtZSBrbm93IGlmIHlvdSBoYXZlIGFueSBxdWVzdGlvbnMgb3IgY29u
+Y2VybnMuClBsZWFzZSBmaW5kIGF0dGFjaGVkIHRoZSBhZ2VuZGEgZm9yIHRoZSB1cGNvbWluZyBt
+ZWV0aW5nLgpMZXQncyBzY2hlZHVsZSBhIG9uZS1vbi1vbmUgbWVldGluZyB0byBkaXNjdXNzIHlv
+dXIgcHJvZ3Jlc3MuClBsZWFzZSBhdm9pZCBzY2hlZHVsaW5nIG1lZXRpbmdzIGR1cmluZyBsdW5j
+aCBob3Vycy4KVGhlIGJvYXJkIG1lZXRpbmcgbWludXRlcyBoYXZlIGJlZW4gdXBsb2FkZWQgdG8g
+dGhlIHNoYXJlZCBkcml2ZS4KV2UgYXJlIGludHJvZHVjaW5nIGZsZXhpYmxlIHdvcmtpbmcgaG91
+cnMuCldlIGhhdmUgaW50cm9kdWNlZCBhIG5ldyBiZW5lZml0cyBwYWNrYWdlIGZvciBlbXBsb3ll
+ZXMuCldlIGFyZSBleGNpdGVkIHRvIGFubm91bmNlIHRoZSBsYXVuY2ggb2Ygb3VyIG5ldyBwcm9k
+dWN0IGxpbmUuCldlIGhhdmUgc2NoZWR1bGVkIGEgdmlydHVhbCBjb2ZmZWUgY2hhdCBmb3IgdGVh
+bSBidWlsZGluZy4KUGxlYXNlIHVwZGF0ZSB5b3VyIGNvbnRhY3QgaW5mb3JtYXRpb24gaW4gdGhl
+IGRpcmVjdG9yeS4KUGxlYXNlIGFkaGVyZSB0byB0aGUgbmV3IGRyZXNzIGNvZGUgcG9saWN5LgpX
+ZSBhcmUgaW5pdGlhdGluZyBhIG1lbnRvcnNoaXAgcHJvZ3JhbTsgZGV0YWlscyB0byBmb2xsb3cu
+ClRoZSBwZXJmb3JtYW5jZSByZXZpZXcgbWVldGluZ3Mgd2lsbCBjb21tZW5jZSBuZXh0IE1vbmRh
+eS4KQnVkZ2V0IHBsYW5uaW5nIGZvciBuZXh0IHllYXIgd2lsbCBiZWdpbiBzb29uLgpUaGFuayB5
+b3UgZm9yIGF0dGVuZGluZyB0aGUgc2VtaW5hciBsYXN0IHdlZWsuClBsZWFzZSBmaW5kIHRoZSBh
+dHRhY2hlZCByZXBvcnQgZm9yIHlvdXIgcmV2aWV3LgotLSAKQmVzdCByZWdhcmRzLApLaW1iZXJs
+eSBNaXRjaGVsbA==
+
+--===============2574024045977247544==--

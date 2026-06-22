@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============3977560050003161411=="
+MIME-Version: 1.0
+Received: from mx1.corp.com (mx1.corp.com [11.44.89.235])
+	by mx.company.com with ESMTP id mAbQU5bUNEYRJs0e
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Margaret Lee <margaret.lee@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 13:36:12 -0000
+Message-ID: <VQrnDtZ3qRlZ31cI0yqqhurh@gmail.com>
+
+--===============3977560050003161411==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkEgcmVtaW5kZXIgdG8gdXBkYXRlIHlvdXIgcGFzc3dvcmRzIHJlZ3VsYXJs
+eS4KVGhlIG5ldyBwb2xpY3kgd2lsbCBiZSBlZmZlY3RpdmUgZnJvbSBuZXh0IG1vbnRoLgpUaGUg
+Y2FmZXRlcmlhIG1lbnUgaGFzIGJlZW4gdXBkYXRlZCB3aXRoIGhlYWx0aGllciBvcHRpb25zLgpS
+ZW1pbmRlcjogVGhlIHF1YXJ0ZXJseSBtZWV0aW5nIGlzIHNjaGVkdWxlZCBmb3IgbmV4dCBXZWRu
+ZXNkYXkuCkNsaWVudCBwcmVzZW50YXRpb25zIGFyZSBzY2hlZHVsZWQgZm9yIG5leHQgVGh1cnNk
+YXkuClRoZSB0cmFpbmluZyBzZXNzaW9uIGhhcyBiZWVuIHJlc2NoZWR1bGVkIHRvIEZyaWRheS4K
+V2UgYXJlIGhvc3RpbmcgYSBjaGFyaXR5IGV2ZW50IG5leHQgd2Vlay4KVGhlIGFubnVhbCBjb21w
+YW55IHJldHJlYXQgaXMgY29taW5nIHVwOyBwbGVhc2UgUlNWUC4KSSB3b3VsZCBsaWtlIHRvIHNj
+aGVkdWxlIGEgbWVldGluZyB0byBkaXNjdXNzIHRoZSBwcm9qZWN0IHVwZGF0ZXMuCldlIGFyZSBp
+bXBsZW1lbnRpbmcgYSBuZXcgY3VzdG9tZXIgcmVsYXRpb25zaGlwIG1hbmFnZW1lbnQgc3lzdGVt
+LgpQbGVhc2UgdXBkYXRlIHlvdXIgY29udGFjdCBpbmZvcm1hdGlvbiBpbiB0aGUgZGlyZWN0b3J5
+LgpQbGVhc2UgYXZvaWQgc2NoZWR1bGluZyBtZWV0aW5ncyBkdXJpbmcgbHVuY2ggaG91cnMuCldl
+IGhhdmUgc2VjdXJlZCBhIG5ldyBjb250cmFjdCB3aXRoIGEgbWFqb3IgY2xpZW50LgpXZSBoYXZl
+IGludHJvZHVjZWQgYSBuZXcgYmVuZWZpdHMgcGFja2FnZSBmb3IgZW1wbG95ZWVzLgpQbGVhc2Ug
+cmV2aWV3IHRoZSBhdHRhY2hlZCBjbGllbnQgZmVlZGJhY2suClNlY3VyaXR5IHByb3RvY29scyBo
+YXZlIGJlZW4gdXBkYXRlZDsgcGxlYXNlIHJldmlldyB0aGVtLgpXZSBhcmUgaW50cm9kdWNpbmcg
+ZmxleGlibGUgd29ya2luZyBob3Vycy4KUGxlYXNlIHJldmlldyB0aGUgYXR0YWNoZWQgcGVyZm9y
+bWFuY2UgbWV0cmljcy4KT3VyIHNvY2lhbCBtZWRpYSBwcmVzZW5jZSBpcyBncm93aW5nOyBwbGVh
+c2UgZm9sbG93IHVzLgpUaGFuayB5b3UgZm9yIHlvdXIgcHJvbXB0IHJlc3BvbnNlLgpQbGVhc2Ug
+d2VsY29tZSBvdXIgbmV3IENFTywgd2hvIHdpbGwgYmUgam9pbmluZyB1cyBuZXh0IG1vbnRoLgot
+LSAKQmVzdCByZWdhcmRzLApNYXJnYXJldCBMZWU=
+
+--===============3977560050003161411==--

@@ -1,0 +1,36 @@
+Content-Type: multipart/mixed; boundary="===============6994781071742176196=="
+MIME-Version: 1.0
+Received: from mx4.services.io (mx4.services.io [27.176.222.191])
+	by mx.company.com with ESMTP id Pc5yvQqGMzBjx9Ts
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Sharon Turner <sharon.turner@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 00:24:16 -0000
+Message-ID: <Jh45QLK4KvyMQCRvwjpimJKx@build.co>
+
+--===============6994781071742176196==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkVtcGxveWVlIHNhdGlzZmFjdGlvbiBzdXJ2ZXlzIHdpbGwgYmUgZGlzdHJp
+YnV0ZWQgdG9tb3Jyb3cuCkJ1ZGdldCBwbGFubmluZyBmb3IgbmV4dCB5ZWFyIHdpbGwgYmVnaW4g
+c29vbi4KUGxlYXNlIHN1Ym1pdCB5b3VyIGV4cGVuc2UgcmVwb3J0cyBieSB0aGUgZW5kIG9mIHRo
+ZSBkYXkuCldlIGFyZSBwbGFubmluZyBhIHRlYW0tYnVpbGRpbmcgZXZlbnQgbmV4dCBtb250aC4K
+V2UgYXJlIGV4Y2l0ZWQgdG8gYW5ub3VuY2UgdGhlIGxhdW5jaCBvZiBvdXIgbmV3IHByb2R1Y3Qg
+bGluZS4KV2Ugd2lsbCBiZSBtaWdyYXRpbmcgdG8gYSBuZXcgZW1haWwgc3lzdGVtLgpBIHJlbWlu
+ZGVyIHRvIHVwZGF0ZSB5b3VyIHBhc3N3b3JkcyByZWd1bGFybHkuClBsZWFzZSB3ZWxjb21lIG91
+ciBuZXcgaW50ZXJucyBqb2luaW5nIHRoZSB0ZWFtLgpUaGFuayB5b3UgZm9yIHlvdXIgaGFyZCB3
+b3JrIG9uIHRoZSByZWNlbnQgcHJvamVjdC4KUGxlYXNlIHdlbGNvbWUgb3VyIG5ldyBwYXJ0bmVy
+IHRvIHRoZSBvcmdhbml6YXRpb24uCldlIGhhdmUgdXBkYXRlZCB0aGUgaGVhbHRoIGluc3VyYW5j
+ZSBwbGFucy4KQ2xpZW50IHByZXNlbnRhdGlvbnMgYXJlIHNjaGVkdWxlZCBmb3IgbmV4dCBUaHVy
+c2RheS4KV2UgYXJlIGludHJvZHVjaW5nIGZsZXhpYmxlIHdvcmtpbmcgaG91cnMuClBsZWFzZSBh
+c3Npc3QgaW4gb25ib2FyZGluZyB0aGUgbmV3IGhpcmVzLgpQbGVhc2UgcGFydGljaXBhdGUgaW4g
+dGhlIHVwY29taW5nIGZpcmUgZHJpbGwuClBsZWFzZSByZXBvcnQgYW55IG1haW50ZW5hbmNlIGlz
+c3VlcyBwcm9tcHRseS4KV2UgYXJlIGxhdW5jaGluZyBhIG5ldyBpbnRlcm5hbCBjb21tdW5pY2F0
+aW9uIHBsYXRmb3JtLgpXZSBoYXZlIGEgZ3Vlc3Qgc3BlYWtlciBqb2luaW5nIHVzIG5leHQgd2Vl
+ay4KLS0gCkJlc3QgcmVnYXJkcywKU2hhcm9uIFR1cm5lcg==
+
+--===============6994781071742176196==--

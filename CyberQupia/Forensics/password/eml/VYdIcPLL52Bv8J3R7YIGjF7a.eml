@@ -1,0 +1,29 @@
+Content-Type: multipart/mixed; boundary="===============0844104476068705773=="
+MIME-Version: 1.0
+Received: from mx1.gmail.com (mx1.gmail.com [227.41.79.23])
+	by mx.company.com with ESMTP id WqxdDS7yxOsXGYvp
+Received: from mx5.yahoo.com (mx5.yahoo.com [90.28.18.44])
+	by mx.company.com with ESMTP id HYL9TxvaMu7SVOuO
+Received: from mx4.enterprise.org (mx4.enterprise.org [184.202.128.150])
+	by mx.company.com with ESMTP id lCTv6UG2j4eVxlZT
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Ashley Hill <ashley.hill@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 00:45:40 -0000
+Message-ID: <VYdIcPLL52Bv8J3R7YIGjF7a@services.io>
+
+--===============0844104476068705773==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkNsaWVudCBwcmVzZW50YXRpb25zIGFyZSBzY2hlZHVsZWQgZm9yIG5leHQg
+VGh1cnNkYXkuCldlIGFyZSBleHBsb3JpbmcgbmV3IG1hcmtldCBvcHBvcnR1bml0aWVzLgpMZXQg
+bWUga25vdyBpZiB5b3UgaGF2ZSBhbnkgcXVlc3Rpb25zIG9yIGNvbmNlcm5zLgpQbGVhc2Ugc3Vi
+bWl0IHlvdXIgbGVhdmUgcmVxdWVzdHMgaW4gYWR2YW5jZS4KLS0gCkJlc3QgcmVnYXJkcywKQXNo
+bGV5IEhpbGw=
+
+--===============0844104476068705773==--

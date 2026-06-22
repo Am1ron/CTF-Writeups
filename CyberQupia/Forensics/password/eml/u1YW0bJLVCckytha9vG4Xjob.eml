@@ -1,0 +1,31 @@
+Content-Type: multipart/mixed; boundary="===============4352708605253523327=="
+MIME-Version: 1.0
+Received: from mx1.winter.com (mx1.winter.com [224.136.43.192])
+	by mx.company.com with ESMTP id L8thN9LPDuImq186
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Michelle Cooper <michelle.cooper@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 03:31:22 -0000
+Message-ID: <u1YW0bJLVCckytha9vG4Xjob@gmail.com>
+
+--===============4352708605253523327==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCk91ciBzb2NpYWwgbWVkaWEgcHJlc2VuY2UgaXMgZ3Jvd2luZzsgcGxlYXNl
+IGZvbGxvdyB1cy4KV2UgaGF2ZSByZWNlaXZlZCB0aGUgc2hpcG1lbnQgb2YgbmV3IG9mZmljZSBz
+dXBwbGllcy4KVGhlIG5ldyBwb2xpY3kgd2lsbCBiZSBlZmZlY3RpdmUgZnJvbSBuZXh0IG1vbnRo
+LgpQbGVhc2UgcmVwb3J0IGFueSBtYWludGVuYW5jZSBpc3N1ZXMgcHJvbXB0bHkuClBsZWFzZSBy
+ZXZpZXcgdGhlIGF0dGFjaGVkIGNsaWVudCBmZWVkYmFjay4KUGxlYXNlIGF0dGVuZCB0aGUgZGl2
+ZXJzaXR5IGFuZCBpbmNsdXNpb24gd29ya3Nob3AuCk91ciBjbGllbnRzIGhhdmUgcHJvdmlkZWQg
+cG9zaXRpdmUgZmVlZGJhY2sgb24gdGhlIGRlbGl2ZXJhYmxlcy4KSSBhcHByZWNpYXRlIHlvdXIg
+cHJvbXB0IGF0dGVudGlvbiB0byB0aGlzIG1hdHRlci4KV2UgYXJlIGNvbmR1Y3Rpbmcgc3lzdGVt
+IGF1ZGl0cyB0aGlzIHF1YXJ0ZXIuCldlIGhhdmUgdXBkYXRlZCB0aGUgaGVhbHRoIGluc3VyYW5j
+ZSBwbGFucy4KV2UgbmVlZCB0byBmaW5hbGl6ZSB0aGUgYnVkZ2V0IGFsbG9jYXRpb25zIGJ5IGVu
+ZCBvZiB0aGlzIHdlZWsuCi0tIApCZXN0IHJlZ2FyZHMsCk1pY2hlbGxlIENvb3Blcg==
+
+--===============4352708605253523327==--

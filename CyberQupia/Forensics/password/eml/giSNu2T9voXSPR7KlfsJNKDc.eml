@@ -1,0 +1,46 @@
+Content-Type: multipart/mixed; boundary="===============7774174014421382969=="
+MIME-Version: 1.0
+Received: from mx1.business.net (mx1.business.net [230.200.76.101])
+	by mx.company.com with ESMTP id ofQ9gKG2k7vKDF9n
+Received: from mx2.enterprise.org (mx2.enterprise.org [182.218.69.206])
+	by mx.company.com with ESMTP id pBK2bk50KM3A03IH
+Received: from mx5.services.io (mx5.services.io [226.51.209.99])
+	by mx.company.com with ESMTP id omieZW0TJfwWWdmw
+Authentication-Results: company.com; dkim=pass header.d=enterprise.org;
+ spf=pass smtp.mailfrom=enterprise.org;
+ dmarc=pass action=none header.from=enterprise.org
+From: Barbara Brooks <barbara.brooks@enterprise.org>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 09:46:42 -0000
+Message-ID: <giSNu2T9voXSPR7KlfsJNKDc@enterprise.org>
+
+--===============7774174014421382969==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBzdWJtaXQgeW91ciBleHBlbnNlIHJlcG9ydHMgYnkgdGhlIGVu
+ZCBvZiB0aGUgZGF5LgpQbGVhc2UgcmVwb3J0IGFueSBtYWludGVuYW5jZSBpc3N1ZXMgcHJvbXB0
+bHkuCk91ciBhbm51YWwgcmVwb3J0IGhhcyBiZWVuIHJlbGVhc2VkIHRvIHN0YWtlaG9sZGVycy4K
+V2UgYXJlIGluaXRpYXRpbmcgYSBtZW50b3JzaGlwIHByb2dyYW07IGRldGFpbHMgdG8gZm9sbG93
+LgpQbGVhc2UgYWRoZXJlIHRvIHRoZSBuZXcgZHJlc3MgY29kZSBwb2xpY3kuClBsZWFzZSBhc3Np
+c3QgaW4gb25ib2FyZGluZyB0aGUgbmV3IGhpcmVzLgpXZSBhcmUgZXhjaXRlZCBhYm91dCB0aGUg
+dXBjb21pbmcgcHJvZHVjdCBkZW1vLgpUaGVyZSB3aWxsIGJlIGFuIG9mZmljZSBjbGVhbnVwIGRh
+eSB0aGlzIEZyaWRheS4KVGhlIGNhZmV0ZXJpYSBtZW51IGhhcyBiZWVuIHVwZGF0ZWQgd2l0aCBo
+ZWFsdGhpZXIgb3B0aW9ucy4KUGxlYXNlIHN1Ym1pdCBub21pbmF0aW9ucyBmb3IgdGhlIGVtcGxv
+eWVlIG9mIHRoZSBtb250aC4KV2UgaGF2ZSB1cGRhdGVkIG91ciBwcml2YWN5IHBvbGljeS4KV2Ug
+YXJlIGNvbmR1Y3Rpbmcgc3lzdGVtIGF1ZGl0cyB0aGlzIHF1YXJ0ZXIuCldlIGFyZSBob3N0aW5n
+IGEgY2hhcml0eSBldmVudCBuZXh0IHdlZWsuClRoZSBhbm51YWwgY29tcGFueSByZXRyZWF0IGlz
+IGNvbWluZyB1cDsgcGxlYXNlIFJTVlAuCldlIG5lZWQgdG8gZmluYWxpemUgdGhlIGJ1ZGdldCBh
+bGxvY2F0aW9ucyBieSBlbmQgb2YgdGhpcyB3ZWVrLgpXZSBoYXZlIHJlY2VpdmVkIHRoZSBzaGlw
+bWVudCBvZiBuZXcgb2ZmaWNlIHN1cHBsaWVzLgpQbGVhc2UgZmluZCB0aGUgYXR0YWNoZWQgcmVw
+b3J0IGZvciB5b3VyIHJldmlldy4KSG9saWRheSBzY2hlZHVsZXMgaGF2ZSBiZWVuIHBvc3RlZCBv
+biB0aGUgY29tcGFueSBwb3J0YWwuClBsZWFzZSBlbnN1cmUgdGltZWx5IHN1Ym1pc3Npb24gb2Yg
+cHJvamVjdCBkZWxpdmVyYWJsZXMuCk91ciBzb2NpYWwgbWVkaWEgcHJlc2VuY2UgaXMgZ3Jvd2lu
+ZzsgcGxlYXNlIGZvbGxvdyB1cy4KV2UgZW5jb3VyYWdlIHlvdSB0byBwYXJ0aWNpcGF0ZSBpbiB0
+aGUgdXBjb21pbmcgc3VydmV5LgpDbGllbnQgcHJlc2VudGF0aW9ucyBhcmUgc2NoZWR1bGVkIGZv
+ciBuZXh0IFRodXJzZGF5LgpQbGVhc2UgdXBkYXRlIHlvdXIgY29udGFjdCBpbmZvcm1hdGlvbiBp
+biB0aGUgZGlyZWN0b3J5LgotLSAKQmVzdCByZWdhcmRzLApCYXJiYXJhIEJyb29rcw==
+
+--===============7774174014421382969==--

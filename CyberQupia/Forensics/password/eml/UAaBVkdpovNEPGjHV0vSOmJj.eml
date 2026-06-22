@@ -1,0 +1,29 @@
+Content-Type: multipart/mixed; boundary="===============3265861611075116712=="
+MIME-Version: 1.0
+Received: from mx2.build.co (mx2.build.co [195.184.18.59])
+	by mx.company.com with ESMTP id BtdbAeQNJSNdJaks
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: Ashley White <ashley.white@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 25 Sep 2024 16:25:19 -0000
+Message-ID: <UAaBVkdpovNEPGjHV0vSOmJj@solutions.biz>
+
+--===============3265861611075116712==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBJVCBkZXBhcnRtZW50IHdpbGwgcGVyZm9ybSBzeXN0ZW0gbWFpbnRl
+bmFuY2UgdGhpcyB3ZWVrZW5kLgpQbGVhc2UgcmVwb3J0IGFueSBtYWludGVuYW5jZSBpc3N1ZXMg
+cHJvbXB0bHkuClRoZSBuZXh0IHRyYWluaW5nIHdvcmtzaG9wIGlzIHNjaGVkdWxlZCBmb3IgbmV4
+dCBtb250aC4KTmV3IHBhcmtpbmcgcmVndWxhdGlvbnMgd2lsbCBiZSBpbiBlZmZlY3QgZnJvbSBN
+b25kYXkuCkkgYXBwcmVjaWF0ZSB5b3VyIHByb21wdCBhdHRlbnRpb24gdG8gdGhpcyBtYXR0ZXIu
+ClBsZWFzZSBiZSBhZHZpc2VkIG9mIHRoZSBjaGFuZ2VzIGluIHRoZSBjb21wYW55IHBvbGljeS4K
+WW91ciBsZWFkZXJzaGlwIGluIHRoZSBwcm9qZWN0IGlzIGNvbW1lbmRhYmxlLgpZb3VyIGRlcGFy
+dG1lbnQgaGFzIGV4Y2VlZGVkIGl0cyBwZXJmb3JtYW5jZSB0YXJnZXRzLgotLSAKQmVzdCByZWdh
+cmRzLApBc2hsZXkgV2hpdGU=
+
+--===============3265861611075116712==--

@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============6227213329630198759=="
+MIME-Version: 1.0
+Received: from mx3.build.co (mx3.build.co [215.58.136.21])
+	by mx.company.com with ESMTP id AcGkiEznLcAGqWt5
+Received: from mx3.business.net (mx3.business.net [133.118.117.74])
+	by mx.company.com with ESMTP id 78Ds40dlqb0lspWi
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: Deborah Nelson <deborah.nelson@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 20:57:51 -0000
+Message-ID: <GE0h3kL2QwoXFrTxm9dqzeJe@solutions.biz>
+
+--===============6227213329630198759==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkxvb2tpbmcgZm9yd2FyZCB0byBvdXIgY29sbGFib3JhdGlvbiBvbiB0aGlz
+IGluaXRpYXRpdmUuCldlIGFwcHJlY2lhdGUgeW91ciBjb21taXRtZW50IHRvIHF1YWxpdHkgYW5k
+IGV4Y2VsbGVuY2UuClBsZWFzZSBjb21wbGV0ZSB0aGUgbWFuZGF0b3J5IHRyYWluaW5nIG1vZHVs
+ZXMuCldlIGFyZSBjb25kdWN0aW5nIHN5c3RlbSBhdWRpdHMgdGhpcyBxdWFydGVyLgpBIHJlbWlu
+ZGVyIHRvIHVwZGF0ZSB5b3VyIHBhc3N3b3JkcyByZWd1bGFybHkuClBsZWFzZSBzdWJtaXQgeW91
+ciBleHBlbnNlIHJlcG9ydHMgYnkgdGhlIGVuZCBvZiB0aGUgZGF5LgpQbGVhc2UgYmUgYWR2aXNl
+ZCBvZiB0aGUgY2hhbmdlcyBpbiB0aGUgY29tcGFueSBwb2xpY3kuCk91ciBhbm51YWwgcmVwb3J0
+IGhhcyBiZWVuIHJlbGVhc2VkIHRvIHN0YWtlaG9sZGVycy4KV2Ugd2lsbCBiZSBtaWdyYXRpbmcg
+dG8gYSBuZXcgZW1haWwgc3lzdGVtLgpQbGVhc2Ugb2JzZXJ2ZSBzaWxlbmNlIGluIGRlc2lnbmF0
+ZWQgcXVpZXQgem9uZXMuCllvdXIgbGVhZGVyc2hpcCBpbiB0aGUgcHJvamVjdCBpcyBjb21tZW5k
+YWJsZS4KV2UgaGF2ZSBpbnRyb2R1Y2VkIGEgbmV3IGJlbmVmaXRzIHBhY2thZ2UgZm9yIGVtcGxv
+eWVlcy4KV2UgYXJlIHJldmlzaW5nIG91ciBzdHJhdGVnaWMgb2JqZWN0aXZlcy4KUGxlYXNlIGF2
+b2lkIHNjaGVkdWxpbmcgbWVldGluZ3MgZHVyaW5nIGx1bmNoIGhvdXJzLgpXZSBhcmUgaW50cm9k
+dWNpbmcgZmxleGlibGUgd29ya2luZyBob3Vycy4KTGV04oCZcyBzdHJpdmUgdG8gZXhjZWVkIG91
+ciBnb2FscyBmb3IgdGhpcyBmaXNjYWwgeWVhci4KQnVkZ2V0IHBsYW5uaW5nIGZvciBuZXh0IHll
+YXIgd2lsbCBiZWdpbiBzb29uLgpZb3VyIGV4cGVydGlzZSBpcyByZXF1ZXN0ZWQgb24gdGhlIHVw
+Y29taW5nIHByb2plY3QuCi0tIApCZXN0IHJlZ2FyZHMsCkRlYm9yYWggTmVsc29u
+
+--===============6227213329630198759==--

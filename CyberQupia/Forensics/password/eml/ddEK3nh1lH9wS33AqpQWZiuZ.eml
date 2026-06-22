@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============8001370447280107158=="
+MIME-Version: 1.0
+Received: from mx4.enterprise.org (mx4.enterprise.org [217.83.69.89])
+	by mx.company.com with ESMTP id Snvzis6LvMFYAUDr
+Authentication-Results: company.com; dkim=pass header.d=enterprise.org;
+ spf=pass smtp.mailfrom=enterprise.org;
+ dmarc=pass action=none header.from=enterprise.org
+From: Elizabeth Lopez <elizabeth.lopez@enterprise.org>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 22:58:43 -0000
+Message-ID: <ddEK3nh1lH9wS33AqpQWZiuZ@enterprise.org>
+
+--===============8001370447280107158==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBzdWJtaXQgbm9taW5hdGlvbnMgZm9yIHRoZSBlbXBsb3llZSBv
+ZiB0aGUgbW9udGguCkNsaWVudCBwcmVzZW50YXRpb25zIGFyZSBzY2hlZHVsZWQgZm9yIG5leHQg
+VGh1cnNkYXkuClJlbWluZGVyOiBUaGUgcXVhcnRlcmx5IG1lZXRpbmcgaXMgc2NoZWR1bGVkIGZv
+ciBuZXh0IFdlZG5lc2RheS4KVGhlIElUIGRlcGFydG1lbnQgd2lsbCBwZXJmb3JtIHN5c3RlbSBt
+YWludGVuYW5jZSB0aGlzIHdlZWtlbmQuCldlIGFyZSBpbnRyb2R1Y2luZyBmbGV4aWJsZSB3b3Jr
+aW5nIGhvdXJzLgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IENFTywgd2hvIHdpbGwgYmUgam9pbmlu
+ZyB1cyBuZXh0IG1vbnRoLgpUaGUgdHJhaW5pbmcgc2Vzc2lvbiBoYXMgYmVlbiByZXNjaGVkdWxl
+ZCB0byBGcmlkYXkuClBsZWFzZSBqb2luIG1lIGluIHdlbGNvbWluZyB0aGUgbmV3IG1lbWJlcnMg
+dG8gb3VyIHRlYW0uClRoZXJlIHdpbGwgYmUgYW4gb2ZmaWNlIGNsZWFudXAgZGF5IHRoaXMgRnJp
+ZGF5LgpUaGUgcGVyZm9ybWFuY2UgcmV2aWV3IG1lZXRpbmdzIHdpbGwgY29tbWVuY2UgbmV4dCBN
+b25kYXkuCldlIGFyZSBleHBsb3JpbmcgbmV3IG1hcmtldCBvcHBvcnR1bml0aWVzLgpUaGFuayB5
+b3UgZm9yIGF0dGVuZGluZyB0aGUgc2VtaW5hciBsYXN0IHdlZWsuClRoZSBjb21wYW55IG5ld3Ns
+ZXR0ZXIgaGFzIGJlZW4gcHVibGlzaGVkLgpXZSBhcmUgY29uZHVjdGluZyBzeXN0ZW0gYXVkaXRz
+IHRoaXMgcXVhcnRlci4KT3VyIHN1c3RhaW5hYmlsaXR5IHJlcG9ydCBoYXMgYmVlbiBwdWJsaXNo
+ZWQ7IHBsZWFzZSByZWFkIGl0LgpPdXIgc29jaWFsIG1lZGlhIHByZXNlbmNlIGlzIGdyb3dpbmc7
+IHBsZWFzZSBmb2xsb3cgdXMuClBsZWFzZSBjb21wbGV0ZSB0aGUgY3liZXJzZWN1cml0eSB0cmFp
+bmluZyBtb2R1bGUuCk5ldyBwYXJraW5nIHJlZ3VsYXRpb25zIHdpbGwgYmUgaW4gZWZmZWN0IGZy
+b20gTW9uZGF5LgotLSAKQmVzdCByZWdhcmRzLApFbGl6YWJldGggTG9wZXo=
+
+--===============8001370447280107158==--

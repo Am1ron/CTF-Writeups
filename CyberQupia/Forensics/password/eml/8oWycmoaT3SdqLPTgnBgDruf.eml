@@ -1,0 +1,40 @@
+Content-Type: multipart/mixed; boundary="===============6741651190915298401=="
+MIME-Version: 1.0
+Received: from mx3.mail.com (mx3.mail.com [153.25.51.199])
+	by mx.company.com with ESMTP id mARe6cH1AalW5Vcq
+Authentication-Results: company.com; dkim=pass header.d=corp.com;
+ spf=pass smtp.mailfrom=corp.com; dmarc=pass action=none header.from=corp.com
+From: Joshua Rodriguez <joshua.rodriguez@corp.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 07:27:53 -0000
+Message-ID: <8oWycmoaT3SdqLPTgnBgDruf@corp.com>
+
+--===============6741651190915298401==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClByb2plY3QgZGVhZGxpbmVzIGhhdmUgYmVlbiBhZGp1c3RlZCBkdWUgdG8g
+dW5mb3Jlc2VlbiBjaXJjdW1zdGFuY2VzLgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IGludGVybnMg
+am9pbmluZyB0aGUgdGVhbS4KSSBhcHByZWNpYXRlIHlvdXIgcHJvbXB0IGF0dGVudGlvbiB0byB0
+aGlzIG1hdHRlci4KVGhhbmsgeW91IGZvciB5b3VyIHBhdGllbmNlIGR1cmluZyB0aGUgc3lzdGVt
+IGRvd250aW1lLgpQbGVhc2UgYXNzaXN0IGluIG9uYm9hcmRpbmcgdGhlIG5ldyBoaXJlcy4KUmVt
+aW5kZXI6IFRoZSBxdWFydGVybHkgbWVldGluZyBpcyBzY2hlZHVsZWQgZm9yIG5leHQgV2VkbmVz
+ZGF5LgpXZSBuZWVkIHRvIGZpbmFsaXplIHRoZSBidWRnZXQgYWxsb2NhdGlvbnMgYnkgZW5kIG9m
+IHRoaXMgd2Vlay4KV2UgZW5jb3VyYWdlIHlvdSB0byBwYXJ0aWNpcGF0ZSBpbiB0aGUgdXBjb21p
+bmcgc3VydmV5LgpUZWFtIGxlYWRzIGFyZSByZXF1ZXN0ZWQgdG8gc3VibWl0IHRoZWlyIHJlcG9y
+dHMgYnkgRnJpZGF5LgpXZSBhcmUgaG9zdGluZyBhIGNoYXJpdHkgZXZlbnQgbmV4dCB3ZWVrLgpU
+aGUgcGVyZm9ybWFuY2UgcmV2aWV3IG1lZXRpbmdzIHdpbGwgY29tbWVuY2UgbmV4dCBNb25kYXku
+ClBsZWFzZSBzdWJtaXQgeW91ciBsZWF2ZSByZXF1ZXN0cyBpbiBhZHZhbmNlLgpQbGVhc2UgZmFt
+aWxpYXJpemUgeW91cnNlbGYgd2l0aCB0aGUgdXBkYXRlZCBndWlkZWxpbmVzLgpXZSBhcmUgZXhj
+aXRlZCBhYm91dCB0aGUgdXBjb21pbmcgcHJvZHVjdCBkZW1vLgpBbGwgc3RhZmYgYXJlIGludml0
+ZWQgdG8gdGhlIHRvd24gaGFsbCBtZWV0aW5nLgpDb25ncmF0dWxhdGlvbnMgb24geW91ciByZWNl
+bnQgYWNoaWV2ZW1lbnQhCllvdXIgYWN0aW9uIGlzIHJlcXVpcmVkIG9uIHRoZSBwZW5kaW5nIHRh
+c2tzLgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IENFTywgd2hvIHdpbGwgYmUgam9pbmluZyB1cyBu
+ZXh0IG1vbnRoLgpMZXTigJlzIGNvb3JkaW5hdGUgdG8gZW5zdXJlIGEgc21vb3RoIHRyYW5zaXRp
+b24uClBsZWFzZSBvYnNlcnZlIHRoZSBuZXcgc2FuaXRhdGlvbiBwcm90b2NvbHMuClRoZSBuZXh0
+IHRyYWluaW5nIHdvcmtzaG9wIGlzIHNjaGVkdWxlZCBmb3IgbmV4dCBtb250aC4KLS0gCkJlc3Qg
+cmVnYXJkcywKSm9zaHVhIFJvZHJpZ3Vleg==
+
+--===============6741651190915298401==--

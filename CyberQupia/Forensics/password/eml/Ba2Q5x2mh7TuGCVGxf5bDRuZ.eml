@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============7943719304879559557=="
+MIME-Version: 1.0
+Received: from mx2.corp.com (mx2.corp.com [76.227.192.246])
+	by mx.company.com with ESMTP id IVxH0kReFrXIoeEy
+Received: from mx5.solutions.biz (mx5.solutions.biz [192.228.106.4])
+	by mx.company.com with ESMTP id yerdJSpfQoufTZvL
+Authentication-Results: company.com; dkim=pass header.d=enterprise.org;
+ spf=pass smtp.mailfrom=enterprise.org;
+ dmarc=pass action=none header.from=enterprise.org
+From: Jason Cooper <jason.cooper@enterprise.org>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 00:02:05 -0000
+Message-ID: <Ba2Q5x2mh7TuGCVGxf5bDRuZ@enterprise.org>
+
+--===============7943719304879559557==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkxldOKAmXMgc3RyaXZlIHRvIGV4Y2VlZCBvdXIgZ29hbHMgZm9yIHRoaXMg
+ZmlzY2FsIHllYXIuClRoZSB0cmFpbmluZyBzZXNzaW9uIGhhcyBiZWVuIHJlc2NoZWR1bGVkIHRv
+IEZyaWRheS4KUGxlYXNlIG9ic2VydmUgc2lsZW5jZSBpbiBkZXNpZ25hdGVkIHF1aWV0IHpvbmVz
+LgpQbGVhc2Ugc2VuZCB5b3VyIGZlZWRiYWNrIG9uIHRoZSBwcm9wb3NlZCBjaGFuZ2VzLgotLSAK
+QmVzdCByZWdhcmRzLApKYXNvbiBDb29wZXI=
+
+--===============7943719304879559557==--

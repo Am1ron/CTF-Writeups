@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============4303510378900514219=="
+MIME-Version: 1.0
+Received: from mx5.corp.com (mx5.corp.com [42.29.126.95])
+	by mx.company.com with ESMTP id p3CLM6E83IjR2E6O
+Received: from mx1.gmail.com (mx1.gmail.com [113.239.203.7])
+	by mx.company.com with ESMTP id X9mhdlgss81b8nkf
+Received: from mx3.services.io (mx3.services.io [230.5.203.209])
+	by mx.company.com with ESMTP id 4rXTEUBNZMKUIt1h
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Ashley Lopez <ashley.lopez@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 22:11:32 -0000
+Message-ID: <v7vqjczj39TeC7vdLq2iDU7U@gmail.com>
+
+--===============4303510378900514219==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBjb21wbGV0ZSB0aGUgbWFuZGF0b3J5IHRyYWluaW5nIG1vZHVs
+ZXMuCkxldOKAmXMgc3RyaXZlIHRvIGV4Y2VlZCBvdXIgZ29hbHMgZm9yIHRoaXMgZmlzY2FsIHll
+YXIuClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgaW50ZXJucyBqb2luaW5nIHRoZSB0ZWFtLgpQbGVh
+c2UgcGFydGljaXBhdGUgaW4gdGhlIHVwY29taW5nIGZpcmUgZHJpbGwuCldlIGhhdmUgdXBkYXRl
+ZCB0aGUgaGVhbHRoIGluc3VyYW5jZSBwbGFucy4KWW91ciBsZWFkZXJzaGlwIGluIHRoZSBwcm9q
+ZWN0IGlzIGNvbW1lbmRhYmxlLgpUaGUgbGF0ZXN0IHNvZnR3YXJlIHVwZGF0ZXMgaGF2ZSBiZWVu
+IGluc3RhbGxlZC4KV2UgYXJlIGluaXRpYXRpbmcgYSBtZW50b3JzaGlwIHByb2dyYW07IGRldGFp
+bHMgdG8gZm9sbG93LgpLaW5kbHkgdXBkYXRlIHRoZSBkb2N1bWVudGF0aW9uIHdpdGggdGhlIGxh
+dGVzdCBpbmZvcm1hdGlvbi4KV2UgYXBwcmVjaWF0ZSB5b3VyIGNvbW1pdG1lbnQgdG8gcXVhbGl0
+eSBhbmQgZXhjZWxsZW5jZS4KVGhlIHBlcmZvcm1hbmNlIHJldmlldyBtZWV0aW5ncyB3aWxsIGNv
+bW1lbmNlIG5leHQgTW9uZGF5LgpQbGVhc2Ugam9pbiBtZSBpbiB3ZWxjb21pbmcgdGhlIG5ldyBt
+ZW1iZXJzIHRvIG91ciB0ZWFtLgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IENFTywgd2hvIHdpbGwg
+YmUgam9pbmluZyB1cyBuZXh0IG1vbnRoLgpUaGFuayB5b3UgZm9yIGF0dGVuZGluZyB0aGUgc2Vt
+aW5hciBsYXN0IHdlZWsuCldlIGFyZSBwcm91ZCBvZiB0aGUgdGVhbSdzIGlubm92YXRpb24gYW5k
+IGNyZWF0aXZpdHkuCi0tIApCZXN0IHJlZ2FyZHMsCkFzaGxleSBMb3Bleg==
+
+--===============4303510378900514219==--

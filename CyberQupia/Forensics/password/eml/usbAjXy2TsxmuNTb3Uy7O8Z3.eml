@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============2349686161539030877=="
+MIME-Version: 1.0
+Received: from mx4.corp.com (mx4.corp.com [234.214.196.220])
+	by mx.company.com with ESMTP id GPcz7DlqMs3LBYtc
+Received: from mx2.mail.com (mx2.mail.com [83.150.243.236])
+	by mx.company.com with ESMTP id dfPe0Db1m9Rlf3GK
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: Michael Green <michael.green@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 16 Sep 2024 22:56:28 -0000
+Message-ID: <usbAjXy2TsxmuNTb3Uy7O8Z3@solutions.biz>
+
+--===============2349686161539030877==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSByZXZpZXcgdGhlIGF0dGFjaGVkIHBlcmZvcm1hbmNlIG1ldHJp
+Y3MuClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgQ0VPLCB3aG8gd2lsbCBiZSBqb2luaW5nIHVzIG5l
+eHQgbW9udGguClBsZWFzZSBlbnN1cmUgYWxsIHRoZSBjb21wbGlhbmNlIHJlcXVpcmVtZW50cyBh
+cmUgbWV0LgpMZXQncyBzY2hlZHVsZSBhIG9uZS1vbi1vbmUgbWVldGluZyB0byBkaXNjdXNzIHlv
+dXIgcHJvZ3Jlc3MuCi0tIApCZXN0IHJlZ2FyZHMsCk1pY2hhZWwgR3JlZW4=
+
+--===============2349686161539030877==--

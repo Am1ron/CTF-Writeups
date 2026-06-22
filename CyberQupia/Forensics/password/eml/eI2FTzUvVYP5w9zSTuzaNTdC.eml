@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="===============4025589616176848218=="
+MIME-Version: 1.0
+Received: from mx2.enterprise.org (mx2.enterprise.org [177.41.232.19])
+	by mx.company.com with ESMTP id NBc8GQADfIKyPLxK
+Received: from mx3.solutions.biz (mx3.solutions.biz [91.172.166.20])
+	by mx.company.com with ESMTP id 5fqyhefOUilH8Cbi
+Received: from mx2.services.io (mx2.services.io [178.8.243.140])
+	by mx.company.com with ESMTP id IwJ3xXDZqjXzNXdZ
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Jessica King <jessica.king@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 00:08:15 -0000
+Message-ID: <eI2FTzUvVYP5w9zSTuzaNTdC@mail.com>
+
+--===============4025589616176848218==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBleGNpdGVkIHRvIGFubm91bmNlIHRoZSBsYXVuY2ggb2Ygb3Vy
+IG5ldyBwcm9kdWN0IGxpbmUuCkNsaWVudCBwcmVzZW50YXRpb25zIGFyZSBzY2hlZHVsZWQgZm9y
+IG5leHQgVGh1cnNkYXkuClRoZSBwZXJmb3JtYW5jZSByZXZpZXcgbWVldGluZ3Mgd2lsbCBjb21t
+ZW5jZSBuZXh0IE1vbmRheS4KVGhhbmsgeW91IGZvciBhdHRlbmRpbmcgdGhlIHNlbWluYXIgbGFz
+dCB3ZWVrLgotLSAKQmVzdCByZWdhcmRzLApKZXNzaWNhIEtpbmc=
+
+--===============4025589616176848218==--

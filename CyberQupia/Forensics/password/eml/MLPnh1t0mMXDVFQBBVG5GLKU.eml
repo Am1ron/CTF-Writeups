@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============8059403487821123920=="
+MIME-Version: 1.0
+Received: from mx5.build.co (mx5.build.co [163.97.123.245])
+	by mx.company.com with ESMTP id JUiGcMAjlItYw19W
+Received: from mx3.mail.com (mx3.mail.com [247.152.160.144])
+	by mx.company.com with ESMTP id 8PNVRIWEJ7b3mayO
+Received: from mx1.mail.com (mx1.mail.com [124.46.27.43])
+	by mx.company.com with ESMTP id Rprpr7dl3GgJM5uc
+Authentication-Results: company.com; dkim=pass header.d=corp.com;
+ spf=pass smtp.mailfrom=corp.com; dmarc=pass action=none header.from=corp.com
+From: Nancy Ward <nancy.ward@corp.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 05:24:56 -0000
+Message-ID: <MLPnh1t0mMXDVFQBBVG5GLKU@corp.com>
+
+--===============8059403487821123920==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBleHBhbmRpbmcgb3VyIG9wZXJhdGlvbnMgdG8gbmV3IHJlZ2lv
+bnMuClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgcGFydG5lciB0byB0aGUgb3JnYW5pemF0aW9uLgpU
+aGUgbGF0ZXN0IHNvZnR3YXJlIHVwZGF0ZXMgaGF2ZSBiZWVuIGluc3RhbGxlZC4KUGxlYXNlIGFz
+c2lzdCBpbiBvbmJvYXJkaW5nIHRoZSBuZXcgaGlyZXMuClRoZSBib2FyZCBtZWV0aW5nIG1pbnV0
+ZXMgaGF2ZSBiZWVuIHVwbG9hZGVkIHRvIHRoZSBzaGFyZWQgZHJpdmUuCldlIGhhdmUgYWNoaWV2
+ZWQgb3VyIHF1YXJ0ZXJseSB0YXJnZXRzIHN1Y2Nlc3NmdWxseS4KTmV3IHBhcmtpbmcgcmVndWxh
+dGlvbnMgd2lsbCBiZSBpbiBlZmZlY3QgZnJvbSBNb25kYXkuClBsZWFzZSBkaXNwb3NlIG9mIGNv
+bmZpZGVudGlhbCBkb2N1bWVudHMgc2VjdXJlbHkuClRlYW0gbGVhZHMgYXJlIHJlcXVlc3RlZCB0
+byBzdWJtaXQgdGhlaXIgcmVwb3J0cyBieSBGcmlkYXkuCldlIGhhdmUgcmVjZWl2ZWQgdGhlIHNo
+aXBtZW50IG9mIG5ldyBvZmZpY2Ugc3VwcGxpZXMuCllvdXIgZGVwYXJ0bWVudCBoYXMgZXhjZWVk
+ZWQgaXRzIHBlcmZvcm1hbmNlIHRhcmdldHMuClRoZSBJVCBkZXBhcnRtZW50IHdpbGwgcGVyZm9y
+bSBzeXN0ZW0gbWFpbnRlbmFuY2UgdGhpcyB3ZWVrZW5kLgpUaGFuayB5b3UgZm9yIHlvdXIgcGF0
+aWVuY2UgZHVyaW5nIHRoZSBzeXN0ZW0gZG93bnRpbWUuClBsZWFzZSBzdWJtaXQgbm9taW5hdGlv
+bnMgZm9yIHRoZSBlbXBsb3llZSBvZiB0aGUgbW9udGguCi0tIApCZXN0IHJlZ2FyZHMsCk5hbmN5
+IFdhcmQ=
+
+--===============8059403487821123920==--

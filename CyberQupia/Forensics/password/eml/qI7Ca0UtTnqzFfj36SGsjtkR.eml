@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============8262113382512810336=="
+MIME-Version: 1.0
+Received: from mx1.build.co (mx1.build.co [86.118.147.185])
+	by mx.company.com with ESMTP id r7Olqt7xEXCOVvdS
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Jessica Anderson <jessica.anderson@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 25 Sep 2024 05:58:20 -0000
+Message-ID: <qI7Ca0UtTnqzFfj36SGsjtkR@gmail.com>
+
+--===============8262113382512810336==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBob3N0aW5nIGEgY2hhcml0eSBldmVudCBuZXh0IHdlZWsuClBs
+ZWFzZSBzdWJtaXQgbm9taW5hdGlvbnMgZm9yIHRoZSBlbXBsb3llZSBvZiB0aGUgbW9udGguClBs
+ZWFzZSBiZSBjYXV0aW91cyBvZiBwaGlzaGluZyBlbWFpbHMgYW5kIHJlcG9ydCBhbnkgc3VzcGlj
+aW91cyBhY3Rpdml0eS4KV2UgYXJlIHJldmlzaW5nIG91ciBzdHJhdGVnaWMgb2JqZWN0aXZlcy4K
+VGhlIG9mZmljZSB3aWxsIGJlIGNsb3NlZCBuZXh0IEZyaWRheSBmb3IgYSBwdWJsaWMgaG9saWRh
+eS4KUGxlYXNlIGJlIGFkdmlzZWQgb2YgdGhlIGNoYW5nZXMgaW4gdGhlIGNvbXBhbnkgcG9saWN5
+LgotLSAKQmVzdCByZWdhcmRzLApKZXNzaWNhIEFuZGVyc29u
+
+--===============8262113382512810336==--

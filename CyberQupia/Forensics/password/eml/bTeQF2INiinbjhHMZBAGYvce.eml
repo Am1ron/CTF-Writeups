@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============3387537037876932993=="
+MIME-Version: 1.0
+Received: from mx5.winter.com (mx5.winter.com [23.120.193.146])
+	by mx.company.com with ESMTP id be8iUynH7kx3BEGG
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Jessica White <jessica.white@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 21:56:51 -0000
+Message-ID: <bTeQF2INiinbjhHMZBAGYvce@gmail.com>
+
+--===============3387537037876932993==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgcmVjZWl2ZWQgdGhlIHNoaXBtZW50IG9mIG5ldyBvZmZpY2Ug
+c3VwcGxpZXMuCldlIGhhdmUgbGF1bmNoZWQgYW4gZW1wbG95ZWUgcmVjb2duaXRpb24gcHJvZ3Jh
+bS4KUGxlYXNlIHByb3ZpZGUgeW91ciBhdmFpbGFiaWxpdHkgZm9yIHRoZSBuZXh0IHR3byB3ZWVr
+cy4KVGhhbmsgeW91IGZvciB5b3VyIGhhcmQgd29yayBvbiB0aGUgcmVjZW50IHByb2plY3QuCldl
+IGFyZSBsYXVuY2hpbmcgYSBuZXcgaW50ZXJuYWwgY29tbXVuaWNhdGlvbiBwbGF0Zm9ybS4KUGxl
+YXNlIHJlZnJhaW4gZnJvbSB1c2luZyBwZXJzb25hbCBkZXZpY2VzIGZvciB3b3JrIGVtYWlscy4K
+VGhlIGJvYXJkIG1lZXRpbmcgbWludXRlcyBoYXZlIGJlZW4gdXBsb2FkZWQgdG8gdGhlIHNoYXJl
+ZCBkcml2ZS4KVGhlIGNvbXBhbnkgbmV3c2xldHRlciBoYXMgYmVlbiBwdWJsaXNoZWQuCkkgd291
+bGQgbGlrZSB0byBzY2hlZHVsZSBhIG1lZXRpbmcgdG8gZGlzY3VzcyB0aGUgcHJvamVjdCB1cGRh
+dGVzLgpUaGUgdHJhaW5pbmcgc2Vzc2lvbiBoYXMgYmVlbiByZXNjaGVkdWxlZCB0byBGcmlkYXku
+ClBsZWFzZSBiZSBhZHZpc2VkIG9mIHRoZSBjaGFuZ2VzIGluIHRoZSBjb21wYW55IHBvbGljeS4K
+UGxlYXNlIHN1Ym1pdCBub21pbmF0aW9ucyBmb3IgdGhlIGVtcGxveWVlIG9mIHRoZSBtb250aC4K
+VGhhbmsgeW91IGZvciB5b3VyIHByb21wdCByZXNwb25zZS4KV2UgYXJlIHVwZ3JhZGluZyBvdXIg
+aGFyZHdhcmUgaW5mcmFzdHJ1Y3R1cmUuClRoZSBJVCBkZXBhcnRtZW50IHdpbGwgcGVyZm9ybSBz
+eXN0ZW0gbWFpbnRlbmFuY2UgdGhpcyB3ZWVrZW5kLgpXZSBoYXZlIHNjaGVkdWxlZCBhIHZpcnR1
+YWwgY29mZmVlIGNoYXQgZm9yIHRlYW0gYnVpbGRpbmcuCi0tIApCZXN0IHJlZ2FyZHMsCkplc3Np
+Y2EgV2hpdGU=
+
+--===============3387537037876932993==--

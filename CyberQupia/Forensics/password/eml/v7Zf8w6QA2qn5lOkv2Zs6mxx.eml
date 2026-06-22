@@ -1,0 +1,24 @@
+Content-Type: multipart/mixed; boundary="===============3357988255860219485=="
+MIME-Version: 1.0
+Received: from mx2.enterprise.org (mx2.enterprise.org [157.187.207.161])
+	by mx.company.com with ESMTP id nrGJxm7IVS3WQMOb
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Charles Murphy <charles.murphy@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 17:08:29 -0000
+Message-ID: <v7Zf8w6QA2qn5lOkv2Zs6mxx@yahoo.com>
+
+--===============3357988255860219485==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBiZSBhZHZpc2VkIG9mIHRoZSBjaGFuZ2VzIGluIHRoZSBjb21w
+YW55IHBvbGljeS4KVGhlIGxhdGVzdCBzb2Z0d2FyZSB1cGRhdGVzIGhhdmUgYmVlbiBpbnN0YWxs
+ZWQuClRoZSBib2FyZCBtZWV0aW5nIG1pbnV0ZXMgaGF2ZSBiZWVuIHVwbG9hZGVkIHRvIHRoZSBz
+aGFyZWQgZHJpdmUuCi0tIApCZXN0IHJlZ2FyZHMsCkNoYXJsZXMgTXVycGh5
+
+--===============3357988255860219485==--

@@ -1,0 +1,26 @@
+Content-Type: multipart/mixed; boundary="===============8648251870633900189=="
+MIME-Version: 1.0
+Received: from mx3.winter.com (mx3.winter.com [4.245.181.39])
+	by mx.company.com with ESMTP id vFAvEcorOW4MhmFh
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: Patricia Evans <patricia.evans@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 10:23:24 -0000
+Message-ID: <JiPkdeXZbGyGWiReojMsgqLC@solutions.biz>
+
+--===============8648251870633900189==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBuZXh0IHRyYWluaW5nIHdvcmtzaG9wIGlzIHNjaGVkdWxlZCBmb3Ig
+bmV4dCBtb250aC4KV2UgaGF2ZSBzZWN1cmVkIGEgbmV3IGNvbnRyYWN0IHdpdGggYSBtYWpvciBj
+bGllbnQuCk91ciBzdXN0YWluYWJpbGl0eSByZXBvcnQgaGFzIGJlZW4gcHVibGlzaGVkOyBwbGVh
+c2UgcmVhZCBpdC4KUGxlYXNlIGZpbmQgdGhlIGF0dGFjaGVkIHJlcG9ydCBmb3IgeW91ciByZXZp
+ZXcuCldlIGhhdmUgc2NoZWR1bGVkIGEgdmlydHVhbCBjb2ZmZWUgY2hhdCBmb3IgdGVhbSBidWls
+ZGluZy4KLS0gCkJlc3QgcmVnYXJkcywKUGF0cmljaWEgRXZhbnM=
+
+--===============8648251870633900189==--

@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============4677300141546690749=="
+MIME-Version: 1.0
+Received: from mx1.build.co (mx1.build.co [239.115.29.131])
+	by mx.company.com with ESMTP id JpfBJWaEq7KzSGJ7
+Received: from mx3.mail.com (mx3.mail.com [72.194.77.199])
+	by mx.company.com with ESMTP id WAtAfbq37Sd1iKwR
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: David Garcia <david.garcia@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 13:04:15 -0000
+Message-ID: <zEoKvMfitR0QZiGHBo9TofbK@mail.com>
+
+--===============4677300141546690749==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgc2VjdXJlZCBhIG5ldyBjb250cmFjdCB3aXRoIGEgbWFqb3Ig
+Y2xpZW50LgpUZWFtIGxlYWRzIGFyZSByZXF1ZXN0ZWQgdG8gc3VibWl0IHRoZWlyIHJlcG9ydHMg
+YnkgRnJpZGF5LgpUaGUgcGVyZm9ybWFuY2UgcmV2aWV3IG1lZXRpbmdzIHdpbGwgY29tbWVuY2Ug
+bmV4dCBNb25kYXkuCk5ldyBwYXJraW5nIHJlZ3VsYXRpb25zIHdpbGwgYmUgaW4gZWZmZWN0IGZy
+b20gTW9uZGF5LgpZb3VyIGV4cGVydGlzZSBpcyByZXF1ZXN0ZWQgb24gdGhlIHVwY29taW5nIHBy
+b2plY3QuCldlIGFyZSByZXZpc2luZyBvdXIgc3RyYXRlZ2ljIG9iamVjdGl2ZXMuClRoZXJlIHdp
+bGwgYmUgYW4gb2ZmaWNlIGNsZWFudXAgZGF5IHRoaXMgRnJpZGF5LgpTZWN1cml0eSBwcm90b2Nv
+bHMgaGF2ZSBiZWVuIHVwZGF0ZWQ7IHBsZWFzZSByZXZpZXcgdGhlbS4KTGV04oCZcyBjb29yZGlu
+YXRlIHRvIGVuc3VyZSBhIHNtb290aCB0cmFuc2l0aW9uLgpJIHdvdWxkIGxpa2UgdG8gc2NoZWR1
+bGUgYSBtZWV0aW5nIHRvIGRpc2N1c3MgdGhlIHByb2plY3QgdXBkYXRlcy4KUGxlYXNlIGNvbXBs
+ZXRlIHRoZSBtYW5kYXRvcnkgdHJhaW5pbmcgbW9kdWxlcy4KUGxlYXNlIGFzc2lzdCBpbiBvbmJv
+YXJkaW5nIHRoZSBuZXcgaGlyZXMuClBsZWFzZSBwYXJ0aWNpcGF0ZSBpbiB0aGUgdXBjb21pbmcg
+ZmlyZSBkcmlsbC4KVGhlIG5leHQgdHJhaW5pbmcgd29ya3Nob3AgaXMgc2NoZWR1bGVkIGZvciBu
+ZXh0IG1vbnRoLgpXZSBoYXZlIHVwZGF0ZWQgdGhlIGhlYWx0aCBpbnN1cmFuY2UgcGxhbnMuClBs
+ZWFzZSBzdWJtaXQgeW91ciBleHBlbnNlIHJlcG9ydHMgYnkgdGhlIGVuZCBvZiB0aGUgZGF5LgpQ
+bGVhc2Ugb2JzZXJ2ZSBzaWxlbmNlIGluIGRlc2lnbmF0ZWQgcXVpZXQgem9uZXMuCi0tIApCZXN0
+IHJlZ2FyZHMsCkRhdmlkIEdhcmNpYQ==
+
+--===============4677300141546690749==--

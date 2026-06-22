@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============2003235380996920002=="
+MIME-Version: 1.0
+Received: from mx5.gmail.com (mx5.gmail.com [98.22.124.65])
+	by mx.company.com with ESMTP id WKP6Ccz3wWF9KRGE
+Received: from mx4.gmail.com (mx4.gmail.com [120.101.122.13])
+	by mx.company.com with ESMTP id bbZajNyblFl72EmG
+Received: from mx4.services.io (mx4.services.io [230.234.64.60])
+	by mx.company.com with ESMTP id QyXwvUMkAJRH6KrR
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Brian Torres <brian.torres@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 15:48:56 -0000
+Message-ID: <EmaEYu13qaYPumBunTr66gRo@build.co>
+
+--===============2003235380996920002==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCk91ciBhbm51YWwgcmVwb3J0IGhhcyBiZWVuIHJlbGVhc2VkIHRvIHN0YWtl
+aG9sZGVycy4KVGhlIGFubnVhbCBjb21wYW55IHJldHJlYXQgaXMgY29taW5nIHVwOyBwbGVhc2Ug
+UlNWUC4KUGxlYXNlIGZpbmQgdGhlIGF0dGFjaGVkIHJlcG9ydCBmb3IgeW91ciByZXZpZXcuCi0t
+IApCZXN0IHJlZ2FyZHMsCkJyaWFuIFRvcnJlcw==
+
+--===============2003235380996920002==--

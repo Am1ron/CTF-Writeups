@@ -1,0 +1,25 @@
+Content-Type: multipart/mixed; boundary="===============4932121210796495298=="
+MIME-Version: 1.0
+Received: from mx5.gmail.com (mx5.gmail.com [65.154.243.53])
+	by mx.company.com with ESMTP id SjJfJtfUubOnI1BT
+Received: from mx4.gmail.com (mx4.gmail.com [75.182.131.110])
+	by mx.company.com with ESMTP id rWESr3mKLUnfswPv
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Amy Young <amy.young@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 14:00:12 -0000
+Message-ID: <jn2YJlnDid4T6Hsfl4RI5qtK@mail.com>
+
+--===============4932121210796495298==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgdXBkYXRlZCBvdXIgcHJpdmFjeSBwb2xpY3kuCkJ1ZGdldCBw
+bGFubmluZyBmb3IgbmV4dCB5ZWFyIHdpbGwgYmVnaW4gc29vbi4KS2luZGx5IHVwZGF0ZSB0aGUg
+ZG9jdW1lbnRhdGlvbiB3aXRoIHRoZSBsYXRlc3QgaW5mb3JtYXRpb24uCi0tIApCZXN0IHJlZ2Fy
+ZHMsCkFteSBZb3VuZw==
+
+--===============4932121210796495298==--

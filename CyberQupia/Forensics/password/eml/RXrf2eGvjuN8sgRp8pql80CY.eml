@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============0169548934295689150=="
+MIME-Version: 1.0
+Received: from mx5.enterprise.org (mx5.enterprise.org [59.121.49.182])
+	by mx.company.com with ESMTP id dF9tvDh5S8FEoQgA
+Received: from mx2.business.net (mx2.business.net [225.174.86.168])
+	by mx.company.com with ESMTP id cPAja65ZEbLS813a
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Thomas Baker <thomas.baker@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 15:18:21 -0000
+Message-ID: <RXrf2eGvjuN8sgRp8pql80CY@mail.com>
+
+--===============0169548934295689150==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBmaW5kIHRoZSBhdHRhY2hlZCByZXBvcnQgZm9yIHlvdXIgcmV2
+aWV3LgpXZSBoYXZlIHVwZGF0ZWQgb3VyIHByaXZhY3kgcG9saWN5LgpZb3VyIGFjdGlvbiBpcyBy
+ZXF1aXJlZCBvbiB0aGUgcGVuZGluZyB0YXNrcy4KT3VyIHNvY2lhbCBtZWRpYSBwcmVzZW5jZSBp
+cyBncm93aW5nOyBwbGVhc2UgZm9sbG93IHVzLgpUaGUgYm9hcmQgbWVldGluZyBtaW51dGVzIGhh
+dmUgYmVlbiB1cGxvYWRlZCB0byB0aGUgc2hhcmVkIGRyaXZlLgpQbGVhc2UgcmVwb3J0IGFueSBt
+YWludGVuYW5jZSBpc3N1ZXMgcHJvbXB0bHkuCldlIGFwcHJlY2lhdGUgeW91ciBjb21taXRtZW50
+IHRvIHF1YWxpdHkgYW5kIGV4Y2VsbGVuY2UuClBsZWFzZSBhdHRlbmQgdGhlIGRpdmVyc2l0eSBh
+bmQgaW5jbHVzaW9uIHdvcmtzaG9wLgpQbGVhc2UgY29tcGxldGUgdGhlIG1hbmRhdG9yeSB0cmFp
+bmluZyBtb2R1bGVzLgpPdXIgc3VzdGFpbmFiaWxpdHkgcmVwb3J0IGhhcyBiZWVuIHB1Ymxpc2hl
+ZDsgcGxlYXNlIHJlYWQgaXQuClBsZWFzZSBwcm92aWRlIHlvdXIgYXZhaWxhYmlsaXR5IGZvciB0
+aGUgbmV4dCB0d28gd2Vla3MuClRoZXJlIHdpbGwgYmUgYW4gb2ZmaWNlIGNsZWFudXAgZGF5IHRo
+aXMgRnJpZGF5LgpXZSBhcmUgcHJvdWQgb2YgdGhlIHRlYW0ncyBpbm5vdmF0aW9uIGFuZCBjcmVh
+dGl2aXR5LgpXZSBhcmUgdXBncmFkaW5nIG91ciBoYXJkd2FyZSBpbmZyYXN0cnVjdHVyZS4KV2Ug
+YXJlIGNvbmR1Y3Rpbmcgc3lzdGVtIGF1ZGl0cyB0aGlzIHF1YXJ0ZXIuCkxldCdzIHNjaGVkdWxl
+IGEgb25lLW9uLW9uZSBtZWV0aW5nIHRvIGRpc2N1c3MgeW91ciBwcm9ncmVzcy4KLS0gCkJlc3Qg
+cmVnYXJkcywKVGhvbWFzIEJha2Vy
+
+--===============0169548934295689150==--

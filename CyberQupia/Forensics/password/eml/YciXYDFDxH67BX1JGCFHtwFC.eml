@@ -1,0 +1,34 @@
+Content-Type: multipart/mixed; boundary="===============2443969726728959992=="
+MIME-Version: 1.0
+Received: from mx3.enterprise.org (mx3.enterprise.org [144.253.141.220])
+	by mx.company.com with ESMTP id fxkvkdkf3QekHKkY
+Received: from mx4.corp.com (mx4.corp.com [212.194.70.104])
+	by mx.company.com with ESMTP id NNIpmGhdFO3Ia0TU
+Received: from mx3.business.net (mx3.business.net [132.122.121.29])
+	by mx.company.com with ESMTP id lvsFwhGJYv9c5agQ
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Susan Hall <susan.hall@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 00:08:49 -0000
+Message-ID: <YciXYDFDxH67BX1JGCFHtwFC@gmail.com>
+
+--===============2443969726728959992==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBjb25kdWN0aW5nIGEgc3VydmV5IG9uIHJlbW90ZSB3b3JrIHBy
+ZWZlcmVuY2VzLgpUaGUgb2ZmaWNlIHdpbGwgYmUgY2xvc2VkIG5leHQgRnJpZGF5IGZvciBhIHB1
+YmxpYyBob2xpZGF5LgpXZSBhcmUgaW1wbGVtZW50aW5nIGEgbmV3IGN1c3RvbWVyIHJlbGF0aW9u
+c2hpcCBtYW5hZ2VtZW50IHN5c3RlbS4KVGhhbmsgeW91IGZvciB5b3VyIGNvbnRpbnVvdXMgc3Vw
+cG9ydCBhbmQgZGVkaWNhdGlvbi4KVGhhbmsgeW91IGZvciB5b3VyIHBhdGllbmNlIGR1cmluZyB0
+aGUgc3lzdGVtIGRvd250aW1lLgpXZSBhcmUgaW5pdGlhdGluZyBhIG1lbnRvcnNoaXAgcHJvZ3Jh
+bTsgZGV0YWlscyB0byBmb2xsb3cuClBsZWFzZSBhZGhlcmUgdG8gdGhlIG5ldyBkcmVzcyBjb2Rl
+IHBvbGljeS4KVGhlcmUgd2lsbCBiZSBhbiBvZmZpY2UgY2xlYW51cCBkYXkgdGhpcyBGcmlkYXku
+ClRoYW5rIHlvdSBmb3IgYXR0ZW5kaW5nIHRoZSBzZW1pbmFyIGxhc3Qgd2Vlay4KLS0gCkJlc3Qg
+cmVnYXJkcywKU3VzYW4gSGFsbA==
+
+--===============2443969726728959992==--

@@ -1,0 +1,29 @@
+Content-Type: multipart/mixed; boundary="===============7378664496071146350=="
+MIME-Version: 1.0
+Received: from mx2.corp.com (mx2.corp.com [192.110.143.18])
+	by mx.company.com with ESMTP id 9rXR1D5OddCITUGV
+Received: from mx2.services.io (mx2.services.io [92.206.2.31])
+	by mx.company.com with ESMTP id AQUk4gzn2ofAKn4V
+Received: from mx3.winter.com (mx3.winter.com [16.49.7.234])
+	by mx.company.com with ESMTP id i5CK5HKGVqLP7T6N
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Deborah Allen <deborah.allen@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 26 Sep 2024 10:42:41 -0000
+Message-ID: <8UesY9CSlP9v8Q6ejAZAOl52@services.io>
+
+--===============7378664496071146350==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBjb21wbGV0ZSB0aGUgbWFuZGF0b3J5IHRyYWluaW5nIG1vZHVs
+ZXMuCk5ldyBwYXJraW5nIHJlZ3VsYXRpb25zIHdpbGwgYmUgaW4gZWZmZWN0IGZyb20gTW9uZGF5
+LgpUaGFuayB5b3UgZm9yIGF0dGVuZGluZyB0aGUgc2VtaW5hciBsYXN0IHdlZWsuCllvdXIgY29u
+dHJpYnV0aW9uIGhhcyBiZWVuIGluc3RydW1lbnRhbCBpbiB0aGlzIHByb2plY3TigJlzIHN1Y2Nl
+c3MuCi0tIApCZXN0IHJlZ2FyZHMsCkRlYm9yYWggQWxsZW4=
+
+--===============7378664496071146350==--

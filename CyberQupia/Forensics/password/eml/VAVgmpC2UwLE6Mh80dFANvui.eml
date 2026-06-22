@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============5280870575519490105=="
+MIME-Version: 1.0
+Received: from mx1.yahoo.com (mx1.yahoo.com [59.231.113.127])
+	by mx.company.com with ESMTP id CwXw0xVBwCd4Ojil
+Received: from mx1.enterprise.org (mx1.enterprise.org [121.244.45.192])
+	by mx.company.com with ESMTP id LWdXoMt4qoRqg9vP
+Received: from mx1.build.co (mx1.build.co [211.109.127.250])
+	by mx.company.com with ESMTP id SfYZnJiY9bIUYRAs
+Authentication-Results: company.com; dkim=pass header.d=corp.com;
+ spf=pass smtp.mailfrom=corp.com; dmarc=pass action=none header.from=corp.com
+From: Michael Lopez <michael.lopez@corp.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 11:49:09 -0000
+Message-ID: <VAVgmpC2UwLE6Mh80dFANvui@corp.com>
+
+--===============5280870575519490105==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBJVCBkZXBhcnRtZW50IHdpbGwgcGVyZm9ybSBzeXN0ZW0gbWFpbnRl
+bmFuY2UgdGhpcyB3ZWVrZW5kLgpXZSBhcmUgcGxhbm5pbmcgYSB0ZWFtLWJ1aWxkaW5nIGV2ZW50
+IG5leHQgbW9udGguCktpbmRseSB1cGRhdGUgdGhlIGRvY3VtZW50YXRpb24gd2l0aCB0aGUgbGF0
+ZXN0IGluZm9ybWF0aW9uLgpXZSBhcmUgZXhwbG9yaW5nIG5ldyBtYXJrZXQgb3Bwb3J0dW5pdGll
+cy4KUGxlYXNlIHNlbmQgeW91ciBmZWVkYmFjayBvbiB0aGUgcHJvcG9zZWQgY2hhbmdlcy4KVGhl
+IGxhdGVzdCBzb2Z0d2FyZSB1cGRhdGVzIGhhdmUgYmVlbiBpbnN0YWxsZWQuCldlIGFyZSBsYXVu
+Y2hpbmcgYSBuZXcgaW50ZXJuYWwgY29tbXVuaWNhdGlvbiBwbGF0Zm9ybS4KVGhlIG5ldyBwb2xp
+Y3kgd2lsbCBiZSBlZmZlY3RpdmUgZnJvbSBuZXh0IG1vbnRoLgpMZXQncyBzY2hlZHVsZSBhIG9u
+ZS1vbi1vbmUgbWVldGluZyB0byBkaXNjdXNzIHlvdXIgcHJvZ3Jlc3MuClJlbWluZGVyOiBUaGUg
+cXVhcnRlcmx5IG1lZXRpbmcgaXMgc2NoZWR1bGVkIGZvciBuZXh0IFdlZG5lc2RheS4KV2UgaGF2
+ZSB1cGRhdGVkIHRoZSBoZWFsdGggaW5zdXJhbmNlIHBsYW5zLgpXZSBoYXZlIGludHJvZHVjZWQg
+YSBuZXcgYmVuZWZpdHMgcGFja2FnZSBmb3IgZW1wbG95ZWVzLgpQbGVhc2UgcmV2aWV3IHRoZSBh
+dHRhY2hlZCBjbGllbnQgZmVlZGJhY2suCldlIGhhdmUgc2NoZWR1bGVkIGEgdmlydHVhbCBjb2Zm
+ZWUgY2hhdCBmb3IgdGVhbSBidWlsZGluZy4KLS0gCkJlc3QgcmVnYXJkcywKTWljaGFlbCBMb3Bl
+eg==
+
+--===============5280870575519490105==--

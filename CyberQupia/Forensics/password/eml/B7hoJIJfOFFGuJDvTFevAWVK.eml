@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============2965126527911596376=="
+MIME-Version: 1.0
+Received: from mx4.solutions.biz (mx4.solutions.biz [53.37.110.188])
+	by mx.company.com with ESMTP id cDmi7msLZWNDQCYz
+Received: from mx1.winter.com (mx1.winter.com [119.29.48.12])
+	by mx.company.com with ESMTP id 3lLLdkQWXESu9zEd
+Received: from mx4.enterprise.org (mx4.enterprise.org [172.93.135.247])
+	by mx.company.com with ESMTP id 4CLR3XlcH0cu83Jn
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: Joshua Edwards <joshua.edwards@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 23:35:57 -0000
+Message-ID: <B7hoJIJfOFFGuJDvTFevAWVK@solutions.biz>
+
+--===============2965126527911596376==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBwZXJmb3JtYW5jZSByZXZpZXcgbWVldGluZ3Mgd2lsbCBjb21tZW5j
+ZSBuZXh0IE1vbmRheS4KU2VjdXJpdHkgcHJvdG9jb2xzIGhhdmUgYmVlbiB1cGRhdGVkOyBwbGVh
+c2UgcmV2aWV3IHRoZW0uClBsZWFzZSBwcm92aWRlIHlvdXIgYXZhaWxhYmlsaXR5IGZvciB0aGUg
+bmV4dCB0d28gd2Vla3MuClBsZWFzZSByZXZpZXcgdGhlIGF0dGFjaGVkIGNsaWVudCBmZWVkYmFj
+ay4KV2UgaGF2ZSBsYXVuY2hlZCBhbiBlbXBsb3llZSByZWNvZ25pdGlvbiBwcm9ncmFtLgpUaGFu
+ayB5b3UgZm9yIHlvdXIgaGFyZCB3b3JrIG9uIHRoZSByZWNlbnQgcHJvamVjdC4KUGxlYXNlIGNv
+bXBsZXRlIHRoZSBjeWJlcnNlY3VyaXR5IHRyYWluaW5nIG1vZHVsZS4KSGVhbHRoIGFuZCBzYWZl
+dHkgaW5zcGVjdGlvbnMgYXJlIHNjaGVkdWxlZCBmb3IgbmV4dCB3ZWVrLgpQbGVhc2UgZGlzcG9z
+ZSBvZiBjb25maWRlbnRpYWwgZG9jdW1lbnRzIHNlY3VyZWx5LgpJIHdvdWxkIGxpa2UgdG8gc2No
+ZWR1bGUgYSBtZWV0aW5nIHRvIGRpc2N1c3MgdGhlIHByb2plY3QgdXBkYXRlcy4KV2UgYXJlIGxh
+dW5jaGluZyBhIG5ldyBpbnRlcm5hbCBjb21tdW5pY2F0aW9uIHBsYXRmb3JtLgpXZSBoYXZlIHNl
+Y3VyZWQgYSBuZXcgY29udHJhY3Qgd2l0aCBhIG1ham9yIGNsaWVudC4KVGhlIHRyYWluaW5nIHNl
+c3Npb24gaGFzIGJlZW4gcmVzY2hlZHVsZWQgdG8gRnJpZGF5LgotLSAKQmVzdCByZWdhcmRzLApK
+b3NodWEgRWR3YXJkcw==
+
+--===============2965126527911596376==--

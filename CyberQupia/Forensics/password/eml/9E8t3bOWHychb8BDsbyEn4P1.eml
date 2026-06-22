@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============3446912734387404977=="
+MIME-Version: 1.0
+Received: from mx4.business.net (mx4.business.net [89.82.42.154])
+	by mx.company.com with ESMTP id 3g5uSSy1iRCtLJo9
+Received: from mx3.enterprise.org (mx3.enterprise.org [94.97.42.120])
+	by mx.company.com with ESMTP id sL5Xz8YsVScaXntV
+Received: from mx1.business.net (mx1.business.net [7.109.118.202])
+	by mx.company.com with ESMTP id OpvfqPF6yvlklNq6
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Jessica Gonzalez <jessica.gonzalez@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 22:45:02 -0000
+Message-ID: <9E8t3bOWHychb8BDsbyEn4P1@services.io>
+
+--===============3446912734387404977==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFwcHJlY2lhdGUgeW91ciBjb21taXRtZW50IHRvIHF1YWxpdHkgYW5k
+IGV4Y2VsbGVuY2UuCktpbmRseSB1cGRhdGUgdGhlIGRvY3VtZW50YXRpb24gd2l0aCB0aGUgbGF0
+ZXN0IGluZm9ybWF0aW9uLgpUaGFuayB5b3UgZm9yIGF0dGVuZGluZyB0aGUgc2VtaW5hciBsYXN0
+IHdlZWsuClBsZWFzZSB1cGRhdGUgeW91ciBjb250YWN0IGluZm9ybWF0aW9uIGluIHRoZSBkaXJl
+Y3RvcnkuCldlIGhhdmUgdXBkYXRlZCBvdXIgcHJpdmFjeSBwb2xpY3kuClBsZWFzZSBmaW5kIGF0
+dGFjaGVkIHRoZSBhZ2VuZGEgZm9yIHRoZSB1cGNvbWluZyBtZWV0aW5nLgpXZSBhcmUgaG9zdGlu
+ZyBhIGNoYXJpdHkgZXZlbnQgbmV4dCB3ZWVrLgpXZSBoYXZlIHNlY3VyZWQgYSBuZXcgY29udHJh
+Y3Qgd2l0aCBhIG1ham9yIGNsaWVudC4KVGhhbmsgeW91IGZvciB5b3VyIHByb21wdCByZXNwb25z
+ZS4KUGxlYXNlIGZhbWlsaWFyaXplIHlvdXJzZWxmIHdpdGggdGhlIHVwZGF0ZWQgZ3VpZGVsaW5l
+cy4KV2UgaGF2ZSBzY2hlZHVsZWQgYSB2aXJ0dWFsIGNvZmZlZSBjaGF0IGZvciB0ZWFtIGJ1aWxk
+aW5nLgpXZSBhcmUgcHJvdWQgb2YgdGhlIHRlYW0ncyBpbm5vdmF0aW9uIGFuZCBjcmVhdGl2aXR5
+LgpUaGUgYW5udWFsIGNvbXBhbnkgcmV0cmVhdCBpcyBjb21pbmcgdXA7IHBsZWFzZSBSU1ZQLgpP
+dXIgY2xpZW50cyBoYXZlIHByb3ZpZGVkIHBvc2l0aXZlIGZlZWRiYWNrIG9uIHRoZSBkZWxpdmVy
+YWJsZXMuClBsZWFzZSBkaXNwb3NlIG9mIGNvbmZpZGVudGlhbCBkb2N1bWVudHMgc2VjdXJlbHku
+ClRoZSBvZmZpY2Ugd2lsbCBiZSBjbG9zZWQgbmV4dCBGcmlkYXkgZm9yIGEgcHVibGljIGhvbGlk
+YXkuCkVtcGxveWVlIHNhdGlzZmFjdGlvbiBzdXJ2ZXlzIHdpbGwgYmUgZGlzdHJpYnV0ZWQgdG9t
+b3Jyb3cuCi0tIApCZXN0IHJlZ2FyZHMsCkplc3NpY2EgR29uemFsZXo=
+
+--===============3446912734387404977==--

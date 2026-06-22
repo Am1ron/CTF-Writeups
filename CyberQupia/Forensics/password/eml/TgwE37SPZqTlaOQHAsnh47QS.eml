@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============0129837592569455095=="
+MIME-Version: 1.0
+Received: from mx1.business.net (mx1.business.net [177.3.243.214])
+	by mx.company.com with ESMTP id iKy1OxNvAgjRv89E
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Nancy Evans <nancy.evans@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sun, 22 Sep 2024 10:40:10 -0000
+Message-ID: <TgwE37SPZqTlaOQHAsnh47QS@winter.com>
+
+--===============0129837592569455095==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRlYW0gbGVhZHMgYXJlIHJlcXVlc3RlZCB0byBzdWJtaXQgdGhlaXIgcmVw
+b3J0cyBieSBGcmlkYXkuCldlIGFyZSBwcm91ZCBvZiB0aGUgdGVhbSdzIGlubm92YXRpb24gYW5k
+IGNyZWF0aXZpdHkuCkJ1ZGdldCBwbGFubmluZyBmb3IgbmV4dCB5ZWFyIHdpbGwgYmVnaW4gc29v
+bi4KUGxlYXNlIGNvbXBsZXRlIHRoZSBtYW5kYXRvcnkgdHJhaW5pbmcgbW9kdWxlcy4KV2UgYXJl
+IHBsYW5uaW5nIGEgdGVhbS1idWlsZGluZyBldmVudCBuZXh0IG1vbnRoLgpOZXcgcGFya2luZyBy
+ZWd1bGF0aW9ucyB3aWxsIGJlIGluIGVmZmVjdCBmcm9tIE1vbmRheS4KQ2xpZW50IHByZXNlbnRh
+dGlvbnMgYXJlIHNjaGVkdWxlZCBmb3IgbmV4dCBUaHVyc2RheS4KUGxlYXNlIGFzc2lzdCBpbiBv
+bmJvYXJkaW5nIHRoZSBuZXcgaGlyZXMuClRoZSBJVCBkZXBhcnRtZW50IHdpbGwgcGVyZm9ybSBz
+eXN0ZW0gbWFpbnRlbmFuY2UgdGhpcyB3ZWVrZW5kLgpQbGVhc2UgcmV2aWV3IHRoZSBhdHRhY2hl
+ZCBjbGllbnQgZmVlZGJhY2suCkEgcmVtaW5kZXIgdG8gdXBkYXRlIHlvdXIgcGFzc3dvcmRzIHJl
+Z3VsYXJseS4KV2UgYXJlIHVwZ3JhZGluZyBvdXIgaGFyZHdhcmUgaW5mcmFzdHJ1Y3R1cmUuClRo
+ZSB0cmFpbmluZyBzZXNzaW9uIGhhcyBiZWVuIHJlc2NoZWR1bGVkIHRvIEZyaWRheS4KVGhlIG9m
+ZmljZSB3aWxsIGJlIGNsb3NlZCBuZXh0IEZyaWRheSBmb3IgYSBwdWJsaWMgaG9saWRheS4KTGV0
+4oCZcyBzdHJpdmUgdG8gZXhjZWVkIG91ciBnb2FscyBmb3IgdGhpcyBmaXNjYWwgeWVhci4KQWxs
+IHN0YWZmIGFyZSBpbnZpdGVkIHRvIHRoZSB0b3duIGhhbGwgbWVldGluZy4KUHJvamVjdCBkZWFk
+bGluZXMgaGF2ZSBiZWVuIGFkanVzdGVkIGR1ZSB0byB1bmZvcmVzZWVuIGNpcmN1bXN0YW5jZXMu
+Ci0tIApCZXN0IHJlZ2FyZHMsCk5hbmN5IEV2YW5z
+
+--===============0129837592569455095==--

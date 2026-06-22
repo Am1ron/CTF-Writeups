@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============1825418769730442672=="
+MIME-Version: 1.0
+Received: from mx5.corp.com (mx5.corp.com [152.212.29.189])
+	by mx.company.com with ESMTP id Fw4sHjQ67ebBP6Qh
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Edward Green <edward.green@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 01:10:08 -0000
+Message-ID: <GyLteIF79BRh52ONFss2ylmg@services.io>
+
+--===============1825418769730442672==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkhvbGlkYXkgc2NoZWR1bGVzIGhhdmUgYmVlbiBwb3N0ZWQgb24gdGhlIGNv
+bXBhbnkgcG9ydGFsLgpBbGwgc3RhZmYgYXJlIGludml0ZWQgdG8gdGhlIHRvd24gaGFsbCBtZWV0
+aW5nLgpXZSBhcmUgY29uZHVjdGluZyBzeXN0ZW0gYXVkaXRzIHRoaXMgcXVhcnRlci4KUGxlYXNl
+IG9ic2VydmUgdGhlIG5ldyBzYW5pdGF0aW9uIHByb3RvY29scy4KUGxlYXNlIHN1Ym1pdCB5b3Vy
+IGV4cGVuc2UgcmVwb3J0cyBieSB0aGUgZW5kIG9mIHRoZSBkYXkuClBsZWFzZSBmYW1pbGlhcml6
+ZSB5b3Vyc2VsZiB3aXRoIHRoZSB1cGRhdGVkIGd1aWRlbGluZXMuClRoZSBib2FyZCBtZWV0aW5n
+IG1pbnV0ZXMgaGF2ZSBiZWVuIHVwbG9hZGVkIHRvIHRoZSBzaGFyZWQgZHJpdmUuCkxvb2tpbmcg
+Zm9yd2FyZCB0byBvdXIgY29sbGFib3JhdGlvbiBvbiB0aGlzIGluaXRpYXRpdmUuClBsZWFzZSBi
+ZSBjYXV0aW91cyBvZiBwaGlzaGluZyBlbWFpbHMgYW5kIHJlcG9ydCBhbnkgc3VzcGljaW91cyBh
+Y3Rpdml0eS4KQnVkZ2V0IHBsYW5uaW5nIGZvciBuZXh0IHllYXIgd2lsbCBiZWdpbiBzb29uLgpQ
+bGVhc2UgcmVwb3J0IGFueSBtYWludGVuYW5jZSBpc3N1ZXMgcHJvbXB0bHkuClJlbWluZGVyOiBU
+aGUgcXVhcnRlcmx5IG1lZXRpbmcgaXMgc2NoZWR1bGVkIGZvciBuZXh0IFdlZG5lc2RheS4KT3Vy
+IHN1c3RhaW5hYmlsaXR5IHJlcG9ydCBoYXMgYmVlbiBwdWJsaXNoZWQ7IHBsZWFzZSByZWFkIGl0
+LgpXZSBhcmUgaW50cm9kdWNpbmcgZmxleGlibGUgd29ya2luZyBob3Vycy4KVGhhbmsgeW91IGZv
+ciB5b3VyIGNvbnRpbnVvdXMgc3VwcG9ydCBhbmQgZGVkaWNhdGlvbi4KVGhlIG5ldyBwb2xpY3kg
+d2lsbCBiZSBlZmZlY3RpdmUgZnJvbSBuZXh0IG1vbnRoLgpQbGVhc2UgYXNzaXN0IGluIG9uYm9h
+cmRpbmcgdGhlIG5ldyBoaXJlcy4KLS0gCkJlc3QgcmVnYXJkcywKRWR3YXJkIEdyZWVu
+
+--===============1825418769730442672==--

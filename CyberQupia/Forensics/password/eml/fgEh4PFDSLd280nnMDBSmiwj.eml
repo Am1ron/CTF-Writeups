@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="===============8169598400453925552=="
+MIME-Version: 1.0
+Received: from mx3.mail.com (mx3.mail.com [143.41.237.90])
+	by mx.company.com with ESMTP id 2ZGVniPnJLLIoXdE
+Received: from mx4.winter.com (mx4.winter.com [130.99.99.235])
+	by mx.company.com with ESMTP id MFSiEo8eVKWID6fM
+Received: from mx4.services.io (mx4.services.io [15.207.53.148])
+	by mx.company.com with ESMTP id C0kEWDYDVaw5Fs10
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: William Rivera <william.rivera@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sun, 22 Sep 2024 21:30:53 -0000
+Message-ID: <fgEh4PFDSLd280nnMDBSmiwj@business.net>
+
+--===============8169598400453925552==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBlbnN1cmUgYWxsIHRoZSBjb21wbGlhbmNlIHJlcXVpcmVtZW50
+cyBhcmUgbWV0LgpZb3VyIGFjdGlvbiBpcyByZXF1aXJlZCBvbiB0aGUgcGVuZGluZyB0YXNrcy4K
+VGhlcmUgd2lsbCBiZSBhbiBvZmZpY2UgY2xlYW51cCBkYXkgdGhpcyBGcmlkYXkuCi0tIApCZXN0
+IHJlZ2FyZHMsCldpbGxpYW0gUml2ZXJh
+
+--===============8169598400453925552==--

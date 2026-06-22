@@ -1,0 +1,26 @@
+Content-Type: multipart/mixed; boundary="===============6858830680443672927=="
+MIME-Version: 1.0
+Received: from mx3.services.io (mx3.services.io [155.9.31.100])
+	by mx.company.com with ESMTP id ETW4pXRnNR59qnfP
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Patricia Thompson <patricia.thompson@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 02:20:04 -0000
+Message-ID: <as4xcCAm1ir1pPx7NFIaMqiw@gmail.com>
+
+--===============6858830680443672927==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCk91ciBzb2NpYWwgbWVkaWEgcHJlc2VuY2UgaXMgZ3Jvd2luZzsgcGxlYXNl
+IGZvbGxvdyB1cy4KTGV04oCZcyBzdHJpdmUgdG8gZXhjZWVkIG91ciBnb2FscyBmb3IgdGhpcyBm
+aXNjYWwgeWVhci4KT3VyIHN1c3RhaW5hYmlsaXR5IHJlcG9ydCBoYXMgYmVlbiBwdWJsaXNoZWQ7
+IHBsZWFzZSByZWFkIGl0LgpUaGUgcGVyZm9ybWFuY2UgcmV2aWV3IG1lZXRpbmdzIHdpbGwgY29t
+bWVuY2UgbmV4dCBNb25kYXkuCkFsbCBzdGFmZiBhcmUgaW52aXRlZCB0byB0aGUgdG93biBoYWxs
+IG1lZXRpbmcuCi0tIApCZXN0IHJlZ2FyZHMsClBhdHJpY2lhIFRob21wc29u
+
+--===============6858830680443672927==--

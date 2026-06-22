@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============5033418793209581996=="
+MIME-Version: 1.0
+Received: from mx1.business.net (mx1.business.net [144.232.158.225])
+	by mx.company.com with ESMTP id vrTg99F4NfPfWxZJ
+Received: from mx2.winter.com (mx2.winter.com [141.178.117.42])
+	by mx.company.com with ESMTP id yCsY78wlts0e06aG
+Received: from mx3.mail.com (mx3.mail.com [98.106.173.247])
+	by mx.company.com with ESMTP id sDkMzR5umveZNt7I
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Michael Howard <michael.howard@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 21:09:09 -0000
+Message-ID: <K2VrXwmQLAOSP9vktknzatEt@mail.com>
+
+--===============5033418793209581996==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBwYXJ0aWNpcGF0ZSBpbiB0aGUgdXBjb21pbmcgZmlyZSBkcmls
+bC4KV2UgYXJlIGxhdW5jaGluZyBhIG5ldyBpbnRlcm5hbCBjb21tdW5pY2F0aW9uIHBsYXRmb3Jt
+LgpXZSBhcmUgcGxhbm5pbmcgYSB0ZWFtLWJ1aWxkaW5nIGV2ZW50IG5leHQgbW9udGguCkhlYWx0
+aCBhbmQgc2FmZXR5IGluc3BlY3Rpb25zIGFyZSBzY2hlZHVsZWQgZm9yIG5leHQgd2Vlay4KUmVt
+aW5kZXI6IFRoZSBxdWFydGVybHkgbWVldGluZyBpcyBzY2hlZHVsZWQgZm9yIG5leHQgV2VkbmVz
+ZGF5LgpQbGVhc2UgYmUgYWR2aXNlZCBvZiB0aGUgY2hhbmdlcyBpbiB0aGUgY29tcGFueSBwb2xp
+Y3kuClBsZWFzZSBiZSBjYXV0aW91cyBvZiBwaGlzaGluZyBlbWFpbHMgYW5kIHJlcG9ydCBhbnkg
+c3VzcGljaW91cyBhY3Rpdml0eS4KV2UgYXJlIHJldmlzaW5nIG91ciBzdHJhdGVnaWMgb2JqZWN0
+aXZlcy4KQ2xpZW50IHByZXNlbnRhdGlvbnMgYXJlIHNjaGVkdWxlZCBmb3IgbmV4dCBUaHVyc2Rh
+eS4KUGxlYXNlIHN1Ym1pdCB5b3VyIGV4cGVuc2UgcmVwb3J0cyBieSB0aGUgZW5kIG9mIHRoZSBk
+YXkuCldlIGhhdmUgcmVjZWl2ZWQgdGhlIHNoaXBtZW50IG9mIG5ldyBvZmZpY2Ugc3VwcGxpZXMu
+ClRlYW0gbGVhZHMgYXJlIHJlcXVlc3RlZCB0byBzdWJtaXQgdGhlaXIgcmVwb3J0cyBieSBGcmlk
+YXkuCk91ciBzb2NpYWwgbWVkaWEgcHJlc2VuY2UgaXMgZ3Jvd2luZzsgcGxlYXNlIGZvbGxvdyB1
+cy4KV2UgYXJlIGhvc3RpbmcgYSBjaGFyaXR5IGV2ZW50IG5leHQgd2Vlay4KSSBhcHByZWNpYXRl
+IHlvdXIgcHJvbXB0IGF0dGVudGlvbiB0byB0aGlzIG1hdHRlci4KLS0gCkJlc3QgcmVnYXJkcywK
+TWljaGFlbCBIb3dhcmQ=
+
+--===============5033418793209581996==--

@@ -1,0 +1,25 @@
+Content-Type: multipart/mixed; boundary="===============8785472679153085197=="
+MIME-Version: 1.0
+Received: from mx4.solutions.biz (mx4.solutions.biz [37.204.14.31])
+	by mx.company.com with ESMTP id EPj3EceJEyTgEJMv
+Received: from mx1.services.io (mx1.services.io [21.148.29.35])
+	by mx.company.com with ESMTP id FfPUyvzdQpSxBLNx
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Mary Johnson <mary.johnson@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 18:50:05 -0000
+Message-ID: <5KM7cnuJ3n9Ie72kj4n2EZHf@mail.com>
+
+--===============8785472679153085197==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgYSBndWVzdCBzcGVha2VyIGpvaW5pbmcgdXMgbmV4dCB3ZWVr
+LgpQbGVhc2UgZmFtaWxpYXJpemUgeW91cnNlbGYgd2l0aCB0aGUgdXBkYXRlZCBndWlkZWxpbmVz
+LgpQbGVhc2UgYmUgYWR2aXNlZCBvZiB0aGUgY2hhbmdlcyBpbiB0aGUgY29tcGFueSBwb2xpY3ku
+Ci0tIApCZXN0IHJlZ2FyZHMsCk1hcnkgSm9obnNvbg==
+
+--===============8785472679153085197==--

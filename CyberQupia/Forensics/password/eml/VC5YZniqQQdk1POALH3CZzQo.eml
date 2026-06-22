@@ -1,0 +1,26 @@
+Content-Type: multipart/mixed; boundary="===============9209797826511285288=="
+MIME-Version: 1.0
+Received: from mx5.gmail.com (mx5.gmail.com [97.214.137.130])
+	by mx.company.com with ESMTP id pmhKJInZ2vaAFoji
+Received: from mx3.corp.com (mx3.corp.com [202.39.54.254])
+	by mx.company.com with ESMTP id PU3M53wPfDH4GFWT
+Authentication-Results: company.com; dkim=pass header.d=corp.com;
+ spf=pass smtp.mailfrom=corp.com; dmarc=pass action=none header.from=corp.com
+From: Richard Sanchez <richard.sanchez@corp.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 04:21:22 -0000
+Message-ID: <VC5YZniqQQdk1POALH3CZzQo@corp.com>
+
+--===============9209797826511285288==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBlbnN1cmUgYWxsIHRoZSBjb21wbGlhbmNlIHJlcXVpcmVtZW50
+cyBhcmUgbWV0LgpDbGllbnQgcHJlc2VudGF0aW9ucyBhcmUgc2NoZWR1bGVkIGZvciBuZXh0IFRo
+dXJzZGF5LgpQbGVhc2Ugb2JzZXJ2ZSB0aGUgbmV3IHNhbml0YXRpb24gcHJvdG9jb2xzLgpXZSBh
+cmUgcGxhbm5pbmcgYSB0ZWFtLWJ1aWxkaW5nIGV2ZW50IG5leHQgbW9udGguCi0tIApCZXN0IHJl
+Z2FyZHMsClJpY2hhcmQgU2FuY2hleg==
+
+--===============9209797826511285288==--

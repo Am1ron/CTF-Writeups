@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============4211599988316617367=="
+MIME-Version: 1.0
+Received: from mx3.business.net (mx3.business.net [206.96.223.163])
+	by mx.company.com with ESMTP id ZexR28tcLU8flqtS
+Received: from mx2.mail.com (mx2.mail.com [149.39.74.105])
+	by mx.company.com with ESMTP id zVkWdelfoI2fd2Ob
+Received: from mx2.enterprise.org (mx2.enterprise.org [87.165.238.92])
+	by mx.company.com with ESMTP id WjdnC5RZHo0yzBkv
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Cynthia Baker <cynthia.baker@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 02:38:27 -0000
+Message-ID: <R1GeXQgefZE8FIe012avA5Wv@gmail.com>
+
+--===============4211599988316617367==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBhbm51YWwgY29tcGFueSByZXRyZWF0IGlzIGNvbWluZyB1cDsgcGxl
+YXNlIFJTVlAuClJlbWluZGVyOiBUaGUgcXVhcnRlcmx5IG1lZXRpbmcgaXMgc2NoZWR1bGVkIGZv
+ciBuZXh0IFdlZG5lc2RheS4KUGxlYXNlIHN1Ym1pdCB5b3VyIGxlYXZlIHJlcXVlc3RzIGluIGFk
+dmFuY2UuCldlIGhhdmUgYWNoaWV2ZWQgb3VyIHF1YXJ0ZXJseSB0YXJnZXRzIHN1Y2Nlc3NmdWxs
+eS4KVGhlIG5ldyBwb2xpY3kgd2lsbCBiZSBlZmZlY3RpdmUgZnJvbSBuZXh0IG1vbnRoLgpZb3Vy
+IGFjdGlvbiBpcyByZXF1aXJlZCBvbiB0aGUgcGVuZGluZyB0YXNrcy4KVGhhbmsgeW91IGZvciB5
+b3VyIGhhcmQgd29yayBvbiB0aGUgcmVjZW50IHByb2plY3QuClRoZSB0cmFpbmluZyBzZXNzaW9u
+IGhhcyBiZWVuIHJlc2NoZWR1bGVkIHRvIEZyaWRheS4KUGxlYXNlIHN1Ym1pdCBub21pbmF0aW9u
+cyBmb3IgdGhlIGVtcGxveWVlIG9mIHRoZSBtb250aC4KV2UgYXJlIGV4cGxvcmluZyBuZXcgbWFy
+a2V0IG9wcG9ydHVuaXRpZXMuCkhvbGlkYXkgc2NoZWR1bGVzIGhhdmUgYmVlbiBwb3N0ZWQgb24g
+dGhlIGNvbXBhbnkgcG9ydGFsLgpQbGVhc2UgcmV2aWV3IHRoZSBhdHRhY2hlZCBjbGllbnQgZmVl
+ZGJhY2suCldlIGhhdmUgcmVjZWl2ZWQgdGhlIHNoaXBtZW50IG9mIG5ldyBvZmZpY2Ugc3VwcGxp
+ZXMuCldlIGFyZSBpbnRyb2R1Y2luZyBmbGV4aWJsZSB3b3JraW5nIGhvdXJzLgpUaGFuayB5b3Ug
+Zm9yIHlvdXIgcGF0aWVuY2UgZHVyaW5nIHRoZSBzeXN0ZW0gZG93bnRpbWUuClBsZWFzZSBlbnN1
+cmUgdGltZWx5IHN1Ym1pc3Npb24gb2YgcHJvamVjdCBkZWxpdmVyYWJsZXMuClBsZWFzZSBjb21w
+bGV0ZSB0aGUgY3liZXJzZWN1cml0eSB0cmFpbmluZyBtb2R1bGUuCi0tIApCZXN0IHJlZ2FyZHMs
+CkN5bnRoaWEgQmFrZXI=
+
+--===============4211599988316617367==--

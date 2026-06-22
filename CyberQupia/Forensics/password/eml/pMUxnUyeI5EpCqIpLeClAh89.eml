@@ -1,0 +1,42 @@
+Content-Type: multipart/mixed; boundary="===============1752719296885524098=="
+MIME-Version: 1.0
+Received: from mx1.gmail.com (mx1.gmail.com [191.224.103.183])
+	by mx.company.com with ESMTP id bmxlvvvkbIelDDEG
+Received: from mx5.solutions.biz (mx5.solutions.biz [175.237.101.33])
+	by mx.company.com with ESMTP id bNZ4vFvhfSV0ZeFF
+Received: from mx2.build.co (mx2.build.co [62.194.229.244])
+	by mx.company.com with ESMTP id n232xxn9QAo2ZcP0
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Amy Moore <amy.moore@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 26 Sep 2024 08:16:28 -0000
+Message-ID: <pMUxnUyeI5EpCqIpLeClAh89@build.co>
+
+--===============1752719296885524098==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBzdWJtaXQgeW91ciBsZWF2ZSByZXF1ZXN0cyBpbiBhZHZhbmNl
+LgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IHBhcnRuZXIgdG8gdGhlIG9yZ2FuaXphdGlvbi4KTmV3
+IHBhcmtpbmcgcmVndWxhdGlvbnMgd2lsbCBiZSBpbiBlZmZlY3QgZnJvbSBNb25kYXkuCldlIGhh
+dmUgYWNoaWV2ZWQgb3VyIHF1YXJ0ZXJseSB0YXJnZXRzIHN1Y2Nlc3NmdWxseS4KV2UgYXJlIHBy
+b3VkIG9mIHRoZSB0ZWFtJ3MgaW5ub3ZhdGlvbiBhbmQgY3JlYXRpdml0eS4KUGxlYXNlIGVuc3Vy
+ZSBhbGwgdGhlIGNvbXBsaWFuY2UgcmVxdWlyZW1lbnRzIGFyZSBtZXQuCkhlYWx0aCBhbmQgc2Fm
+ZXR5IGluc3BlY3Rpb25zIGFyZSBzY2hlZHVsZWQgZm9yIG5leHQgd2Vlay4KUmVtaW5kZXI6IFRo
+ZSBxdWFydGVybHkgbWVldGluZyBpcyBzY2hlZHVsZWQgZm9yIG5leHQgV2VkbmVzZGF5LgpXZSBo
+YXZlIGludHJvZHVjZWQgYSBuZXcgYmVuZWZpdHMgcGFja2FnZSBmb3IgZW1wbG95ZWVzLgpDb25n
+cmF0dWxhdGlvbnMgb24geW91ciByZWNlbnQgYWNoaWV2ZW1lbnQhCldlIHdpbGwgYmUgbWlncmF0
+aW5nIHRvIGEgbmV3IGVtYWlsIHN5c3RlbS4KWW91ciBleHBlcnRpc2UgaXMgcmVxdWVzdGVkIG9u
+IHRoZSB1cGNvbWluZyBwcm9qZWN0LgpXZSBhcmUgaW50cm9kdWNpbmcgZmxleGlibGUgd29ya2lu
+ZyBob3Vycy4KVGhlIGFubnVhbCBjb21wYW55IHJldHJlYXQgaXMgY29taW5nIHVwOyBwbGVhc2Ug
+UlNWUC4KV2UgaGF2ZSByZWNlaXZlZCB0aGUgc2hpcG1lbnQgb2YgbmV3IG9mZmljZSBzdXBwbGll
+cy4KV2UgZW5jb3VyYWdlIHlvdSB0byBwYXJ0aWNpcGF0ZSBpbiB0aGUgdXBjb21pbmcgc3VydmV5
+LgpQbGVhc2UgdXBkYXRlIHlvdXIgY29udGFjdCBpbmZvcm1hdGlvbiBpbiB0aGUgZGlyZWN0b3J5
+LgpXZSBoYXZlIHNlY3VyZWQgYSBuZXcgY29udHJhY3Qgd2l0aCBhIG1ham9yIGNsaWVudC4KV2Ug
+YXJlIHVwZ3JhZGluZyBvdXIgaGFyZHdhcmUgaW5mcmFzdHJ1Y3R1cmUuCi0tIApCZXN0IHJlZ2Fy
+ZHMsCkFteSBNb29yZQ==
+
+--===============1752719296885524098==--

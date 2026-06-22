@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============3078105140908476291=="
+MIME-Version: 1.0
+Received: from mx1.business.net (mx1.business.net [130.80.185.202])
+	by mx.company.com with ESMTP id 6PsYSkUuCsEt7iDT
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: Paul Torres <paul.torres@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 16 Sep 2024 22:55:32 -0000
+Message-ID: <0o84NxCxan6LwDvhwx0e7xen@solutions.biz>
+
+--===============3078105140908476291==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgc2NoZWR1bGVkIGEgdmlydHVhbCBjb2ZmZWUgY2hhdCBmb3Ig
+dGVhbSBidWlsZGluZy4KSG9saWRheSBzY2hlZHVsZXMgaGF2ZSBiZWVuIHBvc3RlZCBvbiB0aGUg
+Y29tcGFueSBwb3J0YWwuCllvdXIgY29udHJpYnV0aW9uIGhhcyBiZWVuIGluc3RydW1lbnRhbCBp
+biB0aGlzIHByb2plY3TigJlzIHN1Y2Nlc3MuClNlY3VyaXR5IHByb3RvY29scyBoYXZlIGJlZW4g
+dXBkYXRlZDsgcGxlYXNlIHJldmlldyB0aGVtLgpQbGVhc2UgYXR0ZW5kIHRoZSBkaXZlcnNpdHkg
+YW5kIGluY2x1c2lvbiB3b3Jrc2hvcC4KUGxlYXNlIHN1Ym1pdCBub21pbmF0aW9ucyBmb3IgdGhl
+IGVtcGxveWVlIG9mIHRoZSBtb250aC4KV2UgaGF2ZSBhY2hpZXZlZCBvdXIgcXVhcnRlcmx5IHRh
+cmdldHMgc3VjY2Vzc2Z1bGx5LgpUaGUgYm9hcmQgbWVldGluZyBtaW51dGVzIGhhdmUgYmVlbiB1
+cGxvYWRlZCB0byB0aGUgc2hhcmVkIGRyaXZlLgpQbGVhc2UgcHJvdmlkZSB5b3VyIGF2YWlsYWJp
+bGl0eSBmb3IgdGhlIG5leHQgdHdvIHdlZWtzLgpZb3VyIGZlZWRiYWNrIG9uIHRoZSByZWNlbnQg
+Y2hhbmdlcyBpcyBoaWdobHkgYXBwcmVjaWF0ZWQuCkNvbmdyYXR1bGF0aW9ucyBvbiB5b3VyIHJl
+Y2VudCBhY2hpZXZlbWVudCEKVGhlIElUIGRlcGFydG1lbnQgd2lsbCBwZXJmb3JtIHN5c3RlbSBt
+YWludGVuYW5jZSB0aGlzIHdlZWtlbmQuClRoZSBjYWZldGVyaWEgbWVudSBoYXMgYmVlbiB1cGRh
+dGVkIHdpdGggaGVhbHRoaWVyIG9wdGlvbnMuCk91ciBzdXN0YWluYWJpbGl0eSByZXBvcnQgaGFz
+IGJlZW4gcHVibGlzaGVkOyBwbGVhc2UgcmVhZCBpdC4KVGhhbmsgeW91IGZvciB5b3VyIGNvbnRp
+bnVvdXMgc3VwcG9ydCBhbmQgZGVkaWNhdGlvbi4KV2UgYXJlIGNvbmR1Y3RpbmcgYSBzdXJ2ZXkg
+b24gcmVtb3RlIHdvcmsgcHJlZmVyZW5jZXMuClBsZWFzZSBmaW5kIHRoZSBhdHRhY2hlZCByZXBv
+cnQgZm9yIHlvdXIgcmV2aWV3LgpQbGVhc2UgcGFydGljaXBhdGUgaW4gdGhlIHVwY29taW5nIGZp
+cmUgZHJpbGwuCi0tIApCZXN0IHJlZ2FyZHMsClBhdWwgVG9ycmVz
+
+--===============3078105140908476291==--

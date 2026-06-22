@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============4189798226194758393=="
+MIME-Version: 1.0
+Received: from mx4.yahoo.com (mx4.yahoo.com [84.116.25.94])
+	by mx.company.com with ESMTP id LXPD7ckKW9azw5uM
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Sandra Rogers <sandra.rogers@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 22:17:44 -0000
+Message-ID: <F5oFqwZZOBi8lHaVVuo8WoyB@business.net>
+
+--===============4189798226194758393==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBvZmZpY2Uga2l0Y2hlbiB3aWxsIGJlIHJlbm92YXRlZCBvdmVyIHRo
+ZSB3ZWVrZW5kLgpIZWFsdGggYW5kIHNhZmV0eSBpbnNwZWN0aW9ucyBhcmUgc2NoZWR1bGVkIGZv
+ciBuZXh0IHdlZWsuClNlY3VyaXR5IHByb3RvY29scyBoYXZlIGJlZW4gdXBkYXRlZDsgcGxlYXNl
+IHJldmlldyB0aGVtLgpQbGVhc2Ugam9pbiB0aGUgd2ViaW5hciBvbiBpbmR1c3RyeSB0cmVuZHMg
+dG9tb3Jyb3cuClByb2plY3QgZGVhZGxpbmVzIGhhdmUgYmVlbiBhZGp1c3RlZCBkdWUgdG8gdW5m
+b3Jlc2VlbiBjaXJjdW1zdGFuY2VzLgpXZSBhcmUgcmV2aXNpbmcgb3VyIHN0cmF0ZWdpYyBvYmpl
+Y3RpdmVzLgpXZSBhcmUgY29uZHVjdGluZyBzeXN0ZW0gYXVkaXRzIHRoaXMgcXVhcnRlci4KVGhl
+IGNhZmV0ZXJpYSBtZW51IGhhcyBiZWVuIHVwZGF0ZWQgd2l0aCBoZWFsdGhpZXIgb3B0aW9ucy4K
+TG9va2luZyBmb3J3YXJkIHRvIG91ciBjb2xsYWJvcmF0aW9uIG9uIHRoaXMgaW5pdGlhdGl2ZS4K
+TGV04oCZcyBzdHJpdmUgdG8gZXhjZWVkIG91ciBnb2FscyBmb3IgdGhpcyBmaXNjYWwgeWVhci4K
+UGxlYXNlIHN1Ym1pdCBub21pbmF0aW9ucyBmb3IgdGhlIGVtcGxveWVlIG9mIHRoZSBtb250aC4K
+WW91ciBleHBlcnRpc2UgaXMgcmVxdWVzdGVkIG9uIHRoZSB1cGNvbWluZyBwcm9qZWN0LgpQbGVh
+c2Ugb2JzZXJ2ZSBzaWxlbmNlIGluIGRlc2lnbmF0ZWQgcXVpZXQgem9uZXMuClBsZWFzZSBzdWJt
+aXQgeW91ciBsZWF2ZSByZXF1ZXN0cyBpbiBhZHZhbmNlLgpQbGVhc2UgcHJvdmlkZSB5b3VyIGF2
+YWlsYWJpbGl0eSBmb3IgdGhlIG5leHQgdHdvIHdlZWtzLgpQbGVhc2UgYXNzaXN0IGluIG9uYm9h
+cmRpbmcgdGhlIG5ldyBoaXJlcy4KV2UgaGF2ZSBzZWN1cmVkIGEgbmV3IGNvbnRyYWN0IHdpdGgg
+YSBtYWpvciBjbGllbnQuCi0tIApCZXN0IHJlZ2FyZHMsClNhbmRyYSBSb2dlcnM=
+
+--===============4189798226194758393==--

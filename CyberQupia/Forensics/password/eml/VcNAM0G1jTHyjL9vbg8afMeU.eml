@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============2163567467477960234=="
+MIME-Version: 1.0
+Received: from mx5.services.io (mx5.services.io [198.213.137.124])
+	by mx.company.com with ESMTP id 3SSYZlObZGiybZGd
+Received: from mx1.enterprise.org (mx1.enterprise.org [73.180.232.119])
+	by mx.company.com with ESMTP id pZ8umzFUVYsPaECY
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Nicholas Gray <nicholas.gray@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 11:56:45 -0000
+Message-ID: <VcNAM0G1jTHyjL9vbg8afMeU@services.io>
+
+--===============2163567467477960234==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSByZXZpc2luZyBvdXIgc3RyYXRlZ2ljIG9iamVjdGl2ZXMuClBs
+ZWFzZSB1cGRhdGUgeW91ciBjb250YWN0IGluZm9ybWF0aW9uIGluIHRoZSBkaXJlY3RvcnkuClRo
+YW5rIHlvdSBmb3IgeW91ciBwcm9tcHQgcmVzcG9uc2UuClRoZSBvZmZpY2Ugd2lsbCBiZSBjbG9z
+ZWQgbmV4dCBGcmlkYXkgZm9yIGEgcHVibGljIGhvbGlkYXkuCldlIGFyZSB1cGdyYWRpbmcgb3Vy
+IGhhcmR3YXJlIGluZnJhc3RydWN0dXJlLgpLaW5kbHkgdXBkYXRlIHRoZSBkb2N1bWVudGF0aW9u
+IHdpdGggdGhlIGxhdGVzdCBpbmZvcm1hdGlvbi4KUGxlYXNlIHN1Ym1pdCBub21pbmF0aW9ucyBm
+b3IgdGhlIGVtcGxveWVlIG9mIHRoZSBtb250aC4KV2UgYXJlIGxhdW5jaGluZyBhIG5ldyBpbnRl
+cm5hbCBjb21tdW5pY2F0aW9uIHBsYXRmb3JtLgpQbGVhc2Ugam9pbiB0aGUgd2ViaW5hciBvbiBp
+bmR1c3RyeSB0cmVuZHMgdG9tb3Jyb3cuCkxvb2tpbmcgZm9yd2FyZCB0byBvdXIgY29sbGFib3Jh
+dGlvbiBvbiB0aGlzIGluaXRpYXRpdmUuClBsZWFzZSBwYXJ0aWNpcGF0ZSBpbiB0aGUgdXBjb21p
+bmcgZmlyZSBkcmlsbC4KUGxlYXNlIHN1Ym1pdCB5b3VyIGV4cGVuc2UgcmVwb3J0cyBieSB0aGUg
+ZW5kIG9mIHRoZSBkYXkuClJlbWluZGVyOiBUaGUgcXVhcnRlcmx5IG1lZXRpbmcgaXMgc2NoZWR1
+bGVkIGZvciBuZXh0IFdlZG5lc2RheS4KVGhlIG5leHQgdHJhaW5pbmcgd29ya3Nob3AgaXMgc2No
+ZWR1bGVkIGZvciBuZXh0IG1vbnRoLgpPdXIgYW5udWFsIHJlcG9ydCBoYXMgYmVlbiByZWxlYXNl
+ZCB0byBzdGFrZWhvbGRlcnMuCkEgcmVtaW5kZXIgdG8gdXBkYXRlIHlvdXIgcGFzc3dvcmRzIHJl
+Z3VsYXJseS4KV2UgYXJlIGNvbmR1Y3Rpbmcgc3lzdGVtIGF1ZGl0cyB0aGlzIHF1YXJ0ZXIuCkkg
+YXBwcmVjaWF0ZSB5b3VyIHByb21wdCBhdHRlbnRpb24gdG8gdGhpcyBtYXR0ZXIuClBsZWFzZSBv
+YnNlcnZlIHRoZSBuZXcgc2FuaXRhdGlvbiBwcm90b2NvbHMuCi0tIApCZXN0IHJlZ2FyZHMsCk5p
+Y2hvbGFzIEdyYXk=
+
+--===============2163567467477960234==--

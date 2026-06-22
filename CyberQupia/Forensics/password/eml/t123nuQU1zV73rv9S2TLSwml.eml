@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============7874022787866123247=="
+MIME-Version: 1.0
+Received: from mx2.build.co (mx2.build.co [160.167.24.41])
+	by mx.company.com with ESMTP id VQCwv4lkKbIsV7yS
+Received: from mx1.business.net (mx1.business.net [33.141.99.216])
+	by mx.company.com with ESMTP id Rk2axHUGPpTr6Hrg
+Received: from mx3.yahoo.com (mx3.yahoo.com [254.161.149.253])
+	by mx.company.com with ESMTP id DGiCQfxBiPHxepI7
+Authentication-Results: company.com; dkim=pass header.d=enterprise.org;
+ spf=pass smtp.mailfrom=enterprise.org;
+ dmarc=pass action=none header.from=enterprise.org
+From: Paul Williams <paul.williams@enterprise.org>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 11:37:22 -0000
+Message-ID: <t123nuQU1zV73rv9S2TLSwml@enterprise.org>
+
+--===============7874022787866123247==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBzZW5kIHlvdXIgZmVlZGJhY2sgb24gdGhlIHByb3Bvc2VkIGNo
+YW5nZXMuCkFsbCBzdGFmZiBhcmUgaW52aXRlZCB0byB0aGUgdG93biBoYWxsIG1lZXRpbmcuClBs
+ZWFzZSByZXBvcnQgYW55IG1haW50ZW5hbmNlIGlzc3VlcyBwcm9tcHRseS4KVGhlIGNvbXBhbnkg
+bmV3c2xldHRlciBoYXMgYmVlbiBwdWJsaXNoZWQuClBsZWFzZSBwYXJ0aWNpcGF0ZSBpbiB0aGUg
+dXBjb21pbmcgZmlyZSBkcmlsbC4KWW91ciBkZXBhcnRtZW50IGhhcyBleGNlZWRlZCBpdHMgcGVy
+Zm9ybWFuY2UgdGFyZ2V0cy4KQSByZW1pbmRlciB0byB1cGRhdGUgeW91ciBwYXNzd29yZHMgcmVn
+dWxhcmx5LgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IGludGVybnMgam9pbmluZyB0aGUgdGVhbS4K
+UGxlYXNlIHJldmlldyB0aGUgYXR0YWNoZWQgY2xpZW50IGZlZWRiYWNrLgpXZSBhcmUgaG9zdGlu
+ZyBhIGNoYXJpdHkgZXZlbnQgbmV4dCB3ZWVrLgpSZW1pbmRlcjogVGhlIHF1YXJ0ZXJseSBtZWV0
+aW5nIGlzIHNjaGVkdWxlZCBmb3IgbmV4dCBXZWRuZXNkYXkuCldlIGFyZSBpbml0aWF0aW5nIGEg
+bWVudG9yc2hpcCBwcm9ncmFtOyBkZXRhaWxzIHRvIGZvbGxvdy4KV2UgYXJlIGludHJvZHVjaW5n
+IGZsZXhpYmxlIHdvcmtpbmcgaG91cnMuCldlIGFyZSBleHBsb3JpbmcgbmV3IG1hcmtldCBvcHBv
+cnR1bml0aWVzLgpQbGVhc2UgZW5zdXJlIGFsbCB0aGUgY29tcGxpYW5jZSByZXF1aXJlbWVudHMg
+YXJlIG1ldC4KUGxlYXNlIGZpbmQgdGhlIGF0dGFjaGVkIHJlcG9ydCBmb3IgeW91ciByZXZpZXcu
+ClBsZWFzZSBiZSBhZHZpc2VkIG9mIHRoZSBjaGFuZ2VzIGluIHRoZSBjb21wYW55IHBvbGljeS4K
+VGhlIElUIGRlcGFydG1lbnQgd2lsbCBwZXJmb3JtIHN5c3RlbSBtYWludGVuYW5jZSB0aGlzIHdl
+ZWtlbmQuCi0tIApCZXN0IHJlZ2FyZHMsClBhdWwgV2lsbGlhbXM=
+
+--===============7874022787866123247==--

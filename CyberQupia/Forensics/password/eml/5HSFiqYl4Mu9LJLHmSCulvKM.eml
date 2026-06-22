@@ -1,0 +1,31 @@
+Content-Type: multipart/mixed; boundary="===============5832509132915393268=="
+MIME-Version: 1.0
+Received: from mx2.gmail.com (mx2.gmail.com [211.95.165.30])
+	by mx.company.com with ESMTP id 7xR7LENaRVVu912s
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: Matthew Reed <matthew.reed@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 16 Sep 2024 21:14:52 -0000
+Message-ID: <5HSFiqYl4Mu9LJLHmSCulvKM@solutions.biz>
+
+--===============5832509132915393268==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgQ0VPLCB3aG8gd2lsbCBiZSBqb2lu
+aW5nIHVzIG5leHQgbW9udGguClBsZWFzZSBmaW5kIHRoZSBhdHRhY2hlZCByZXBvcnQgZm9yIHlv
+dXIgcmV2aWV3LgpMb29raW5nIGZvcndhcmQgdG8gb3VyIGNvbGxhYm9yYXRpb24gb24gdGhpcyBp
+bml0aWF0aXZlLgpQbGVhc2UgYXR0ZW5kIHRoZSBkaXZlcnNpdHkgYW5kIGluY2x1c2lvbiB3b3Jr
+c2hvcC4KV2UgYXJlIGV4Y2l0ZWQgYWJvdXQgdGhlIHVwY29taW5nIHByb2R1Y3QgZGVtby4KV2Ug
+YXJlIHVwZ3JhZGluZyBvdXIgaGFyZHdhcmUgaW5mcmFzdHJ1Y3R1cmUuClBsZWFzZSBmaW5kIGF0
+dGFjaGVkIHRoZSBhZ2VuZGEgZm9yIHRoZSB1cGNvbWluZyBtZWV0aW5nLgpIb2xpZGF5IHNjaGVk
+dWxlcyBoYXZlIGJlZW4gcG9zdGVkIG9uIHRoZSBjb21wYW55IHBvcnRhbC4KUGxlYXNlIG9ic2Vy
+dmUgc2lsZW5jZSBpbiBkZXNpZ25hdGVkIHF1aWV0IHpvbmVzLgpDbGllbnQgcHJlc2VudGF0aW9u
+cyBhcmUgc2NoZWR1bGVkIGZvciBuZXh0IFRodXJzZGF5LgotLSAKQmVzdCByZWdhcmRzLApNYXR0
+aGV3IFJlZWQ=
+
+--===============5832509132915393268==--

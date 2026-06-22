@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============8216551722604572352=="
+MIME-Version: 1.0
+Received: from mx4.solutions.biz (mx4.solutions.biz [52.81.108.249])
+	by mx.company.com with ESMTP id xyqxOxm7qaz5oxKa
+Received: from mx4.corp.com (mx4.corp.com [197.23.79.222])
+	by mx.company.com with ESMTP id 4TQj0k8vWQoRLBBc
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Gary Walker <gary.walker@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 17:17:29 -0000
+Message-ID: <ZPuDdkHcpHEUzZOUfL8qYdGW@mail.com>
+
+--===============8216551722604572352==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSByZXBvcnQgYW55IG1haW50ZW5hbmNlIGlzc3VlcyBwcm9tcHRs
+eS4KUGxlYXNlIGJlIGNhdXRpb3VzIG9mIHBoaXNoaW5nIGVtYWlscyBhbmQgcmVwb3J0IGFueSBz
+dXNwaWNpb3VzIGFjdGl2aXR5LgpXZSBoYXZlIHVwZGF0ZWQgb3VyIHByaXZhY3kgcG9saWN5LgpU
+ZWFtIGxlYWRzIGFyZSByZXF1ZXN0ZWQgdG8gc3VibWl0IHRoZWlyIHJlcG9ydHMgYnkgRnJpZGF5
+LgpMb29raW5nIGZvcndhcmQgdG8gb3VyIGNvbGxhYm9yYXRpb24gb24gdGhpcyBpbml0aWF0aXZl
+LgpQbGVhc2UgcmV2aWV3IHRoZSBhdHRhY2hlZCBjbGllbnQgZmVlZGJhY2suClBsZWFzZSBhdm9p
+ZCBzY2hlZHVsaW5nIG1lZXRpbmdzIGR1cmluZyBsdW5jaCBob3Vycy4KV2UgYXBwcmVjaWF0ZSB5
+b3VyIGNvbW1pdG1lbnQgdG8gcXVhbGl0eSBhbmQgZXhjZWxsZW5jZS4KV2UgaGF2ZSBzZWN1cmVk
+IGEgbmV3IGNvbnRyYWN0IHdpdGggYSBtYWpvciBjbGllbnQuClRoZSBjYWZldGVyaWEgbWVudSBo
+YXMgYmVlbiB1cGRhdGVkIHdpdGggaGVhbHRoaWVyIG9wdGlvbnMuClNlY3VyaXR5IHByb3RvY29s
+cyBoYXZlIGJlZW4gdXBkYXRlZDsgcGxlYXNlIHJldmlldyB0aGVtLgpQcm9qZWN0IGRlYWRsaW5l
+cyBoYXZlIGJlZW4gYWRqdXN0ZWQgZHVlIHRvIHVuZm9yZXNlZW4gY2lyY3Vtc3RhbmNlcy4KV2Ug
+YXJlIGluaXRpYXRpbmcgYSBtZW50b3JzaGlwIHByb2dyYW07IGRldGFpbHMgdG8gZm9sbG93LgpO
+ZXcgcGFya2luZyByZWd1bGF0aW9ucyB3aWxsIGJlIGluIGVmZmVjdCBmcm9tIE1vbmRheS4KRW1w
+bG95ZWUgc2F0aXNmYWN0aW9uIHN1cnZleXMgd2lsbCBiZSBkaXN0cmlidXRlZCB0b21vcnJvdy4K
+LS0gCkJlc3QgcmVnYXJkcywKR2FyeSBXYWxrZXI=
+
+--===============8216551722604572352==--

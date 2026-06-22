@@ -1,0 +1,29 @@
+Content-Type: multipart/mixed; boundary="===============3148185401298823679=="
+MIME-Version: 1.0
+Received: from mx2.build.co (mx2.build.co [71.195.251.214])
+	by mx.company.com with ESMTP id MFVi6XPWIPgroE4X
+Received: from mx4.yahoo.com (mx4.yahoo.com [33.194.113.12])
+	by mx.company.com with ESMTP id 7q7r8D8ZsQcLeg1k
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Susan Martinez <susan.martinez@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 09:25:52 -0000
+Message-ID: <eeBl0rWKl6Ma6XV3hTcKuORB@build.co>
+
+--===============3148185401298823679==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCktpbmRseSB1cGRhdGUgdGhlIGRvY3VtZW50YXRpb24gd2l0aCB0aGUgbGF0
+ZXN0IGluZm9ybWF0aW9uLgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IENFTywgd2hvIHdpbGwgYmUg
+am9pbmluZyB1cyBuZXh0IG1vbnRoLgpQbGVhc2Ugc3VibWl0IHlvdXIgbGVhdmUgcmVxdWVzdHMg
+aW4gYWR2YW5jZS4KSSB3b3VsZCBsaWtlIHRvIHNjaGVkdWxlIGEgbWVldGluZyB0byBkaXNjdXNz
+IHRoZSBwcm9qZWN0IHVwZGF0ZXMuCldlIGhhdmUgcmVjZWl2ZWQgdGhlIHNoaXBtZW50IG9mIG5l
+dyBvZmZpY2Ugc3VwcGxpZXMuClRoZSBJVCBkZXBhcnRtZW50IHdpbGwgcGVyZm9ybSBzeXN0ZW0g
+bWFpbnRlbmFuY2UgdGhpcyB3ZWVrZW5kLgotLSAKQmVzdCByZWdhcmRzLApTdXNhbiBNYXJ0aW5l
+eg==
+
+--===============3148185401298823679==--

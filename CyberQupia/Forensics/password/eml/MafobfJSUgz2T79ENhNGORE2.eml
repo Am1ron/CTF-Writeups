@@ -1,0 +1,31 @@
+Content-Type: multipart/mixed; boundary="===============2074658498534379603=="
+MIME-Version: 1.0
+Received: from mx3.enterprise.org (mx3.enterprise.org [179.239.35.52])
+	by mx.company.com with ESMTP id FTlWlptIGeh3qDvG
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Deborah Cook <deborah.cook@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 17:00:47 -0000
+Message-ID: <MafobfJSUgz2T79ENhNGORE2@gmail.com>
+
+--===============2074658498534379603==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkxldOKAmXMgY29vcmRpbmF0ZSB0byBlbnN1cmUgYSBzbW9vdGggdHJhbnNp
+dGlvbi4KVGhlIGFubnVhbCBjb21wYW55IHJldHJlYXQgaXMgY29taW5nIHVwOyBwbGVhc2UgUlNW
+UC4KV2UgbmVlZCB0byBmaW5hbGl6ZSB0aGUgYnVkZ2V0IGFsbG9jYXRpb25zIGJ5IGVuZCBvZiB0
+aGlzIHdlZWsuCk5ldyBwYXJraW5nIHJlZ3VsYXRpb25zIHdpbGwgYmUgaW4gZWZmZWN0IGZyb20g
+TW9uZGF5LgpXZSBoYXZlIHJlY2VpdmVkIHRoZSBzaGlwbWVudCBvZiBuZXcgb2ZmaWNlIHN1cHBs
+aWVzLgpQbGVhc2UgdGFrZSBub3RlIG9mIHRoZSBuZXcgb2ZmaWNlIGhvdXJzLgpMb29raW5nIGZv
+cndhcmQgdG8gb3VyIGNvbGxhYm9yYXRpb24gb24gdGhpcyBpbml0aWF0aXZlLgpXZSBoYXZlIHNj
+aGVkdWxlZCBhIHZpcnR1YWwgY29mZmVlIGNoYXQgZm9yIHRlYW0gYnVpbGRpbmcuCldlIGFyZSBw
+bGFubmluZyBhIHRlYW0tYnVpbGRpbmcgZXZlbnQgbmV4dCBtb250aC4KV2UgYXJlIGV4Y2l0ZWQg
+YWJvdXQgdGhlIHVwY29taW5nIHByb2R1Y3QgZGVtby4KLS0gCkJlc3QgcmVnYXJkcywKRGVib3Jh
+aCBDb29r
+
+--===============2074658498534379603==--

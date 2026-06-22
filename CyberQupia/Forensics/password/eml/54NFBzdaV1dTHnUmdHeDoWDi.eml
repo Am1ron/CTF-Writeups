@@ -1,0 +1,31 @@
+Content-Type: multipart/mixed; boundary="===============6589806799480100425=="
+MIME-Version: 1.0
+Received: from mx2.winter.com (mx2.winter.com [101.121.227.96])
+	by mx.company.com with ESMTP id P5aT6Sp0VXYOttej
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Cynthia Clark <cynthia.clark@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 15:41:47 -0000
+Message-ID: <54NFBzdaV1dTHnUmdHeDoWDi@build.co>
+
+--===============6589806799480100425==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCllvdXIgZmVlZGJhY2sgb24gdGhlIHJlY2VudCBjaGFuZ2VzIGlzIGhpZ2hs
+eSBhcHByZWNpYXRlZC4KQnVkZ2V0IHBsYW5uaW5nIGZvciBuZXh0IHllYXIgd2lsbCBiZWdpbiBz
+b29uLgpXZSBhcmUgZXhjaXRlZCBhYm91dCB0aGUgdXBjb21pbmcgcHJvZHVjdCBkZW1vLgpQcm9q
+ZWN0IGRlYWRsaW5lcyBoYXZlIGJlZW4gYWRqdXN0ZWQgZHVlIHRvIHVuZm9yZXNlZW4gY2lyY3Vt
+c3RhbmNlcy4KUGxlYXNlIHN1Ym1pdCB5b3VyIGV4cGVuc2UgcmVwb3J0cyBieSB0aGUgZW5kIG9m
+IHRoZSBkYXkuClBsZWFzZSB0YWtlIG5vdGUgb2YgdGhlIG5ldyBvZmZpY2UgaG91cnMuCldlIG5l
+ZWQgdG8gZmluYWxpemUgdGhlIGJ1ZGdldCBhbGxvY2F0aW9ucyBieSBlbmQgb2YgdGhpcyB3ZWVr
+LgpZb3VyIGFjdGlvbiBpcyByZXF1aXJlZCBvbiB0aGUgcGVuZGluZyB0YXNrcy4KUGxlYXNlIGZh
+bWlsaWFyaXplIHlvdXJzZWxmIHdpdGggdGhlIHVwZGF0ZWQgZ3VpZGVsaW5lcy4KVGhlIHRyYWlu
+aW5nIHNlc3Npb24gaGFzIGJlZW4gcmVzY2hlZHVsZWQgdG8gRnJpZGF5LgpFbXBsb3llZSBzYXRp
+c2ZhY3Rpb24gc3VydmV5cyB3aWxsIGJlIGRpc3RyaWJ1dGVkIHRvbW9ycm93LgotLSAKQmVzdCBy
+ZWdhcmRzLApDeW50aGlhIENsYXJr
+
+--===============6589806799480100425==--

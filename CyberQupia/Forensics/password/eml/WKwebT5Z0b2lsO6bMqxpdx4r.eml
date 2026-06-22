@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============6420207233543740221=="
+MIME-Version: 1.0
+Received: from mx5.mail.com (mx5.mail.com [75.144.234.176])
+	by mx.company.com with ESMTP id yQ5LEEoaUOcnEUzV
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Patricia Rivera <patricia.rivera@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 00:10:27 -0000
+Message-ID: <WKwebT5Z0b2lsO6bMqxpdx4r@services.io>
+
+--===============6420207233543740221==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBmaW5kIGF0dGFjaGVkIHRoZSBhZ2VuZGEgZm9yIHRoZSB1cGNv
+bWluZyBtZWV0aW5nLgpQbGVhc2Ugam9pbiBtZSBpbiB3ZWxjb21pbmcgdGhlIG5ldyBtZW1iZXJz
+IHRvIG91ciB0ZWFtLgpXZSBoYXZlIGEgZ3Vlc3Qgc3BlYWtlciBqb2luaW5nIHVzIG5leHQgd2Vl
+ay4KUGxlYXNlIHN1Ym1pdCB5b3VyIGxlYXZlIHJlcXVlc3RzIGluIGFkdmFuY2UuCk91ciBhbm51
+YWwgcmVwb3J0IGhhcyBiZWVuIHJlbGVhc2VkIHRvIHN0YWtlaG9sZGVycy4KUGxlYXNlIGRpc3Bv
+c2Ugb2YgY29uZmlkZW50aWFsIGRvY3VtZW50cyBzZWN1cmVseS4KUGxlYXNlIGNvbXBsZXRlIHRo
+ZSBtYW5kYXRvcnkgdHJhaW5pbmcgbW9kdWxlcy4KUGxlYXNlIHdlbGNvbWUgb3VyIG5ldyBwYXJ0
+bmVyIHRvIHRoZSBvcmdhbml6YXRpb24uClNlY3VyaXR5IHByb3RvY29scyBoYXZlIGJlZW4gdXBk
+YXRlZDsgcGxlYXNlIHJldmlldyB0aGVtLgpFbXBsb3llZSBzYXRpc2ZhY3Rpb24gc3VydmV5cyB3
+aWxsIGJlIGRpc3RyaWJ1dGVkIHRvbW9ycm93LgpXZSBhcHByZWNpYXRlIHlvdXIgY29tbWl0bWVu
+dCB0byBxdWFsaXR5IGFuZCBleGNlbGxlbmNlLgpIb2xpZGF5IHNjaGVkdWxlcyBoYXZlIGJlZW4g
+cG9zdGVkIG9uIHRoZSBjb21wYW55IHBvcnRhbC4KWW91ciBleHBlcnRpc2UgaXMgcmVxdWVzdGVk
+IG9uIHRoZSB1cGNvbWluZyBwcm9qZWN0LgpUaGUgb2ZmaWNlIHdpbGwgYmUgY2xvc2VkIG5leHQg
+RnJpZGF5IGZvciBhIHB1YmxpYyBob2xpZGF5LgpXZSBoYXZlIGxhdW5jaGVkIGFuIGVtcGxveWVl
+IHJlY29nbml0aW9uIHByb2dyYW0uCllvdXIgY29udHJpYnV0aW9uIGhhcyBiZWVuIGluc3RydW1l
+bnRhbCBpbiB0aGlzIHByb2plY3TigJlzIHN1Y2Nlc3MuCldlIGFyZSBpbml0aWF0aW5nIGEgbWVu
+dG9yc2hpcCBwcm9ncmFtOyBkZXRhaWxzIHRvIGZvbGxvdy4KTGV04oCZcyBzdHJpdmUgdG8gZXhj
+ZWVkIG91ciBnb2FscyBmb3IgdGhpcyBmaXNjYWwgeWVhci4KVGhhbmsgeW91IGZvciB5b3VyIGNv
+bnRpbnVvdXMgc3VwcG9ydCBhbmQgZGVkaWNhdGlvbi4KSGVhbHRoIGFuZCBzYWZldHkgaW5zcGVj
+dGlvbnMgYXJlIHNjaGVkdWxlZCBmb3IgbmV4dCB3ZWVrLgotLSAKQmVzdCByZWdhcmRzLApQYXRy
+aWNpYSBSaXZlcmE=
+
+--===============6420207233543740221==--

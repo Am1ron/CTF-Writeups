@@ -1,0 +1,25 @@
+Content-Type: multipart/mixed; boundary="===============5612812189518761717=="
+MIME-Version: 1.0
+Received: from mx3.services.io (mx3.services.io [195.118.74.59])
+	by mx.company.com with ESMTP id 43dLqKSnGPzTCcEq
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Ryan White <ryan.white@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 19:01:40 -0000
+Message-ID: <6iFEhG9xiLYcUCt5NVMcBIHN@winter.com>
+
+--===============5612812189518761717==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBpbnRyb2R1Y2luZyBmbGV4aWJsZSB3b3JraW5nIGhvdXJzLgpX
+ZSBhcmUgbGF1bmNoaW5nIGEgbmV3IGludGVybmFsIGNvbW11bmljYXRpb24gcGxhdGZvcm0uCldl
+IGVuY291cmFnZSB5b3UgdG8gcGFydGljaXBhdGUgaW4gdGhlIHVwY29taW5nIHN1cnZleS4KTGV0
+4oCZcyBjb29yZGluYXRlIHRvIGVuc3VyZSBhIHNtb290aCB0cmFuc2l0aW9uLgotLSAKQmVzdCBy
+ZWdhcmRzLApSeWFuIFdoaXRl
+
+--===============5612812189518761717==--

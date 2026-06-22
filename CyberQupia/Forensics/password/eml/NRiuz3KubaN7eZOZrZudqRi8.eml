@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============0209332547086716126=="
+MIME-Version: 1.0
+Received: from mx1.build.co (mx1.build.co [99.178.164.184])
+	by mx.company.com with ESMTP id ia6iwHOGOtzdcN9r
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Lisa Scott <lisa.scott@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 26 Sep 2024 07:20:17 -0000
+Message-ID: <NRiuz3KubaN7eZOZrZudqRi8@business.net>
+
+--===============0209332547086716126==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkhlYWx0aCBhbmQgc2FmZXR5IGluc3BlY3Rpb25zIGFyZSBzY2hlZHVsZWQg
+Zm9yIG5leHQgd2Vlay4KUmVtaW5kZXI6IFRoZSBxdWFydGVybHkgbWVldGluZyBpcyBzY2hlZHVs
+ZWQgZm9yIG5leHQgV2VkbmVzZGF5LgpXZSBhcmUgY29uZHVjdGluZyBzeXN0ZW0gYXVkaXRzIHRo
+aXMgcXVhcnRlci4KV2UgdmFsdWUgeW91ciBpbnB1dCBpbiBpbXByb3Zpbmcgb3VyIHNlcnZpY2Vz
+LgpQbGVhc2UgcHJvdmlkZSB5b3VyIGF2YWlsYWJpbGl0eSBmb3IgdGhlIG5leHQgdHdvIHdlZWtz
+LgpQbGVhc2Ugc3VibWl0IHlvdXIgZXhwZW5zZSByZXBvcnRzIGJ5IHRoZSBlbmQgb2YgdGhlIGRh
+eS4KSSBhcHByZWNpYXRlIHlvdXIgcHJvbXB0IGF0dGVudGlvbiB0byB0aGlzIG1hdHRlci4KUGxl
+YXNlIGZpbmQgYXR0YWNoZWQgdGhlIGFnZW5kYSBmb3IgdGhlIHVwY29taW5nIG1lZXRpbmcuClBs
+ZWFzZSBiZSBhZHZpc2VkIG9mIHRoZSBjaGFuZ2VzIGluIHRoZSBjb21wYW55IHBvbGljeS4KT3Vy
+IHNvY2lhbCBtZWRpYSBwcmVzZW5jZSBpcyBncm93aW5nOyBwbGVhc2UgZm9sbG93IHVzLgpXZSBh
+cmUgZXhjaXRlZCBhYm91dCB0aGUgdXBjb21pbmcgcHJvZHVjdCBkZW1vLgpXZSBuZWVkIHRvIGZp
+bmFsaXplIHRoZSBidWRnZXQgYWxsb2NhdGlvbnMgYnkgZW5kIG9mIHRoaXMgd2Vlay4KSSB3b3Vs
+ZCBsaWtlIHRvIHNjaGVkdWxlIGEgbWVldGluZyB0byBkaXNjdXNzIHRoZSBwcm9qZWN0IHVwZGF0
+ZXMuClRoZXJlIHdpbGwgYmUgYW4gb2ZmaWNlIGNsZWFudXAgZGF5IHRoaXMgRnJpZGF5LgpXZSB3
+aWxsIGJlIG1pZ3JhdGluZyB0byBhIG5ldyBlbWFpbCBzeXN0ZW0uClRoZSBuZXh0IHRyYWluaW5n
+IHdvcmtzaG9wIGlzIHNjaGVkdWxlZCBmb3IgbmV4dCBtb250aC4KV2UgaGF2ZSBzZWN1cmVkIGEg
+bmV3IGNvbnRyYWN0IHdpdGggYSBtYWpvciBjbGllbnQuCi0tIApCZXN0IHJlZ2FyZHMsCkxpc2Eg
+U2NvdHQ=
+
+--===============0209332547086716126==--

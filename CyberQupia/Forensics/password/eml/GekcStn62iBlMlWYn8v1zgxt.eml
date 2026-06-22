@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============3085627323010189581=="
+MIME-Version: 1.0
+Received: from mx3.solutions.biz (mx3.solutions.biz [5.127.254.130])
+	by mx.company.com with ESMTP id B2rzvXvGCq2rzJIX
+Received: from mx5.yahoo.com (mx5.yahoo.com [84.195.227.117])
+	by mx.company.com with ESMTP id fMFRzC4lUZmMQdqw
+Authentication-Results: company.com; dkim=pass header.d=enterprise.org;
+ spf=pass smtp.mailfrom=enterprise.org;
+ dmarc=pass action=none header.from=enterprise.org
+From: Nancy Thomas <nancy.thomas@enterprise.org>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 17:44:36 -0000
+Message-ID: <GekcStn62iBlMlWYn8v1zgxt@enterprise.org>
+
+--===============3085627323010189581==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkNsaWVudCBwcmVzZW50YXRpb25zIGFyZSBzY2hlZHVsZWQgZm9yIG5leHQg
+VGh1cnNkYXkuCkxldOKAmXMgY29vcmRpbmF0ZSB0byBlbnN1cmUgYSBzbW9vdGggdHJhbnNpdGlv
+bi4KV2UgaGF2ZSBsYXVuY2hlZCBhbiBlbXBsb3llZSByZWNvZ25pdGlvbiBwcm9ncmFtLgpXZSBo
+YXZlIHVwZGF0ZWQgdGhlIGhlYWx0aCBpbnN1cmFuY2UgcGxhbnMuClBsZWFzZSBwYXJ0aWNpcGF0
+ZSBpbiB0aGUgdXBjb21pbmcgZmlyZSBkcmlsbC4KV2UgYXJlIGhvc3RpbmcgYSBjaGFyaXR5IGV2
+ZW50IG5leHQgd2Vlay4KV2UgYXJlIHVwZ3JhZGluZyBvdXIgaGFyZHdhcmUgaW5mcmFzdHJ1Y3R1
+cmUuCkxldCBtZSBrbm93IGlmIHlvdSBoYXZlIGFueSBxdWVzdGlvbnMgb3IgY29uY2VybnMuClBy
+b2plY3QgZGVhZGxpbmVzIGhhdmUgYmVlbiBhZGp1c3RlZCBkdWUgdG8gdW5mb3Jlc2VlbiBjaXJj
+dW1zdGFuY2VzLgpZb3VyIGNvbnRyaWJ1dGlvbiBoYXMgYmVlbiBpbnN0cnVtZW50YWwgaW4gdGhp
+cyBwcm9qZWN04oCZcyBzdWNjZXNzLgpXZSBoYXZlIGludHJvZHVjZWQgYSBuZXcgYmVuZWZpdHMg
+cGFja2FnZSBmb3IgZW1wbG95ZWVzLgpQbGVhc2UgcmV2aWV3IHRoZSBhdHRhY2hlZCBjbGllbnQg
+ZmVlZGJhY2suCkEgcmVtaW5kZXIgdG8gdXBkYXRlIHlvdXIgcGFzc3dvcmRzIHJlZ3VsYXJseS4K
+TmV3IHBhcmtpbmcgcmVndWxhdGlvbnMgd2lsbCBiZSBpbiBlZmZlY3QgZnJvbSBNb25kYXkuCkNv
+bmdyYXR1bGF0aW9ucyBvbiB5b3VyIHJlY2VudCBhY2hpZXZlbWVudCEKUGxlYXNlIHN1Ym1pdCBu
+b21pbmF0aW9ucyBmb3IgdGhlIGVtcGxveWVlIG9mIHRoZSBtb250aC4KWW91ciBsZWFkZXJzaGlw
+IGluIHRoZSBwcm9qZWN0IGlzIGNvbW1lbmRhYmxlLgpBbGwgc3RhZmYgYXJlIGludml0ZWQgdG8g
+dGhlIHRvd24gaGFsbCBtZWV0aW5nLgpUaGUgYm9hcmQgbWVldGluZyBtaW51dGVzIGhhdmUgYmVl
+biB1cGxvYWRlZCB0byB0aGUgc2hhcmVkIGRyaXZlLgotLSAKQmVzdCByZWdhcmRzLApOYW5jeSBU
+aG9tYXM=
+
+--===============3085627323010189581==--

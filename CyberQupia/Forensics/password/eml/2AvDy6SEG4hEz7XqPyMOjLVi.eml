@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="===============7177255751437342892=="
+MIME-Version: 1.0
+Received: from mx1.solutions.biz (mx1.solutions.biz [101.95.198.216])
+	by mx.company.com with ESMTP id armoNnKRuSiFMkG2
+Received: from mx4.services.io (mx4.services.io [2.46.52.60])
+	by mx.company.com with ESMTP id tSqcKtIkLGU2zvix
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Nancy Roberts <nancy.roberts@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 05:45:20 -0000
+Message-ID: <2AvDy6SEG4hEz7XqPyMOjLVi@yahoo.com>
+
+--===============7177255751437342892==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCk91ciBjbGllbnRzIGhhdmUgcHJvdmlkZWQgcG9zaXRpdmUgZmVlZGJhY2sg
+b24gdGhlIGRlbGl2ZXJhYmxlcy4KUGxlYXNlIGVuc3VyZSBhbGwgdGhlIGNvbXBsaWFuY2UgcmVx
+dWlyZW1lbnRzIGFyZSBtZXQuCldlIGhhdmUgcmVjZWl2ZWQgdGhlIHNoaXBtZW50IG9mIG5ldyBv
+ZmZpY2Ugc3VwcGxpZXMuClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgaW50ZXJucyBqb2luaW5nIHRo
+ZSB0ZWFtLgpSZW1pbmRlcjogVGhlIHF1YXJ0ZXJseSBtZWV0aW5nIGlzIHNjaGVkdWxlZCBmb3Ig
+bmV4dCBXZWRuZXNkYXkuCi0tIApCZXN0IHJlZ2FyZHMsCk5hbmN5IFJvYmVydHM=
+
+--===============7177255751437342892==--

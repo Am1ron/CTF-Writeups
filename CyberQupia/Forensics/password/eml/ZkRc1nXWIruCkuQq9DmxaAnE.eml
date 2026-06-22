@@ -1,0 +1,40 @@
+Content-Type: multipart/mixed; boundary="===============0994970949586940687=="
+MIME-Version: 1.0
+Received: from mx3.mail.com (mx3.mail.com [65.23.132.103])
+	by mx.company.com with ESMTP id lLIOuP6Othw4CWeO
+Received: from mx3.gmail.com (mx3.gmail.com [77.119.190.170])
+	by mx.company.com with ESMTP id d0PgQGGERCIBnisX
+Received: from mx4.mail.com (mx4.mail.com [134.82.118.184])
+	by mx.company.com with ESMTP id d5GU9InJJdtlTsNQ
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Stephanie Lopez <stephanie.lopez@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 26 Sep 2024 10:19:13 -0000
+Message-ID: <ZkRc1nXWIruCkuQq9DmxaAnE@gmail.com>
+
+--===============0994970949586940687==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkkgYXBwcmVjaWF0ZSB5b3VyIHByb21wdCBhdHRlbnRpb24gdG8gdGhpcyBt
+YXR0ZXIuClBsZWFzZSBhdHRlbmQgdGhlIGRpdmVyc2l0eSBhbmQgaW5jbHVzaW9uIHdvcmtzaG9w
+LgpUaGUgYm9hcmQgbWVldGluZyBtaW51dGVzIGhhdmUgYmVlbiB1cGxvYWRlZCB0byB0aGUgc2hh
+cmVkIGRyaXZlLgpXZSBhcmUgY29uZHVjdGluZyBhIHN1cnZleSBvbiByZW1vdGUgd29yayBwcmVm
+ZXJlbmNlcy4KVGVhbSBsZWFkcyBhcmUgcmVxdWVzdGVkIHRvIHN1Ym1pdCB0aGVpciByZXBvcnRz
+IGJ5IEZyaWRheS4KVGhlIG5leHQgdHJhaW5pbmcgd29ya3Nob3AgaXMgc2NoZWR1bGVkIGZvciBu
+ZXh0IG1vbnRoLgpXZSBoYXZlIHNjaGVkdWxlZCBhIHZpcnR1YWwgY29mZmVlIGNoYXQgZm9yIHRl
+YW0gYnVpbGRpbmcuCldlIGhhdmUgcmVjZWl2ZWQgdGhlIHNoaXBtZW50IG9mIG5ldyBvZmZpY2Ug
+c3VwcGxpZXMuClRoYW5rIHlvdSBmb3IgeW91ciBjb250aW51b3VzIHN1cHBvcnQgYW5kIGRlZGlj
+YXRpb24uClRoYW5rIHlvdSBmb3IgeW91ciBoYXJkIHdvcmsgb24gdGhlIHJlY2VudCBwcm9qZWN0
+LgpQbGVhc2UgYmUgY2F1dGlvdXMgb2YgcGhpc2hpbmcgZW1haWxzIGFuZCByZXBvcnQgYW55IHN1
+c3BpY2lvdXMgYWN0aXZpdHkuClBsZWFzZSByZXZpZXcgdGhlIGF0dGFjaGVkIHBlcmZvcm1hbmNl
+IG1ldHJpY3MuClBsZWFzZSBiZSBhZHZpc2VkIG9mIHRoZSBjaGFuZ2VzIGluIHRoZSBjb21wYW55
+IHBvbGljeS4KUGxlYXNlIHJlcG9ydCBhbnkgbWFpbnRlbmFuY2UgaXNzdWVzIHByb21wdGx5LgpQ
+bGVhc2Ugam9pbiBtZSBpbiB3ZWxjb21pbmcgdGhlIG5ldyBtZW1iZXJzIHRvIG91ciB0ZWFtLgot
+LSAKQmVzdCByZWdhcmRzLApTdGVwaGFuaWUgTG9wZXo=
+
+--===============0994970949586940687==--

@@ -1,0 +1,36 @@
+Content-Type: multipart/mixed; boundary="===============3539690731365089388=="
+MIME-Version: 1.0
+Received: from mx5.business.net (mx5.business.net [108.101.145.212])
+	by mx.company.com with ESMTP id UZvOQVykNG2URw2u
+Received: from mx2.yahoo.com (mx2.yahoo.com [72.251.129.5])
+	by mx.company.com with ESMTP id B9h1wlzGcZuJ0h2u
+Received: from mx5.build.co (mx5.build.co [8.234.74.164])
+	by mx.company.com with ESMTP id 7ytls0CEPPg0dncD
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Jessica Davis <jessica.davis@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 14:27:56 -0000
+Message-ID: <cyZkipvzUVrQhSKjb5Lf8T6L@gmail.com>
+
+--===============3539690731365089388==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZXJlIHdpbGwgYmUgYW4gb2ZmaWNlIGNsZWFudXAgZGF5IHRoaXMgRnJp
+ZGF5LgpXZSBhcmUgcGxhbm5pbmcgYSB0ZWFtLWJ1aWxkaW5nIGV2ZW50IG5leHQgbW9udGguCldl
+IGhhdmUgYWNoaWV2ZWQgb3VyIHF1YXJ0ZXJseSB0YXJnZXRzIHN1Y2Nlc3NmdWxseS4KUGxlYXNl
+IGZhbWlsaWFyaXplIHlvdXJzZWxmIHdpdGggdGhlIHVwZGF0ZWQgZ3VpZGVsaW5lcy4KUGxlYXNl
+IHdlbGNvbWUgb3VyIG5ldyBpbnRlcm5zIGpvaW5pbmcgdGhlIHRlYW0uClRoYW5rIHlvdSBmb3Ig
+eW91ciBoYXJkIHdvcmsgb24gdGhlIHJlY2VudCBwcm9qZWN0LgpUaGFuayB5b3UgZm9yIHlvdXIg
+cHJvbXB0IHJlc3BvbnNlLgpXZSBhcmUgY29uZHVjdGluZyBzeXN0ZW0gYXVkaXRzIHRoaXMgcXVh
+cnRlci4KUGxlYXNlIGJlIGFkdmlzZWQgb2YgdGhlIGNoYW5nZXMgaW4gdGhlIGNvbXBhbnkgcG9s
+aWN5LgpXZSBhcmUgY29uZHVjdGluZyBhIHN1cnZleSBvbiByZW1vdGUgd29yayBwcmVmZXJlbmNl
+cy4KUGxlYXNlIHByb3ZpZGUgeW91ciBhdmFpbGFiaWxpdHkgZm9yIHRoZSBuZXh0IHR3byB3ZWVr
+cy4KVGhlIHRyYWluaW5nIHNlc3Npb24gaGFzIGJlZW4gcmVzY2hlZHVsZWQgdG8gRnJpZGF5Lgot
+LSAKQmVzdCByZWdhcmRzLApKZXNzaWNhIERhdmlz
+
+--===============3539690731365089388==--

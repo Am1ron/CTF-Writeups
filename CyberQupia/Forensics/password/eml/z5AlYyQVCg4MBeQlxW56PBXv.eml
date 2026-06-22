@@ -1,0 +1,29 @@
+Content-Type: multipart/mixed; boundary="===============0791324149176199535=="
+MIME-Version: 1.0
+Received: from mx4.mail.com (mx4.mail.com [158.245.84.174])
+	by mx.company.com with ESMTP id BfajXavm7WKUziOp
+Received: from mx4.business.net (mx4.business.net [74.148.159.67])
+	by mx.company.com with ESMTP id PKYva9Oy4MZagLYH
+Received: from mx1.winter.com (mx1.winter.com [105.246.249.91])
+	by mx.company.com with ESMTP id 3ysJgfqQrqWcCxWB
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Mark Brooks <mark.brooks@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 14:27:48 -0000
+Message-ID: <z5AlYyQVCg4MBeQlxW56PBXv@mail.com>
+
+--===============0791324149176199535==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkNsaWVudCBwcmVzZW50YXRpb25zIGFyZSBzY2hlZHVsZWQgZm9yIG5leHQg
+VGh1cnNkYXkuCkxldOKAmXMgY29vcmRpbmF0ZSB0byBlbnN1cmUgYSBzbW9vdGggdHJhbnNpdGlv
+bi4KUHJvamVjdCBkZWFkbGluZXMgaGF2ZSBiZWVuIGFkanVzdGVkIGR1ZSB0byB1bmZvcmVzZWVu
+IGNpcmN1bXN0YW5jZXMuCldlIGFyZSBpbnRyb2R1Y2luZyBmbGV4aWJsZSB3b3JraW5nIGhvdXJz
+LgpXZSB3aWxsIGJlIG1pZ3JhdGluZyB0byBhIG5ldyBlbWFpbCBzeXN0ZW0uCi0tIApCZXN0IHJl
+Z2FyZHMsCk1hcmsgQnJvb2tz
+
+--===============0791324149176199535==--

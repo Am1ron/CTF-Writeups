@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============0516194370907853900=="
+MIME-Version: 1.0
+Received: from mx4.mail.com (mx4.mail.com [40.106.179.251])
+	by mx.company.com with ESMTP id yQuRgUUnEoGo3lQS
+Received: from mx5.mail.com (mx5.mail.com [132.173.211.12])
+	by mx.company.com with ESMTP id 9dXE2hvsYOfpBWSs
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Susan Torres <susan.torres@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 25 Sep 2024 16:53:05 -0000
+Message-ID: <fY4e2sYoKugpgyQqZ77lTSlu@mail.com>
+
+--===============0516194370907853900==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBmYW1pbGlhcml6ZSB5b3Vyc2VsZiB3aXRoIHRoZSB1cGRhdGVk
+IGd1aWRlbGluZXMuCkVtcGxveWVlIHNhdGlzZmFjdGlvbiBzdXJ2ZXlzIHdpbGwgYmUgZGlzdHJp
+YnV0ZWQgdG9tb3Jyb3cuClBsZWFzZSBvYnNlcnZlIHNpbGVuY2UgaW4gZGVzaWduYXRlZCBxdWll
+dCB6b25lcy4KV2UgYXJlIGNvbmR1Y3RpbmcgYSBzdXJ2ZXkgb24gcmVtb3RlIHdvcmsgcHJlZmVy
+ZW5jZXMuClBsZWFzZSBlbnN1cmUgdGltZWx5IHN1Ym1pc3Npb24gb2YgcHJvamVjdCBkZWxpdmVy
+YWJsZXMuCi0tIApCZXN0IHJlZ2FyZHMsClN1c2FuIFRvcnJlcw==
+
+--===============0516194370907853900==--

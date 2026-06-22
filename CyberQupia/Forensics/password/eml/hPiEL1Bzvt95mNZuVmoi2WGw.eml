@@ -1,0 +1,34 @@
+Content-Type: multipart/mixed; boundary="===============7826936033483980707=="
+MIME-Version: 1.0
+Received: from mx1.mail.com (mx1.mail.com [123.45.202.161])
+	by mx.company.com with ESMTP id Du9I3hGvKkKaCDAU
+Received: from mx5.enterprise.org (mx5.enterprise.org [29.229.49.84])
+	by mx.company.com with ESMTP id DPkVdeis5BewCJjy
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Donna Gray <donna.gray@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 05:17:45 -0000
+Message-ID: <hPiEL1Bzvt95mNZuVmoi2WGw@build.co>
+
+--===============7826936033483980707==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBpbml0aWF0aW5nIGEgbWVudG9yc2hpcCBwcm9ncmFtOyBkZXRh
+aWxzIHRvIGZvbGxvdy4KUGxlYXNlIHN1Ym1pdCBub21pbmF0aW9ucyBmb3IgdGhlIGVtcGxveWVl
+IG9mIHRoZSBtb250aC4KUGxlYXNlIGJlIGFkdmlzZWQgb2YgdGhlIGNoYW5nZXMgaW4gdGhlIGNv
+bXBhbnkgcG9saWN5LgpQbGVhc2UgZW5zdXJlIHRpbWVseSBzdWJtaXNzaW9uIG9mIHByb2plY3Qg
+ZGVsaXZlcmFibGVzLgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IENFTywgd2hvIHdpbGwgYmUgam9p
+bmluZyB1cyBuZXh0IG1vbnRoLgpUaGUgYm9hcmQgbWVldGluZyBtaW51dGVzIGhhdmUgYmVlbiB1
+cGxvYWRlZCB0byB0aGUgc2hhcmVkIGRyaXZlLgpQbGVhc2Ugc2VuZCB5b3VyIGZlZWRiYWNrIG9u
+IHRoZSBwcm9wb3NlZCBjaGFuZ2VzLgpUZWFtIGxlYWRzIGFyZSByZXF1ZXN0ZWQgdG8gc3VibWl0
+IHRoZWlyIHJlcG9ydHMgYnkgRnJpZGF5LgpQbGVhc2UgYWRoZXJlIHRvIHRoZSBuZXcgZHJlc3Mg
+Y29kZSBwb2xpY3kuCldlIGFyZSBpbnRyb2R1Y2luZyBmbGV4aWJsZSB3b3JraW5nIGhvdXJzLgpX
+ZSBhcHByZWNpYXRlIHlvdXIgY29tbWl0bWVudCB0byBxdWFsaXR5IGFuZCBleGNlbGxlbmNlLgpQ
+cm9qZWN0IGRlYWRsaW5lcyBoYXZlIGJlZW4gYWRqdXN0ZWQgZHVlIHRvIHVuZm9yZXNlZW4gY2ly
+Y3Vtc3RhbmNlcy4KLS0gCkJlc3QgcmVnYXJkcywKRG9ubmEgR3JheQ==
+
+--===============7826936033483980707==--

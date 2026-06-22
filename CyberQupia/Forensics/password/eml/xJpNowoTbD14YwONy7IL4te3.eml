@@ -1,0 +1,40 @@
+Content-Type: multipart/mixed; boundary="===============5101983615563721885=="
+MIME-Version: 1.0
+Received: from mx3.gmail.com (mx3.gmail.com [132.18.171.81])
+	by mx.company.com with ESMTP id WRIPgH3MU5KsNyRa
+Received: from mx3.solutions.biz (mx3.solutions.biz [90.100.57.74])
+	by mx.company.com with ESMTP id rpj8aT1iwSsMqXhS
+Received: from mx5.enterprise.org (mx5.enterprise.org [112.56.186.254])
+	by mx.company.com with ESMTP id rSesBQOK0eFqT0VA
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Thomas Anderson <thomas.anderson@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 22:41:14 -0000
+Message-ID: <xJpNowoTbD14YwONy7IL4te3@winter.com>
+
+--===============5101983615563721885==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSB1cGdyYWRpbmcgb3VyIGhhcmR3YXJlIGluZnJhc3RydWN0dXJl
+LgpMZXTigJlzIGNvb3JkaW5hdGUgdG8gZW5zdXJlIGEgc21vb3RoIHRyYW5zaXRpb24uCk5ldyBw
+YXJraW5nIHJlZ3VsYXRpb25zIHdpbGwgYmUgaW4gZWZmZWN0IGZyb20gTW9uZGF5LgpPdXIgY2xp
+ZW50cyBoYXZlIHByb3ZpZGVkIHBvc2l0aXZlIGZlZWRiYWNrIG9uIHRoZSBkZWxpdmVyYWJsZXMu
+ClNlY3VyaXR5IHByb3RvY29scyBoYXZlIGJlZW4gdXBkYXRlZDsgcGxlYXNlIHJldmlldyB0aGVt
+LgpUaGUgbGF0ZXN0IHNvZnR3YXJlIHVwZGF0ZXMgaGF2ZSBiZWVuIGluc3RhbGxlZC4KV2UgaGF2
+ZSBzY2hlZHVsZWQgYSB2aXJ0dWFsIGNvZmZlZSBjaGF0IGZvciB0ZWFtIGJ1aWxkaW5nLgpQbGVh
+c2UgcmV2aWV3IHRoZSBhdHRhY2hlZCBwZXJmb3JtYW5jZSBtZXRyaWNzLgpQbGVhc2Ugc3VibWl0
+IG5vbWluYXRpb25zIGZvciB0aGUgZW1wbG95ZWUgb2YgdGhlIG1vbnRoLgpQbGVhc2UgYXZvaWQg
+c2NoZWR1bGluZyBtZWV0aW5ncyBkdXJpbmcgbHVuY2ggaG91cnMuCldlIGhhdmUgYWNoaWV2ZWQg
+b3VyIHF1YXJ0ZXJseSB0YXJnZXRzIHN1Y2Nlc3NmdWxseS4KV2UgYXJlIGV4Y2l0ZWQgYWJvdXQg
+dGhlIHVwY29taW5nIHByb2R1Y3QgZGVtby4KUGxlYXNlIHBhcnRpY2lwYXRlIGluIHRoZSB1cGNv
+bWluZyBmaXJlIGRyaWxsLgpXZSBhcmUgaW50cm9kdWNpbmcgZmxleGlibGUgd29ya2luZyBob3Vy
+cy4KV2UgaGF2ZSBhIGd1ZXN0IHNwZWFrZXIgam9pbmluZyB1cyBuZXh0IHdlZWsuClBsZWFzZSB3
+ZWxjb21lIG91ciBuZXcgaW50ZXJucyBqb2luaW5nIHRoZSB0ZWFtLgotLSAKQmVzdCByZWdhcmRz
+LApUaG9tYXMgQW5kZXJzb24=
+
+--===============5101983615563721885==--

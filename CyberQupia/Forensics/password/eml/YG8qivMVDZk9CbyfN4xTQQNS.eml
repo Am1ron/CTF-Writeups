@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============2144791669610845609=="
+MIME-Version: 1.0
+Received: from mx4.services.io (mx4.services.io [64.29.113.31])
+	by mx.company.com with ESMTP id HzCaEzSvIeGM8SJc
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: Timothy Sanchez <timothy.sanchez@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 07:51:40 -0000
+Message-ID: <YG8qivMVDZk9CbyfN4xTQQNS@solutions.biz>
+
+--===============2144791669610845609==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBvYnNlcnZlIHRoZSBuZXcgc2FuaXRhdGlvbiBwcm90b2NvbHMu
+ClRoZSBsYXRlc3Qgc29mdHdhcmUgdXBkYXRlcyBoYXZlIGJlZW4gaW5zdGFsbGVkLgpUaGUgcGVy
+Zm9ybWFuY2UgcmV2aWV3IG1lZXRpbmdzIHdpbGwgY29tbWVuY2UgbmV4dCBNb25kYXkuClBsZWFz
+ZSByZXZpZXcgdGhlIGF0dGFjaGVkIHBlcmZvcm1hbmNlIG1ldHJpY3MuClRoZSBvZmZpY2Ugd2ls
+bCBiZSBjbG9zZWQgbmV4dCBGcmlkYXkgZm9yIGEgcHVibGljIGhvbGlkYXkuClBsZWFzZSBwcm92
+aWRlIHlvdXIgYXZhaWxhYmlsaXR5IGZvciB0aGUgbmV4dCB0d28gd2Vla3MuCi0tIApCZXN0IHJl
+Z2FyZHMsClRpbW90aHkgU2FuY2hleg==
+
+--===============2144791669610845609==--

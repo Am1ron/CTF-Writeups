@@ -1,0 +1,23 @@
+Content-Type: multipart/mixed; boundary="===============4078247414586939498=="
+MIME-Version: 1.0
+Received: from mx5.business.net (mx5.business.net [248.198.235.194])
+	by mx.company.com with ESMTP id WPUICRZsWuu0YWeg
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Sharon Miller <sharon.miller@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 16 Sep 2024 17:25:31 -0000
+Message-ID: <J2iEcOILJgL0f0MQpw1SM2GT@build.co>
+
+--===============4078247414586939498==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkkgYXBwcmVjaWF0ZSB5b3VyIHByb21wdCBhdHRlbnRpb24gdG8gdGhpcyBt
+YXR0ZXIuClRoZSBjYWZldGVyaWEgbWVudSBoYXMgYmVlbiB1cGRhdGVkIHdpdGggaGVhbHRoaWVy
+IG9wdGlvbnMuClRoZSBvZmZpY2Uga2l0Y2hlbiB3aWxsIGJlIHJlbm92YXRlZCBvdmVyIHRoZSB3
+ZWVrZW5kLgotLSAKQmVzdCByZWdhcmRzLApTaGFyb24gTWlsbGVy
+
+--===============4078247414586939498==--

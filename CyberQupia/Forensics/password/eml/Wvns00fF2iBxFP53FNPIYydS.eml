@@ -1,0 +1,25 @@
+Content-Type: multipart/mixed; boundary="===============0872051594432152705=="
+MIME-Version: 1.0
+Received: from mx5.yahoo.com (mx5.yahoo.com [208.178.115.239])
+	by mx.company.com with ESMTP id WbCSRaZi0BO08ape
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Cynthia Carter <cynthia.carter@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 11:18:24 -0000
+Message-ID: <Wvns00fF2iBxFP53FNPIYydS@yahoo.com>
+
+--===============0872051594432152705==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoYW5rIHlvdSBmb3IgYXR0ZW5kaW5nIHRoZSBzZW1pbmFyIGxhc3Qgd2Vl
+ay4KUGxlYXNlIGVuc3VyZSBhbGwgdGhlIGNvbXBsaWFuY2UgcmVxdWlyZW1lbnRzIGFyZSBtZXQu
+CkNvbmdyYXR1bGF0aW9ucyBvbiB5b3VyIHJlY2VudCBhY2hpZXZlbWVudCEKUGxlYXNlIHdlbGNv
+bWUgb3VyIG5ldyBwYXJ0bmVyIHRvIHRoZSBvcmdhbml6YXRpb24uCi0tIApCZXN0IHJlZ2FyZHMs
+CkN5bnRoaWEgQ2FydGVy
+
+--===============0872051594432152705==--

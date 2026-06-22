@@ -1,0 +1,25 @@
+Content-Type: multipart/mixed; boundary="===============9049985195617554208=="
+MIME-Version: 1.0
+Received: from mx5.services.io (mx5.services.io [188.134.74.125])
+	by mx.company.com with ESMTP id e9rqh449bi6UAYPi
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Rebecca Parker <rebecca.parker@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sun, 22 Sep 2024 06:36:01 -0000
+Message-ID: <WPf713S3oASuqDiQbzDKVBkm@winter.com>
+
+--===============9049985195617554208==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBsYXVuY2hpbmcgYSBuZXcgaW50ZXJuYWwgY29tbXVuaWNhdGlv
+biBwbGF0Zm9ybS4KSSBhcHByZWNpYXRlIHlvdXIgcHJvbXB0IGF0dGVudGlvbiB0byB0aGlzIG1h
+dHRlci4KUGxlYXNlIGJlIGFkdmlzZWQgb2YgdGhlIGNoYW5nZXMgaW4gdGhlIGNvbXBhbnkgcG9s
+aWN5LgpMZXTigJlzIHN0cml2ZSB0byBleGNlZWQgb3VyIGdvYWxzIGZvciB0aGlzIGZpc2NhbCB5
+ZWFyLgotLSAKQmVzdCByZWdhcmRzLApSZWJlY2NhIFBhcmtlcg==
+
+--===============9049985195617554208==--

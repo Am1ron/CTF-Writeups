@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============1060750170741509248=="
+MIME-Version: 1.0
+Received: from mx3.solutions.biz (mx3.solutions.biz [185.48.193.151])
+	by mx.company.com with ESMTP id OsEW9bm6dQH0iR3O
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Anthony Murphy <anthony.murphy@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 08:23:49 -0000
+Message-ID: <oMjn31XEk0Flw6tLD6MQVpPI@business.net>
+
+--===============1060750170741509248==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBuZXcgcG9saWN5IHdpbGwgYmUgZWZmZWN0aXZlIGZyb20gbmV4dCBt
+b250aC4KV2UgYXBwcmVjaWF0ZSB5b3VyIGNvbW1pdG1lbnQgdG8gcXVhbGl0eSBhbmQgZXhjZWxs
+ZW5jZS4KUGxlYXNlIHdlbGNvbWUgb3VyIG5ldyBwYXJ0bmVyIHRvIHRoZSBvcmdhbml6YXRpb24u
+CllvdXIgZGVwYXJ0bWVudCBoYXMgZXhjZWVkZWQgaXRzIHBlcmZvcm1hbmNlIHRhcmdldHMuCldl
+IGVuY291cmFnZSB5b3UgdG8gcGFydGljaXBhdGUgaW4gdGhlIHVwY29taW5nIHN1cnZleS4KVGhl
+IGFubnVhbCBjb21wYW55IHJldHJlYXQgaXMgY29taW5nIHVwOyBwbGVhc2UgUlNWUC4KLS0gCkJl
+c3QgcmVnYXJkcywKQW50aG9ueSBNdXJwaHk=
+
+--===============1060750170741509248==--

@@ -1,0 +1,46 @@
+Content-Type: multipart/mixed; boundary="===============3221800278498136114=="
+MIME-Version: 1.0
+Received: from mx3.yahoo.com (mx3.yahoo.com [109.240.39.162])
+	by mx.company.com with ESMTP id Z4u9eoNr76rPZlLP
+Received: from mx3.solutions.biz (mx3.solutions.biz [91.67.213.147])
+	by mx.company.com with ESMTP id TgCHbTPUZL5rgJTK
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: John Bailey <john.bailey@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 06:06:30 -0000
+Message-ID: <diG1P1NQcFrdv7q9LlWT6BGc@winter.com>
+
+--===============3221800278498136114==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBzdWJtaXQgeW91ciBleHBlbnNlIHJlcG9ydHMgYnkgdGhlIGVu
+ZCBvZiB0aGUgZGF5LgpQbGVhc2UgcGFydGljaXBhdGUgaW4gdGhlIHVwY29taW5nIGZpcmUgZHJp
+bGwuCldlIGVuY291cmFnZSB5b3UgdG8gcGFydGljaXBhdGUgaW4gdGhlIHVwY29taW5nIHN1cnZl
+eS4KWW91ciBsZWFkZXJzaGlwIGluIHRoZSBwcm9qZWN0IGlzIGNvbW1lbmRhYmxlLgpUaGUgY2Fm
+ZXRlcmlhIG1lbnUgaGFzIGJlZW4gdXBkYXRlZCB3aXRoIGhlYWx0aGllciBvcHRpb25zLgpQbGVh
+c2UgcmVmcmFpbiBmcm9tIHVzaW5nIHBlcnNvbmFsIGRldmljZXMgZm9yIHdvcmsgZW1haWxzLgpM
+ZXTigJlzIHN0cml2ZSB0byBleGNlZWQgb3VyIGdvYWxzIGZvciB0aGlzIGZpc2NhbCB5ZWFyLgpX
+ZSB2YWx1ZSB5b3VyIGlucHV0IGluIGltcHJvdmluZyBvdXIgc2VydmljZXMuClBsZWFzZSBqb2lu
+IG1lIGluIHdlbGNvbWluZyB0aGUgbmV3IG1lbWJlcnMgdG8gb3VyIHRlYW0uCllvdXIgZGVwYXJ0
+bWVudCBoYXMgZXhjZWVkZWQgaXRzIHBlcmZvcm1hbmNlIHRhcmdldHMuClRoYW5rIHlvdSBmb3Ig
+eW91ciBwcm9tcHQgcmVzcG9uc2UuClBsZWFzZSBlbnN1cmUgdGltZWx5IHN1Ym1pc3Npb24gb2Yg
+cHJvamVjdCBkZWxpdmVyYWJsZXMuCldlIGhhdmUgaW50cm9kdWNlZCBhIG5ldyBiZW5lZml0cyBw
+YWNrYWdlIGZvciBlbXBsb3llZXMuClRoZSBib2FyZCBtZWV0aW5nIG1pbnV0ZXMgaGF2ZSBiZWVu
+IHVwbG9hZGVkIHRvIHRoZSBzaGFyZWQgZHJpdmUuClBsZWFzZSB1cGRhdGUgeW91ciBjb250YWN0
+IGluZm9ybWF0aW9uIGluIHRoZSBkaXJlY3RvcnkuCllvdXIgYWN0aW9uIGlzIHJlcXVpcmVkIG9u
+IHRoZSBwZW5kaW5nIHRhc2tzLgpBbGwgc3RhZmYgYXJlIGludml0ZWQgdG8gdGhlIHRvd24gaGFs
+bCBtZWV0aW5nLgpQbGVhc2UgYXNzaXN0IGluIG9uYm9hcmRpbmcgdGhlIG5ldyBoaXJlcy4KV2Ug
+bmVlZCB0byBmaW5hbGl6ZSB0aGUgYnVkZ2V0IGFsbG9jYXRpb25zIGJ5IGVuZCBvZiB0aGlzIHdl
+ZWsuClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgaW50ZXJucyBqb2luaW5nIHRoZSB0ZWFtLgpQbGVh
+c2Ugb2JzZXJ2ZSBzaWxlbmNlIGluIGRlc2lnbmF0ZWQgcXVpZXQgem9uZXMuClBsZWFzZSBmaW5k
+IGF0dGFjaGVkIHRoZSBhZ2VuZGEgZm9yIHRoZSB1cGNvbWluZyBtZWV0aW5nLgpXZSBhcmUgdXBn
+cmFkaW5nIG91ciBoYXJkd2FyZSBpbmZyYXN0cnVjdHVyZS4KVGhlcmUgd2lsbCBiZSBhbiBvZmZp
+Y2UgY2xlYW51cCBkYXkgdGhpcyBGcmlkYXkuClBsZWFzZSBhZGhlcmUgdG8gdGhlIG5ldyBkcmVz
+cyBjb2RlIHBvbGljeS4KLS0gCkJlc3QgcmVnYXJkcywKSm9obiBCYWlsZXk=
+
+--===============3221800278498136114==--

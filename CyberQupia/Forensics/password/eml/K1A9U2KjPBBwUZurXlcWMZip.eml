@@ -1,0 +1,32 @@
+Content-Type: multipart/mixed; boundary="===============4427581801597500976=="
+MIME-Version: 1.0
+Received: from mx2.corp.com (mx2.corp.com [149.114.154.76])
+	by mx.company.com with ESMTP id Zq2PCzoobsO38BAN
+Received: from mx1.mail.com (mx1.mail.com [108.238.190.239])
+	by mx.company.com with ESMTP id aLgux8zYW1fjAh7W
+Received: from mx5.business.net (mx5.business.net [253.212.10.226])
+	by mx.company.com with ESMTP id HMzXdzLQTAnP8MtI
+Authentication-Results: company.com; dkim=pass header.d=enterprise.org;
+ spf=pass smtp.mailfrom=enterprise.org;
+ dmarc=pass action=none header.from=enterprise.org
+From: Carol Taylor <carol.taylor@enterprise.org>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 03:08:23 -0000
+Message-ID: <K1A9U2KjPBBwUZurXlcWMZip@enterprise.org>
+
+--===============4427581801597500976==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBhdHRlbmQgdGhlIGRpdmVyc2l0eSBhbmQgaW5jbHVzaW9uIHdv
+cmtzaG9wLgpQbGVhc2Ugam9pbiBtZSBpbiB3ZWxjb21pbmcgdGhlIG5ldyBtZW1iZXJzIHRvIG91
+ciB0ZWFtLgpXZSBhcmUgZXhjaXRlZCBhYm91dCB0aGUgdXBjb21pbmcgcHJvZHVjdCBkZW1vLgpX
+ZSBoYXZlIHVwZGF0ZWQgb3VyIHByaXZhY3kgcG9saWN5LgpXZSBoYXZlIGEgZ3Vlc3Qgc3BlYWtl
+ciBqb2luaW5nIHVzIG5leHQgd2Vlay4KUHJvamVjdCBkZWFkbGluZXMgaGF2ZSBiZWVuIGFkanVz
+dGVkIGR1ZSB0byB1bmZvcmVzZWVuIGNpcmN1bXN0YW5jZXMuClNlY3VyaXR5IHByb3RvY29scyBo
+YXZlIGJlZW4gdXBkYXRlZDsgcGxlYXNlIHJldmlldyB0aGVtLgotLSAKQmVzdCByZWdhcmRzLApD
+YXJvbCBUYXlsb3I=
+
+--===============4427581801597500976==--

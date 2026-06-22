@@ -1,0 +1,32 @@
+Content-Type: multipart/mixed; boundary="===============3502345639815816527=="
+MIME-Version: 1.0
+Received: from mx1.services.io (mx1.services.io [162.82.4.51])
+	by mx.company.com with ESMTP id jBEhrE179PrZGRzv
+Received: from mx1.enterprise.org (mx1.enterprise.org [227.109.234.65])
+	by mx.company.com with ESMTP id iNvl8XbncE2Z5YS1
+Received: from mx2.enterprise.org (mx2.enterprise.org [6.29.247.58])
+	by mx.company.com with ESMTP id Wn7TA7eoBQYjjnrs
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Emily Ward <emily.ward@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 03:31:44 -0000
+Message-ID: <TjOOKylW37Bc7llI3OqQvCNn@winter.com>
+
+--===============3502345639815816527==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoYW5rIHlvdSBmb3IgeW91ciBwcm9tcHQgcmVzcG9uc2UuClRoZSBjYWZl
+dGVyaWEgbWVudSBoYXMgYmVlbiB1cGRhdGVkIHdpdGggaGVhbHRoaWVyIG9wdGlvbnMuCldlIGFy
+ZSBjb25kdWN0aW5nIHN5c3RlbSBhdWRpdHMgdGhpcyBxdWFydGVyLgpQbGVhc2Ugb2JzZXJ2ZSB0
+aGUgbmV3IHNhbml0YXRpb24gcHJvdG9jb2xzLgpQbGVhc2Ugam9pbiB0aGUgd2ViaW5hciBvbiBp
+bmR1c3RyeSB0cmVuZHMgdG9tb3Jyb3cuClBsZWFzZSByZXZpZXcgdGhlIGF0dGFjaGVkIHBlcmZv
+cm1hbmNlIG1ldHJpY3MuCldlIHdpbGwgYmUgbWlncmF0aW5nIHRvIGEgbmV3IGVtYWlsIHN5c3Rl
+bS4KUGxlYXNlIHN1Ym1pdCB5b3VyIGV4cGVuc2UgcmVwb3J0cyBieSB0aGUgZW5kIG9mIHRoZSBk
+YXkuCi0tIApCZXN0IHJlZ2FyZHMsCkVtaWx5IFdhcmQ=
+
+--===============3502345639815816527==--

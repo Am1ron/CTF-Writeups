@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============3231763915426731023=="
+MIME-Version: 1.0
+Received: from mx4.enterprise.org (mx4.enterprise.org [140.137.143.239])
+	by mx.company.com with ESMTP id NdJI9DWwg1ORr55R
+Received: from mx1.yahoo.com (mx1.yahoo.com [121.121.175.155])
+	by mx.company.com with ESMTP id k3J8YUech0ITfoGx
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Michelle Johnson <michelle.johnson@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 26 Sep 2024 07:50:56 -0000
+Message-ID: <28z22ZG9xTNVouFQpSVO71zK@winter.com>
+
+--===============3231763915426731023==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBhc3Npc3QgaW4gb25ib2FyZGluZyB0aGUgbmV3IGhpcmVzLgpX
+ZSBhcmUgcmV2aXNpbmcgb3VyIHN0cmF0ZWdpYyBvYmplY3RpdmVzLgpXZSBhcmUgZXhwbG9yaW5n
+IG5ldyBtYXJrZXQgb3Bwb3J0dW5pdGllcy4KVGhhbmsgeW91IGZvciB5b3VyIHByb21wdCByZXNw
+b25zZS4KWW91ciBkZXBhcnRtZW50IGhhcyBleGNlZWRlZCBpdHMgcGVyZm9ybWFuY2UgdGFyZ2V0
+cy4KSGVhbHRoIGFuZCBzYWZldHkgaW5zcGVjdGlvbnMgYXJlIHNjaGVkdWxlZCBmb3IgbmV4dCB3
+ZWVrLgpQbGVhc2UgZGlzcG9zZSBvZiBjb25maWRlbnRpYWwgZG9jdW1lbnRzIHNlY3VyZWx5LgpQ
+bGVhc2UgYXR0ZW5kIHRoZSBkaXZlcnNpdHkgYW5kIGluY2x1c2lvbiB3b3Jrc2hvcC4KUGxlYXNl
+IGZpbmQgdGhlIGF0dGFjaGVkIHJlcG9ydCBmb3IgeW91ciByZXZpZXcuClBsZWFzZSBlbnN1cmUg
+YWxsIHRoZSBjb21wbGlhbmNlIHJlcXVpcmVtZW50cyBhcmUgbWV0LgpQcm9qZWN0IGRlYWRsaW5l
+cyBoYXZlIGJlZW4gYWRqdXN0ZWQgZHVlIHRvIHVuZm9yZXNlZW4gY2lyY3Vtc3RhbmNlcy4KUGxl
+YXNlIHdlbGNvbWUgb3VyIG5ldyBwYXJ0bmVyIHRvIHRoZSBvcmdhbml6YXRpb24uClBsZWFzZSB1
+cGRhdGUgeW91ciBjb250YWN0IGluZm9ybWF0aW9uIGluIHRoZSBkaXJlY3RvcnkuCkkgYXBwcmVj
+aWF0ZSB5b3VyIHByb21wdCBhdHRlbnRpb24gdG8gdGhpcyBtYXR0ZXIuCkkgd291bGQgbGlrZSB0
+byBzY2hlZHVsZSBhIG1lZXRpbmcgdG8gZGlzY3VzcyB0aGUgcHJvamVjdCB1cGRhdGVzLgpMZXQn
+cyBzY2hlZHVsZSBhIG9uZS1vbi1vbmUgbWVldGluZyB0byBkaXNjdXNzIHlvdXIgcHJvZ3Jlc3Mu
+CkxldCBtZSBrbm93IGlmIHlvdSBoYXZlIGFueSBxdWVzdGlvbnMgb3IgY29uY2VybnMuCi0tIApC
+ZXN0IHJlZ2FyZHMsCk1pY2hlbGxlIEpvaG5zb24=
+
+--===============3231763915426731023==--

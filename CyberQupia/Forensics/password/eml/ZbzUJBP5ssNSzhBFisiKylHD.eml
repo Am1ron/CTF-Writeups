@@ -1,0 +1,40 @@
+Content-Type: multipart/mixed; boundary="===============3025324852562880564=="
+MIME-Version: 1.0
+Received: from mx5.services.io (mx5.services.io [218.181.66.1])
+	by mx.company.com with ESMTP id g5CuNOz2CsIF5xFk
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Michelle Scott <michelle.scott@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 25 Sep 2024 12:16:10 -0000
+Message-ID: <ZbzUJBP5ssNSzhBFisiKylHD@yahoo.com>
+
+--===============3025324852562880564==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBib2FyZCBtZWV0aW5nIG1pbnV0ZXMgaGF2ZSBiZWVuIHVwbG9hZGVk
+IHRvIHRoZSBzaGFyZWQgZHJpdmUuClRlYW0gbGVhZHMgYXJlIHJlcXVlc3RlZCB0byBzdWJtaXQg
+dGhlaXIgcmVwb3J0cyBieSBGcmlkYXkuCllvdXIgbGVhZGVyc2hpcCBpbiB0aGUgcHJvamVjdCBp
+cyBjb21tZW5kYWJsZS4KUGxlYXNlIHdlbGNvbWUgb3VyIG5ldyBpbnRlcm5zIGpvaW5pbmcgdGhl
+IHRlYW0uCldlIGFyZSBleHBsb3JpbmcgbmV3IG1hcmtldCBvcHBvcnR1bml0aWVzLgpXZSBhcmUg
+aW1wbGVtZW50aW5nIGEgbmV3IGN1c3RvbWVyIHJlbGF0aW9uc2hpcCBtYW5hZ2VtZW50IHN5c3Rl
+bS4KUGxlYXNlIGNvbXBsZXRlIHRoZSBjeWJlcnNlY3VyaXR5IHRyYWluaW5nIG1vZHVsZS4KWW91
+ciBhY3Rpb24gaXMgcmVxdWlyZWQgb24gdGhlIHBlbmRpbmcgdGFza3MuClBsZWFzZSBhc3Npc3Qg
+aW4gb25ib2FyZGluZyB0aGUgbmV3IGhpcmVzLgpXZSBoYXZlIGxhdW5jaGVkIGFuIGVtcGxveWVl
+IHJlY29nbml0aW9uIHByb2dyYW0uCkNsaWVudCBwcmVzZW50YXRpb25zIGFyZSBzY2hlZHVsZWQg
+Zm9yIG5leHQgVGh1cnNkYXkuCldlIGFyZSBwbGFubmluZyBhIHRlYW0tYnVpbGRpbmcgZXZlbnQg
+bmV4dCBtb250aC4KV2Ugd2lsbCBiZSBtaWdyYXRpbmcgdG8gYSBuZXcgZW1haWwgc3lzdGVtLgpX
+ZSBoYXZlIGludHJvZHVjZWQgYSBuZXcgYmVuZWZpdHMgcGFja2FnZSBmb3IgZW1wbG95ZWVzLgpU
+aGFuayB5b3UgZm9yIHlvdXIgcGF0aWVuY2UgZHVyaW5nIHRoZSBzeXN0ZW0gZG93bnRpbWUuClBs
+ZWFzZSByZXBvcnQgYW55IG1haW50ZW5hbmNlIGlzc3VlcyBwcm9tcHRseS4KUGxlYXNlIHVwZGF0
+ZSB5b3VyIGNvbnRhY3QgaW5mb3JtYXRpb24gaW4gdGhlIGRpcmVjdG9yeS4KVGhhbmsgeW91IGZv
+ciB5b3VyIGNvbnRpbnVvdXMgc3VwcG9ydCBhbmQgZGVkaWNhdGlvbi4KV2UgaGF2ZSBzZWN1cmVk
+IGEgbmV3IGNvbnRyYWN0IHdpdGggYSBtYWpvciBjbGllbnQuCllvdXIgY29udHJpYnV0aW9uIGhh
+cyBiZWVuIGluc3RydW1lbnRhbCBpbiB0aGlzIHByb2plY3TigJlzIHN1Y2Nlc3MuCi0tIApCZXN0
+IHJlZ2FyZHMsCk1pY2hlbGxlIFNjb3R0
+
+--===============3025324852562880564==--

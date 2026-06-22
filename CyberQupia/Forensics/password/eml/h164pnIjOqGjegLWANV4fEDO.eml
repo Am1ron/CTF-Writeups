@@ -1,0 +1,35 @@
+Content-Type: multipart/mixed; boundary="===============0788889988788927301=="
+MIME-Version: 1.0
+Received: from mx4.gmail.com (mx4.gmail.com [102.2.85.70])
+	by mx.company.com with ESMTP id L3DZqUhu8MypqySZ
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Gary Clark <gary.clark@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 25 Sep 2024 21:30:08 -0000
+Message-ID: <h164pnIjOqGjegLWANV4fEDO@winter.com>
+
+--===============0788889988788927301==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSByZXZpc2luZyBvdXIgc3RyYXRlZ2ljIG9iamVjdGl2ZXMuClBs
+ZWFzZSB3ZWxjb21lIG91ciBuZXcgcGFydG5lciB0byB0aGUgb3JnYW5pemF0aW9uLgpQbGVhc2Ug
+YWRoZXJlIHRvIHRoZSBuZXcgZHJlc3MgY29kZSBwb2xpY3kuClRoZSBvZmZpY2Uga2l0Y2hlbiB3
+aWxsIGJlIHJlbm92YXRlZCBvdmVyIHRoZSB3ZWVrZW5kLgpQbGVhc2UgcHJvdmlkZSB5b3VyIGF2
+YWlsYWJpbGl0eSBmb3IgdGhlIG5leHQgdHdvIHdlZWtzLgpPdXIgc3VzdGFpbmFiaWxpdHkgcmVw
+b3J0IGhhcyBiZWVuIHB1Ymxpc2hlZDsgcGxlYXNlIHJlYWQgaXQuClRoZSB0cmFpbmluZyBzZXNz
+aW9uIGhhcyBiZWVuIHJlc2NoZWR1bGVkIHRvIEZyaWRheS4KVGhhbmsgeW91IGZvciB5b3VyIGNv
+bnRpbnVvdXMgc3VwcG9ydCBhbmQgZGVkaWNhdGlvbi4KV2UgYXJlIGV4Y2l0ZWQgdG8gYW5ub3Vu
+Y2UgdGhlIGxhdW5jaCBvZiBvdXIgbmV3IHByb2R1Y3QgbGluZS4KV2UgYXJlIGNvbmR1Y3Rpbmcg
+YSBzdXJ2ZXkgb24gcmVtb3RlIHdvcmsgcHJlZmVyZW5jZXMuCkxldCBtZSBrbm93IGlmIHlvdSBo
+YXZlIGFueSBxdWVzdGlvbnMgb3IgY29uY2VybnMuClBsZWFzZSB1cGRhdGUgeW91ciBjb250YWN0
+IGluZm9ybWF0aW9uIGluIHRoZSBkaXJlY3RvcnkuCkkgd291bGQgbGlrZSB0byBzY2hlZHVsZSBh
+IG1lZXRpbmcgdG8gZGlzY3VzcyB0aGUgcHJvamVjdCB1cGRhdGVzLgpUaGUgY2FmZXRlcmlhIG1l
+bnUgaGFzIGJlZW4gdXBkYXRlZCB3aXRoIGhlYWx0aGllciBvcHRpb25zLgotLSAKQmVzdCByZWdh
+cmRzLApHYXJ5IENsYXJr
+
+--===============0788889988788927301==--

@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============6392825240309844501=="
+MIME-Version: 1.0
+Received: from mx1.winter.com (mx1.winter.com [214.6.209.138])
+	by mx.company.com with ESMTP id wrlQzceIk5D1IcNu
+Received: from mx1.gmail.com (mx1.gmail.com [221.155.115.198])
+	by mx.company.com with ESMTP id oGLYL7iDLN4XTeVT
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Laura Thompson <laura.thompson@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 11:31:15 -0000
+Message-ID: <9NBNP4LGXlUB7ZAUiKtLDbmy@mail.com>
+
+--===============6392825240309844501==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkNvbmdyYXR1bGF0aW9ucyBvbiB5b3VyIHJlY2VudCBhY2hpZXZlbWVudCEK
+TGV0J3Mgc2NoZWR1bGUgYSBvbmUtb24tb25lIG1lZXRpbmcgdG8gZGlzY3VzcyB5b3VyIHByb2dy
+ZXNzLgpJIGFwcHJlY2lhdGUgeW91ciBwcm9tcHQgYXR0ZW50aW9uIHRvIHRoaXMgbWF0dGVyLgpX
+ZSBhcmUgbGF1bmNoaW5nIGEgbmV3IGludGVybmFsIGNvbW11bmljYXRpb24gcGxhdGZvcm0uClBs
+ZWFzZSB0YWtlIG5vdGUgb2YgdGhlIG5ldyBvZmZpY2UgaG91cnMuClRoZSBjb21wYW55IG5ld3Ns
+ZXR0ZXIgaGFzIGJlZW4gcHVibGlzaGVkLgpIZWFsdGggYW5kIHNhZmV0eSBpbnNwZWN0aW9ucyBh
+cmUgc2NoZWR1bGVkIGZvciBuZXh0IHdlZWsuClBsZWFzZSBhZGhlcmUgdG8gdGhlIG5ldyBkcmVz
+cyBjb2RlIHBvbGljeS4KUGxlYXNlIGNvbXBsZXRlIHRoZSBtYW5kYXRvcnkgdHJhaW5pbmcgbW9k
+dWxlcy4KUGxlYXNlIHN1Ym1pdCB5b3VyIGV4cGVuc2UgcmVwb3J0cyBieSB0aGUgZW5kIG9mIHRo
+ZSBkYXkuClRoZSBvZmZpY2Uga2l0Y2hlbiB3aWxsIGJlIHJlbm92YXRlZCBvdmVyIHRoZSB3ZWVr
+ZW5kLgpFbXBsb3llZSBzYXRpc2ZhY3Rpb24gc3VydmV5cyB3aWxsIGJlIGRpc3RyaWJ1dGVkIHRv
+bW9ycm93LgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IGludGVybnMgam9pbmluZyB0aGUgdGVhbS4K
+V2UgaGF2ZSB1cGRhdGVkIHRoZSBoZWFsdGggaW5zdXJhbmNlIHBsYW5zLgpPdXIgYW5udWFsIHJl
+cG9ydCBoYXMgYmVlbiByZWxlYXNlZCB0byBzdGFrZWhvbGRlcnMuCldlIGhhdmUgbGF1bmNoZWQg
+YW4gZW1wbG95ZWUgcmVjb2duaXRpb24gcHJvZ3JhbS4KLS0gCkJlc3QgcmVnYXJkcywKTGF1cmEg
+VGhvbXBzb24=
+
+--===============6392825240309844501==--

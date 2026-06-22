@@ -1,0 +1,25 @@
+Content-Type: multipart/mixed; boundary="===============5515329077398025424=="
+MIME-Version: 1.0
+Received: from mx3.gmail.com (mx3.gmail.com [217.141.255.233])
+	by mx.company.com with ESMTP id u6gMG8w5AxM7gqqi
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Ronald Davis <ronald.davis@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 00:46:17 -0000
+Message-ID: <j3MkrZYS4fsYFZ6r1lVJSB99@services.io>
+
+--===============5515329077398025424==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBuZXcgcG9saWN5IHdpbGwgYmUgZWZmZWN0aXZlIGZyb20gbmV4dCBt
+b250aC4KTGV0IG1lIGtub3cgaWYgeW91IGhhdmUgYW55IHF1ZXN0aW9ucyBvciBjb25jZXJucy4K
+UGxlYXNlIHJldmlldyB0aGUgYXR0YWNoZWQgY2xpZW50IGZlZWRiYWNrLgpUaGUgYm9hcmQgbWVl
+dGluZyBtaW51dGVzIGhhdmUgYmVlbiB1cGxvYWRlZCB0byB0aGUgc2hhcmVkIGRyaXZlLgotLSAK
+QmVzdCByZWdhcmRzLApSb25hbGQgRGF2aXM=
+
+--===============5515329077398025424==--

@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============5290769190200385472=="
+MIME-Version: 1.0
+Received: from mx5.yahoo.com (mx5.yahoo.com [183.83.236.231])
+	by mx.company.com with ESMTP id IcIyIYRyzDlBMXY1
+Received: from mx5.winter.com (mx5.winter.com [5.174.62.244])
+	by mx.company.com with ESMTP id gGhzRRPGAyNGvBCG
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Amanda James <amanda.james@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 23:15:59 -0000
+Message-ID: <NHJdmOa3LmmoEHVwDvQ8xFpx@business.net>
+
+--===============5290769190200385472==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkkgd291bGQgbGlrZSB0byBzY2hlZHVsZSBhIG1lZXRpbmcgdG8gZGlzY3Vz
+cyB0aGUgcHJvamVjdCB1cGRhdGVzLgpUaGFuayB5b3UgZm9yIHlvdXIgcHJvbXB0IHJlc3BvbnNl
+LgpXZSBoYXZlIGxhdW5jaGVkIGFuIGVtcGxveWVlIHJlY29nbml0aW9uIHByb2dyYW0uClBsZWFz
+ZSBzdWJtaXQgeW91ciBsZWF2ZSByZXF1ZXN0cyBpbiBhZHZhbmNlLgpQbGVhc2UgcmVwb3J0IGFu
+eSBtYWludGVuYW5jZSBpc3N1ZXMgcHJvbXB0bHkuCldlIGFyZSBob3N0aW5nIGEgY2hhcml0eSBl
+dmVudCBuZXh0IHdlZWsuClBsZWFzZSBvYnNlcnZlIHRoZSBuZXcgc2FuaXRhdGlvbiBwcm90b2Nv
+bHMuClRoZSBjYWZldGVyaWEgbWVudSBoYXMgYmVlbiB1cGRhdGVkIHdpdGggaGVhbHRoaWVyIG9w
+dGlvbnMuCllvdXIgbGVhZGVyc2hpcCBpbiB0aGUgcHJvamVjdCBpcyBjb21tZW5kYWJsZS4KUGxl
+YXNlIGpvaW4gbWUgaW4gd2VsY29taW5nIHRoZSBuZXcgbWVtYmVycyB0byBvdXIgdGVhbS4KV2Ug
+aGF2ZSB1cGRhdGVkIG91ciBwcml2YWN5IHBvbGljeS4KUGxlYXNlIHRha2Ugbm90ZSBvZiB0aGUg
+bmV3IG9mZmljZSBob3Vycy4KUGxlYXNlIGJlIGNhdXRpb3VzIG9mIHBoaXNoaW5nIGVtYWlscyBh
+bmQgcmVwb3J0IGFueSBzdXNwaWNpb3VzIGFjdGl2aXR5LgpQbGVhc2UgcmV2aWV3IHRoZSBhdHRh
+Y2hlZCBjbGllbnQgZmVlZGJhY2suClBsZWFzZSBhdHRlbmQgdGhlIGRpdmVyc2l0eSBhbmQgaW5j
+bHVzaW9uIHdvcmtzaG9wLgpQbGVhc2UgZW5zdXJlIHRpbWVseSBzdWJtaXNzaW9uIG9mIHByb2pl
+Y3QgZGVsaXZlcmFibGVzLgotLSAKQmVzdCByZWdhcmRzLApBbWFuZGEgSmFtZXM=
+
+--===============5290769190200385472==--

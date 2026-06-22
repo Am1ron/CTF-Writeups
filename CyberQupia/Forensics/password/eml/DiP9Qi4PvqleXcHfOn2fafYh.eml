@@ -1,0 +1,31 @@
+Content-Type: multipart/mixed; boundary="===============7917363430010289744=="
+MIME-Version: 1.0
+Received: from mx4.yahoo.com (mx4.yahoo.com [108.8.126.11])
+	by mx.company.com with ESMTP id 4RBAnB8ipNOf8d4b
+Received: from mx4.business.net (mx4.business.net [174.135.120.169])
+	by mx.company.com with ESMTP id OVaT778VKfaYIUrn
+Received: from mx5.business.net (mx5.business.net [204.22.11.160])
+	by mx.company.com with ESMTP id 8mRcq5hpJWQnczfT
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Kenneth Anderson <kenneth.anderson@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 01:25:58 -0000
+Message-ID: <DiP9Qi4PvqleXcHfOn2fafYh@build.co>
+
+--===============7917363430010289744==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBjb21wYW55IG5ld3NsZXR0ZXIgaGFzIGJlZW4gcHVibGlzaGVkLgpD
+b25ncmF0dWxhdGlvbnMgb24geW91ciByZWNlbnQgYWNoaWV2ZW1lbnQhClBsZWFzZSBhdm9pZCBz
+Y2hlZHVsaW5nIG1lZXRpbmdzIGR1cmluZyBsdW5jaCBob3Vycy4KV2UgYXJlIGluaXRpYXRpbmcg
+YSBtZW50b3JzaGlwIHByb2dyYW07IGRldGFpbHMgdG8gZm9sbG93LgpXZSBhcmUgbGF1bmNoaW5n
+IGEgbmV3IGludGVybmFsIGNvbW11bmljYXRpb24gcGxhdGZvcm0uCkVtcGxveWVlIHNhdGlzZmFj
+dGlvbiBzdXJ2ZXlzIHdpbGwgYmUgZGlzdHJpYnV0ZWQgdG9tb3Jyb3cuCkkgd291bGQgbGlrZSB0
+byBzY2hlZHVsZSBhIG1lZXRpbmcgdG8gZGlzY3VzcyB0aGUgcHJvamVjdCB1cGRhdGVzLgotLSAK
+QmVzdCByZWdhcmRzLApLZW5uZXRoIEFuZGVyc29u
+
+--===============7917363430010289744==--

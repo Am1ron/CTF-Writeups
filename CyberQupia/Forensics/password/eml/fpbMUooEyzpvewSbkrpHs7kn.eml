@@ -1,0 +1,30 @@
+Content-Type: multipart/mixed; boundary="===============5149867514970905284=="
+MIME-Version: 1.0
+Received: from mx2.gmail.com (mx2.gmail.com [185.59.248.185])
+	by mx.company.com with ESMTP id 3A3tWLwOFN5fAOBF
+Received: from mx5.business.net (mx5.business.net [36.165.255.207])
+	by mx.company.com with ESMTP id kK5QTa0p9X8j11U1
+Received: from mx3.winter.com (mx3.winter.com [26.110.246.104])
+	by mx.company.com with ESMTP id Sp7YKYgtDqMz4WEZ
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Ronald Brown <ronald.brown@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 25 Sep 2024 18:51:44 -0000
+Message-ID: <fpbMUooEyzpvewSbkrpHs7kn@services.io>
+
+--===============5149867514970905284==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgYSBndWVzdCBzcGVha2VyIGpvaW5pbmcgdXMgbmV4dCB3ZWVr
+LgpIb2xpZGF5IHNjaGVkdWxlcyBoYXZlIGJlZW4gcG9zdGVkIG9uIHRoZSBjb21wYW55IHBvcnRh
+bC4KVGhlIElUIGRlcGFydG1lbnQgd2lsbCBwZXJmb3JtIHN5c3RlbSBtYWludGVuYW5jZSB0aGlz
+IHdlZWtlbmQuClRoZXJlIHdpbGwgYmUgYW4gb2ZmaWNlIGNsZWFudXAgZGF5IHRoaXMgRnJpZGF5
+LgpXZSBhcmUgdXBncmFkaW5nIG91ciBoYXJkd2FyZSBpbmZyYXN0cnVjdHVyZS4KLS0gCkJlc3Qg
+cmVnYXJkcywKUm9uYWxkIEJyb3du
+
+--===============5149867514970905284==--

@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="===============0536833937125864342=="
+MIME-Version: 1.0
+Received: from mx4.build.co (mx4.build.co [141.104.189.251])
+	by mx.company.com with ESMTP id hZRSgYG0aWuojSTY
+Received: from mx4.enterprise.org (mx4.enterprise.org [95.51.22.125])
+	by mx.company.com with ESMTP id upXWeV6uxI6zYmgE
+Received: from mx1.mail.com (mx1.mail.com [221.23.143.46])
+	by mx.company.com with ESMTP id 4Gc2tEZFC9QC97uu
+Authentication-Results: company.com; dkim=pass header.d=corp.com;
+ spf=pass smtp.mailfrom=corp.com; dmarc=pass action=none header.from=corp.com
+From: Ronald Collins <ronald.collins@corp.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 25 Sep 2024 07:33:37 -0000
+Message-ID: <jyVHfSbo43PrNxTQO4kmTHeC@corp.com>
+
+--===============0536833937125864342==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgbGF1bmNoZWQgYW4gZW1wbG95ZWUgcmVjb2duaXRpb24gcHJv
+Z3JhbS4KQ2xpZW50IHByZXNlbnRhdGlvbnMgYXJlIHNjaGVkdWxlZCBmb3IgbmV4dCBUaHVyc2Rh
+eS4KV2UgYXJlIGluaXRpYXRpbmcgYSBtZW50b3JzaGlwIHByb2dyYW07IGRldGFpbHMgdG8gZm9s
+bG93LgpQbGVhc2UgZW5zdXJlIGFsbCB0aGUgY29tcGxpYW5jZSByZXF1aXJlbWVudHMgYXJlIG1l
+dC4KLS0gCkJlc3QgcmVnYXJkcywKUm9uYWxkIENvbGxpbnM=
+
+--===============0536833937125864342==--

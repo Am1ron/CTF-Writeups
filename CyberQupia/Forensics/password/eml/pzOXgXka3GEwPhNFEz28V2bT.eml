@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="===============6421534222039446833=="
+MIME-Version: 1.0
+Received: from mx3.solutions.biz (mx3.solutions.biz [223.193.239.192])
+	by mx.company.com with ESMTP id m9vKaGX2benDZd6I
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: David Carter <david.carter@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 16 Sep 2024 17:50:21 -0000
+Message-ID: <pzOXgXka3GEwPhNFEz28V2bT@yahoo.com>
+
+--===============6421534222039446833==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBwbGFubmluZyBhIHRlYW0tYnVpbGRpbmcgZXZlbnQgbmV4dCBt
+b250aC4KVGhlIHBlcmZvcm1hbmNlIHJldmlldyBtZWV0aW5ncyB3aWxsIGNvbW1lbmNlIG5leHQg
+TW9uZGF5LgpQbGVhc2Ugc3VibWl0IHlvdXIgZXhwZW5zZSByZXBvcnRzIGJ5IHRoZSBlbmQgb2Yg
+dGhlIGRheS4KUGxlYXNlIHNlbmQgeW91ciBmZWVkYmFjayBvbiB0aGUgcHJvcG9zZWQgY2hhbmdl
+cy4KVGhlIGNvbXBhbnkgbmV3c2xldHRlciBoYXMgYmVlbiBwdWJsaXNoZWQuCldlIGFyZSBsYXVu
+Y2hpbmcgYSBuZXcgaW50ZXJuYWwgY29tbXVuaWNhdGlvbiBwbGF0Zm9ybS4KUGxlYXNlIGFzc2lz
+dCBpbiBvbmJvYXJkaW5nIHRoZSBuZXcgaGlyZXMuClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgcGFy
+dG5lciB0byB0aGUgb3JnYW5pemF0aW9uLgotLSAKQmVzdCByZWdhcmRzLApEYXZpZCBDYXJ0ZXI=
+
+--===============6421534222039446833==--

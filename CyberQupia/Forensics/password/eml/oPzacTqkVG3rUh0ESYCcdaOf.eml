@@ -1,0 +1,26 @@
+Content-Type: multipart/mixed; boundary="===============5439847330790872480=="
+MIME-Version: 1.0
+Received: from mx2.enterprise.org (mx2.enterprise.org [118.50.168.143])
+	by mx.company.com with ESMTP id T2zIGyJrsV0aR7Ub
+Received: from mx3.yahoo.com (mx3.yahoo.com [33.76.25.208])
+	by mx.company.com with ESMTP id OsD4GkLKDbyuBMob
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Michael Lewis <michael.lewis@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 16:19:34 -0000
+Message-ID: <oPzacTqkVG3rUh0ESYCcdaOf@gmail.com>
+
+--===============5439847330790872480==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBmYW1pbGlhcml6ZSB5b3Vyc2VsZiB3aXRoIHRoZSB1cGRhdGVk
+IGd1aWRlbGluZXMuCkNvbmdyYXR1bGF0aW9ucyBvbiB5b3VyIHJlY2VudCBhY2hpZXZlbWVudCEK
+V2UgaGF2ZSBhY2hpZXZlZCBvdXIgcXVhcnRlcmx5IHRhcmdldHMgc3VjY2Vzc2Z1bGx5LgotLSAK
+QmVzdCByZWdhcmRzLApNaWNoYWVsIExld2lz
+
+--===============5439847330790872480==--

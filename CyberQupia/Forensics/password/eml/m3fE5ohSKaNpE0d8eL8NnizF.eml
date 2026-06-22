@@ -1,0 +1,33 @@
+Content-Type: multipart/mixed; boundary="===============4410325969752977438=="
+MIME-Version: 1.0
+Received: from mx3.solutions.biz (mx3.solutions.biz [253.235.254.55])
+	by mx.company.com with ESMTP id jITdJpaBgiFSuW8g
+Received: from mx2.enterprise.org (mx2.enterprise.org [112.222.71.42])
+	by mx.company.com with ESMTP id PTHHT2Rrt6sH6jVb
+Received: from mx1.enterprise.org (mx1.enterprise.org [170.45.215.139])
+	by mx.company.com with ESMTP id cb8Yq8gobSlQ5bQB
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Cynthia Rogers <cynthia.rogers@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 26 Sep 2024 03:37:27 -0000
+Message-ID: <m3fE5ohSKaNpE0d8eL8NnizF@services.io>
+
+--===============4410325969752977438==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBhdm9pZCBzY2hlZHVsaW5nIG1lZXRpbmdzIGR1cmluZyBsdW5j
+aCBob3Vycy4KVGhlIGFubnVhbCBjb21wYW55IHJldHJlYXQgaXMgY29taW5nIHVwOyBwbGVhc2Ug
+UlNWUC4KTGV04oCZcyBzdHJpdmUgdG8gZXhjZWVkIG91ciBnb2FscyBmb3IgdGhpcyBmaXNjYWwg
+eWVhci4KWW91ciBsZWFkZXJzaGlwIGluIHRoZSBwcm9qZWN0IGlzIGNvbW1lbmRhYmxlLgpUaGVy
+ZSB3aWxsIGJlIGFuIG9mZmljZSBjbGVhbnVwIGRheSB0aGlzIEZyaWRheS4KV2UgaGF2ZSBsYXVu
+Y2hlZCBhbiBlbXBsb3llZSByZWNvZ25pdGlvbiBwcm9ncmFtLgpQbGVhc2UgYXR0ZW5kIHRoZSBk
+aXZlcnNpdHkgYW5kIGluY2x1c2lvbiB3b3Jrc2hvcC4KVGhhbmsgeW91IGZvciB5b3VyIHByb21w
+dCByZXNwb25zZS4KVGhlIGJvYXJkIG1lZXRpbmcgbWludXRlcyBoYXZlIGJlZW4gdXBsb2FkZWQg
+dG8gdGhlIHNoYXJlZCBkcml2ZS4KLS0gCkJlc3QgcmVnYXJkcywKQ3ludGhpYSBSb2dlcnM=
+
+--===============4410325969752977438==--

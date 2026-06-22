@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============3054050573074655948=="
+MIME-Version: 1.0
+Received: from mx2.services.io (mx2.services.io [55.246.112.174])
+	by mx.company.com with ESMTP id EX6WMrEQXoatq2q3
+Received: from mx2.mail.com (mx2.mail.com [63.46.84.40])
+	by mx.company.com with ESMTP id istm0HJ4414Y2wGf
+Received: from mx1.solutions.biz (mx1.solutions.biz [183.94.31.79])
+	by mx.company.com with ESMTP id C9D89qTEqFIfQFtR
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Michael White <michael.white@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 05:40:53 -0000
+Message-ID: <DlSs5AZ5TgwihwJRsSCYHvzA@gmail.com>
+
+--===============3054050573074655948==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgc2VjdXJlZCBhIG5ldyBjb250cmFjdCB3aXRoIGEgbWFqb3Ig
+Y2xpZW50LgpQbGVhc2Ugc3VibWl0IG5vbWluYXRpb25zIGZvciB0aGUgZW1wbG95ZWUgb2YgdGhl
+IG1vbnRoLgpXZSBhcmUgaW1wbGVtZW50aW5nIGEgbmV3IGN1c3RvbWVyIHJlbGF0aW9uc2hpcCBt
+YW5hZ2VtZW50IHN5c3RlbS4KUGxlYXNlIHBhcnRpY2lwYXRlIGluIHRoZSB1cGNvbWluZyBmaXJl
+IGRyaWxsLgpPdXIgc3VzdGFpbmFiaWxpdHkgcmVwb3J0IGhhcyBiZWVuIHB1Ymxpc2hlZDsgcGxl
+YXNlIHJlYWQgaXQuClBsZWFzZSB1cGRhdGUgeW91ciBjb250YWN0IGluZm9ybWF0aW9uIGluIHRo
+ZSBkaXJlY3RvcnkuCldlIGhhdmUgdXBkYXRlZCB0aGUgaGVhbHRoIGluc3VyYW5jZSBwbGFucy4K
+V2UgaGF2ZSB1cGRhdGVkIG91ciBwcml2YWN5IHBvbGljeS4KV2UgaGF2ZSBsYXVuY2hlZCBhbiBl
+bXBsb3llZSByZWNvZ25pdGlvbiBwcm9ncmFtLgpQbGVhc2UgcmVwb3J0IGFueSBtYWludGVuYW5j
+ZSBpc3N1ZXMgcHJvbXB0bHkuClBsZWFzZSBiZSBhZHZpc2VkIG9mIHRoZSBjaGFuZ2VzIGluIHRo
+ZSBjb21wYW55IHBvbGljeS4KUGxlYXNlIGpvaW4gdGhlIHdlYmluYXIgb24gaW5kdXN0cnkgdHJl
+bmRzIHRvbW9ycm93LgpFbXBsb3llZSBzYXRpc2ZhY3Rpb24gc3VydmV5cyB3aWxsIGJlIGRpc3Ry
+aWJ1dGVkIHRvbW9ycm93LgpQbGVhc2Ugb2JzZXJ2ZSB0aGUgbmV3IHNhbml0YXRpb24gcHJvdG9j
+b2xzLgpXZSBoYXZlIGFjaGlldmVkIG91ciBxdWFydGVybHkgdGFyZ2V0cyBzdWNjZXNzZnVsbHku
+CktpbmRseSB1cGRhdGUgdGhlIGRvY3VtZW50YXRpb24gd2l0aCB0aGUgbGF0ZXN0IGluZm9ybWF0
+aW9uLgpQbGVhc2UgdGFrZSBub3RlIG9mIHRoZSBuZXcgb2ZmaWNlIGhvdXJzLgotLSAKQmVzdCBy
+ZWdhcmRzLApNaWNoYWVsIFdoaXRl
+
+--===============3054050573074655948==--

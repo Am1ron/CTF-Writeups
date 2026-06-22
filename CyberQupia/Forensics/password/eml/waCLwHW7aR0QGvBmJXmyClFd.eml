@@ -1,0 +1,42 @@
+Content-Type: multipart/mixed; boundary="===============6253618311831427545=="
+MIME-Version: 1.0
+Received: from mx3.corp.com (mx3.corp.com [38.96.21.251])
+	by mx.company.com with ESMTP id XUY73Qh6cZeBc7xv
+Received: from mx2.solutions.biz (mx2.solutions.biz [29.133.6.6])
+	by mx.company.com with ESMTP id 2HRvGoq7j3L8hVGe
+Received: from mx2.enterprise.org (mx2.enterprise.org [138.156.5.27])
+	by mx.company.com with ESMTP id X5vVyQyGQLa7cYcs
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Michelle Mitchell <michelle.mitchell@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 06:59:57 -0000
+Message-ID: <waCLwHW7aR0QGvBmJXmyClFd@gmail.com>
+
+--===============6253618311831427545==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkhlYWx0aCBhbmQgc2FmZXR5IGluc3BlY3Rpb25zIGFyZSBzY2hlZHVsZWQg
+Zm9yIG5leHQgd2Vlay4KT3VyIHN1c3RhaW5hYmlsaXR5IHJlcG9ydCBoYXMgYmVlbiBwdWJsaXNo
+ZWQ7IHBsZWFzZSByZWFkIGl0LgpQbGVhc2UgZGlzcG9zZSBvZiBjb25maWRlbnRpYWwgZG9jdW1l
+bnRzIHNlY3VyZWx5LgpTZWN1cml0eSBwcm90b2NvbHMgaGF2ZSBiZWVuIHVwZGF0ZWQ7IHBsZWFz
+ZSByZXZpZXcgdGhlbS4KUGxlYXNlIHdlbGNvbWUgb3VyIG5ldyBpbnRlcm5zIGpvaW5pbmcgdGhl
+IHRlYW0uClRoZSBJVCBkZXBhcnRtZW50IHdpbGwgcGVyZm9ybSBzeXN0ZW0gbWFpbnRlbmFuY2Ug
+dGhpcyB3ZWVrZW5kLgpZb3VyIGNvbnRyaWJ1dGlvbiBoYXMgYmVlbiBpbnN0cnVtZW50YWwgaW4g
+dGhpcyBwcm9qZWN04oCZcyBzdWNjZXNzLgpQbGVhc2Ugc3VibWl0IHlvdXIgbGVhdmUgcmVxdWVz
+dHMgaW4gYWR2YW5jZS4KV2Ugd2lsbCBiZSBtaWdyYXRpbmcgdG8gYSBuZXcgZW1haWwgc3lzdGVt
+LgpLaW5kbHkgdXBkYXRlIHRoZSBkb2N1bWVudGF0aW9uIHdpdGggdGhlIGxhdGVzdCBpbmZvcm1h
+dGlvbi4KVGhlIGJvYXJkIG1lZXRpbmcgbWludXRlcyBoYXZlIGJlZW4gdXBsb2FkZWQgdG8gdGhl
+IHNoYXJlZCBkcml2ZS4KVGhlcmUgd2lsbCBiZSBhbiBvZmZpY2UgY2xlYW51cCBkYXkgdGhpcyBG
+cmlkYXkuCldlIGFyZSBsYXVuY2hpbmcgYSBuZXcgaW50ZXJuYWwgY29tbXVuaWNhdGlvbiBwbGF0
+Zm9ybS4KV2UgYXJlIGluaXRpYXRpbmcgYSBtZW50b3JzaGlwIHByb2dyYW07IGRldGFpbHMgdG8g
+Zm9sbG93LgpUaGFuayB5b3UgZm9yIHlvdXIgcHJvbXB0IHJlc3BvbnNlLgpXZSBhcmUgZXhjaXRl
+ZCBhYm91dCB0aGUgdXBjb21pbmcgcHJvZHVjdCBkZW1vLgpUaGUgY2FmZXRlcmlhIG1lbnUgaGFz
+IGJlZW4gdXBkYXRlZCB3aXRoIGhlYWx0aGllciBvcHRpb25zLgotLSAKQmVzdCByZWdhcmRzLApN
+aWNoZWxsZSBNaXRjaGVsbA==
+
+--===============6253618311831427545==--

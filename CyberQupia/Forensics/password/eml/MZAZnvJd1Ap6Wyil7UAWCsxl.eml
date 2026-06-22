@@ -1,0 +1,34 @@
+Content-Type: multipart/mixed; boundary="===============6002483969984900424=="
+MIME-Version: 1.0
+Received: from mx4.corp.com (mx4.corp.com [136.113.225.89])
+	by mx.company.com with ESMTP id RS5kYnZEYGyRyq5O
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Jessica Murphy <jessica.murphy@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 22:39:38 -0000
+Message-ID: <MZAZnvJd1Ap6Wyil7UAWCsxl@gmail.com>
+
+--===============6002483969984900424==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBzdWJtaXQgeW91ciBsZWF2ZSByZXF1ZXN0cyBpbiBhZHZhbmNl
+LgpQcm9qZWN0IGRlYWRsaW5lcyBoYXZlIGJlZW4gYWRqdXN0ZWQgZHVlIHRvIHVuZm9yZXNlZW4g
+Y2lyY3Vtc3RhbmNlcy4KT3VyIHN1c3RhaW5hYmlsaXR5IHJlcG9ydCBoYXMgYmVlbiBwdWJsaXNo
+ZWQ7IHBsZWFzZSByZWFkIGl0LgpQbGVhc2UgYmUgYWR2aXNlZCBvZiB0aGUgY2hhbmdlcyBpbiB0
+aGUgY29tcGFueSBwb2xpY3kuCldlIGFyZSBwcm91ZCBvZiB0aGUgdGVhbSdzIGlubm92YXRpb24g
+YW5kIGNyZWF0aXZpdHkuCldlIGFwcHJlY2lhdGUgeW91ciBjb21taXRtZW50IHRvIHF1YWxpdHkg
+YW5kIGV4Y2VsbGVuY2UuClBsZWFzZSBiZSBjYXV0aW91cyBvZiBwaGlzaGluZyBlbWFpbHMgYW5k
+IHJlcG9ydCBhbnkgc3VzcGljaW91cyBhY3Rpdml0eS4KUGxlYXNlIHRha2Ugbm90ZSBvZiB0aGUg
+bmV3IG9mZmljZSBob3Vycy4KV2UgYXJlIHBsYW5uaW5nIGEgdGVhbS1idWlsZGluZyBldmVudCBu
+ZXh0IG1vbnRoLgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IGludGVybnMgam9pbmluZyB0aGUgdGVh
+bS4KUmVtaW5kZXI6IFRoZSBxdWFydGVybHkgbWVldGluZyBpcyBzY2hlZHVsZWQgZm9yIG5leHQg
+V2VkbmVzZGF5LgpQbGVhc2Ugc3VibWl0IG5vbWluYXRpb25zIGZvciB0aGUgZW1wbG95ZWUgb2Yg
+dGhlIG1vbnRoLgpXZSBoYXZlIHJlY2VpdmVkIHRoZSBzaGlwbWVudCBvZiBuZXcgb2ZmaWNlIHN1
+cHBsaWVzLgotLSAKQmVzdCByZWdhcmRzLApKZXNzaWNhIE11cnBoeQ==
+
+--===============6002483969984900424==--

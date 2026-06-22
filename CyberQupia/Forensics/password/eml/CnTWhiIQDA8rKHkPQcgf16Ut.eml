@@ -1,0 +1,42 @@
+Content-Type: multipart/mixed; boundary="===============2015543353107477028=="
+MIME-Version: 1.0
+Received: from mx4.yahoo.com (mx4.yahoo.com [68.106.232.87])
+	by mx.company.com with ESMTP id BUDWFJKkjX6BFTyi
+Received: from mx5.business.net (mx5.business.net [184.77.210.33])
+	by mx.company.com with ESMTP id Z4UNk84nTUo0dZL6
+Received: from mx2.corp.com (mx2.corp.com [130.52.211.5])
+	by mx.company.com with ESMTP id gIXGLJw2SqmU3bid
+Authentication-Results: company.com; dkim=pass header.d=corp.com;
+ spf=pass smtp.mailfrom=corp.com; dmarc=pass action=none header.from=corp.com
+From: James Garcia <james.garcia@corp.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 08:06:32 -0000
+Message-ID: <CnTWhiIQDA8rKHkPQcgf16Ut@corp.com>
+
+--===============2015543353107477028==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBqb2luIG1lIGluIHdlbGNvbWluZyB0aGUgbmV3IG1lbWJlcnMg
+dG8gb3VyIHRlYW0uClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgcGFydG5lciB0byB0aGUgb3JnYW5p
+emF0aW9uLgpZb3VyIGZlZWRiYWNrIG9uIHRoZSByZWNlbnQgY2hhbmdlcyBpcyBoaWdobHkgYXBw
+cmVjaWF0ZWQuCkEgcmVtaW5kZXIgdG8gdXBkYXRlIHlvdXIgcGFzc3dvcmRzIHJlZ3VsYXJseS4K
+QnVkZ2V0IHBsYW5uaW5nIGZvciBuZXh0IHllYXIgd2lsbCBiZWdpbiBzb29uLgpUaGUgbmV3IHBv
+bGljeSB3aWxsIGJlIGVmZmVjdGl2ZSBmcm9tIG5leHQgbW9udGguClBsZWFzZSBhdm9pZCBzY2hl
+ZHVsaW5nIG1lZXRpbmdzIGR1cmluZyBsdW5jaCBob3Vycy4KUGxlYXNlIGVuc3VyZSBhbGwgdGhl
+IGNvbXBsaWFuY2UgcmVxdWlyZW1lbnRzIGFyZSBtZXQuCkxldOKAmXMgc3RyaXZlIHRvIGV4Y2Vl
+ZCBvdXIgZ29hbHMgZm9yIHRoaXMgZmlzY2FsIHllYXIuClBsZWFzZSByZXZpZXcgdGhlIGF0dGFj
+aGVkIHBlcmZvcm1hbmNlIG1ldHJpY3MuCldlIGhhdmUgaW50cm9kdWNlZCBhIG5ldyBiZW5lZml0
+cyBwYWNrYWdlIGZvciBlbXBsb3llZXMuCldlIGFyZSBsYXVuY2hpbmcgYSBuZXcgaW50ZXJuYWwg
+Y29tbXVuaWNhdGlvbiBwbGF0Zm9ybS4KUGxlYXNlIGZpbmQgYXR0YWNoZWQgdGhlIGFnZW5kYSBm
+b3IgdGhlIHVwY29taW5nIG1lZXRpbmcuCllvdXIgY29udHJpYnV0aW9uIGhhcyBiZWVuIGluc3Ry
+dW1lbnRhbCBpbiB0aGlzIHByb2plY3TigJlzIHN1Y2Nlc3MuCkkgYXBwcmVjaWF0ZSB5b3VyIHBy
+b21wdCBhdHRlbnRpb24gdG8gdGhpcyBtYXR0ZXIuCllvdXIgZGVwYXJ0bWVudCBoYXMgZXhjZWVk
+ZWQgaXRzIHBlcmZvcm1hbmNlIHRhcmdldHMuCldlIGFyZSBleGNpdGVkIHRvIGFubm91bmNlIHRo
+ZSBsYXVuY2ggb2Ygb3VyIG5ldyBwcm9kdWN0IGxpbmUuClBsZWFzZSBlbnN1cmUgdGltZWx5IHN1
+Ym1pc3Npb24gb2YgcHJvamVjdCBkZWxpdmVyYWJsZXMuCi0tIApCZXN0IHJlZ2FyZHMsCkphbWVz
+IEdhcmNpYQ==
+
+--===============2015543353107477028==--

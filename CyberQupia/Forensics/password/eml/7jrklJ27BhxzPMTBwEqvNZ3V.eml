@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="===============5581163100313912179=="
+MIME-Version: 1.0
+Received: from mx2.build.co (mx2.build.co [148.113.3.150])
+	by mx.company.com with ESMTP id eUo0Xr2XYQhCCyLG
+Received: from mx1.services.io (mx1.services.io [23.217.165.99])
+	by mx.company.com with ESMTP id xQQ41TFAY2BA4nKv
+Received: from mx4.services.io (mx4.services.io [84.99.129.140])
+	by mx.company.com with ESMTP id tpsl2tgWLX7hflJJ
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Anthony Peterson <anthony.peterson@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 12:56:16 -0000
+Message-ID: <7jrklJ27BhxzPMTBwEqvNZ3V@business.net>
+
+--===============5581163100313912179==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkkgd291bGQgbGlrZSB0byBzY2hlZHVsZSBhIG1lZXRpbmcgdG8gZGlzY3Vz
+cyB0aGUgcHJvamVjdCB1cGRhdGVzLgpQbGVhc2Ugd2VsY29tZSBvdXIgbmV3IHBhcnRuZXIgdG8g
+dGhlIG9yZ2FuaXphdGlvbi4KWW91ciBmZWVkYmFjayBvbiB0aGUgcmVjZW50IGNoYW5nZXMgaXMg
+aGlnaGx5IGFwcHJlY2lhdGVkLgotLSAKQmVzdCByZWdhcmRzLApBbnRob255IFBldGVyc29u
+
+--===============5581163100313912179==--

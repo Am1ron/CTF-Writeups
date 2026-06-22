@@ -1,0 +1,42 @@
+Content-Type: multipart/mixed; boundary="===============5922510989027131222=="
+MIME-Version: 1.0
+Received: from mx5.gmail.com (mx5.gmail.com [236.247.186.211])
+	by mx.company.com with ESMTP id DFOgf4ynTAwCHGf9
+Received: from mx5.build.co (mx5.build.co [215.92.174.99])
+	by mx.company.com with ESMTP id gzccgMGfG5rG5GDi
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: George Allen <george.allen@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 04:48:45 -0000
+Message-ID: <UPWOqbQCc7ArhOvKhx18zPQf@winter.com>
+
+--===============5922510989027131222==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSByZXZpZXcgdGhlIGF0dGFjaGVkIGNsaWVudCBmZWVkYmFjay4K
+VGhhbmsgeW91IGZvciB5b3VyIGNvbnRpbnVvdXMgc3VwcG9ydCBhbmQgZGVkaWNhdGlvbi4KUGxl
+YXNlIGF0dGVuZCB0aGUgZGl2ZXJzaXR5IGFuZCBpbmNsdXNpb24gd29ya3Nob3AuClRoZSBvZmZp
+Y2Uga2l0Y2hlbiB3aWxsIGJlIHJlbm92YXRlZCBvdmVyIHRoZSB3ZWVrZW5kLgpQbGVhc2UgYXZv
+aWQgc2NoZWR1bGluZyBtZWV0aW5ncyBkdXJpbmcgbHVuY2ggaG91cnMuCldlIHZhbHVlIHlvdXIg
+aW5wdXQgaW4gaW1wcm92aW5nIG91ciBzZXJ2aWNlcy4KUGxlYXNlIHRha2Ugbm90ZSBvZiB0aGUg
+bmV3IG9mZmljZSBob3Vycy4KUGxlYXNlIGJlIGFkdmlzZWQgb2YgdGhlIGNoYW5nZXMgaW4gdGhl
+IGNvbXBhbnkgcG9saWN5LgpXZSBoYXZlIHVwZGF0ZWQgdGhlIGhlYWx0aCBpbnN1cmFuY2UgcGxh
+bnMuCldlIGFyZSBjb25kdWN0aW5nIHN5c3RlbSBhdWRpdHMgdGhpcyBxdWFydGVyLgpQbGVhc2Ug
+ZmluZCB0aGUgYXR0YWNoZWQgcmVwb3J0IGZvciB5b3VyIHJldmlldy4KV2UgYXJlIGV4cGFuZGlu
+ZyBvdXIgb3BlcmF0aW9ucyB0byBuZXcgcmVnaW9ucy4KUGxlYXNlIHVwZGF0ZSB5b3VyIGNvbnRh
+Y3QgaW5mb3JtYXRpb24gaW4gdGhlIGRpcmVjdG9yeS4KU2VjdXJpdHkgcHJvdG9jb2xzIGhhdmUg
+YmVlbiB1cGRhdGVkOyBwbGVhc2UgcmV2aWV3IHRoZW0uClByb2plY3QgZGVhZGxpbmVzIGhhdmUg
+YmVlbiBhZGp1c3RlZCBkdWUgdG8gdW5mb3Jlc2VlbiBjaXJjdW1zdGFuY2VzLgpQbGVhc2UgcGFy
+dGljaXBhdGUgaW4gdGhlIHVwY29taW5nIGZpcmUgZHJpbGwuClBsZWFzZSByZWZyYWluIGZyb20g
+dXNpbmcgcGVyc29uYWwgZGV2aWNlcyBmb3Igd29yayBlbWFpbHMuCldlIGhhdmUgYSBndWVzdCBz
+cGVha2VyIGpvaW5pbmcgdXMgbmV4dCB3ZWVrLgpLaW5kbHkgdXBkYXRlIHRoZSBkb2N1bWVudGF0
+aW9uIHdpdGggdGhlIGxhdGVzdCBpbmZvcm1hdGlvbi4KUGxlYXNlIGpvaW4gbWUgaW4gd2VsY29t
+aW5nIHRoZSBuZXcgbWVtYmVycyB0byBvdXIgdGVhbS4KLS0gCkJlc3QgcmVnYXJkcywKR2Vvcmdl
+IEFsbGVu
+
+--===============5922510989027131222==--

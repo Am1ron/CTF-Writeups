@@ -1,0 +1,26 @@
+Content-Type: multipart/mixed; boundary="===============7484165657717932213=="
+MIME-Version: 1.0
+Received: from mx1.enterprise.org (mx1.enterprise.org [101.7.67.200])
+	by mx.company.com with ESMTP id ZYDlvU3A7rApDCcw
+Received: from mx1.services.io (mx1.services.io [130.164.70.11])
+	by mx.company.com with ESMTP id wKltk7nBpBoY6tCo
+Authentication-Results: company.com; dkim=pass header.d=enterprise.org;
+ spf=pass smtp.mailfrom=enterprise.org;
+ dmarc=pass action=none header.from=enterprise.org
+From: John White <john.white@enterprise.org>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 14:12:13 -0000
+Message-ID: <iO0CXXCmlkTdEtDFw3KUx0tC@enterprise.org>
+
+--===============7484165657717932213==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCllvdXIgYWN0aW9uIGlzIHJlcXVpcmVkIG9uIHRoZSBwZW5kaW5nIHRhc2tz
+LgpTZWN1cml0eSBwcm90b2NvbHMgaGF2ZSBiZWVuIHVwZGF0ZWQ7IHBsZWFzZSByZXZpZXcgdGhl
+bS4KUGxlYXNlIG9ic2VydmUgdGhlIG5ldyBzYW5pdGF0aW9uIHByb3RvY29scy4KLS0gCkJlc3Qg
+cmVnYXJkcywKSm9obiBXaGl0ZQ==
+
+--===============7484165657717932213==--

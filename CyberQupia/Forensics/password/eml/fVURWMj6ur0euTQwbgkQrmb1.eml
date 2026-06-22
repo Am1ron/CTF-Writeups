@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============3044093048855147401=="
+MIME-Version: 1.0
+Received: from mx1.winter.com (mx1.winter.com [184.20.46.122])
+	by mx.company.com with ESMTP id fPtnfjztysFX32M6
+Received: from mx2.gmail.com (mx2.gmail.com [250.235.37.59])
+	by mx.company.com with ESMTP id Qc8heRinImCFvWbt
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: James Wright <james.wright@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 14:07:46 -0000
+Message-ID: <fVURWMj6ur0euTQwbgkQrmb1@business.net>
+
+--===============3044093048855147401==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCktpbmRseSB1cGRhdGUgdGhlIGRvY3VtZW50YXRpb24gd2l0aCB0aGUgbGF0
+ZXN0IGluZm9ybWF0aW9uLgpUZWFtIGxlYWRzIGFyZSByZXF1ZXN0ZWQgdG8gc3VibWl0IHRoZWly
+IHJlcG9ydHMgYnkgRnJpZGF5LgpDbGllbnQgcHJlc2VudGF0aW9ucyBhcmUgc2NoZWR1bGVkIGZv
+ciBuZXh0IFRodXJzZGF5LgpZb3VyIGZlZWRiYWNrIG9uIHRoZSByZWNlbnQgY2hhbmdlcyBpcyBo
+aWdobHkgYXBwcmVjaWF0ZWQuCi0tIApCZXN0IHJlZ2FyZHMsCkphbWVzIFdyaWdodA==
+
+--===============3044093048855147401==--

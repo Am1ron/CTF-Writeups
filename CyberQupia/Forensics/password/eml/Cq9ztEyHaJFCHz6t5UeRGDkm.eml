@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============3552172201496324618=="
+MIME-Version: 1.0
+Received: from mx5.solutions.biz (mx5.solutions.biz [147.157.44.184])
+	by mx.company.com with ESMTP id zYC4tWsQxxkZh8Vh
+Received: from mx1.enterprise.org (mx1.enterprise.org [88.140.176.45])
+	by mx.company.com with ESMTP id 1lSnmOnSqOej7g7A
+Authentication-Results: company.com; dkim=pass header.d=winter.com;
+ spf=pass smtp.mailfrom=winter.com;
+ dmarc=pass action=none header.from=winter.com
+From: Amanda Brown <amanda.brown@winter.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 06:43:06 -0000
+Message-ID: <Cq9ztEyHaJFCHz6t5UeRGDkm@winter.com>
+
+--===============3552172201496324618==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCllvdXIgZmVlZGJhY2sgb24gdGhlIHJlY2VudCBjaGFuZ2VzIGlzIGhpZ2hs
+eSBhcHByZWNpYXRlZC4KU2VjdXJpdHkgcHJvdG9jb2xzIGhhdmUgYmVlbiB1cGRhdGVkOyBwbGVh
+c2UgcmV2aWV3IHRoZW0uCldlIGVuY291cmFnZSB5b3UgdG8gcGFydGljaXBhdGUgaW4gdGhlIHVw
+Y29taW5nIHN1cnZleS4KSG9saWRheSBzY2hlZHVsZXMgaGF2ZSBiZWVuIHBvc3RlZCBvbiB0aGUg
+Y29tcGFueSBwb3J0YWwuClBsZWFzZSBhc3Npc3QgaW4gb25ib2FyZGluZyB0aGUgbmV3IGhpcmVz
+LgpQbGVhc2UgdGFrZSBub3RlIG9mIHRoZSBuZXcgb2ZmaWNlIGhvdXJzLgpQbGVhc2Ugd2VsY29t
+ZSBvdXIgbmV3IGludGVybnMgam9pbmluZyB0aGUgdGVhbS4KUGxlYXNlIGJlIGFkdmlzZWQgb2Yg
+dGhlIGNoYW5nZXMgaW4gdGhlIGNvbXBhbnkgcG9saWN5LgpQbGVhc2UgY29tcGxldGUgdGhlIG1h
+bmRhdG9yeSB0cmFpbmluZyBtb2R1bGVzLgpZb3VyIGFjdGlvbiBpcyByZXF1aXJlZCBvbiB0aGUg
+cGVuZGluZyB0YXNrcy4KV2UgaGF2ZSBhY2hpZXZlZCBvdXIgcXVhcnRlcmx5IHRhcmdldHMgc3Vj
+Y2Vzc2Z1bGx5LgpXZSBhcmUgaW50cm9kdWNpbmcgZmxleGlibGUgd29ya2luZyBob3Vycy4KVGhl
+IG5leHQgdHJhaW5pbmcgd29ya3Nob3AgaXMgc2NoZWR1bGVkIGZvciBuZXh0IG1vbnRoLgpUaGFu
+ayB5b3UgZm9yIHlvdXIgY29udGludW91cyBzdXBwb3J0IGFuZCBkZWRpY2F0aW9uLgpPdXIgc29j
+aWFsIG1lZGlhIHByZXNlbmNlIGlzIGdyb3dpbmc7IHBsZWFzZSBmb2xsb3cgdXMuClBsZWFzZSBy
+ZWZyYWluIGZyb20gdXNpbmcgcGVyc29uYWwgZGV2aWNlcyBmb3Igd29yayBlbWFpbHMuClBsZWFz
+ZSByZXZpZXcgdGhlIGF0dGFjaGVkIHBlcmZvcm1hbmNlIG1ldHJpY3MuCi0tIApCZXN0IHJlZ2Fy
+ZHMsCkFtYW5kYSBCcm93bg==
+
+--===============3552172201496324618==--

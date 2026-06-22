@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============7127331833133785936=="
+MIME-Version: 1.0
+Received: from mx1.corp.com (mx1.corp.com [215.243.111.105])
+	by mx.company.com with ESMTP id DSvumQtS2BTa0pwy
+Received: from mx1.services.io (mx1.services.io [3.115.174.214])
+	by mx.company.com with ESMTP id mfhu4g8S40kVciKH
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Lisa Mitchell <lisa.mitchell@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sun, 22 Sep 2024 07:02:35 -0000
+Message-ID: <f7xmpj7dxrhTbxgspXYGegid@yahoo.com>
+
+--===============7127331833133785936==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBjb21wbGV0ZSB0aGUgbWFuZGF0b3J5IHRyYWluaW5nIG1vZHVs
+ZXMuCkxldCdzIHNjaGVkdWxlIGEgb25lLW9uLW9uZSBtZWV0aW5nIHRvIGRpc2N1c3MgeW91ciBw
+cm9ncmVzcy4KTGV0IG1lIGtub3cgaWYgeW91IGhhdmUgYW55IHF1ZXN0aW9ucyBvciBjb25jZXJu
+cy4KV2UgYXJlIGNvbmR1Y3Rpbmcgc3lzdGVtIGF1ZGl0cyB0aGlzIHF1YXJ0ZXIuCldlIGFyZSBp
+bXBsZW1lbnRpbmcgYSBuZXcgY3VzdG9tZXIgcmVsYXRpb25zaGlwIG1hbmFnZW1lbnQgc3lzdGVt
+LgpQbGVhc2UgYWRoZXJlIHRvIHRoZSBuZXcgZHJlc3MgY29kZSBwb2xpY3kuCldlIGFyZSBleGNp
+dGVkIGFib3V0IHRoZSB1cGNvbWluZyBwcm9kdWN0IGRlbW8uCldlIG5lZWQgdG8gZmluYWxpemUg
+dGhlIGJ1ZGdldCBhbGxvY2F0aW9ucyBieSBlbmQgb2YgdGhpcyB3ZWVrLgpZb3VyIGxlYWRlcnNo
+aXAgaW4gdGhlIHByb2plY3QgaXMgY29tbWVuZGFibGUuCkkgYXBwcmVjaWF0ZSB5b3VyIHByb21w
+dCBhdHRlbnRpb24gdG8gdGhpcyBtYXR0ZXIuClBsZWFzZSBhc3Npc3QgaW4gb25ib2FyZGluZyB0
+aGUgbmV3IGhpcmVzLgpUaGUgbmV4dCB0cmFpbmluZyB3b3Jrc2hvcCBpcyBzY2hlZHVsZWQgZm9y
+IG5leHQgbW9udGguCk5ldyBwYXJraW5nIHJlZ3VsYXRpb25zIHdpbGwgYmUgaW4gZWZmZWN0IGZy
+b20gTW9uZGF5LgpUaGUgSVQgZGVwYXJ0bWVudCB3aWxsIHBlcmZvcm0gc3lzdGVtIG1haW50ZW5h
+bmNlIHRoaXMgd2Vla2VuZC4KV2UgYXJlIHByb3VkIG9mIHRoZSB0ZWFtJ3MgaW5ub3ZhdGlvbiBh
+bmQgY3JlYXRpdml0eS4KUGxlYXNlIHByb3ZpZGUgeW91ciBhdmFpbGFiaWxpdHkgZm9yIHRoZSBu
+ZXh0IHR3byB3ZWVrcy4KLS0gCkJlc3QgcmVnYXJkcywKTGlzYSBNaXRjaGVsbA==
+
+--===============7127331833133785936==--

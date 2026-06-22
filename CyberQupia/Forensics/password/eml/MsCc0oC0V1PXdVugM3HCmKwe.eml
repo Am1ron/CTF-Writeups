@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============6743327904214773475=="
+MIME-Version: 1.0
+Received: from mx4.build.co (mx4.build.co [122.55.134.36])
+	by mx.company.com with ESMTP id q8qkIDmRolTAicZG
+Received: from mx2.mail.com (mx2.mail.com [231.27.133.227])
+	by mx.company.com with ESMTP id 9g3H5RsH0Lc95l8F
+Received: from mx1.winter.com (mx1.winter.com [54.252.176.89])
+	by mx.company.com with ESMTP id 5Apw4ros7a6LVLQW
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: George Murphy <george.murphy@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 25 Sep 2024 22:53:47 -0000
+Message-ID: <MsCc0oC0V1PXdVugM3HCmKwe@solutions.biz>
+
+--===============6743327904214773475==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBqb2luIG1lIGluIHdlbGNvbWluZyB0aGUgbmV3IG1lbWJlcnMg
+dG8gb3VyIHRlYW0uClBsZWFzZSBqb2luIHRoZSB3ZWJpbmFyIG9uIGluZHVzdHJ5IHRyZW5kcyB0
+b21vcnJvdy4KVGhlIGNhZmV0ZXJpYSBtZW51IGhhcyBiZWVuIHVwZGF0ZWQgd2l0aCBoZWFsdGhp
+ZXIgb3B0aW9ucy4KUGxlYXNlIHN1Ym1pdCBub21pbmF0aW9ucyBmb3IgdGhlIGVtcGxveWVlIG9m
+IHRoZSBtb250aC4KV2UgYXJlIGV4Y2l0ZWQgYWJvdXQgdGhlIHVwY29taW5nIHByb2R1Y3QgZGVt
+by4KVGhlIGFubnVhbCBjb21wYW55IHJldHJlYXQgaXMgY29taW5nIHVwOyBwbGVhc2UgUlNWUC4K
+WW91ciBjb250cmlidXRpb24gaGFzIGJlZW4gaW5zdHJ1bWVudGFsIGluIHRoaXMgcHJvamVjdOKA
+mXMgc3VjY2Vzcy4KUmVtaW5kZXI6IFRoZSBxdWFydGVybHkgbWVldGluZyBpcyBzY2hlZHVsZWQg
+Zm9yIG5leHQgV2VkbmVzZGF5LgpQbGVhc2UgZW5zdXJlIGFsbCB0aGUgY29tcGxpYW5jZSByZXF1
+aXJlbWVudHMgYXJlIG1ldC4KV2UgaGF2ZSBhIGd1ZXN0IHNwZWFrZXIgam9pbmluZyB1cyBuZXh0
+IHdlZWsuCldlIGFyZSBsYXVuY2hpbmcgYSBuZXcgaW50ZXJuYWwgY29tbXVuaWNhdGlvbiBwbGF0
+Zm9ybS4KUGxlYXNlIG9ic2VydmUgdGhlIG5ldyBzYW5pdGF0aW9uIHByb3RvY29scy4KUGxlYXNl
+IGVuc3VyZSB0aW1lbHkgc3VibWlzc2lvbiBvZiBwcm9qZWN0IGRlbGl2ZXJhYmxlcy4KLS0gCkJl
+c3QgcmVnYXJkcywKR2VvcmdlIE11cnBoeQ==
+
+--===============6743327904214773475==--

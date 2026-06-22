@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============6302105669283176463=="
+MIME-Version: 1.0
+Received: from mx1.gmail.com (mx1.gmail.com [175.6.105.209])
+	by mx.company.com with ESMTP id Ri2HRbOsX2Fp2oeh
+Received: from mx1.mail.com (mx1.mail.com [157.13.25.251])
+	by mx.company.com with ESMTP id XahJtLgiMlyr6Oo5
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Helen Parker <helen.parker@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 01:16:55 -0000
+Message-ID: <ccguX7blncv6dEqNh6RMdnFQ@business.net>
+
+--===============6302105669283176463==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgbGF1bmNoZWQgYW4gZW1wbG95ZWUgcmVjb2duaXRpb24gcHJv
+Z3JhbS4KUGxlYXNlIHN1Ym1pdCB5b3VyIGV4cGVuc2UgcmVwb3J0cyBieSB0aGUgZW5kIG9mIHRo
+ZSBkYXkuClRoYW5rIHlvdSBmb3IgeW91ciBwYXRpZW5jZSBkdXJpbmcgdGhlIHN5c3RlbSBkb3du
+dGltZS4KVGhlIHBlcmZvcm1hbmNlIHJldmlldyBtZWV0aW5ncyB3aWxsIGNvbW1lbmNlIG5leHQg
+TW9uZGF5LgotLSAKQmVzdCByZWdhcmRzLApIZWxlbiBQYXJrZXI=
+
+--===============6302105669283176463==--

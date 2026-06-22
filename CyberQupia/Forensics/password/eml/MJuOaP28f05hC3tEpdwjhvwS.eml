@@ -1,0 +1,40 @@
+Content-Type: multipart/mixed; boundary="===============0748415536843626750=="
+MIME-Version: 1.0
+Received: from mx2.solutions.biz (mx2.solutions.biz [30.164.135.157])
+	by mx.company.com with ESMTP id 4o9JZdvk2QuwGBt6
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Jeffrey Sanchez <jeffrey.sanchez@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 12:06:27 -0000
+Message-ID: <MJuOaP28f05hC3tEpdwjhvwS@mail.com>
+
+--===============0748415536843626750==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBwZXJmb3JtYW5jZSByZXZpZXcgbWVldGluZ3Mgd2lsbCBjb21tZW5j
+ZSBuZXh0IE1vbmRheS4KVGhhbmsgeW91IGZvciB5b3VyIHByb21wdCByZXNwb25zZS4KWW91ciBl
+eHBlcnRpc2UgaXMgcmVxdWVzdGVkIG9uIHRoZSB1cGNvbWluZyBwcm9qZWN0LgpDbGllbnQgcHJl
+c2VudGF0aW9ucyBhcmUgc2NoZWR1bGVkIGZvciBuZXh0IFRodXJzZGF5LgpPdXIgY2xpZW50cyBo
+YXZlIHByb3ZpZGVkIHBvc2l0aXZlIGZlZWRiYWNrIG9uIHRoZSBkZWxpdmVyYWJsZXMuCldlIGhh
+dmUgc2VjdXJlZCBhIG5ldyBjb250cmFjdCB3aXRoIGEgbWFqb3IgY2xpZW50LgpXZSBhcmUgY29u
+ZHVjdGluZyBzeXN0ZW0gYXVkaXRzIHRoaXMgcXVhcnRlci4KT3VyIHNvY2lhbCBtZWRpYSBwcmVz
+ZW5jZSBpcyBncm93aW5nOyBwbGVhc2UgZm9sbG93IHVzLgpXZSBhcmUgcGxhbm5pbmcgYSB0ZWFt
+LWJ1aWxkaW5nIGV2ZW50IG5leHQgbW9udGguCkhlYWx0aCBhbmQgc2FmZXR5IGluc3BlY3Rpb25z
+IGFyZSBzY2hlZHVsZWQgZm9yIG5leHQgd2Vlay4KV2UgaGF2ZSB1cGRhdGVkIHRoZSBoZWFsdGgg
+aW5zdXJhbmNlIHBsYW5zLgpQbGVhc2UgcmV2aWV3IHRoZSBhdHRhY2hlZCBwZXJmb3JtYW5jZSBt
+ZXRyaWNzLgpMZXQncyBzY2hlZHVsZSBhIG9uZS1vbi1vbmUgbWVldGluZyB0byBkaXNjdXNzIHlv
+dXIgcHJvZ3Jlc3MuCldlIGFyZSBpbnRyb2R1Y2luZyBmbGV4aWJsZSB3b3JraW5nIGhvdXJzLgpQ
+bGVhc2UgYmUgY2F1dGlvdXMgb2YgcGhpc2hpbmcgZW1haWxzIGFuZCByZXBvcnQgYW55IHN1c3Bp
+Y2lvdXMgYWN0aXZpdHkuClBsZWFzZSBhZGhlcmUgdG8gdGhlIG5ldyBkcmVzcyBjb2RlIHBvbGlj
+eS4KUGxlYXNlIHJldmlldyB0aGUgYXR0YWNoZWQgY2xpZW50IGZlZWRiYWNrLgpUaGFuayB5b3Ug
+Zm9yIHlvdXIgaGFyZCB3b3JrIG9uIHRoZSByZWNlbnQgcHJvamVjdC4KUGxlYXNlIGpvaW4gdGhl
+IHdlYmluYXIgb24gaW5kdXN0cnkgdHJlbmRzIHRvbW9ycm93LgpXZSBhcmUgY29uZHVjdGluZyBh
+IHN1cnZleSBvbiByZW1vdGUgd29yayBwcmVmZXJlbmNlcy4KVGhlIGJvYXJkIG1lZXRpbmcgbWlu
+dXRlcyBoYXZlIGJlZW4gdXBsb2FkZWQgdG8gdGhlIHNoYXJlZCBkcml2ZS4KLS0gCkJlc3QgcmVn
+YXJkcywKSmVmZnJleSBTYW5jaGV6
+
+--===============0748415536843626750==--

@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="===============0544975529398588913=="
+MIME-Version: 1.0
+Received: from mx1.enterprise.org (mx1.enterprise.org [235.109.191.150])
+	by mx.company.com with ESMTP id yzTJQzpADvUUQb6b
+Received: from mx3.solutions.biz (mx3.solutions.biz [118.125.72.106])
+	by mx.company.com with ESMTP id rwi0fexp95XW0Uvw
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Brian Lopez <brian.lopez@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 00:55:04 -0000
+Message-ID: <b9XcMLhQJtKQCVHEiEkxa19O@yahoo.com>
+
+--===============0544975529398588913==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBzdWJtaXQgbm9taW5hdGlvbnMgZm9yIHRoZSBlbXBsb3llZSBv
+ZiB0aGUgbW9udGguClBsZWFzZSBhdHRlbmQgdGhlIGRpdmVyc2l0eSBhbmQgaW5jbHVzaW9uIHdv
+cmtzaG9wLgpUaGUgdHJhaW5pbmcgc2Vzc2lvbiBoYXMgYmVlbiByZXNjaGVkdWxlZCB0byBGcmlk
+YXkuClBsZWFzZSByZXZpZXcgdGhlIGF0dGFjaGVkIGNsaWVudCBmZWVkYmFjay4KUGxlYXNlIGRp
+c3Bvc2Ugb2YgY29uZmlkZW50aWFsIGRvY3VtZW50cyBzZWN1cmVseS4KUGxlYXNlIGFzc2lzdCBp
+biBvbmJvYXJkaW5nIHRoZSBuZXcgaGlyZXMuCi0tIApCZXN0IHJlZ2FyZHMsCkJyaWFuIExvcGV6
+
+--===============0544975529398588913==--

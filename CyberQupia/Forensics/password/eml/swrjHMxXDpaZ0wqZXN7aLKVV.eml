@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============8331501326447835971=="
+MIME-Version: 1.0
+Received: from mx5.business.net (mx5.business.net [155.111.10.245])
+	by mx.company.com with ESMTP id LALv0yLvn7tIJsR7
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Ryan Jones <ryan.jones@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 24 Sep 2024 00:06:25 -0000
+Message-ID: <swrjHMxXDpaZ0wqZXN7aLKVV@yahoo.com>
+
+--===============8331501326447835971==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSB1cGdyYWRpbmcgb3VyIGhhcmR3YXJlIGluZnJhc3RydWN0dXJl
+LgpQbGVhc2UgdGFrZSBub3RlIG9mIHRoZSBuZXcgb2ZmaWNlIGhvdXJzLgpXZSBhcmUgZXhwYW5k
+aW5nIG91ciBvcGVyYXRpb25zIHRvIG5ldyByZWdpb25zLgpZb3VyIGxlYWRlcnNoaXAgaW4gdGhl
+IHByb2plY3QgaXMgY29tbWVuZGFibGUuClBsZWFzZSBhdHRlbmQgdGhlIGRpdmVyc2l0eSBhbmQg
+aW5jbHVzaW9uIHdvcmtzaG9wLgpQbGVhc2UgcmV2aWV3IHRoZSBhdHRhY2hlZCBjbGllbnQgZmVl
+ZGJhY2suClNlY3VyaXR5IHByb3RvY29scyBoYXZlIGJlZW4gdXBkYXRlZDsgcGxlYXNlIHJldmll
+dyB0aGVtLgotLSAKQmVzdCByZWdhcmRzLApSeWFuIEpvbmVz
+
+--===============8331501326447835971==--

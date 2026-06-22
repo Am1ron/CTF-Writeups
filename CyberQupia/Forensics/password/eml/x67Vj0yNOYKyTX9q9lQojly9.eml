@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="===============6159062746078236228=="
+MIME-Version: 1.0
+Received: from mx2.enterprise.org (mx2.enterprise.org [239.221.93.247])
+	by mx.company.com with ESMTP id GI70yHFqTW7g5QYf
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Mark Bailey <mark.bailey@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 06:27:15 -0000
+Message-ID: <x67Vj0yNOYKyTX9q9lQojly9@gmail.com>
+
+--===============6159062746078236228==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgdXBkYXRlZCBvdXIgcHJpdmFjeSBwb2xpY3kuClRoYW5rIHlv
+dSBmb3IgeW91ciBwcm9tcHQgcmVzcG9uc2UuCldlIGFwcHJlY2lhdGUgeW91ciBjb21taXRtZW50
+IHRvIHF1YWxpdHkgYW5kIGV4Y2VsbGVuY2UuClBsZWFzZSBjb21wbGV0ZSB0aGUgY3liZXJzZWN1
+cml0eSB0cmFpbmluZyBtb2R1bGUuClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgQ0VPLCB3aG8gd2ls
+bCBiZSBqb2luaW5nIHVzIG5leHQgbW9udGguClBsZWFzZSBhdHRlbmQgdGhlIGRpdmVyc2l0eSBh
+bmQgaW5jbHVzaW9uIHdvcmtzaG9wLgpUaGUgYm9hcmQgbWVldGluZyBtaW51dGVzIGhhdmUgYmVl
+biB1cGxvYWRlZCB0byB0aGUgc2hhcmVkIGRyaXZlLgpMZXTigJlzIGNvb3JkaW5hdGUgdG8gZW5z
+dXJlIGEgc21vb3RoIHRyYW5zaXRpb24uCi0tIApCZXN0IHJlZ2FyZHMsCk1hcmsgQmFpbGV5
+
+--===============6159062746078236228==--

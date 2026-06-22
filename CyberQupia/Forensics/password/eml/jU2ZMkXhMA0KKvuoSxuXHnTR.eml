@@ -1,0 +1,40 @@
+Content-Type: multipart/mixed; boundary="===============8591789797910527272=="
+MIME-Version: 1.0
+Received: from mx2.services.io (mx2.services.io [235.58.22.175])
+	by mx.company.com with ESMTP id CkU2sGjtdJZ3bC2P
+Received: from mx2.mail.com (mx2.mail.com [248.179.137.56])
+	by mx.company.com with ESMTP id 0fptCCCzxsIMm3oh
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Sarah Stewart <sarah.stewart@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 04:21:04 -0000
+Message-ID: <jU2ZMkXhMA0KKvuoSxuXHnTR@yahoo.com>
+
+--===============8591789797910527272==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBzZW5kIHlvdXIgZmVlZGJhY2sgb24gdGhlIHByb3Bvc2VkIGNo
+YW5nZXMuCldlIGhhdmUgcmVjZWl2ZWQgdGhlIHNoaXBtZW50IG9mIG5ldyBvZmZpY2Ugc3VwcGxp
+ZXMuClBsZWFzZSBmaW5kIHRoZSBhdHRhY2hlZCByZXBvcnQgZm9yIHlvdXIgcmV2aWV3LgpXZSBh
+cmUgZXhjaXRlZCBhYm91dCB0aGUgdXBjb21pbmcgcHJvZHVjdCBkZW1vLgpQbGVhc2Ugd2VsY29t
+ZSBvdXIgbmV3IHBhcnRuZXIgdG8gdGhlIG9yZ2FuaXphdGlvbi4KVGhlIGNvbXBhbnkgbmV3c2xl
+dHRlciBoYXMgYmVlbiBwdWJsaXNoZWQuClByb2plY3QgZGVhZGxpbmVzIGhhdmUgYmVlbiBhZGp1
+c3RlZCBkdWUgdG8gdW5mb3Jlc2VlbiBjaXJjdW1zdGFuY2VzLgpUaGUgdHJhaW5pbmcgc2Vzc2lv
+biBoYXMgYmVlbiByZXNjaGVkdWxlZCB0byBGcmlkYXkuCldlIGFyZSBleGNpdGVkIHRvIGFubm91
+bmNlIHRoZSBsYXVuY2ggb2Ygb3VyIG5ldyBwcm9kdWN0IGxpbmUuClBsZWFzZSBwYXJ0aWNpcGF0
+ZSBpbiB0aGUgdXBjb21pbmcgZmlyZSBkcmlsbC4KUGxlYXNlIHVwZGF0ZSB5b3VyIGNvbnRhY3Qg
+aW5mb3JtYXRpb24gaW4gdGhlIGRpcmVjdG9yeS4KV2UgaGF2ZSB1cGRhdGVkIG91ciBwcml2YWN5
+IHBvbGljeS4KUGxlYXNlIHJlZnJhaW4gZnJvbSB1c2luZyBwZXJzb25hbCBkZXZpY2VzIGZvciB3
+b3JrIGVtYWlscy4KT3VyIHNvY2lhbCBtZWRpYSBwcmVzZW5jZSBpcyBncm93aW5nOyBwbGVhc2Ug
+Zm9sbG93IHVzLgpDb25ncmF0dWxhdGlvbnMgb24geW91ciByZWNlbnQgYWNoaWV2ZW1lbnQhClRo
+YW5rIHlvdSBmb3IgeW91ciBoYXJkIHdvcmsgb24gdGhlIHJlY2VudCBwcm9qZWN0LgpQbGVhc2Ug
+c3VibWl0IG5vbWluYXRpb25zIGZvciB0aGUgZW1wbG95ZWUgb2YgdGhlIG1vbnRoLgpQbGVhc2Ug
+b2JzZXJ2ZSB0aGUgbmV3IHNhbml0YXRpb24gcHJvdG9jb2xzLgotLSAKQmVzdCByZWdhcmRzLApT
+YXJhaCBTdGV3YXJ0
+
+--===============8591789797910527272==--

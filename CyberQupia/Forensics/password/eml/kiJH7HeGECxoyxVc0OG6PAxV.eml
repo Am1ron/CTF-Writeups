@@ -1,0 +1,25 @@
+Content-Type: multipart/mixed; boundary="===============0223040722890038810=="
+MIME-Version: 1.0
+Received: from mx3.business.net (mx3.business.net [111.63.227.55])
+	by mx.company.com with ESMTP id 3wYZTPAMfLbuePPR
+Received: from mx4.mail.com (mx4.mail.com [98.30.249.57])
+	by mx.company.com with ESMTP id dKCOjlEzHtXtaSuh
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Joseph James <joseph.james@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 22:13:10 -0000
+Message-ID: <kiJH7HeGECxoyxVc0OG6PAxV@mail.com>
+
+--===============0223040722890038810==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBzZW5kIHlvdXIgZmVlZGJhY2sgb24gdGhlIHByb3Bvc2VkIGNo
+YW5nZXMuClBsZWFzZSBzdWJtaXQgeW91ciBsZWF2ZSByZXF1ZXN0cyBpbiBhZHZhbmNlLgpSZW1p
+bmRlcjogVGhlIHF1YXJ0ZXJseSBtZWV0aW5nIGlzIHNjaGVkdWxlZCBmb3IgbmV4dCBXZWRuZXNk
+YXkuCi0tIApCZXN0IHJlZ2FyZHMsCkpvc2VwaCBKYW1lcw==
+
+--===============0223040722890038810==--

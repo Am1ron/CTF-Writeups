@@ -1,0 +1,26 @@
+Content-Type: multipart/mixed; boundary="===============3341990849507457040=="
+MIME-Version: 1.0
+Received: from mx3.build.co (mx3.build.co [231.197.206.143])
+	by mx.company.com with ESMTP id InAXjMCMcyMeDeyD
+Received: from mx3.business.net (mx3.business.net [224.222.224.135])
+	by mx.company.com with ESMTP id nFqLRoDPWE0tlYDW
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Donna Hill <donna.hill@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 26 Sep 2024 00:56:26 -0000
+Message-ID: <OotThZSBpv089JDNWVdv24Mr@gmail.com>
+
+--===============3341990849507457040==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgbGF1bmNoZWQgYW4gZW1wbG95ZWUgcmVjb2duaXRpb24gcHJv
+Z3JhbS4KT3VyIHN1c3RhaW5hYmlsaXR5IHJlcG9ydCBoYXMgYmVlbiBwdWJsaXNoZWQ7IHBsZWFz
+ZSByZWFkIGl0LgpQbGVhc2Ugc3VibWl0IHlvdXIgbGVhdmUgcmVxdWVzdHMgaW4gYWR2YW5jZS4K
+LS0gCkJlc3QgcmVnYXJkcywKRG9ubmEgSGlsbA==
+
+--===============3341990849507457040==--

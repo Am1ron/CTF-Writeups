@@ -1,0 +1,29 @@
+Content-Type: multipart/mixed; boundary="===============3355824710842198675=="
+MIME-Version: 1.0
+Received: from mx2.corp.com (mx2.corp.com [144.109.127.84])
+	by mx.company.com with ESMTP id KMkns9iDsjDcBnZU
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Nancy Harris <nancy.harris@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sat, 21 Sep 2024 04:40:14 -0000
+Message-ID: <k4WIsNtdqIIhz82FbDDnGcKq@mail.com>
+
+--===============3355824710842198675==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBvYnNlcnZlIHNpbGVuY2UgaW4gZGVzaWduYXRlZCBxdWlldCB6
+b25lcy4KTmV3IHBhcmtpbmcgcmVndWxhdGlvbnMgd2lsbCBiZSBpbiBlZmZlY3QgZnJvbSBNb25k
+YXkuClRoZSBuZXcgcG9saWN5IHdpbGwgYmUgZWZmZWN0aXZlIGZyb20gbmV4dCBtb250aC4KV2Ug
+aGF2ZSB1cGRhdGVkIHRoZSBoZWFsdGggaW5zdXJhbmNlIHBsYW5zLgpXZSBhcmUgZXhjaXRlZCBh
+Ym91dCB0aGUgdXBjb21pbmcgcHJvZHVjdCBkZW1vLgpSZW1pbmRlcjogVGhlIHF1YXJ0ZXJseSBt
+ZWV0aW5nIGlzIHNjaGVkdWxlZCBmb3IgbmV4dCBXZWRuZXNkYXkuCldlIGFyZSBob3N0aW5nIGEg
+Y2hhcml0eSBldmVudCBuZXh0IHdlZWsuClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgcGFydG5lciB0
+byB0aGUgb3JnYW5pemF0aW9uLgpQbGVhc2UgZGlzcG9zZSBvZiBjb25maWRlbnRpYWwgZG9jdW1l
+bnRzIHNlY3VyZWx5LgpXZSBhcmUgZXhwbG9yaW5nIG5ldyBtYXJrZXQgb3Bwb3J0dW5pdGllcy4K
+LS0gCkJlc3QgcmVnYXJkcywKTmFuY3kgSGFycmlz
+
+--===============3355824710842198675==--

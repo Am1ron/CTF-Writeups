@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============8669567841572523288=="
+MIME-Version: 1.0
+Received: from mx5.enterprise.org (mx5.enterprise.org [231.68.161.209])
+	by mx.company.com with ESMTP id WA8CQQbwLCE8HpuJ
+Authentication-Results: company.com; dkim=pass header.d=yahoo.com;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass action=none header.from=yahoo.com
+From: Ryan Bell <ryan.bell@yahoo.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 21:59:47 -0000
+Message-ID: <lHl4UH9UlgfRzCVIMXY831WE@yahoo.com>
+
+--===============8669567841572523288==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCkkgd291bGQgbGlrZSB0byBzY2hlZHVsZSBhIG1lZXRpbmcgdG8gZGlzY3Vz
+cyB0aGUgcHJvamVjdCB1cGRhdGVzLgpCdWRnZXQgcGxhbm5pbmcgZm9yIG5leHQgeWVhciB3aWxs
+IGJlZ2luIHNvb24uClBsZWFzZSByZXZpZXcgdGhlIGF0dGFjaGVkIHBlcmZvcm1hbmNlIG1ldHJp
+Y3MuClBsZWFzZSBhdm9pZCBzY2hlZHVsaW5nIG1lZXRpbmdzIGR1cmluZyBsdW5jaCBob3Vycy4K
+V2UgYXJlIHVwZ3JhZGluZyBvdXIgaGFyZHdhcmUgaW5mcmFzdHJ1Y3R1cmUuClBsZWFzZSBhdHRl
+bmQgdGhlIGRpdmVyc2l0eSBhbmQgaW5jbHVzaW9uIHdvcmtzaG9wLgpQbGVhc2UgdGFrZSBub3Rl
+IG9mIHRoZSBuZXcgb2ZmaWNlIGhvdXJzLgpUaGUgbmV4dCB0cmFpbmluZyB3b3Jrc2hvcCBpcyBz
+Y2hlZHVsZWQgZm9yIG5leHQgbW9udGguClRlYW0gbGVhZHMgYXJlIHJlcXVlc3RlZCB0byBzdWJt
+aXQgdGhlaXIgcmVwb3J0cyBieSBGcmlkYXkuClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgcGFydG5l
+ciB0byB0aGUgb3JnYW5pemF0aW9uLgpZb3VyIGZlZWRiYWNrIG9uIHRoZSByZWNlbnQgY2hhbmdl
+cyBpcyBoaWdobHkgYXBwcmVjaWF0ZWQuCldlIGFyZSByZXZpc2luZyBvdXIgc3RyYXRlZ2ljIG9i
+amVjdGl2ZXMuCldlIGFyZSBsYXVuY2hpbmcgYSBuZXcgaW50ZXJuYWwgY29tbXVuaWNhdGlvbiBw
+bGF0Zm9ybS4KS2luZGx5IHVwZGF0ZSB0aGUgZG9jdW1lbnRhdGlvbiB3aXRoIHRoZSBsYXRlc3Qg
+aW5mb3JtYXRpb24uCkkgYXBwcmVjaWF0ZSB5b3VyIHByb21wdCBhdHRlbnRpb24gdG8gdGhpcyBt
+YXR0ZXIuCldlIGFyZSBpbnRyb2R1Y2luZyBmbGV4aWJsZSB3b3JraW5nIGhvdXJzLgpSZW1pbmRl
+cjogVGhlIHF1YXJ0ZXJseSBtZWV0aW5nIGlzIHNjaGVkdWxlZCBmb3IgbmV4dCBXZWRuZXNkYXku
+Ci0tIApCZXN0IHJlZ2FyZHMsClJ5YW4gQmVsbA==
+
+--===============8669567841572523288==--

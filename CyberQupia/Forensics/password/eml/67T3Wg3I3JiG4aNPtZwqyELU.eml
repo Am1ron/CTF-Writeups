@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============1390979562122483614=="
+MIME-Version: 1.0
+Received: from mx1.corp.com (mx1.corp.com [141.7.21.93])
+	by mx.company.com with ESMTP id 7sXHs4SD2qsrFuPi
+Received: from mx3.yahoo.com (mx3.yahoo.com [169.234.67.11])
+	by mx.company.com with ESMTP id Iflj1qqFjTbT08Cr
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Carol Hill <carol.hill@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 16:40:37 -0000
+Message-ID: <67T3Wg3I3JiG4aNPtZwqyELU@services.io>
+
+--===============1390979562122483614==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBzdWJtaXQgeW91ciBsZWF2ZSByZXF1ZXN0cyBpbiBhZHZhbmNl
+LgpPdXIgY2xpZW50cyBoYXZlIHByb3ZpZGVkIHBvc2l0aXZlIGZlZWRiYWNrIG9uIHRoZSBkZWxp
+dmVyYWJsZXMuCk91ciBhbm51YWwgcmVwb3J0IGhhcyBiZWVuIHJlbGVhc2VkIHRvIHN0YWtlaG9s
+ZGVycy4KV2UgYXJlIHVwZ3JhZGluZyBvdXIgaGFyZHdhcmUgaW5mcmFzdHJ1Y3R1cmUuCi0tIApC
+ZXN0IHJlZ2FyZHMsCkNhcm9sIEhpbGw=
+
+--===============1390979562122483614==--

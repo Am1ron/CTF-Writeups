@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============1898668923354249939=="
+MIME-Version: 1.0
+Received: from mx4.solutions.biz (mx4.solutions.biz [79.82.248.182])
+	by mx.company.com with ESMTP id ZXq97NHJB8k1PGIB
+Received: from mx4.services.io (mx4.services.io [60.238.165.159])
+	by mx.company.com with ESMTP id EF4oRS3R2euQQrzq
+Authentication-Results: company.com; dkim=pass header.d=enterprise.org;
+ spf=pass smtp.mailfrom=enterprise.org;
+ dmarc=pass action=none header.from=enterprise.org
+From: Ronald Moore <ronald.moore@enterprise.org>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 19:23:21 -0000
+Message-ID: <SkTNMJ3n2nbOa9brbP8AUJDG@enterprise.org>
+
+--===============1898668923354249939==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBiZSBhZHZpc2VkIG9mIHRoZSBjaGFuZ2VzIGluIHRoZSBjb21w
+YW55IHBvbGljeS4KUGxlYXNlIGJlIGNhdXRpb3VzIG9mIHBoaXNoaW5nIGVtYWlscyBhbmQgcmVw
+b3J0IGFueSBzdXNwaWNpb3VzIGFjdGl2aXR5LgpQbGVhc2UgcHJvdmlkZSB5b3VyIGF2YWlsYWJp
+bGl0eSBmb3IgdGhlIG5leHQgdHdvIHdlZWtzLgpQcm9qZWN0IGRlYWRsaW5lcyBoYXZlIGJlZW4g
+YWRqdXN0ZWQgZHVlIHRvIHVuZm9yZXNlZW4gY2lyY3Vtc3RhbmNlcy4KV2UgYXJlIHBsYW5uaW5n
+IGEgdGVhbS1idWlsZGluZyBldmVudCBuZXh0IG1vbnRoLgpXZSBoYXZlIGFjaGlldmVkIG91ciBx
+dWFydGVybHkgdGFyZ2V0cyBzdWNjZXNzZnVsbHkuClRoZSBjYWZldGVyaWEgbWVudSBoYXMgYmVl
+biB1cGRhdGVkIHdpdGggaGVhbHRoaWVyIG9wdGlvbnMuClBsZWFzZSBzZW5kIHlvdXIgZmVlZGJh
+Y2sgb24gdGhlIHByb3Bvc2VkIGNoYW5nZXMuClBsZWFzZSB0YWtlIG5vdGUgb2YgdGhlIG5ldyBv
+ZmZpY2UgaG91cnMuClNlY3VyaXR5IHByb3RvY29scyBoYXZlIGJlZW4gdXBkYXRlZDsgcGxlYXNl
+IHJldmlldyB0aGVtLgpQbGVhc2UgYWRoZXJlIHRvIHRoZSBuZXcgZHJlc3MgY29kZSBwb2xpY3ku
+ClRoZSBib2FyZCBtZWV0aW5nIG1pbnV0ZXMgaGF2ZSBiZWVuIHVwbG9hZGVkIHRvIHRoZSBzaGFy
+ZWQgZHJpdmUuCktpbmRseSB1cGRhdGUgdGhlIGRvY3VtZW50YXRpb24gd2l0aCB0aGUgbGF0ZXN0
+IGluZm9ybWF0aW9uLgpIb2xpZGF5IHNjaGVkdWxlcyBoYXZlIGJlZW4gcG9zdGVkIG9uIHRoZSBj
+b21wYW55IHBvcnRhbC4KWW91ciBleHBlcnRpc2UgaXMgcmVxdWVzdGVkIG9uIHRoZSB1cGNvbWlu
+ZyBwcm9qZWN0LgotLSAKQmVzdCByZWdhcmRzLApSb25hbGQgTW9vcmU=
+
+--===============1898668923354249939==--

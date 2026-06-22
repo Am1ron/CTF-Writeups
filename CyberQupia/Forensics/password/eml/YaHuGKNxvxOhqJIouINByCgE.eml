@@ -1,0 +1,30 @@
+Content-Type: multipart/mixed; boundary="===============0580116447584167803=="
+MIME-Version: 1.0
+Received: from mx1.corp.com (mx1.corp.com [163.43.30.101])
+	by mx.company.com with ESMTP id OZv4Emi94VqDvPXm
+Received: from mx2.services.io (mx2.services.io [229.227.104.85])
+	by mx.company.com with ESMTP id whcpCwmwENl9oE10
+Received: from mx3.enterprise.org (mx3.enterprise.org [194.208.123.86])
+	by mx.company.com with ESMTP id xEkJ7Z2fXUgNGa12
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: John Hall <john.hall@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 09:51:33 -0000
+Message-ID: <YaHuGKNxvxOhqJIouINByCgE@services.io>
+
+--===============0580116447584167803==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClRoZSBvZmZpY2Ugd2lsbCBiZSBjbG9zZWQgbmV4dCBGcmlkYXkgZm9yIGEg
+cHVibGljIGhvbGlkYXkuClRoYW5rIHlvdSBmb3IgeW91ciBwcm9tcHQgcmVzcG9uc2UuClBsZWFz
+ZSBlbnN1cmUgYWxsIHRoZSBjb21wbGlhbmNlIHJlcXVpcmVtZW50cyBhcmUgbWV0LgpXZSBhcmUg
+aW50cm9kdWNpbmcgZmxleGlibGUgd29ya2luZyBob3Vycy4KV2UgYXJlIHBsYW5uaW5nIGEgdGVh
+bS1idWlsZGluZyBldmVudCBuZXh0IG1vbnRoLgpXZSB2YWx1ZSB5b3VyIGlucHV0IGluIGltcHJv
+dmluZyBvdXIgc2VydmljZXMuCi0tIApCZXN0IHJlZ2FyZHMsCkpvaG4gSGFsbA==
+
+--===============0580116447584167803==--

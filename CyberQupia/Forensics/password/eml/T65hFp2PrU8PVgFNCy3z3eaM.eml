@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============8103424256071937252=="
+MIME-Version: 1.0
+Received: from mx1.yahoo.com (mx1.yahoo.com [169.85.110.236])
+	by mx.company.com with ESMTP id qJIBeJ6rXSSrN0Nn
+Received: from mx1.build.co (mx1.build.co [13.166.134.218])
+	by mx.company.com with ESMTP id nCdAmke4ojYhLkRV
+Authentication-Results: company.com; dkim=pass header.d=solutions.biz;
+ spf=pass smtp.mailfrom=solutions.biz;
+ dmarc=pass action=none header.from=solutions.biz
+From: Edward Green <edward.green@solutions.biz>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Fri, 20 Sep 2024 21:53:05 -0000
+Message-ID: <T65hFp2PrU8PVgFNCy3z3eaM@solutions.biz>
+
+--===============8103424256071937252==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBpbnRyb2R1Y2luZyBmbGV4aWJsZSB3b3JraW5nIGhvdXJzLgpP
+dXIgY2xpZW50cyBoYXZlIHByb3ZpZGVkIHBvc2l0aXZlIGZlZWRiYWNrIG9uIHRoZSBkZWxpdmVy
+YWJsZXMuCldlIGhhdmUgcmVjZWl2ZWQgdGhlIHNoaXBtZW50IG9mIG5ldyBvZmZpY2Ugc3VwcGxp
+ZXMuClBsZWFzZSBmaW5kIHRoZSBhdHRhY2hlZCByZXBvcnQgZm9yIHlvdXIgcmV2aWV3LgpUaGUg
+bmV4dCB0cmFpbmluZyB3b3Jrc2hvcCBpcyBzY2hlZHVsZWQgZm9yIG5leHQgbW9udGguClRoZSBs
+YXRlc3Qgc29mdHdhcmUgdXBkYXRlcyBoYXZlIGJlZW4gaW5zdGFsbGVkLgpJIGFwcHJlY2lhdGUg
+eW91ciBwcm9tcHQgYXR0ZW50aW9uIHRvIHRoaXMgbWF0dGVyLgpQbGVhc2Ugd2VsY29tZSBvdXIg
+bmV3IENFTywgd2hvIHdpbGwgYmUgam9pbmluZyB1cyBuZXh0IG1vbnRoLgpQbGVhc2UgYWRoZXJl
+IHRvIHRoZSBuZXcgZHJlc3MgY29kZSBwb2xpY3kuClNlY3VyaXR5IHByb3RvY29scyBoYXZlIGJl
+ZW4gdXBkYXRlZDsgcGxlYXNlIHJldmlldyB0aGVtLgpMZXTigJlzIGNvb3JkaW5hdGUgdG8gZW5z
+dXJlIGEgc21vb3RoIHRyYW5zaXRpb24uCllvdXIgbGVhZGVyc2hpcCBpbiB0aGUgcHJvamVjdCBp
+cyBjb21tZW5kYWJsZS4KV2UgdmFsdWUgeW91ciBpbnB1dCBpbiBpbXByb3Zpbmcgb3VyIHNlcnZp
+Y2VzLgpUaGFuayB5b3UgZm9yIHlvdXIgcHJvbXB0IHJlc3BvbnNlLgpDbGllbnQgcHJlc2VudGF0
+aW9ucyBhcmUgc2NoZWR1bGVkIGZvciBuZXh0IFRodXJzZGF5LgpQbGVhc2UgZmFtaWxpYXJpemUg
+eW91cnNlbGYgd2l0aCB0aGUgdXBkYXRlZCBndWlkZWxpbmVzLgotLSAKQmVzdCByZWdhcmRzLApF
+ZHdhcmQgR3JlZW4=
+
+--===============8103424256071937252==--

@@ -1,0 +1,31 @@
+Content-Type: multipart/mixed; boundary="===============0066221793026386298=="
+MIME-Version: 1.0
+Received: from mx2.gmail.com (mx2.gmail.com [21.96.184.173])
+	by mx.company.com with ESMTP id wHmg9AXTCNaT84bM
+Received: from mx5.yahoo.com (mx5.yahoo.com [32.60.234.123])
+	by mx.company.com with ESMTP id wjNKnL0IR0NJtw6V
+Received: from mx5.business.net (mx5.business.net [26.102.159.201])
+	by mx.company.com with ESMTP id zFTvW4Jh0H5qG4gi
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Sandra Ramirez <sandra.ramirez@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 17:27:24 -0000
+Message-ID: <CLeSPx2USAUbU5hmGLYybL0f@gmail.com>
+
+--===============0066221793026386298==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBiZSBhZHZpc2VkIG9mIHRoZSBjaGFuZ2VzIGluIHRoZSBjb21w
+YW55IHBvbGljeS4KQWxsIHN0YWZmIGFyZSBpbnZpdGVkIHRvIHRoZSB0b3duIGhhbGwgbWVldGlu
+Zy4KT3VyIGNsaWVudHMgaGF2ZSBwcm92aWRlZCBwb3NpdGl2ZSBmZWVkYmFjayBvbiB0aGUgZGVs
+aXZlcmFibGVzLgpMZXQncyBzY2hlZHVsZSBhIG9uZS1vbi1vbmUgbWVldGluZyB0byBkaXNjdXNz
+IHlvdXIgcHJvZ3Jlc3MuClRoZSBhbm51YWwgY29tcGFueSByZXRyZWF0IGlzIGNvbWluZyB1cDsg
+cGxlYXNlIFJTVlAuCllvdXIgbGVhZGVyc2hpcCBpbiB0aGUgcHJvamVjdCBpcyBjb21tZW5kYWJs
+ZS4KLS0gCkJlc3QgcmVnYXJkcywKU2FuZHJhIFJhbWlyZXo=
+
+--===============0066221793026386298==--

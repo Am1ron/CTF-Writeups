@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============2078095950219609168=="
+MIME-Version: 1.0
+Received: from mx5.yahoo.com (mx5.yahoo.com [47.103.216.94])
+	by mx.company.com with ESMTP id hqjEyl5Injh7ydrf
+Received: from mx4.yahoo.com (mx4.yahoo.com [30.248.155.213])
+	by mx.company.com with ESMTP id Q4ZGpKKzccxCeBGN
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Paul Cook <paul.cook@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 04:29:09 -0000
+Message-ID: <QfkRPIG8xbcXqYG3FSD1Uki5@build.co>
+
+--===============2078095950219609168==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBjb25kdWN0aW5nIHN5c3RlbSBhdWRpdHMgdGhpcyBxdWFydGVy
+LgpQbGVhc2UgZW5zdXJlIHRpbWVseSBzdWJtaXNzaW9uIG9mIHByb2plY3QgZGVsaXZlcmFibGVz
+LgpFbXBsb3llZSBzYXRpc2ZhY3Rpb24gc3VydmV5cyB3aWxsIGJlIGRpc3RyaWJ1dGVkIHRvbW9y
+cm93LgpXZSBhcmUgZXhjaXRlZCBhYm91dCB0aGUgdXBjb21pbmcgcHJvZHVjdCBkZW1vLgpZb3Vy
+IGRlcGFydG1lbnQgaGFzIGV4Y2VlZGVkIGl0cyBwZXJmb3JtYW5jZSB0YXJnZXRzLgotLSAKQmVz
+dCByZWdhcmRzLApQYXVsIENvb2s=
+
+--===============2078095950219609168==--

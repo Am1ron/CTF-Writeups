@@ -1,0 +1,27 @@
+Content-Type: multipart/mixed; boundary="===============1869598839549853138=="
+MIME-Version: 1.0
+Received: from mx5.mail.com (mx5.mail.com [118.95.176.144])
+	by mx.company.com with ESMTP id FVHK5mQp455MH4Ot
+Received: from mx3.solutions.biz (mx3.solutions.biz [240.172.27.138])
+	by mx.company.com with ESMTP id lYr1ZmIn91h2PuDU
+Authentication-Results: company.com; dkim=pass header.d=business.net;
+ spf=pass smtp.mailfrom=business.net;
+ dmarc=pass action=none header.from=business.net
+From: Sandra Taylor <sandra.taylor@business.net>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Mon, 23 Sep 2024 11:02:08 -0000
+Message-ID: <kq4De6ulpTLVitJMx1w78wLM@business.net>
+
+--===============1869598839549853138==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCk91ciBzdXN0YWluYWJpbGl0eSByZXBvcnQgaGFzIGJlZW4gcHVibGlzaGVk
+OyBwbGVhc2UgcmVhZCBpdC4KT3VyIGFubnVhbCByZXBvcnQgaGFzIGJlZW4gcmVsZWFzZWQgdG8g
+c3Rha2Vob2xkZXJzLgpQbGVhc2UgZmluZCB0aGUgYXR0YWNoZWQgcmVwb3J0IGZvciB5b3VyIHJl
+dmlldy4KWW91ciBhY3Rpb24gaXMgcmVxdWlyZWQgb24gdGhlIHBlbmRpbmcgdGFza3MuCi0tIApC
+ZXN0IHJlZ2FyZHMsClNhbmRyYSBUYXlsb3I=
+
+--===============1869598839549853138==--

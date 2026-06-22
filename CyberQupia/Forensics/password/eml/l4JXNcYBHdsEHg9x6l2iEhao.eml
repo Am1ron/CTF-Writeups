@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="===============5420285894804835968=="
+MIME-Version: 1.0
+Received: from mx3.winter.com (mx3.winter.com [158.168.194.128])
+	by mx.company.com with ESMTP id xSl1xT9lOrxzNrA4
+Received: from mx2.solutions.biz (mx2.solutions.biz [76.57.16.20])
+	by mx.company.com with ESMTP id ZqZV8U7L1GTMATeX
+Authentication-Results: company.com; dkim=pass header.d=build.co;
+ spf=pass smtp.mailfrom=build.co; dmarc=pass action=none header.from=build.co
+From: Emily Wilson <emily.wilson@build.co>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 26 Sep 2024 07:15:55 -0000
+Message-ID: <l4JXNcYBHdsEHg9x6l2iEhao@build.co>
+
+--===============5420285894804835968==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBleHBhbmRpbmcgb3VyIG9wZXJhdGlvbnMgdG8gbmV3IHJlZ2lv
+bnMuClBsZWFzZSB3ZWxjb21lIG91ciBuZXcgcGFydG5lciB0byB0aGUgb3JnYW5pemF0aW9uLgpQ
+bGVhc2Ugb2JzZXJ2ZSBzaWxlbmNlIGluIGRlc2lnbmF0ZWQgcXVpZXQgem9uZXMuClRoZSBvZmZp
+Y2Ugd2lsbCBiZSBjbG9zZWQgbmV4dCBGcmlkYXkgZm9yIGEgcHVibGljIGhvbGlkYXkuCllvdXIg
+bGVhZGVyc2hpcCBpbiB0aGUgcHJvamVjdCBpcyBjb21tZW5kYWJsZS4KT3VyIGFubnVhbCByZXBv
+cnQgaGFzIGJlZW4gcmVsZWFzZWQgdG8gc3Rha2Vob2xkZXJzLgotLSAKQmVzdCByZWdhcmRzLApF
+bWlseSBXaWxzb24=
+
+--===============5420285894804835968==--

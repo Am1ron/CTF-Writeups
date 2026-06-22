@@ -1,0 +1,49 @@
+Content-Type: multipart/mixed; boundary="===============1408918895820893081=="
+MIME-Version: 1.0
+Received: from mx4.gmail.com (mx4.gmail.com [138.165.112.2])
+	by mx.company.com with ESMTP id D1qhMnXRPuOfK6Or
+Received: from mx3.business.net (mx3.business.net [180.107.5.79])
+	by mx.company.com with ESMTP id Ce1SiMU1U6w64ceL
+Received: from mx5.build.co (mx5.build.co [2.56.208.209])
+	by mx.company.com with ESMTP id lO81noLjzi0QI8nj
+Authentication-Results: company.com; dkim=pass header.d=services.io;
+ spf=pass smtp.mailfrom=services.io;
+ dmarc=pass action=none header.from=services.io
+From: Kathleen Lee <kathleen.lee@services.io>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Tue, 17 Sep 2024 00:32:05 -0000
+Message-ID: <ViJNDQXhWeTr1votMhef0JuT@services.io>
+
+--===============1408918895820893081==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsClBsZWFzZSBjb21wbGV0ZSB0aGUgY3liZXJzZWN1cml0eSB0cmFpbmluZyBt
+b2R1bGUuCldlIGhhdmUgYWNoaWV2ZWQgb3VyIHF1YXJ0ZXJseSB0YXJnZXRzIHN1Y2Nlc3NmdWxs
+eS4KWW91ciBhY3Rpb24gaXMgcmVxdWlyZWQgb24gdGhlIHBlbmRpbmcgdGFza3MuClBsZWFzZSBv
+YnNlcnZlIHNpbGVuY2UgaW4gZGVzaWduYXRlZCBxdWlldCB6b25lcy4KVGVhbSBsZWFkcyBhcmUg
+cmVxdWVzdGVkIHRvIHN1Ym1pdCB0aGVpciByZXBvcnRzIGJ5IEZyaWRheS4KVGhlcmUgd2lsbCBi
+ZSBhbiBvZmZpY2UgY2xlYW51cCBkYXkgdGhpcyBGcmlkYXkuClRoZSBib2FyZCBtZWV0aW5nIG1p
+bnV0ZXMgaGF2ZSBiZWVuIHVwbG9hZGVkIHRvIHRoZSBzaGFyZWQgZHJpdmUuClBsZWFzZSB3ZWxj
+b21lIG91ciBuZXcgaW50ZXJucyBqb2luaW5nIHRoZSB0ZWFtLgpQbGVhc2UgcmVwb3J0IGFueSBt
+YWludGVuYW5jZSBpc3N1ZXMgcHJvbXB0bHkuClBsZWFzZSBzdWJtaXQgeW91ciBsZWF2ZSByZXF1
+ZXN0cyBpbiBhZHZhbmNlLgpDb25ncmF0dWxhdGlvbnMgb24geW91ciByZWNlbnQgYWNoaWV2ZW1l
+bnQhCldlIGhhdmUgaW50cm9kdWNlZCBhIG5ldyBiZW5lZml0cyBwYWNrYWdlIGZvciBlbXBsb3ll
+ZXMuClBsZWFzZSBzdWJtaXQgbm9taW5hdGlvbnMgZm9yIHRoZSBlbXBsb3llZSBvZiB0aGUgbW9u
+dGguCldlIGFyZSBwbGFubmluZyBhIHRlYW0tYnVpbGRpbmcgZXZlbnQgbmV4dCBtb250aC4KUGxl
+YXNlIGZpbmQgdGhlIGF0dGFjaGVkIHJlcG9ydCBmb3IgeW91ciByZXZpZXcuClRoZSBjYWZldGVy
+aWEgbWVudSBoYXMgYmVlbiB1cGRhdGVkIHdpdGggaGVhbHRoaWVyIG9wdGlvbnMuClBsZWFzZSBv
+YnNlcnZlIHRoZSBuZXcgc2FuaXRhdGlvbiBwcm90b2NvbHMuCldlIGFyZSBleGNpdGVkIHRvIGFu
+bm91bmNlIHRoZSBsYXVuY2ggb2Ygb3VyIG5ldyBwcm9kdWN0IGxpbmUuCldlIGFyZSBpbml0aWF0
+aW5nIGEgbWVudG9yc2hpcCBwcm9ncmFtOyBkZXRhaWxzIHRvIGZvbGxvdy4KVGhlIG9mZmljZSBr
+aXRjaGVuIHdpbGwgYmUgcmVub3ZhdGVkIG92ZXIgdGhlIHdlZWtlbmQuCllvdXIgZmVlZGJhY2sg
+b24gdGhlIHJlY2VudCBjaGFuZ2VzIGlzIGhpZ2hseSBhcHByZWNpYXRlZC4KUGxlYXNlIGVuc3Vy
+ZSB0aW1lbHkgc3VibWlzc2lvbiBvZiBwcm9qZWN0IGRlbGl2ZXJhYmxlcy4KTmV3IHBhcmtpbmcg
+cmVndWxhdGlvbnMgd2lsbCBiZSBpbiBlZmZlY3QgZnJvbSBNb25kYXkuCkxvb2tpbmcgZm9yd2Fy
+ZCB0byBvdXIgY29sbGFib3JhdGlvbiBvbiB0aGlzIGluaXRpYXRpdmUuClBsZWFzZSBlbnN1cmUg
+YWxsIHRoZSBjb21wbGlhbmNlIHJlcXVpcmVtZW50cyBhcmUgbWV0LgotLSAKQmVzdCByZWdhcmRz
+LApLYXRobGVlbiBMZWU=
+
+--===============1408918895820893081==--

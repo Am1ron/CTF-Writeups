@@ -1,0 +1,40 @@
+Content-Type: multipart/mixed; boundary="===============5030599029348238196=="
+MIME-Version: 1.0
+Received: from mx3.enterprise.org (mx3.enterprise.org [118.191.28.80])
+	by mx.company.com with ESMTP id VNamkozJfD1XUWZp
+Received: from mx4.corp.com (mx4.corp.com [135.88.41.25])
+	by mx.company.com with ESMTP id v4CCrdbVdZo36dcz
+Received: from mx1.corp.com (mx1.corp.com [110.155.120.60])
+	by mx.company.com with ESMTP id uKPrtFGoR62KTS5p
+Authentication-Results: company.com; dkim=pass header.d=mail.com;
+ spf=pass smtp.mailfrom=mail.com; dmarc=pass action=none header.from=mail.com
+From: Susan Harris <susan.harris@mail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Thu, 19 Sep 2024 17:40:55 -0000
+Message-ID: <tJ2MVLWNQ8RTtZBhxOESVg1B@mail.com>
+
+--===============5030599029348238196==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCk91ciBzb2NpYWwgbWVkaWEgcHJlc2VuY2UgaXMgZ3Jvd2luZzsgcGxlYXNl
+IGZvbGxvdyB1cy4KV2UgaGF2ZSByZWNlaXZlZCB0aGUgc2hpcG1lbnQgb2YgbmV3IG9mZmljZSBz
+dXBwbGllcy4KWW91ciBsZWFkZXJzaGlwIGluIHRoZSBwcm9qZWN0IGlzIGNvbW1lbmRhYmxlLgpU
+aGUgSVQgZGVwYXJ0bWVudCB3aWxsIHBlcmZvcm0gc3lzdGVtIG1haW50ZW5hbmNlIHRoaXMgd2Vl
+a2VuZC4KSGVhbHRoIGFuZCBzYWZldHkgaW5zcGVjdGlvbnMgYXJlIHNjaGVkdWxlZCBmb3IgbmV4
+dCB3ZWVrLgpJIHdvdWxkIGxpa2UgdG8gc2NoZWR1bGUgYSBtZWV0aW5nIHRvIGRpc2N1c3MgdGhl
+IHByb2plY3QgdXBkYXRlcy4KV2UgYXJlIGludHJvZHVjaW5nIGZsZXhpYmxlIHdvcmtpbmcgaG91
+cnMuClBsZWFzZSBmYW1pbGlhcml6ZSB5b3Vyc2VsZiB3aXRoIHRoZSB1cGRhdGVkIGd1aWRlbGlu
+ZXMuCldlIGhhdmUgbGF1bmNoZWQgYW4gZW1wbG95ZWUgcmVjb2duaXRpb24gcHJvZ3JhbS4KUGxl
+YXNlIHNlbmQgeW91ciBmZWVkYmFjayBvbiB0aGUgcHJvcG9zZWQgY2hhbmdlcy4KUGxlYXNlIGJl
+IGNhdXRpb3VzIG9mIHBoaXNoaW5nIGVtYWlscyBhbmQgcmVwb3J0IGFueSBzdXNwaWNpb3VzIGFj
+dGl2aXR5LgpPdXIgY2xpZW50cyBoYXZlIHByb3ZpZGVkIHBvc2l0aXZlIGZlZWRiYWNrIG9uIHRo
+ZSBkZWxpdmVyYWJsZXMuClBsZWFzZSBjb21wbGV0ZSB0aGUgY3liZXJzZWN1cml0eSB0cmFpbmlu
+ZyBtb2R1bGUuCldlIGhhdmUgdXBkYXRlZCBvdXIgcHJpdmFjeSBwb2xpY3kuCkxldOKAmXMgc3Ry
+aXZlIHRvIGV4Y2VlZCBvdXIgZ29hbHMgZm9yIHRoaXMgZmlzY2FsIHllYXIuClRoYW5rIHlvdSBm
+b3IgYXR0ZW5kaW5nIHRoZSBzZW1pbmFyIGxhc3Qgd2Vlay4KLS0gCkJlc3QgcmVnYXJkcywKU3Vz
+YW4gSGFycmlz
+
+--===============5030599029348238196==--

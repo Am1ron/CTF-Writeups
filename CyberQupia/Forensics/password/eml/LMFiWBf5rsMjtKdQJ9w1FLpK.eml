@@ -1,0 +1,30 @@
+Content-Type: multipart/mixed; boundary="===============1378085748664194422=="
+MIME-Version: 1.0
+Received: from mx1.build.co (mx1.build.co [182.230.69.110])
+	by mx.company.com with ESMTP id KDcdIzdIZziN7lNq
+Received: from mx2.yahoo.com (mx2.yahoo.com [42.101.23.3])
+	by mx.company.com with ESMTP id odRrYfa7EVjcz92B
+Received: from mx4.business.net (mx4.business.net [179.94.208.249])
+	by mx.company.com with ESMTP id 7vpXrVAuwTBnjUpo
+Authentication-Results: company.com; dkim=pass header.d=gmail.com;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass action=none header.from=gmail.com
+From: Patricia Rogers <patricia.rogers@gmail.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Sun, 22 Sep 2024 01:20:40 -0000
+Message-ID: <LMFiWBf5rsMjtKdQJ9w1FLpK@gmail.com>
+
+--===============1378085748664194422==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGFyZSBleGNpdGVkIHRvIGFubm91bmNlIHRoZSBsYXVuY2ggb2Ygb3Vy
+IG5ldyBwcm9kdWN0IGxpbmUuCkNsaWVudCBwcmVzZW50YXRpb25zIGFyZSBzY2hlZHVsZWQgZm9y
+IG5leHQgVGh1cnNkYXkuClBsZWFzZSBmaW5kIGF0dGFjaGVkIHRoZSBhZ2VuZGEgZm9yIHRoZSB1
+cGNvbWluZyBtZWV0aW5nLgpQbGVhc2UgYmUgY2F1dGlvdXMgb2YgcGhpc2hpbmcgZW1haWxzIGFu
+ZCByZXBvcnQgYW55IHN1c3BpY2lvdXMgYWN0aXZpdHkuCi0tIApCZXN0IHJlZ2FyZHMsClBhdHJp
+Y2lhIFJvZ2Vycw==
+
+--===============1378085748664194422==--

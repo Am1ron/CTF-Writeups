@@ -1,0 +1,30 @@
+Content-Type: multipart/mixed; boundary="===============2760609980984699121=="
+MIME-Version: 1.0
+Received: from mx4.services.io (mx4.services.io [67.237.205.128])
+	by mx.company.com with ESMTP id laPSCVdeiiKVX8qH
+Authentication-Results: company.com; dkim=pass header.d=corp.com;
+ spf=pass smtp.mailfrom=corp.com; dmarc=pass action=none header.from=corp.com
+From: Michelle King <michelle.king@corp.com>
+To: Daniel Dawson <daniel.dawson@company.com>
+Subject: =?utf-8?q?Important_Update?=
+Date: Wed, 18 Sep 2024 10:07:22 -0000
+Message-ID: <bkQiq0VwjVM4ttb5dwRR6gA4@corp.com>
+
+--===============2760609980984699121==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBEYW5pZWwsCldlIGhhdmUgYWNoaWV2ZWQgb3VyIHF1YXJ0ZXJseSB0YXJnZXRzIHN1Y2Nl
+c3NmdWxseS4KVGhlIGJvYXJkIG1lZXRpbmcgbWludXRlcyBoYXZlIGJlZW4gdXBsb2FkZWQgdG8g
+dGhlIHNoYXJlZCBkcml2ZS4KT3VyIGFubnVhbCByZXBvcnQgaGFzIGJlZW4gcmVsZWFzZWQgdG8g
+c3Rha2Vob2xkZXJzLgpIZWFsdGggYW5kIHNhZmV0eSBpbnNwZWN0aW9ucyBhcmUgc2NoZWR1bGVk
+IGZvciBuZXh0IHdlZWsuClRoZSBJVCBkZXBhcnRtZW50IHdpbGwgcGVyZm9ybSBzeXN0ZW0gbWFp
+bnRlbmFuY2UgdGhpcyB3ZWVrZW5kLgpUaGUgY29tcGFueSBuZXdzbGV0dGVyIGhhcyBiZWVuIHB1
+Ymxpc2hlZC4KV2UgYXJlIGNvbmR1Y3RpbmcgYSBzdXJ2ZXkgb24gcmVtb3RlIHdvcmsgcHJlZmVy
+ZW5jZXMuCldlIGFwcHJlY2lhdGUgeW91ciBjb21taXRtZW50IHRvIHF1YWxpdHkgYW5kIGV4Y2Vs
+bGVuY2UuClRoYW5rIHlvdSBmb3IgeW91ciBwYXRpZW5jZSBkdXJpbmcgdGhlIHN5c3RlbSBkb3du
+dGltZS4KVGhlcmUgd2lsbCBiZSBhbiBvZmZpY2UgY2xlYW51cCBkYXkgdGhpcyBGcmlkYXkuCi0t
+IApCZXN0IHJlZ2FyZHMsCk1pY2hlbGxlIEtpbmc=
+
+--===============2760609980984699121==--
