@@ -1,0 +1,11 @@
+# Two intercepted transmissions
+# One plaintext has been recovered by other means (see below)
+#
+# Ciphertext A (plaintext unknown):
+075307e71df24a356279a2c5014c15f509fe167c4448d6fb1f4756e631f01f25586fe7dd170c39a51dc4486f6679eed119
+#
+# Ciphertext B (plaintext known):
+0b4f03fa4ef95e336679e1c9174b5cb40ff7407c7464f1dc015215b400f44135697cee84445109b40ff7492e736ea38945
+#
+# Known plaintext for ciphertext B:
+open broadcast: all systems nominal, no alerts!!!
